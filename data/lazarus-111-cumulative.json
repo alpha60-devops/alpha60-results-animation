@@ -1,0 +1,499 @@
+{
+    "collection_name": "Lazarus",
+    "collection_id": "111, 112, 113",
+    "collection_key": "lazarus-111",
+    "collection_notes": "",
+    "data_version": "2025-09-22",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "3:1759565215",
+    "sample_duration": "2025-06-16-to-2025-09-28",
+    "sample_days": 105,
+    "sample_year_start": 2025,
+    "sample_year_end": 2025,
+    "sample_day_year_start": 167,
+    "sample_day_year_end": 271,
+    "collection_cumulative": {
+        "btiha": {
+            "btiha_size": 265,
+            "downloaders_total": 16989489,
+            "uploaders_total": 401554,
+            "anomaly_total": 38644,
+            "anomaly_percentage": "0.23"
+        },
+        "unique_btiha": {
+            "btiha_size": 255,
+            "udownloaders_total": 16935738,
+            "uuploaders_total": 398592,
+            "anomaly_total": 38606,
+            "anomaly_percentage": "0.23"
+        }
+    },
+    "data_transfer": {
+        "downloader_transfer_units": "terabyte",
+        "downloader_transfer_size": 35261.3290166135,
+        "downloader_transfer_price_1_name": "CloudFront-1-year",
+        "downloader_transfer_price_1_per_gigabyte_cost": 0.005,
+        "downloader_transfer_price_1_USD": 344306.6450830675,
+        "uploader_transfer_units": "gigabyte",
+        "uploader_transfer_size": 788921.969077502,
+        "uploader_transfer_price_1_name": "CloudFront-1-year",
+        "uploader_transfer_price_1_per_gigabyte_cost": 0.005,
+        "uploader_transfer_price_1_USD": 171944.60984538753
+    },
+    "media_codecs_resolution": [
+        {
+            "number": 1,
+            "name": "1080",
+            "udownloaders_total": 13001549,
+            "total_percentage_udownloaders": "76.77",
+            "total_percentage_bytes": "85.33"
+        },
+        {
+            "number": 2,
+            "name": "720",
+            "udownloaders_total": 2025468,
+            "total_percentage_udownloaders": "11.96",
+            "total_percentage_bytes": "9.72"
+        },
+        {
+            "number": 3,
+            "name": "sd",
+            "udownloaders_total": 1908721,
+            "total_percentage_udownloaders": "11.27",
+            "total_percentage_bytes": "4.94"
+        },
+        {
+            "number": 4,
+            "name": "2160",
+            "udownloaders_total": 0,
+            "total_percentage_udownloaders": "0.00",
+            "total_percentage_bytes": "0.00"
+        }
+    ],
+    "geo_slices_4_cahill_keyes_quadrant_udownloaders": [
+        {
+            "number": 1,
+            "name": "Pacifica America",
+            "udownloaders_slice": 419865,
+            "slice_percentage_udownloaders": "2.48"
+        },
+        {
+            "number": 2,
+            "name": "Americas",
+            "udownloaders_slice": 2418980,
+            "slice_percentage_udownloaders": "14.28"
+        },
+        {
+            "number": 3,
+            "name": "Afro Eur Asia",
+            "udownloaders_slice": 9008208,
+            "slice_percentage_udownloaders": "53.19"
+        },
+        {
+            "number": 4,
+            "name": "Asia Pacifica",
+            "udownloaders_slice": 5088606,
+            "slice_percentage_udownloaders": "30.05"
+        }
+    ],
+    "geo_slices_continental_udownloaders": [
+        {
+            "number": 1,
+            "name": "Europe",
+            "udownloaders_slice": 8294494,
+            "slice_percentage_udownloaders": "48.98"
+        },
+        {
+            "number": 2,
+            "name": "Asia",
+            "udownloaders_slice": 5222302,
+            "slice_percentage_udownloaders": "30.84"
+        },
+        {
+            "number": 3,
+            "name": "Americas",
+            "udownloaders_slice": 2760865,
+            "slice_percentage_udownloaders": "16.30"
+        },
+        {
+            "number": 4,
+            "name": "Oceania",
+            "udownloaders_slice": 171224,
+            "slice_percentage_udownloaders": "1.01"
+        },
+        {
+            "number": 5,
+            "name": "Africa",
+            "udownloaders_slice": 143119,
+            "slice_percentage_udownloaders": "0.85"
+        },
+        {
+            "number": 6,
+            "name": "",
+            "udownloaders_slice": 111556,
+            "slice_percentage_udownloaders": "0.66"
+        },
+        {
+            "number": 7,
+            "name": "Unknown or Legendary",
+            "udownloaders_slice": 2297,
+            "slice_percentage_udownloaders": "0.01"
+        }
+    ],
+    "geo_country_top_10_downloaders": [
+        {
+            "number": 1,
+            "country_code": "RUS",
+            "country_name": "Russian Federation",
+            "total_percentage_upeers": "23.75",
+            "upeers_total": 4022277
+        },
+        {
+            "number": 2,
+            "country_code": "KOR",
+            "country_name": "Korea, Republic of",
+            "total_percentage_upeers": "11.96",
+            "upeers_total": 2026329
+        },
+        {
+            "number": 3,
+            "country_code": "CHN",
+            "country_name": "China",
+            "total_percentage_upeers": "8.03",
+            "upeers_total": 1359182
+        },
+        {
+            "number": 4,
+            "country_code": "USA",
+            "country_name": "United States of America",
+            "total_percentage_upeers": "7.67",
+            "upeers_total": 1299180
+        },
+        {
+            "number": 5,
+            "country_code": "TUR",
+            "country_name": "Türkiye",
+            "total_percentage_upeers": "5.28",
+            "upeers_total": 893722
+        },
+        {
+            "number": 6,
+            "country_code": "NLD",
+            "country_name": "Netherlands, Kingdom of the",
+            "total_percentage_upeers": "3.48",
+            "upeers_total": 589545
+        },
+        {
+            "number": 7,
+            "country_code": "BRA",
+            "country_name": "Brazil",
+            "total_percentage_upeers": "2.98",
+            "upeers_total": 504613
+        },
+        {
+            "number": 8,
+            "country_code": "FRA",
+            "country_name": "France",
+            "total_percentage_upeers": "2.84",
+            "upeers_total": 481715
+        },
+        {
+            "number": 9,
+            "country_code": "CAN",
+            "country_name": "Canada",
+            "total_percentage_upeers": "2.57",
+            "upeers_total": 436053
+        },
+        {
+            "number": 10,
+            "country_code": "HUN",
+            "country_name": "Hungary",
+            "total_percentage_upeers": "2.03",
+            "upeers_total": 344006
+        }
+    ],
+    "geo_country_top_10_uploaders": [
+        {
+            "number": 1,
+            "country_code": "USA",
+            "country_name": "United States of America",
+            "total_percentage_upeers": "26.25",
+            "upeers_total": 104633
+        },
+        {
+            "number": 2,
+            "country_code": "CHN",
+            "country_name": "China",
+            "total_percentage_upeers": "8.76",
+            "upeers_total": 34900
+        },
+        {
+            "number": 3,
+            "country_code": "RUS",
+            "country_name": "Russian Federation",
+            "total_percentage_upeers": "6.41",
+            "upeers_total": 25555
+        },
+        {
+            "number": 4,
+            "country_code": "CAN",
+            "country_name": "Canada",
+            "total_percentage_upeers": "5.65",
+            "upeers_total": 22528
+        },
+        {
+            "number": 5,
+            "country_code": "NLD",
+            "country_name": "Netherlands, Kingdom of the",
+            "total_percentage_upeers": "5.16",
+            "upeers_total": 20555
+        },
+        {
+            "number": 6,
+            "country_code": "KOR",
+            "country_name": "Korea, Republic of",
+            "total_percentage_upeers": "3.24",
+            "upeers_total": 12930
+        },
+        {
+            "number": 7,
+            "country_code": "BRA",
+            "country_name": "Brazil",
+            "total_percentage_upeers": "3.13",
+            "upeers_total": 12466
+        },
+        {
+            "number": 8,
+            "country_code": "FRA",
+            "country_name": "France",
+            "total_percentage_upeers": "3.05",
+            "upeers_total": 12161
+        },
+        {
+            "number": 9,
+            "country_code": "DEU",
+            "country_name": "Germany",
+            "total_percentage_upeers": "2.50",
+            "upeers_total": 9959
+        },
+        {
+            "number": 10,
+            "country_code": "GBR",
+            "country_name": "United Kingdom of Great Britain and Northern Ireland",
+            "total_percentage_upeers": "2.37",
+            "upeers_total": 9455
+        }
+    ],
+    "geo_country_region_city_top_30_udownloaders": [
+        {
+            "number": 1,
+            "country_code": "KOR",
+            "country_name": "Korea, Republic of, 1835848, Seoul",
+            "total_percentage_upeers": "4.23",
+            "upeers_total": 715621
+        },
+        {
+            "number": 2,
+            "country_code": "RUS",
+            "country_name": "Russian Federation, 524901, Moscow",
+            "total_percentage_upeers": "3.04",
+            "upeers_total": 515528
+        },
+        {
+            "number": 3,
+            "country_code": "CHN",
+            "country_name": "China, 1796236, Shanghai",
+            "total_percentage_upeers": "2.44",
+            "upeers_total": 413320
+        },
+        {
+            "number": 4,
+            "country_code": "NLD",
+            "country_name": "Netherlands, Kingdom of the, 2759794, Amsterdam",
+            "total_percentage_upeers": "2.15",
+            "upeers_total": 364209
+        },
+        {
+            "number": 5,
+            "country_code": "RUS",
+            "country_name": "Russian Federation, 498817, Saint Petersburg",
+            "total_percentage_upeers": "1.83",
+            "upeers_total": 309971
+        },
+        {
+            "number": 6,
+            "country_code": "TUR",
+            "country_name": "Türkiye, 745044, Istanbul",
+            "total_percentage_upeers": "1.49",
+            "upeers_total": 251733
+        },
+        {
+            "number": 7,
+            "country_code": "CHN",
+            "country_name": "China, 1799962, Nanjing",
+            "total_percentage_upeers": "1.32",
+            "upeers_total": 224087
+        },
+        {
+            "number": 8,
+            "country_code": "USA",
+            "country_name": "United States of America, 4744870, Ashburn",
+            "total_percentage_upeers": "0.99",
+            "upeers_total": 167443
+        },
+        {
+            "number": 9,
+            "country_code": "RUS",
+            "country_name": "Russian Federation, 1486209, Yekaterinburg",
+            "total_percentage_upeers": "0.89",
+            "upeers_total": 150617
+        },
+        {
+            "number": 10,
+            "country_code": "HUN",
+            "country_name": "Hungary, 3054643, Budapest",
+            "total_percentage_upeers": "0.88",
+            "upeers_total": 149681
+        },
+        {
+            "number": 11,
+            "country_code": "RUS",
+            "country_name": "Russian Federation, 1496747, Novosibirsk",
+            "total_percentage_upeers": "0.82",
+            "upeers_total": 138907
+        },
+        {
+            "number": 12,
+            "country_code": "CHN",
+            "country_name": "China, 1795565, Shenzhen",
+            "total_percentage_upeers": "0.80",
+            "upeers_total": 135651
+        },
+        {
+            "number": 13,
+            "country_code": "KOR",
+            "country_name": "Korea, Republic of, 1843564, Incheon",
+            "total_percentage_upeers": "0.78",
+            "upeers_total": 132147
+        },
+        {
+            "number": 14,
+            "country_code": "CHN",
+            "country_name": "China, 1808926, Hangzhou",
+            "total_percentage_upeers": "0.70",
+            "upeers_total": 119332
+        },
+        {
+            "number": 15,
+            "country_code": "GBR",
+            "country_name": "United Kingdom of Great Britain and Northern Ireland, 2643743, London",
+            "total_percentage_upeers": "0.69",
+            "upeers_total": 116292
+        },
+        {
+            "number": 16,
+            "country_code": "FRA",
+            "country_name": "France, 2988507, Paris",
+            "total_percentage_upeers": "0.66",
+            "upeers_total": 112251
+        },
+        {
+            "number": 17,
+            "country_code": "CAN",
+            "country_name": "Canada, 6167865, Toronto",
+            "total_percentage_upeers": "0.58",
+            "upeers_total": 97842
+        },
+        {
+            "number": 18,
+            "country_code": "RUS",
+            "country_name": "Russian Federation, 520555, Nizhniy Novgorod",
+            "total_percentage_upeers": "0.58",
+            "upeers_total": 97824
+        },
+        {
+            "number": 19,
+            "country_code": "POL",
+            "country_name": "Poland, 756135, Warsaw",
+            "total_percentage_upeers": "0.54",
+            "upeers_total": 91409
+        },
+        {
+            "number": 20,
+            "country_code": "KOR",
+            "country_name": "Korea, Republic of, 1838524, Busan",
+            "total_percentage_upeers": "0.49",
+            "upeers_total": 83079
+        },
+        {
+            "number": 21,
+            "country_code": "RUS",
+            "country_name": "Russian Federation, 499099, Samara",
+            "total_percentage_upeers": "0.48",
+            "upeers_total": 81396
+        },
+        {
+            "number": 22,
+            "country_code": "TUR",
+            "country_name": "Türkiye, 323786, Ankara",
+            "total_percentage_upeers": "0.47",
+            "upeers_total": 79778
+        },
+        {
+            "number": 23,
+            "country_code": "RUS",
+            "country_name": "Russian Federation, 542420, Krasnodar",
+            "total_percentage_upeers": "0.46",
+            "upeers_total": 77698
+        },
+        {
+            "number": 24,
+            "country_code": "BGR",
+            "country_name": "Bulgaria, 727011, Sofia",
+            "total_percentage_upeers": "0.45",
+            "upeers_total": 76697
+        },
+        {
+            "number": 25,
+            "country_code": "USA",
+            "country_name": "United States of America, 5128581, New York City",
+            "total_percentage_upeers": "0.45",
+            "upeers_total": 75455
+        },
+        {
+            "number": 26,
+            "country_code": "ESP",
+            "country_name": "Spain, 3117735, Madrid",
+            "total_percentage_upeers": "0.43",
+            "upeers_total": 72402
+        },
+        {
+            "number": 27,
+            "country_code": "CAN",
+            "country_name": "Canada, 6077243, Montréal",
+            "total_percentage_upeers": "0.42",
+            "upeers_total": 71263
+        },
+        {
+            "number": 28,
+            "country_code": "KOR",
+            "country_name": "Korea, Republic of, 1835329, Daegu",
+            "total_percentage_upeers": "0.42",
+            "upeers_total": 71120
+        },
+        {
+            "number": 29,
+            "country_code": "RUS",
+            "country_name": "Russian Federation, 472045, Voronezh",
+            "total_percentage_upeers": "0.42",
+            "upeers_total": 71071
+        },
+        {
+            "number": 30,
+            "country_code": "RUS",
+            "country_name": "Russian Federation, 511196, Perm",
+            "total_percentage_upeers": "0.41",
+            "upeers_total": 68770
+        }
+    ]
+}

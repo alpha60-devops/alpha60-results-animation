@@ -1,0 +1,540 @@
+{
+    "collection_name": "Dan Da Dan",
+    "collection_id": "210,211,212",
+    "collection_key": "dan-da-dan-210",
+    "collection_notes": "",
+    "data_version": "2025-09-22",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "3:1759565215",
+    "collection_week": [
+        {
+            "number": "week-00001",
+            "btiha_size": 0,
+            "udownloaders_total": 0,
+            "uuploaders_total": 0
+        },
+        {
+            "number": "week-00002",
+            "btiha_size": 0,
+            "udownloaders_total": 0,
+            "uuploaders_total": 0
+        },
+        {
+            "number": "week-00003",
+            "btiha_size": 0,
+            "udownloaders_total": 0,
+            "uuploaders_total": 0
+        },
+        {
+            "number": "week-00004",
+            "btiha_size": 0,
+            "udownloaders_total": 0,
+            "uuploaders_total": 0
+        },
+        {
+            "number": "week-00005",
+            "btiha_size": 0,
+            "udownloaders_total": 0,
+            "uuploaders_total": 0
+        }
+    ],
+    "collection_week_by_btiha": [
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "collection_week_by_country": [
+        [
+            {
+                "number": "BRA_week_1",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "CAN_week_1",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "CHN_week_1",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "DEU_week_1",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "ESP_week_1",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "FRA_week_1",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "HKG_week_1",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "JPN_week_1",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "KOR_week_1",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "MEX_week_1",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "NLD_week_1",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "RUS_week_1",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "SWE_week_1",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "TUR_week_1",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "UKR_week_1",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "USA_week_1",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            }
+        ],
+        [
+            {
+                "number": "BRA_week_2",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "CAN_week_2",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "CHN_week_2",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "DEU_week_2",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "ESP_week_2",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "FRA_week_2",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "HKG_week_2",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "JPN_week_2",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "KOR_week_2",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "MEX_week_2",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "NLD_week_2",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "RUS_week_2",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "SWE_week_2",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "TUR_week_2",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "UKR_week_2",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "USA_week_2",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            }
+        ],
+        [
+            {
+                "number": "BRA_week_3",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "CAN_week_3",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "CHN_week_3",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "DEU_week_3",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "ESP_week_3",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "FRA_week_3",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "HKG_week_3",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "JPN_week_3",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "KOR_week_3",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "MEX_week_3",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "NLD_week_3",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "RUS_week_3",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "SWE_week_3",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "TUR_week_3",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "UKR_week_3",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "USA_week_3",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            }
+        ],
+        [
+            {
+                "number": "BRA_week_4",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "CAN_week_4",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "CHN_week_4",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "DEU_week_4",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "ESP_week_4",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "FRA_week_4",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "HKG_week_4",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "JPN_week_4",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "KOR_week_4",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "MEX_week_4",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "NLD_week_4",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "RUS_week_4",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "SWE_week_4",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "TUR_week_4",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "UKR_week_4",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "USA_week_4",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            }
+        ],
+        [
+            {
+                "number": "BRA_week_5",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "CAN_week_5",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "CHN_week_5",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "DEU_week_5",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "ESP_week_5",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "FRA_week_5",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "HKG_week_5",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "JPN_week_5",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "KOR_week_5",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "MEX_week_5",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "NLD_week_5",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "RUS_week_5",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "SWE_week_5",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "TUR_week_5",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "UKR_week_5",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            },
+            {
+                "number": "USA_week_5",
+                "btiha_size": 0,
+                "udownloaders_total": 0,
+                "uuploaders_total": 0
+            }
+        ]
+    ]
+}
