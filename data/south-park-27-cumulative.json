@@ -1,0 +1,74 @@
+{
+    "collection_name": "South Park",
+    "collection_id": "2701, 2702, 2703, 2704, 2705",
+    "collection_key": "south-park-27",
+    "collection_notes": "",
+    "data_version": "2025-09-22",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "0:1756800417",
+    "sample_duration": "2025-07-25-to-2025-12-03",
+    "sample_days": 132,
+    "sample_year_start": 2025,
+    "sample_year_end": 2025,
+    "sample_day_year_start": 206,
+    "sample_day_year_end": 337,
+    "collection_cumulative": {
+        "btiha": {
+            "btiha_size": 358,
+            "downloaders_total": 22964436,
+            "uploaders_total": 3728755,
+            "anomaly_total": 44454080,
+            "anomaly_percentage": "193.58"
+        },
+        "unique_btiha": {
+            "btiha_size": 309,
+            "udownloaders_total": 20368633,
+            "uuploaders_total": 2874839,
+            "anomaly_total": 39021884,
+            "anomaly_percentage": "191.58"
+        }
+    },
+    "data_transfer": {
+        "downloader_transfer_units": "terabyte",
+        "downloader_transfer_size": 14009.524837384684,
+        "downloader_transfer_price_1_name": "CloudFront-1-year",
+        "downloader_transfer_price_1_per_gigabyte_cost": 0.005,
+        "downloader_transfer_price_1_USD": 238047.6241869234,
+        "uploader_transfer_units": "terabyte",
+        "uploader_transfer_size": 1931.952851217057,
+        "uploader_transfer_price_1_name": "CloudFront-1-year",
+        "uploader_transfer_price_1_per_gigabyte_cost": 0.005,
+        "uploader_transfer_price_1_USD": 177659.7642560853
+    },
+    "media_codecs_resolution": [
+        {
+            "number": 1,
+            "name": "1080",
+            "udownloaders_total": 12632202,
+            "total_percentage_udownloaders": "62.02",
+            "total_percentage_bytes": "65.29"
+        },
+        {
+            "number": 2,
+            "name": "720",
+            "udownloaders_total": 4760226,
+            "total_percentage_udownloaders": "23.37",
+            "total_percentage_bytes": "9.91"
+        },
+        {
+            "number": 3,
+            "name": "sd",
+            "udownloaders_total": 1915178,
+            "total_percentage_udownloaders": "9.40",
+            "total_percentage_bytes": "6.35"
+        },
+        {
+            "number": 4,
+            "name": "2160",
+            "udownloaders_total": 1061027,
+            "total_percentage_udownloaders": "5.21",
+            "total_percentage_bytes": "18.45"
+        }
+    ],
+    "geo_country_region_city_top_30_udownloaders": []
+}
