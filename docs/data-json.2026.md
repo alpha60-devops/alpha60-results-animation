@@ -1,6 +1,6 @@
-# Documentation for the alpha60 JSON files
+# alpha60 JSON documentation
 
-*Last 2025-09-22*
+*Last 2026-01-14*
 
 ## definitions
 - "media object" : an instance of a film, series, book, etc.
@@ -9,7 +9,7 @@
 - "btiha" : an array of all btiha in a collection, including duplicates
 - "unique btiha" : an array of unique info hashes, with duplicates merged
 
-## shared data fields in all JSON files
+## shared data fields in JSON files
 
 - collection_key : "andor-201", unique human readable tag for media
   collection, all lowercase, full seasons are 2 digits (01 is first
@@ -92,20 +92,59 @@
     - [0][14] week 1 udownloaders for country UKR
     - [0][15] week 1 udownloaders for country USA
 
+## geolocation data
+- filename: (collection_key)-cumulative.geojson
+  - FeatureCollection
+    - [0] feature of swarm
+      - properties object of COUNTRY-GEOID-CITY by largest swarm size
+        - country_code
+        - city
+        - geoname_id
+        - downloaders (size,mobile,satellite,tor,tor_exit_nodes,vpn,relay,proxy,hosting,service)
+        - uploaders (size,mobile,satellite,tor,tor_exit_nodes,vpn,relay,proxy,hosting,service)
+      - geometry Point
+
+## collection metadata
+- filename: (collection_key).json
+  - collection_name
+  - collection_key
+  - collection_id [ "101", "102", "103" ]
+  - collection_tags [ "star_wars_universe", "aapi", "animation" ]
+  - metadata_datestamp "YYYY-MM-DD"
+  - updated_datestamp "YYYY-MM-DD"
+  - imdb_id
+  - url_wikipedia
+  - url_fandom
+  - box_office_usa
+  - box_office_international
+  - box_office_global
+  - ecount
+  - eruntime
+  - ecost [ 1, 2] # per episode cost range in M USD
+  - distribution_tags [ "netflix" ]
+  - production_tags [ "a24" ]
+  - sample_duration "YYYY-MM-DD to YYY-MM-DD"
+  - sample_days 105
+  - sample_day_year_start 1
+  - sample_day_year_end 365
+  - sample_year_start YYYY
+  - sample_year_end YYYY
 
 ## example with annotation
 ```
 {
 // Version number for data migration and feature checks
-    "data-version": "20191004",
+    "data_version": "20191004",
 
-// Date range of the sample duration
-    "duration": "2017-10-27-to-2017-12-31",
 
 // Media object name
-    "collection-name": "Stranger Things",
+    "collection_name": "Stranger Things",
 
 // Media object season or episode number
-    "collection-id": "2",
+    "collection_id": "2",
 
 ```
+
+
+## References
+[W3C Data on the Web Best Practices](https://w3c.github.io/dwbp/bp.html)
