@@ -2,7 +2,8 @@
 layout: default
 ---
 <link href="https://unpkg.com/tabulator-tables/dist/css/tabulator.min.css" rel="stylesheet">
-<script src="https://unpkg.com/tabulator-tables/dist/js/tabulator.min.js"></script>
+<script type="text/javascript" crossorigin="anonymous" id="table-sort" src="https://unpkg.com/tabulator-tables/dist/js/tabulator.min.js">
+</script>
 
 
 {::nomarkdown}
