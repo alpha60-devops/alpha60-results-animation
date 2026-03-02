@@ -1,8 +1,24 @@
 ---
 layout: default
 ---
-<link href="https://unpkg.com/tabulator-tables/dist/css/tabulator.min.css" rel="stylesheet">
-<script type="text/javascript" crossorigin="anonymous" id="table-sort" src="https://unpkg.com/tabulator-tables/dist/js/tabulator.min.js">
+<script src="https://unpkg.com/tabular/dist/tabular.min.js"></script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Select all table elements on the page
+    const tables = document.querySelectorAll('table');
+
+    // Apply Tabular to each table found
+    tables.forEach(table => {
+      // Basic initialization for sortable tables.
+      // You might need to adjust options based on your table structure (e.g., header rows).
+      new Tabular(table, {
+        // 'dataTabular' makes the table sortable by clicking on headers.
+        // It assumes the first row (<tr>) contains the header cells (<th>).
+        dataTabular: true
+      });
+    });
+  });
 </script>
 
 
