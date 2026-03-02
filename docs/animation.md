@@ -44,7 +44,7 @@ layout: default
 
 ### Global Media by Week
 
-
+{% animation-geo-slices-aapi.html %}
 <div style="height: 50px;"></div>
 
 {::nomarkdown}
