@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<link href="https://unpkg.com/tabulator-tables/dist/css/tabulator.min.css" rel="stylesheet">
+<script src="https://unpkg.com/tabulator-tables/dist/js/tabulator.min.js"></script>
+
 
 {::nomarkdown}
 <img src="../image/a60-logo-block-gray.simple.svg?sanitize=true" height="50" width="100">
