@@ -42,7 +42,7 @@ layout: default
 
 ## Commentary, Questions
 
-### Global Media by Week
+### Asian Country and Region Slices 
 
 {% include animation-geo-slices-aapi.html %}
 <div style="height: 50px;"></div>
