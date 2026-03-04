@@ -16,18 +16,35 @@ layout: default
 
 ### Tables
 
+{% include animation-meta-collection-table.html %}
 <div style="height: 50px;"></div>
 
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../resources/izzi-script-table-sort-inline.js">
+</script>
+
+{% include animation-media-objects-table.html %}
 <div style="height: 50px;"></div>
 
 
 ### Graphs
 
+{::nomarkdown}
+{% include animation-downloads-by-week-cumulative-normalized-start.svg %}
+{:/}
+
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../resources/izzi-script-graph-hover-txt-polyline.js">
+</script>
+<div style="height: 50px;"></div>
+
+
+
 ## Commentary, Questions
 
-### Global Media by Week
+### Asian Country and Region Slices 
 
-
+{% include animation-geo-slices-aapi.html %}
 <div style="height: 50px;"></div>
 
 {::nomarkdown}
