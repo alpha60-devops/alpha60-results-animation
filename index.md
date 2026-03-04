@@ -9,8 +9,10 @@
 ## About
 - [Alpha60](http://alpha60.co) Grouping: Animation
 - Media Objects
+  - altered-carbon-resleeved
   - arcane-02.1, arcane-02.2, arcane-02.3
   - blade-runner-black-lotus-101
+  - boys-presents-diabolical-01
   - blue-eye-samurai-01
   - bojack-horseman-06
   - boy-and-the-heron
@@ -26,7 +28,9 @@
   - one-piece-95x, one-piece-98x
   - pacific-rim-the-black
   - predator-killer-of-killers
+  - q-force-01
   - raya-and-the-last-dragon
+  - she-ra-04
   - spider-man-across-the-spider-verse
   - turning red
   - undone-01, undone-02
