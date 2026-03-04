@@ -20,20 +20,31 @@
   - dan-da-dan-210
   - demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train
   - eyes-of-wakanda-01
+  - harley-quinn-301
+  - inside-out-2
   - invincible-101, invincible-201, invincible-301
   - japan-sinks
+  - king-of-the-hill-14
   - lazarus-101, lazarus-108, lazarus-111
-  - love-death-robots-04
+  - love-death-robots-1,2,4
+  - mitchells-vs-the-machine
   - moana-2
   - one-piece-95x, one-piece-98x
   - pacific-rim-the-black
+  - pantheon-108
   - predator-killer-of-killers
+  - prehistoric-planet 1,2,3
   - q-force-01
   - raya-and-the-last-dragon
   - she-ra-04
+  - solar-opposites-1
   - spider-man-across-the-spider-verse
+  - star-wars-visions 1,3
+  - star-wars-tales-of-the-jedi-1
+  - super-mario-brothers-movie
   - turning red
-  - undone-01, undone-02
+  - ultra-city-smiths
+  - undone-1, undone-2
   - what-if-2021-101, what-if-2021-03
   - wild-robot
   - yasuke-01
