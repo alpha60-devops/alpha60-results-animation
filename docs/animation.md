@@ -9,7 +9,7 @@ layout: default
 <div style="height: 50px;"></div>
 
 
-# Black-Led
+# Animation
 
 ## Results
 <div style="height: 50px;"></div>
