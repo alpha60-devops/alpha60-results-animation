@@ -20,6 +20,7 @@ Sample dates: 2019 to 2026
 - [Animation Universe](/docs/animation.md)
 - Disney
 - Netflix
+- South Park Season 27 v. Automated Abuse Takedowns
 <div style="height: 50px;"></div>
 
 
