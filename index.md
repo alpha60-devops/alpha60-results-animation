@@ -7,9 +7,12 @@
 
 
 ## About
-- [Alpha60](http://alpha60.co) Grouping: Animation
-- Dates: 2019 to 2026
-- {% include animation-media-objects-list.html %}
+
+These are results from sampling peer swarms associated with *media objects* being *shared* on the internet. In this case *media objects* means any instances of media (film, television, books, streaming video, podcast, any video really) that that represent a specific film, television series or episode, or recorded event as a file or archive. And *sharing* means any peer-to-peer file sharing protocol used on the internet, namely BitTorrent.
+
+Sample dates: 2019 to 2026
+
+{% include animation-media-objects-list.html %}
 
 
 ## Results, Commentary
