@@ -10,7 +10,6 @@
 - [Alpha60](http://alpha60.co) Grouping: Animation
 - Dates: 2019 to 2026
 - {% include animation-media-objects-list.html %}
-<!-- - [analysis notebook](/notebooks/analysis_2025.ipynb) -->
 
 
 ## Results, Commentary
@@ -31,7 +30,7 @@
 
 ### [Source](https://github.com/alpha60-devops/alpha60-results-animation/tree/main/data)
 
-<!-- - [analysis notebook](/notebooks/analysis_2025.ipynb) -->
+<!-- - [analysis notebook](/notebooks/analysis_2026h1.ipynb) -->
 
 {::nomarkdown}
 <svg width="100" height=100>
