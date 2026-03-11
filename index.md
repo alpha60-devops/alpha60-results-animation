@@ -13,6 +13,7 @@ These are results from sampling peer swarms associated with *media objects* bein
 Sample dates: 2019 to 2026
 
 {% include animation-media-objects-list.html %}
+<div style="height: 50px;"></div>
 
 
 ## Results, Commentary
