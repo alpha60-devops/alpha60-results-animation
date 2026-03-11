@@ -17,7 +17,10 @@ Sample dates: 2019 to 2026
 
 
 ## Results, Commentary
-- [animation](/docs/animation.md)
+- [Animation Universe](/docs/animation.md)
+- Disney
+- Netflix
+<div style="height: 50px;"></div>
 
 
 ## Data
