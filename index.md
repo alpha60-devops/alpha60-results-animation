@@ -8,7 +8,11 @@
 
 ## About
 - [Alpha60](http://alpha60.co) Grouping: Animation
-- Media Objects
+- <details>
+  <summary>
+    <h3>Media Objects</h3>
+  </summary>
+  <div id="mo-list">
   - altered-carbon-resleeved
   - arcane-02.1, arcane-02.2, arcane-02.3
   - blade-runner-black-lotus-101
@@ -49,6 +53,8 @@
   - wild-robot
   - yasuke-01
   - your-friendly-neighborhood-spider-man-01
+</div>
+</details>
 
 
 - Dates
