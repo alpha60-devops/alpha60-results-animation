@@ -8,9 +8,8 @@
 
 ## About
 - [Alpha60](http://alpha60.co) Grouping: Animation
+- Dates: 2019 to 2026
 - {% include animation-media-objects-list.html %}
-- Dates
-  - 2019 to 2026
 <!-- - [analysis notebook](/notebooks/analysis_2025.ipynb) -->
 
 
