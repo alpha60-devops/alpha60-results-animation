@@ -60,9 +60,6 @@ layout: default
 
 ## Commentary, Questions
 
-### Animation on Netflix
-
-### South Park Season 27 and 15-Week Takedown analysis.
 
 {::nomarkdown}
 <svg width="100" height=100>
