@@ -1,5 +1,8 @@
 ---
 layout: default
+title: "Animation"
+author: "Benjamin De Kosnik <bkoz@gnu.org>"
+description: "Analysis of Animation-genre peer-to-peer distribution"
 ---
 
 {::nomarkdown}
@@ -10,37 +13,55 @@ layout: default
 
 
 # Animation
-
-## Results
 <div style="height: 50px;"></div>
 
-### Graphs
+## Graphs
 
 <script type="text/javascript" crossorigin="anonymous" id="graph-hover"
 	src="../resources/izzi-graph-hover-txt-polyline-red.js">
 </script>
 
 {::nomarkdown}
-{% include animation-downloads-by-week-cumulative-normalized-start.svg %}
+{% include animation-downloads-by-week-normalized-start.svg %}
 {:/}
 <div style="height: 50px;"></div>
 
 
-### Maps
+## Maps
 
-<script type="text/javascript" crossorigin="anonymous" id="geojson-map"
-	src="../resources/izzi-leaflet-map-geojson.js">
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+	src="../resources/izzi-map-leaflet-geojson-v7.3.js">
 </script>
 
-{% include animation-image-table.md %}
+<!-- Preload the CSS without blocking rendering -->
+<link rel="preload" href="../resources/izzi-table-wcag-22.css" as="style" onloa\
+d="this.onload=null;this.rel='stylesheet'">
+
+<!-- Fallback for users who have JavaScript disabled -->
+<noscript>
+  <link rel="stylesheet" href="../resources/izzi-table-wcag-22.css">
+</noscript>
+
+
+{% include animation-spatial-carto-table.html %}
 <div style="height: 50px;"></div>
 
 
-### Tables
+## Tables
 
-<script type="text/javascript" crossorigin="anonymous" id="table-sort"
-	src="../resources/izzi-script-table-sort-inline.js">
+<script defer type="text/javascript" crossorigin="anonymous" id="table-sort"
+	src="../resources/izzi-table-sort-wcag-22.js">
 </script>
+
+<!-- Preload the CSS without blocking rendering -->
+<link rel="preload" href="../resources/izzi-table-sort-wcag-22.css" as="style" \
+onload="this.onload=null;this.rel='stylesheet'">
+
+<!-- Fallback for users who have JavaScript disabled -->
+<noscript>
+  <link rel="stylesheet" href="../resources/izzi-table-sort-wcag-22.css">
+</noscript>
+
 
 {% include animation-meta-collection-table.html %}
 <div style="height: 50px;"></div>
@@ -48,7 +69,7 @@ layout: default
 {% include animation-media-objects-table.html %}
 <div style="height: 50px;"></div>
 
-{% include animation-geo-slices-usa-weeks-1-5-10-20.html %}
+{% include animation-geo-slices-usa-weeks-1-5-15.html %}
 <div style="height: 50px;"></div>
 
 {% include animation-geo-slices-africa.html %}
@@ -63,6 +84,6 @@ layout: default
 
 {::nomarkdown}
 <svg width="100" height=100>
-    <circle cx="20" cy="50" r="10" fill="black"/>
+	<circle cx="20" cy="50" r="10" fill="black"/>
 </svg>
 {:/}

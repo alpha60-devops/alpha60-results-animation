@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Animation"
+author: "Benjamin De Kosnik <bkoz@gnu.org>"
+description: "Analysis of Animation-genre peer-to-peer distribution"
+---
+
+
 {::nomarkdown}
 <img src="resources/a60-logo-block-gray.simple.svg?sanitize=true" height="50" width="100">
 
