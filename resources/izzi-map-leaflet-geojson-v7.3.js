@@ -1,4 +1,5 @@
-// baseline-v7 - Function-generated geojson map
+// deepthink 20260330
+// baseline-v7.3 - Function-generated geojson map with new window wrapper
 function leaflet_map_geojson(geojsonUrl) {
     // Extract title from URL (remove "cumulative.geojson" and clean up)
     function getTitleFromUrl(url) {
@@ -232,7 +233,7 @@ function leaflet_map_geojson(geojsonUrl) {
 	    <h4>Circle Style</h4>
 	    <div class="config-row">
 		<label for="min-radius">Min radius:</label>
-		<input type="number" id="min-radius" min="1" max="50" value="5" step="1">
+		<input type="number" id="min-radius" min="1" max="50" value="2" step="1">
 		<span>pixels</span>
 	    </div>
 	    <div class="config-row">
@@ -242,7 +243,7 @@ function leaflet_map_geojson(geojsonUrl) {
 	    </div>
 	    <div class="config-row">
 		<label for="fill-opacity">Fill opacity:</label>
-		<input type="number" id="fill-opacity" min="0" max="100" value="50" step="5">
+		<input type="number" id="fill-opacity" min="0" max="100" value="20" step="5">
 		<span>%</span>
 	    </div>
 	    <button id="apply-style" class="secondary" style="margin: 5px 0 0;">Apply Style</button>
@@ -301,9 +302,9 @@ function leaflet_map_geojson(geojsonUrl) {
 
 	// Configuration
 	let config = {
-	    minRadius: 5,
+	    minRadius: 2,
 	    maxRadius: 100,
-	    fillOpacity: 0.5
+	    fillOpacity: 0.2
 	};
 
 	let geoJsonData = null;
@@ -313,17 +314,14 @@ function leaflet_map_geojson(geojsonUrl) {
 	let originalFeatures = [];
 	let currentReducedPoints = [];
 
-	// Helper function to parse JSON strings and get nested property value
+	// Helper function to get property value (UPDATED for new GeoJSON structure)
 	function getPropertyValue(feature, category, property) {
 	    try {
-		const jsonString = feature.properties[category];
-		if (!jsonString) return 0;
-
-		const parsed = JSON.parse(jsonString);
-		const val = parsed[property];
-		return val !== undefined ? parseFloat(val) : 0;
+		// For the new GeoJSON format, properties are directly accessible
+		const val = feature.properties[category]?.[property];
+		return val !== undefined && val !== null ? parseFloat(val) : 0;
 	    } catch (e) {
-		console.warn(\`Error parsing \${category} JSON for property \${property}:\`, e);
+		console.warn(\`Error getting property \${category}.\${property}:\`, e);
 		return 0;
 	    }
 	}
@@ -528,24 +526,24 @@ function leaflet_map_geojson(geojsonUrl) {
 			<div style="max-width: 300px;">
 			    <h4>Merged Point (\${props.merged_count} locations)</h4>
 			    <table style="border-collapse: collapse; width: 100%;">
-				<tr><th>Total \${currentCategory}.\${currentProperty}:</th><td><strong>\${props.total_value.toFixed(2)}</strong></td></tr>
-				<tr><th>Average:</th><td>\${props.avg_value.toFixed(2)}</td></tr>
-				<tr><th colspan="2" style="padding-top: 10px;">Original values:</th></tr>
+				 <tr><th>Total \${currentCategory}.\${currentProperty}:</th><td><strong>\${props.total_value.toFixed(2)}</strong></td></tr>
+				 <tr><th>Average:</th><td>\${props.avg_value.toFixed(2)}</td></tr>
+				 <tr><th colspan="2" style="padding-top: 10px;">Original values:</th></tr>
 		    \`;
 
 		    props.original_properties.slice(0, 5).forEach((origProps, idx) => {
 			let origValue = 'N/A';
 			try {
-			    const parsed = JSON.parse(origProps[currentCategory]);
-			    origValue = parsed[currentProperty];
+			    // Get value directly from properties for new format
+			    origValue = origProps[currentCategory]?.[currentProperty];
 			} catch (e) {
 			    origValue = 'Error';
 			}
 
 			popupContent += \`
-			    <tr><td colspan="2" style="border-top: 1px solid #eee; padding: 5px 0;">
+			     <tr><td colspan="2" style="border-top: 1px solid #eee; padding: 5px 0;">
 				Point \${idx + 1}: \${origValue}
-			    </td></tr>
+			     </td></tr>
 			\`;
 		    });
 
@@ -634,7 +632,8 @@ function leaflet_map_geojson(geojsonUrl) {
 		originalFeatures = data.features;
 
 		console.log('First feature:', originalFeatures[0]);
-		console.log('Downloaders JSON:', JSON.parse(originalFeatures[0].properties.downloaders));
+		console.log('Downloaders size:', originalFeatures[0].properties.downloaders?.size);
+		console.log('Uploaders size:', originalFeatures[0].properties.uploaders?.size);
 
 		if (DEFAULT_CATEGORY === 'uploaders') {
 		    document.getElementById('category-downloaders').classList.remove('active');
@@ -696,4 +695,18 @@ function leaflet_map_geojson(geojsonUrl) {
     </script>
 </body>
 </html>`;
+}
+
+// Use in HTML table with a link to get a new-tab/page clickable link.
+function leaflet_map_open_window(geojsonUrl, title) {
+    // Create the HTML content for the new window
+    const htmlContent = leaflet_map_geojson(geojsonUrl);
+
+    // Open a new window
+    const newWindow = window.open('', '_blank', 'width=1200,height=800,resizable=yes,scrollbars=yes');
+
+    // Write the content to the new window
+    newWindow.document.write(htmlContent);
+    newWindow.document.title = title;
+    newWindow.document.close();
 }
