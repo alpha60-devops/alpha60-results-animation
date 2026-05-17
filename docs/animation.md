@@ -34,8 +34,7 @@ description: "Analysis of Animation-genre peer-to-peer distribution"
 </script>
 
 <!-- Preload the CSS without blocking rendering -->
-<link rel="preload" href="../resources/izzi-table-wcag-22.css" as="style" onloa\
-d="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="../resources/izzi-table-wcag-22.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 
 <!-- Fallback for users who have JavaScript disabled -->
 <noscript>
@@ -54,8 +53,7 @@ d="this.onload=null;this.rel='stylesheet'">
 </script>
 
 <!-- Preload the CSS without blocking rendering -->
-<link rel="preload" href="../resources/izzi-table-sort-wcag-22.css" as="style" \
-onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="../resources/izzi-table-sort-wcag-22.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 
 <!-- Fallback for users who have JavaScript disabled -->
 <noscript>
