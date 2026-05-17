@@ -320,6 +320,12 @@ Line graph of media objects as peer swarms over time, from week 1 to week 26. Th
 <text x="929.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 13</text>
 <text x="990.400000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 14</text>
 <text x="1051.200000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 15</text>
+<text x="200.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1</text>
+<text x="260.800000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2</text>
+<text x="321.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 3</text>
+<text x="382.400000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 4</text>
+<text x="443.200000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 5</text>
+<text x="504.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 6</text>
 <text x="1720.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 26</text>
  </g>
  <g id="tic-y-labels">
@@ -616,6 +622,56 @@ week: 15
  </circle>
  </g>
 <text x="1051.200000" y="193.000000" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> invincible-301-302-303</text>
+ </g>
+<g id="line-graph-4-invincible-401-402-403">
+ <g id="polyline-invincible-401-402-403">
+<polyline points="200,791.261 260.8,714.219 321.6,641.133 382.4,575.15 443.2,512.139 504,459.147 " stroke-dasharray="3 9" stroke-linecap="round"  style="fill:rgb(127,127,127); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <g id="markers-invincible-401-402-403">
+ <circle cx="200.000000" cy="791.260915" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+invincible-401-402-403
+week: 1
+2,237,959
+</title>
+ </circle>
+<circle cx="260.800000" cy="714.218514" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+invincible-401-402-403
+week: 2
+4,180,933
+</title>
+ </circle>
+<circle cx="321.600000" cy="641.132569" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+invincible-401-402-403
+week: 3
+6,024,127
+</title>
+ </circle>
+<circle cx="382.400000" cy="575.149688" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+invincible-401-402-403
+week: 4
+7,688,185
+</title>
+ </circle>
+<circle cx="443.200000" cy="512.139303" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+invincible-401-402-403
+week: 5
+9,277,278
+</title>
+ </circle>
+<circle cx="504.000000" cy="459.147022" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
+<title>
+invincible-401-402-403
+week: 6
+10,613,719
+</title>
+ </circle>
+ </g>
+<text x="504.000000" y="452.147022" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> invincible-401-402-403</text>
  </g>
  </g>
 </svg>
