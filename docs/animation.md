@@ -9,26 +9,6 @@ description: "Analysis of Animation-genre peer-to-peer distribution"
 <img src="../resources/a60-logo-block-gray.simple.svg?sanitize=true" height="50" width="100">
 {:/}
 
-<div style="height: 50px;"></div>
-
-
-# Animation
-<div style="height: 50px;"></div>
-
-## Graphs
-
-<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
-	src="../resources/izzi-graph-hover-txt-polyline-red.js">
-</script>
-
-{::nomarkdown}
-{% include animation-downloads-by-week-normalized-start.svg %}
-{:/}
-<div style="height: 50px;"></div>
-
-
-## Maps
-
 <script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
 	src="../resources/izzi-map-leaflet-geojson-v7.3.js">
 </script>
@@ -41,6 +21,29 @@ description: "Analysis of Animation-genre peer-to-peer distribution"
   <link rel="stylesheet" href="../resources/izzi-table-wcag-22.css">
 </noscript>
 
+<div style="height: 50px;"></div>
+
+
+# Animation
+<div style="height: 50px;"></div>
+
+
+## Graphs
+
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+{::nomarkdown}
+{% include animation-downloads-by-week-normalized-start.svg %}
+{:/}
+<div style="height: 25px;"></div>
+
+{% include animation-graph-table.html %}
+<div style="height: 50px;"></div>
+
+
+## Maps
 
 {% include animation-spatial-carto-table.html %}
 <div style="height: 50px;"></div>
