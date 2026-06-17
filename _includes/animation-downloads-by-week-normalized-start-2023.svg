@@ -13,7 +13,7 @@ animation-downloads-by-week-normalized-start-2023
 Line graph of media objects as peer swarms over time, from week 1 to week 26. The y-xis is the number of downloaders in millions. The x-axis is the week number of the sample, starting at 1 and ending at or before 26.
 </desc>
  <g id="annotations">
-<text x="960.000000" y="126.000000" font-family="Apercu" font-size="26.000000pt" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> Animation Downloads by Week (Normalized Start) 2023</text>
+<text x="960.000000" y="126.000000" font-family="Apercu" font-size="26.000000pt" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> </text>
  <g id="axes-lines">
 <text x="960.000000" y="1007.000000" font-family="Apercu" font-size="18.000000pt" text-anchor="middle" text-align="center" font-weight="500" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> WEEKS</text>
 <text x="73.000000" y="540.000000" font-family="Apercu" font-size="18.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="500" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5" transform="rotate(-90,73,540)"> DOWNLOADERS</text>
@@ -307,36 +307,6 @@ Line graph of media objects as peer swarms over time, from week 1 to week 26. Th
 <text x="625.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 8</text>
 <text x="686.400000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 9</text>
 <text x="747.200000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10</text>
-<text x="200.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1</text>
-<text x="260.800000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2</text>
-<text x="321.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 3</text>
-<text x="382.400000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 4</text>
-<text x="443.200000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 5</text>
-<text x="504.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 6</text>
-<text x="564.800000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 7</text>
-<text x="625.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 8</text>
-<text x="686.400000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 9</text>
-<text x="747.200000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10</text>
-<text x="200.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1</text>
-<text x="260.800000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2</text>
-<text x="321.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 3</text>
-<text x="382.400000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 4</text>
-<text x="443.200000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 5</text>
-<text x="504.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 6</text>
-<text x="564.800000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 7</text>
-<text x="625.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 8</text>
-<text x="686.400000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 9</text>
-<text x="747.200000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10</text>
-<text x="200.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1</text>
-<text x="260.800000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2</text>
-<text x="321.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 3</text>
-<text x="382.400000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 4</text>
-<text x="443.200000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 5</text>
-<text x="504.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 6</text>
-<text x="564.800000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 7</text>
-<text x="625.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 8</text>
-<text x="686.400000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 9</text>
-<text x="747.200000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10</text>
 <text x="808.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 11</text>
 <text x="868.800000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 12</text>
 <text x="929.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 13</text>
@@ -372,6 +342,36 @@ Line graph of media objects as peer swarms over time, from week 1 to week 26. Th
 <text x="1172.800000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 17</text>
 <text x="1233.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 18</text>
 <text x="1294.400000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 19</text>
+<text x="200.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1</text>
+<text x="260.800000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2</text>
+<text x="321.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 3</text>
+<text x="382.400000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 4</text>
+<text x="443.200000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 5</text>
+<text x="504.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 6</text>
+<text x="564.800000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 7</text>
+<text x="625.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 8</text>
+<text x="686.400000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 9</text>
+<text x="747.200000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10</text>
+<text x="200.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1</text>
+<text x="260.800000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2</text>
+<text x="321.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 3</text>
+<text x="382.400000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 4</text>
+<text x="443.200000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 5</text>
+<text x="504.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 6</text>
+<text x="564.800000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 7</text>
+<text x="625.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 8</text>
+<text x="686.400000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 9</text>
+<text x="747.200000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10</text>
+<text x="200.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1</text>
+<text x="260.800000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2</text>
+<text x="321.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 3</text>
+<text x="382.400000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 4</text>
+<text x="443.200000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 5</text>
+<text x="504.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 6</text>
+<text x="564.800000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 7</text>
+<text x="625.600000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 8</text>
+<text x="686.400000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 9</text>
+<text x="747.200000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10</text>
 <text x="1720.000000" y="898.000000" font-family="Apercu" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 26</text>
  </g>
  <g id="tic-y-labels">
@@ -398,760 +398,53 @@ Line graph of media objects as peer swarms over time, from week 1 to week 26. Th
  </g>
  </g>
 <g id="composite-chart">
-<g id="line-graph-1-archer-1401">
- <g id="polyline-archer-1401">
-<polyline points="200,876.362 260.8,872.504 321.6,868.624 382.4,865.414 443.2,861.757 504,858.32 564.8,854.325 625.6,851.015 686.4,845.419 747.2,839.831 808,833.844 868.8,827.58 929.6,821.738 990.4,815.891 1051.2,809.398 1112,803.507 1172.8,797.854 1233.6,791.651 1294.4,785.261 1355.2,779.193 1416,772.939 1476.8,767.125 1537.6,761.589 1598.4,755.9 1659.2,749.845 1720,743.658 " stroke-dasharray="3 39" stroke-linecap="round"  style="fill:rgb(127,127,127); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
- </g>
- <g id="markers-archer-1401">
- <circle cx="200.000000" cy="876.361739" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 1
-173,051
-</title>
- </circle>
-<circle cx="260.800000" cy="872.503627" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 2
-356,559
-</title>
- </circle>
-<circle cx="321.600000" cy="868.623798" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 3
-541,100
-</title>
- </circle>
-<circle cx="382.400000" cy="865.413989" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 4
-693,772
-</title>
- </circle>
-<circle cx="443.200000" cy="861.756869" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 5
-867,720
-</title>
- </circle>
-<circle cx="504.000000" cy="858.320251" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 6
-1,031,180
-</title>
- </circle>
-<circle cx="564.800000" cy="854.325335" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 7
-1,221,195
-</title>
- </circle>
-<circle cx="625.600000" cy="851.015325" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 8
-1,378,633
-</title>
- </circle>
-<circle cx="686.400000" cy="845.418700" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 9
-1,644,832
-</title>
- </circle>
-<circle cx="747.200000" cy="839.831221" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 10
-1,910,596
-</title>
- </circle>
-<circle cx="808.000000" cy="833.843925" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 11
-2,195,377
-</title>
- </circle>
-<circle cx="868.800000" cy="827.579676" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 12
-2,493,331
-</title>
- </circle>
-<circle cx="929.600000" cy="821.738435" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 13
-2,771,165
-</title>
- </circle>
-<circle cx="990.400000" cy="815.890907" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 14
-3,049,298
-</title>
- </circle>
-<circle cx="1051.200000" cy="809.398041" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 15
-3,358,126
-</title>
- </circle>
-<circle cx="1112.000000" cy="803.507372" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 16
-3,638,311
-</title>
- </circle>
-<circle cx="1172.800000" cy="797.853666" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 17
-3,907,225
-</title>
- </circle>
-<circle cx="1233.600000" cy="791.651082" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 18
-4,202,246
-</title>
- </circle>
-<circle cx="1294.400000" cy="785.261003" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 19
-4,506,185
-</title>
- </circle>
-<circle cx="1355.200000" cy="779.193268" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 20
-4,794,792
-</title>
- </circle>
-<circle cx="1416.000000" cy="772.938544" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 21
-5,092,293
-</title>
- </circle>
-<circle cx="1476.800000" cy="767.124928" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 22
-5,368,813
-</title>
- </circle>
-<circle cx="1537.600000" cy="761.588958" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 23
-5,632,127
-</title>
- </circle>
-<circle cx="1598.400000" cy="755.899596" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 24
-5,902,737
-</title>
- </circle>
-<circle cx="1659.200000" cy="749.844727" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 25
-6,190,732
-</title>
- </circle>
-<circle cx="1720.000000" cy="743.658100" r="6.000000" style="fill:rgb(127,127,127); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-archer-1401
-week: 26
-6,484,994
-</title>
- </circle>
- </g>
-<text x="1720.000000" y="736.658100" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> archer-1401</text>
- </g>
-<g id="line-graph-2-blue-eye-samurai-01">
- <g id="polyline-blue-eye-samurai-01">
-<polyline points="200,873.971 260.8,864.433 321.6,854.605 382.4,844.792 443.2,835.404 504,826.061 564.8,816.959 625.6,808.289 686.4,798.258 747.2,788.349 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
- </g>
- <g id="markers-blue-eye-samurai-01">
- <circle cx="200.000000" cy="873.971160" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-blue-eye-samurai-01
-week: 1
-286,757
-</title>
- </circle>
-<circle cx="260.800000" cy="864.433378" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-blue-eye-samurai-01
-week: 2
-740,414
-</title>
- </circle>
-<circle cx="321.600000" cy="854.604642" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-blue-eye-samurai-01
-week: 3
-1,207,910
-</title>
- </circle>
-<circle cx="382.400000" cy="844.791737" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-blue-eye-samurai-01
-week: 4
-1,674,653
-</title>
- </circle>
-<circle cx="443.200000" cy="835.404132" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-blue-eye-samurai-01
-week: 5
-2,121,167
-</title>
- </circle>
-<circle cx="504.000000" cy="826.061307" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-blue-eye-samurai-01
-week: 6
-2,565,551
-</title>
- </circle>
-<circle cx="564.800000" cy="816.958559" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-blue-eye-samurai-01
-week: 7
-2,998,516
-</title>
- </circle>
-<circle cx="625.600000" cy="808.289392" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-blue-eye-samurai-01
-week: 8
-3,410,858
-</title>
- </circle>
-<circle cx="686.400000" cy="798.257647" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-blue-eye-samurai-01
-week: 9
-3,888,010
-</title>
- </circle>
-<circle cx="747.200000" cy="788.349166" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-blue-eye-samurai-01
-week: 10
-4,359,299
-</title>
- </circle>
- </g>
-<text x="747.200000" y="781.349166" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> blue-eye-samurai-01</text>
- </g>
-<g id="line-graph-3-invincible-201">
- <g id="polyline-invincible-201">
-<polyline points="200,870.037 260.8,855.543 321.6,839.738 382.4,826.658 443.2,815.6 504,804.774 564.8,795.224 625.6,785.724 686.4,776.048 747.2,767.076 " stroke-dasharray="3 3" stroke-linecap="round"  style="fill:rgb(51,51,51); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
- </g>
- <g id="markers-invincible-201">
- <circle cx="200.000000" cy="870.037109" r="6.000000" style="fill:rgb(51,51,51); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-invincible-201
-week: 1
-473,877
-</title>
- </circle>
-<circle cx="260.800000" cy="855.542763" r="6.000000" style="fill:rgb(51,51,51); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-invincible-201
-week: 2
-1,163,289
-</title>
- </circle>
-<circle cx="321.600000" cy="839.737874" r="6.000000" style="fill:rgb(51,51,51); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-invincible-201
-week: 3
-1,915,036
-</title>
- </circle>
-<circle cx="382.400000" cy="826.657806" r="6.000000" style="fill:rgb(51,51,51); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-invincible-201
-week: 4
-2,537,179
-</title>
- </circle>
-<circle cx="443.200000" cy="815.599806" r="6.000000" style="fill:rgb(51,51,51); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-invincible-201
-week: 5
-3,063,144
-</title>
- </circle>
-<circle cx="504.000000" cy="804.773702" r="6.000000" style="fill:rgb(51,51,51); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-invincible-201
-week: 6
-3,578,079
-</title>
- </circle>
-<circle cx="564.800000" cy="795.224420" r="6.000000" style="fill:rgb(51,51,51); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-invincible-201
-week: 7
-4,032,283
-</title>
- </circle>
-<circle cx="625.600000" cy="785.723767" r="6.000000" style="fill:rgb(51,51,51); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-invincible-201
-week: 8
-4,484,174
-</title>
- </circle>
-<circle cx="686.400000" cy="776.047857" r="6.000000" style="fill:rgb(51,51,51); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-invincible-201
-week: 9
-4,944,401
-</title>
- </circle>
-<circle cx="747.200000" cy="767.075878" r="6.000000" style="fill:rgb(51,51,51); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-invincible-201
-week: 10
-5,371,146
-</title>
- </circle>
- </g>
-<text x="747.200000" y="760.075878" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> invincible-201</text>
- </g>
-<g id="line-graph-4-prehistoric-planet-02">
- <g id="polyline-prehistoric-planet-02">
-<polyline points="200,873.653 260.8,866.954 321.6,861.784 382.4,856.835 443.2,852.102 504,847.687 564.8,843.54 625.6,839.113 686.4,835.002 747.2,830.391 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
- </g>
- <g id="markers-prehistoric-planet-02">
- <circle cx="200.000000" cy="873.653273" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-prehistoric-planet-02
-week: 1
-301,877
-</title>
- </circle>
-<circle cx="260.800000" cy="866.953719" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-prehistoric-planet-02
-week: 2
-620,536
-</title>
- </circle>
-<circle cx="321.600000" cy="861.784222" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-prehistoric-planet-02
-week: 3
-866,419
-</title>
- </circle>
-<circle cx="382.400000" cy="856.835416" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-prehistoric-planet-02
-week: 4
-1,101,805
-</title>
- </circle>
-<circle cx="443.200000" cy="852.101520" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-prehistoric-planet-02
-week: 5
-1,326,969
-</title>
- </circle>
-<circle cx="504.000000" cy="847.686982" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-prehistoric-planet-02
-week: 6
-1,536,943
-</title>
- </circle>
-<circle cx="564.800000" cy="843.539535" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-prehistoric-planet-02
-week: 7
-1,734,213
-</title>
- </circle>
-<circle cx="625.600000" cy="839.112635" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-prehistoric-planet-02
-week: 8
-1,944,775
-</title>
- </circle>
-<circle cx="686.400000" cy="835.001560" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-prehistoric-planet-02
-week: 9
-2,140,315
-</title>
- </circle>
-<circle cx="747.200000" cy="830.391244" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-prehistoric-planet-02
-week: 10
-2,359,601
-</title>
- </circle>
- </g>
-<text x="747.200000" y="823.391244" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> prehistoric-planet-02</text>
- </g>
-<g id="line-graph-5-spider-man-across-the-spider-verse">
+<g id="line-graph-1">
  <g id="polyline-spider-man-across-the-spider-verse">
-<polyline points="200,834.215 260.8,804.047 321.6,781.155 382.4,759.632 443.2,739.972 504,718.688 564.8,699.34 625.6,680.065 686.4,660.449 747.2,642.566 808,625.607 868.8,605.439 929.6,575.978 990.4,546.625 1051.2,515.395 1112,486.569 1172.8,458.956 1233.6,432.425 1294.4,403.583 1355.2,376.88 1416,347.879 1476.8,317.19 1537.6,288.082 1598.4,259.857 1659.2,232.266 1720,204.139 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
+<polyline points="200,834.215 260.8,804.047 321.6,781.155 382.4,759.632 443.2,739.972 504,718.688 564.8,699.34 625.6,680.065 686.4,660.449 747.2,642.566 808,625.607 868.8,605.439 929.6,575.978 990.4,546.625 1051.2,515.395 1112,486.569 1172.8,458.956 1233.6,432.425 1294.4,403.583 1355.2,376.88 1416,347.879 1476.8,317.19 1537.6,288.082 1598.4,259.857 1659.2,232.266 1720,204.139 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
  </g>
  <g id="markers-spider-man-across-the-spider-verse">
- <circle cx="200.000000" cy="834.214897" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 1
-2,177,732
-</title>
- </circle>
-<circle cx="260.800000" cy="804.047316" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 2
-3,612,629
-</title>
- </circle>
-<circle cx="321.600000" cy="781.154848" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 3
-4,701,491
-</title>
- </circle>
-<circle cx="382.400000" cy="759.631646" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 4
-5,725,225
-</title>
- </circle>
-<circle cx="443.200000" cy="739.971862" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 5
-6,660,327
-</title>
- </circle>
-<circle cx="504.000000" cy="718.688377" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 6
-7,672,659
-</title>
- </circle>
-<circle cx="564.800000" cy="699.340130" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 7
-8,592,943
-</title>
- </circle>
-<circle cx="625.600000" cy="680.065131" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 8
-9,509,743
-</title>
- </circle>
-<circle cx="686.400000" cy="660.448677" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 9
-10,442,784
-</title>
- </circle>
-<circle cx="747.200000" cy="642.566406" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 10
-11,293,340
-</title>
- </circle>
-<circle cx="808.000000" cy="625.607287" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 11
-12,099,987
-</title>
- </circle>
-<circle cx="868.800000" cy="605.438948" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 12
-13,059,278
-</title>
- </circle>
-<circle cx="929.600000" cy="575.978033" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 13
-14,460,563
-</title>
- </circle>
-<circle cx="990.400000" cy="546.625182" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 14
-15,856,708
-</title>
- </circle>
-<circle cx="1051.200000" cy="515.395163" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 15
-17,342,139
-</title>
- </circle>
-<circle cx="1112.000000" cy="486.568906" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 16
-18,713,237
-</title>
- </circle>
-<circle cx="1172.800000" cy="458.955871" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 17
-20,026,629
-</title>
- </circle>
-<circle cx="1233.600000" cy="432.424533" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 18
-21,288,571
-</title>
- </circle>
-<circle cx="1294.400000" cy="403.583412" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 19
-22,660,376
-</title>
- </circle>
-<circle cx="1355.200000" cy="376.880305" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 20
-23,930,488
-</title>
- </circle>
-<circle cx="1416.000000" cy="347.878706" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 21
-25,309,926
-</title>
- </circle>
-<circle cx="1476.800000" cy="317.190355" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 22
-26,769,593
-</title>
- </circle>
-<circle cx="1537.600000" cy="288.082205" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 23
-28,154,099
-</title>
- </circle>
-<circle cx="1598.400000" cy="259.856567" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 24
-29,496,629
-</title>
- </circle>
-<circle cx="1659.200000" cy="232.265861" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 25
-30,808,959
-</title>
- </circle>
-<circle cx="1720.000000" cy="204.139100" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-spider-man-across-the-spider-verse
-week: 26
-32,146,786
-</title>
- </circle>
+  </g>
+<text x="1720.000000" y="197.139100" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:0.5"> spider-man-across-the-spider-verse</text>
  </g>
-<text x="1720.000000" y="197.139100" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> spider-man-across-the-spider-verse</text>
+<g id="line-graph-2">
+ <g id="polyline-archer-1401">
+<polyline points="200,876.362 260.8,872.504 321.6,868.624 382.4,865.414 443.2,861.757 504,858.32 564.8,854.325 625.6,851.015 686.4,845.419 747.2,839.831 808,833.844 868.8,827.58 929.6,821.738 990.4,815.891 1051.2,809.398 1112,803.507 1172.8,797.854 1233.6,791.651 1294.4,785.261 1355.2,779.193 1416,772.939 1476.8,767.125 1537.6,761.589 1598.4,755.9 1659.2,749.845 1720,743.658 " stroke-dasharray="3 39" stroke-linecap="round"  style="fill:rgb(127,127,127); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
  </g>
-<g id="line-graph-6-super-mario-brothers-movie">
+ <g id="markers-archer-1401">
+  </g>
+<text x="1720.000000" y="736.658100" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:0.5"> archer-1401</text>
+ </g>
+<g id="line-graph-3">
  <g id="polyline-super-mario-brothers-movie">
-<polyline points="200,841.737 260.8,811.936 321.6,787.932 382.4,765.567 443.2,746.855 504,728.8 564.8,712.238 625.6,696.787 686.4,680.447 747.2,665.164 808,650.493 868.8,636.946 929.6,623.881 990.4,612.145 1051.2,600.051 1112,588.263 1172.8,574.181 1233.6,556.838 1294.4,540.944 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" />
+<polyline points="200,841.737 260.8,811.936 321.6,787.932 382.4,765.567 443.2,746.855 504,728.8 564.8,712.238 625.6,696.787 686.4,680.447 747.2,665.164 808,650.493 868.8,636.946 929.6,623.881 990.4,612.145 1051.2,600.051 1112,588.263 1172.8,574.181 1233.6,556.838 1294.4,540.944 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
  </g>
  <g id="markers-super-mario-brothers-movie">
- <circle cx="200.000000" cy="841.737234" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-super-mario-brothers-movie
-week: 1
-1,819,938
-</title>
- </circle>
-<circle cx="260.800000" cy="811.936189" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-super-mario-brothers-movie
-week: 2
-3,237,401
-</title>
- </circle>
-<circle cx="321.600000" cy="787.932466" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-super-mario-brothers-movie
-week: 3
-4,379,119
-</title>
- </circle>
-<circle cx="382.400000" cy="765.566908" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-super-mario-brothers-movie
-week: 4
-5,442,919
-</title>
- </circle>
-<circle cx="443.200000" cy="746.855021" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-super-mario-brothers-movie
-week: 5
-6,332,935
-</title>
- </circle>
-<circle cx="504.000000" cy="728.799826" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-super-mario-brothers-movie
-week: 6
-7,191,716
-</title>
- </circle>
-<circle cx="564.800000" cy="712.238022" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-super-mario-brothers-movie
-week: 7
-7,979,465
-</title>
- </circle>
-<circle cx="625.600000" cy="696.786970" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-super-mario-brothers-movie
-week: 8
-8,714,382
-</title>
- </circle>
-<circle cx="686.400000" cy="680.447351" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-super-mario-brothers-movie
-week: 9
-9,491,563
-</title>
- </circle>
-<circle cx="747.200000" cy="665.163609" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-super-mario-brothers-movie
-week: 10
-10,218,522
-</title>
- </circle>
-<circle cx="808.000000" cy="650.493144" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-super-mario-brothers-movie
-week: 11
-10,916,311
-</title>
- </circle>
-<circle cx="868.800000" cy="636.946234" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-super-mario-brothers-movie
-week: 12
-11,560,659
-</title>
- </circle>
-<circle cx="929.600000" cy="623.880610" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-super-mario-brothers-movie
-week: 13
-12,182,115
-</title>
- </circle>
-<circle cx="990.400000" cy="612.144684" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-super-mario-brothers-movie
-week: 14
-12,740,325
-</title>
- </circle>
-<circle cx="1051.200000" cy="600.051346" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-super-mario-brothers-movie
-week: 15
-13,315,535
-</title>
- </circle>
-<circle cx="1112.000000" cy="588.263217" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-super-mario-brothers-movie
-week: 16
-13,876,228
-</title>
- </circle>
-<circle cx="1172.800000" cy="574.180694" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-super-mario-brothers-movie
-week: 17
-14,546,052
-</title>
- </circle>
-<circle cx="1233.600000" cy="556.837673" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-super-mario-brothers-movie
-week: 18
-15,370,959
-</title>
- </circle>
-<circle cx="1294.400000" cy="540.944040" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"  >
-<title>
-super-mario-brothers-movie
-week: 19
-16,126,927
-</title>
- </circle>
+  </g>
+<text x="1294.400000" y="533.944040" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:0.5"> super-mario-brothers-movie</text>
  </g>
-<text x="1294.400000" y="533.944040" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0.5"> super-mario-brothers-movie</text>
+<g id="line-graph-4">
+ <g id="polyline-invincible-201">
+<polyline points="200,870.037 260.8,855.543 321.6,839.738 382.4,826.658 443.2,815.6 504,804.774 564.8,795.224 625.6,785.724 686.4,776.048 747.2,767.076 " stroke-dasharray="3 3" stroke-linecap="round"  style="fill:rgb(51,51,51); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <g id="markers-invincible-201">
+  </g>
+<text x="747.200000" y="760.075878" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:0.5"> invincible-201</text>
+ </g>
+<g id="line-graph-5">
+ <g id="polyline-blue-eye-samurai-01">
+<polyline points="200,873.971 260.8,864.433 321.6,854.605 382.4,844.792 443.2,835.404 504,826.061 564.8,816.959 625.6,808.289 686.4,798.258 747.2,788.349 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <g id="markers-blue-eye-samurai-01">
+  </g>
+<text x="747.200000" y="781.349166" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:0.5"> blue-eye-samurai-01</text>
+ </g>
+<g id="line-graph-6">
+ <g id="polyline-prehistoric-planet-02">
+<polyline points="200,873.653 260.8,866.954 321.6,861.784 382.4,856.835 443.2,852.102 504,847.687 564.8,843.54 625.6,839.113 686.4,835.002 747.2,830.391 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <g id="markers-prehistoric-planet-02">
+  </g>
+<text x="747.200000" y="823.391244" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:0.5"> prehistoric-planet-02</text>
  </g>
  </g>
 </svg>
