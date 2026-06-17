@@ -366,27 +366,27 @@ Line graph of media objects as peer swarms over time, from week 1 to week 26. Th
 <g id="composite-chart">
 <g id="line-graph-1">
  <g id="polyline-arcane-02.3">
-<polyline points="200,857.155 260.8,839.833 321.6,824.663 382.4,809.379 443.2,788.954 504,766.594 564.8,744.92 625.6,723.756 686.4,702.082 747.2,680.828 808,659.649 868.8,638.948 929.6,617.23 990.4,596.825 1051.2,576.191 1112,555.169 1172.8,534.973 1233.6,515.428 1294.4,496.512 1355.2,480.233 1416,464.402 1476.8,448.355 1537.6,432.666 1598.4,417.242 1659.2,400.7 1720,384.544 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
+<polyline points="200,851.915 260.8,830.619 321.6,811.969 382.4,793.179 443.2,768.069 504,740.58 564.8,713.934 625.6,687.915 686.4,661.268 747.2,635.139 808,609.102 868.8,583.652 929.6,556.952 990.4,531.866 1051.2,506.5 1112,480.655 1172.8,455.826 1233.6,431.798 1294.4,408.542 1355.2,388.529 1416,369.066 1476.8,349.339 1537.6,330.051 1598.4,311.088 1659.2,290.752 1720,270.889 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
  </g>
  <g id="markers-arcane-02.3">
   </g>
-<text x="1720.000000" y="377.543522" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:0.5"> arcane-02.3</text>
+<text x="1720.000000" y="263.889240" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:0.5"> arcane-02.3</text>
  </g>
 <g id="line-graph-2">
  <g id="polyline-arcane-02.2">
-<polyline points="200,863.359 260.8,846.899 321.6,834.267 382.4,823.175 443.2,812.647 504,798.128 564.8,780.766 625.6,764.807 686.4,748.678 747.2,732.17 808,715.708 868.8,699.447 929.6,684.369 990.4,668.101 1051.2,653.216 1112,638.71 1172.8,624.083 1233.6,610.106 1294.4,595.941 1355.2,582.043 1416,569.662 1476.8,557.357 1537.6,545.627 1598.4,533.704 1659.2,521.666 1720,509.626 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
+<polyline points="200,859.542 260.8,839.305 321.6,823.776 382.4,810.14 443.2,797.197 504,779.347 564.8,758.002 625.6,738.382 686.4,718.554 747.2,698.258 808,678.02 868.8,658.029 929.6,639.492 990.4,619.492 1051.2,601.193 1112,583.36 1172.8,565.378 1233.6,548.194 1294.4,530.78 1355.2,513.694 1416,498.473 1476.8,483.345 1537.6,468.924 1598.4,454.266 1659.2,439.466 1720,424.665 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
  </g>
  <g id="markers-arcane-02.2">
   </g>
-<text x="1720.000000" y="502.626015" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:0.5"> arcane-02.2</text>
+<text x="1720.000000" y="417.664790" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:0.5"> arcane-02.2</text>
  </g>
 <g id="line-graph-3">
  <g id="polyline-arcane-02.1">
-<polyline points="200,856.724 260.8,839.188 321.6,823.4 382.4,811.087 443.2,800.4 504,790.827 564.8,777.76 625.6,761.553 686.4,746.027 747.2,731.685 808,716.693 868.8,702.011 929.6,687.685 990.4,673.293 1051.2,658.6 1112,645.075 1172.8,631.609 1233.6,618.025 1294.4,604.933 1355.2,591.891 1416,580.023 1476.8,569.162 1537.6,559.324 1598.4,548.732 1659.2,538.065 1720,526.763 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
+<polyline points="200,851.385 260.8,829.825 321.6,810.416 382.4,795.279 443.2,782.14 504,770.371 564.8,754.306 625.6,734.382 686.4,715.294 747.2,697.662 808,679.231 868.8,661.182 929.6,643.569 990.4,625.876 1051.2,607.812 1112,591.185 1172.8,574.63 1233.6,557.93 1294.4,541.835 1355.2,525.801 1416,511.21 1476.8,497.858 1537.6,485.763 1598.4,472.742 1659.2,459.628 1720,445.733 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
  </g>
  <g id="markers-arcane-02.1">
   </g>
-<text x="1720.000000" y="519.762955" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:0.5"> arcane-02.1</text>
+<text x="1720.000000" y="438.732826" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:0.5"> arcane-02.1</text>
  </g>
  </g>
 </svg>

@@ -377,19 +377,19 @@ Line graph of media objects as peer swarms over time, from week 1 to week 26. Th
 <g id="composite-chart">
 <g id="line-graph-1">
  <g id="polyline-spider-man-across-the-spider-verse">
-<polyline points="200,861.775 260.8,849.767 321.6,840.655 382.4,832.087 443.2,824.262 504,815.79 564.8,808.088 625.6,800.416 686.4,792.607 747.2,785.489 808,778.739 868.8,770.711 929.6,758.984 990.4,747.3 1051.2,734.869 1112,723.394 1172.8,712.403 1233.6,701.842 1294.4,690.362 1355.2,679.733 1416,668.188 1476.8,655.973 1537.6,644.386 1598.4,633.151 1659.2,622.169 1720,610.973 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
+<polyline points="200,857.595 260.8,842.832 321.6,831.629 382.4,821.096 443.2,811.476 504,801.06 564.8,791.592 625.6,782.16 686.4,772.56 747.2,763.809 808,755.51 868.8,745.64 929.6,731.223 990.4,716.859 1051.2,701.576 1112,687.47 1172.8,673.957 1233.6,660.974 1294.4,646.86 1355.2,633.793 1416,619.6 1476.8,604.583 1537.6,590.338 1598.4,576.526 1659.2,563.024 1720,549.26 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
  </g>
  <g id="markers-spider-man-across-the-spider-verse">
   </g>
-<text x="1720.000000" y="603.972771" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:0.5"> spider-man-across-the-spider-verse</text>
+<text x="1720.000000" y="542.259790" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:0.5"> spider-man-across-the-spider-verse</text>
  </g>
 <g id="line-graph-2">
  <g id="polyline-your-friendly-neighborhood-spider-man-01">
-<polyline points="200,874.664 260.8,862.77 321.6,844.276 382.4,822.3 443.2,800.013 504,777.474 564.8,755.705 625.6,734.739 686.4,714.156 747.2,696.789 808,678.959 868.8,661.684 929.6,644.94 990.4,627.757 1051.2,610.492 1112,592.972 1172.8,575.956 1233.6,559.203 1294.4,541.949 1355.2,523.602 1416,506.159 1476.8,489.054 1537.6,473.196 1598.4,457.373 1659.2,442.53 1720,422.716 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
+<polyline points="200,873.44 260.8,858.818 321.6,836.081 382.4,809.064 443.2,781.665 504,753.955 564.8,727.192 625.6,701.417 686.4,676.113 747.2,654.761 808,632.842 868.8,611.603 929.6,591.019 990.4,569.894 1051.2,548.669 1112,527.13 1172.8,506.21 1233.6,485.614 1294.4,464.403 1355.2,441.847 1416,420.402 1476.8,399.373 1537.6,379.877 1598.4,360.425 1659.2,342.177 1720,317.818 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
  </g>
  <g id="markers-your-friendly-neighborhood-spider-man-01">
   </g>
-<text x="1720.000000" y="415.715867" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:0.5"> your-friendly-neighborhood-spider-man-01</text>
+<text x="1720.000000" y="310.818057" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:0.5"> your-friendly-neighborhood-spider-man-01</text>
  </g>
  </g>
 </svg>
