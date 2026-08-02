@@ -10,7 +10,7 @@ description: "Analysis of Animation-genre peer-to-peer distribution"
 {:/}
 
 <script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
-	src="../resources/izzi-map-leaflet-geojson-v7.5.js">
+	src="../resources/izzi-map-leaflet-geojson-v7.6.js">
 </script>
 
 <!-- Preload the CSS without blocking rendering -->
