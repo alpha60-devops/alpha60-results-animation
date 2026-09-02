@@ -1,0 +1,5 @@
+set,cohort_year,selected_media_objects,earliest_sample_date,latest_sample_date,summed_unique_btiha,summed_cumulative_unique_downloaders,downloaders_per_unique_btiha,summed_cumulative_unique_uploaders,uploaders_per_unique_btiha
+netflix-meta,2023,1,2023-11-04,2024-01-12,132,4800356,36366.333333,793179,6008.931818
+netflix-meta,2024,3,2024-11-09,2025-05-23,971,145669650,150020.236869,8927990,9194.634398
+netflix-meta,2025,2,2025-05-15,2026-02-19,408,38046731,93251.791667,2381011,5835.811275
+netflix-meta,all,6,2023-11-04,2026-02-19,1511,188516737,124762.896757,12102180,8009.384514

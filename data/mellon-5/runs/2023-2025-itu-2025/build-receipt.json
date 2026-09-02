@@ -1,0 +1,108 @@
+{
+  "data_directory": "/home/bkoz/src/alpha60-results-animation/data/mellon-5/runs/2023-2025-itu-2025",
+  "data_files": [
+    "animated-features-aggregate.csv",
+    "animated-features-aggregate.json",
+    "animated-features-cohorts.json",
+    "animated-features-itemized.csv",
+    "animated-features-itemized.json",
+    "animated-features-weekly.csv",
+    "animated-features-weekly.json",
+    "animation-universe.json",
+    "disney-meta-aggregate.csv",
+    "disney-meta-aggregate.json",
+    "disney-meta-cohorts.json",
+    "disney-meta-itemized.csv",
+    "disney-meta-itemized.json",
+    "disney-meta-weekly.csv",
+    "disney-meta-weekly.json",
+    "japan-origin-aggregate.csv",
+    "japan-origin-aggregate.json",
+    "japan-origin-cohorts.json",
+    "japan-origin-itemized.csv",
+    "japan-origin-itemized.json",
+    "japan-origin-weekly.csv",
+    "japan-origin-weekly.json",
+    "netflix-meta-aggregate.csv",
+    "netflix-meta-aggregate.json",
+    "netflix-meta-cohorts.json",
+    "netflix-meta-itemized.csv",
+    "netflix-meta-itemized.json",
+    "netflix-meta-weekly.csv",
+    "netflix-meta-weekly.json",
+    "selection-manifest.json",
+    "superhero-animation-aggregate.csv",
+    "superhero-animation-aggregate.json",
+    "superhero-animation-cohorts.json",
+    "superhero-animation-itemized.csv",
+    "superhero-animation-itemized.json",
+    "superhero-animation-weekly.csv",
+    "superhero-animation-weekly.json"
+  ],
+  "groups": [
+    {
+      "cohort_counts": {
+        "2023": 1,
+        "2024": 2,
+        "2025": 2
+      },
+      "id": "disney-meta",
+      "total_memberships": 5,
+      "weekly_points": 132
+    },
+    {
+      "cohort_counts": {
+        "2023": 1,
+        "2024": 3,
+        "2025": 2
+      },
+      "id": "netflix-meta",
+      "total_memberships": 6,
+      "weekly_points": 129
+    },
+    {
+      "cohort_counts": {
+        "2023": 2,
+        "2024": 3,
+        "2025": 2
+      },
+      "id": "animated-features",
+      "total_memberships": 7,
+      "weekly_points": 169
+    },
+    {
+      "cohort_counts": {
+        "2023": 2,
+        "2024": 2,
+        "2025": 3
+      },
+      "id": "superhero-animation",
+      "total_memberships": 7,
+      "weekly_points": 145
+    },
+    {
+      "cohort_counts": {
+        "2023": 0,
+        "2024": 1,
+        "2025": 4
+      },
+      "id": "japan-origin",
+      "total_memberships": 5,
+      "weekly_points": 106
+    }
+  ],
+  "include_directory": "/home/bkoz/src/alpha60-results-animation/_includes/mellon-5/runs/2023-2025-itu-2025",
+  "limitations": [
+    "rough result; no formal validation phase",
+    "per-object cumulative values are summed and are not cross-object deduplicated",
+    "no deterministic regeneration comparison was performed",
+    "Demon Slayer is deferred until a 2020 cohort is implemented"
+  ],
+  "method_config": "/home/bkoz/src/alpha60/config/mellon-5/method-v1.json",
+  "run_config": "/home/bkoz/src/alpha60/config/mellon-5/runs/2023-2025-itu-2025.json",
+  "run_id": "2023-2025-itu-2025",
+  "schema_version": "1.0.0",
+  "status": "rough-results-generated",
+  "total_memberships": 30,
+  "unique_selected_media_objects": 24
+}

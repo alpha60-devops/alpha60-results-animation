@@ -1,0 +1,5 @@
+set,cohort_year,selected_media_objects,earliest_sample_date,latest_sample_date,summed_unique_btiha,summed_cumulative_unique_downloaders,downloaders_per_unique_btiha,summed_cumulative_unique_uploaders,uploaders_per_unique_btiha
+superhero-animation,2023,2,2023-08-07,2024-02-05,468,43067960,92025.555556,8251428,17631.256410
+superhero-animation,2024,2,2024-07-16,2025-06-21,537,62163635,115760.959032,2445417,4553.849162
+superhero-animation,2025,3,2025-01-30,2026-01-29,963,102729590,106676.625130,3690558,3832.355140
+superhero-animation,all,7,2023-08-07,2026-01-29,1968,207961185,105671.333841,14387403,7310.672256

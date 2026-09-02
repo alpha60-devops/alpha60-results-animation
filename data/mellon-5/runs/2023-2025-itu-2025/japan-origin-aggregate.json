@@ -1,0 +1,50 @@
+[
+  {
+    "cohort_year": "2023",
+    "downloaders_per_unique_btiha": "0.000000",
+    "earliest_sample_date": "",
+    "latest_sample_date": "",
+    "selected_media_objects": 0,
+    "set": "japan-origin",
+    "summed_cumulative_unique_downloaders": 0,
+    "summed_cumulative_unique_uploaders": 0,
+    "summed_unique_btiha": 0,
+    "uploaders_per_unique_btiha": "0.000000"
+  },
+  {
+    "cohort_year": "2024",
+    "downloaders_per_unique_btiha": "134397.687500",
+    "earliest_sample_date": "2024-06-26",
+    "latest_sample_date": "2025-01-08",
+    "selected_media_objects": 1,
+    "set": "japan-origin",
+    "summed_cumulative_unique_downloaders": 25804356,
+    "summed_cumulative_unique_uploaders": 1620573,
+    "summed_unique_btiha": 192,
+    "uploaders_per_unique_btiha": "8440.484375"
+  },
+  {
+    "cohort_year": "2025",
+    "downloaders_per_unique_btiha": "123509.536278",
+    "earliest_sample_date": "2025-04-07",
+    "latest_sample_date": "2026-03-04",
+    "selected_media_objects": 4,
+    "set": "japan-origin",
+    "summed_cumulative_unique_downloaders": 117457569,
+    "summed_cumulative_unique_uploaders": 3263657,
+    "summed_unique_btiha": 951,
+    "uploaders_per_unique_btiha": "3431.815983"
+  },
+  {
+    "cohort_year": "all",
+    "downloaders_per_unique_btiha": "125338.517060",
+    "earliest_sample_date": "2024-06-26",
+    "latest_sample_date": "2026-03-04",
+    "selected_media_objects": 5,
+    "set": "japan-origin",
+    "summed_cumulative_unique_downloaders": 143261925,
+    "summed_cumulative_unique_uploaders": 4884230,
+    "summed_unique_btiha": 1143,
+    "uploaders_per_unique_btiha": "4273.167104"
+  }
+]

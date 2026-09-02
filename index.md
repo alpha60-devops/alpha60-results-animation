@@ -26,8 +26,11 @@ Sample dates: 2019 to 2026
 
 ## Results, Commentary
 - [Animation Universe](/docs/animation.md)
-- Disney
-- Netflix
+- [Disney Meta](/docs/disney_plus.md)
+- [Netflix Meta](/docs/netflix.md)
+- [Animated Features](/docs/animated_features.md)
+- [Superhero Animation](/docs/superhero_animation.md)
+- [Japan-Origin Animation](/docs/japan_origin.md)
 - South Park Season 27 v. Automated Abuse Takedowns
 <div style="height: 50px;"></div>
 

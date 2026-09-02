@@ -1,0 +1,96 @@
+{
+  "cohort_counts": {
+    "2023": 1,
+    "2024": 2,
+    "2025": 2
+  },
+  "group": {
+    "id": "disney-meta",
+    "label": "Disney Meta",
+    "predicate": {
+      "any": [
+        {
+          "intersects": {
+            "field": "production_tags",
+            "values": [
+              "marvel studios animation",
+              "pixar animation studios"
+            ]
+          }
+        },
+        {
+          "all": [
+            {
+              "intersects": {
+                "field": "distribution_tags",
+                "values": [
+                  "disney",
+                  "walt disney studios",
+                  "fx",
+                  "hulu"
+                ]
+              }
+            },
+            {
+              "intersects": {
+                "field": "release.genres",
+                "values": [
+                  "Adult animation",
+                  "Animated sitcom"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "predicate_summary": "production_tags intersects {marvel studios animation, pixar animation studios} OR (distribution_tags intersects {disney, walt disney studios, fx, hulu} AND release.genres intersects {Adult animation, Animated sitcom})"
+  },
+  "memberships": [
+    {
+      "cohort_year": 2023,
+      "collection_key": "archer-1401",
+      "evidence": [
+        "distribution_tags intersects [\"fx\"]",
+        "release.genres intersects [\"Adult animation\", \"Animated sitcom\"]"
+      ],
+      "set": "disney-meta"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "inside-out-2",
+      "evidence": [
+        "production_tags intersects [\"pixar animation studios\"]"
+      ],
+      "set": "disney-meta"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "what-if-2021-03",
+      "evidence": [
+        "production_tags intersects [\"marvel studios animation\"]"
+      ],
+      "set": "disney-meta"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "eyes-of-wakanda-01",
+      "evidence": [
+        "production_tags intersects [\"marvel studios animation\"]"
+      ],
+      "set": "disney-meta"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "your-friendly-neighborhood-spider-man-01",
+      "evidence": [
+        "production_tags intersects [\"marvel studios animation\"]"
+      ],
+      "set": "disney-meta"
+    }
+  ],
+  "method_id": "mellon-5-meta-collection",
+  "method_version": "1.0.0-rough",
+  "run_id": "2023-2025-itu-2025",
+  "total_memberships": 5
+}

@@ -1,0 +1,5 @@
+set,cohort_year,selected_media_objects,earliest_sample_date,latest_sample_date,summed_unique_btiha,summed_cumulative_unique_downloaders,downloaders_per_unique_btiha,summed_cumulative_unique_uploaders,uploaders_per_unique_btiha
+disney-meta,2023,1,2023-08-31,2024-02-28,81,6457910,79727.283951,441622,5452.123457
+disney-meta,2024,2,2024-08-19,2025-06-21,863,124082752,143780.709154,8727287,10112.731170
+disney-meta,2025,2,2025-01-30,2026-01-29,749,85580302,114259.415220,2015123,2690.417891
+disney-meta,all,5,2023-08-31,2026-01-29,1693,216120964,127655.619610,11184032,6606.043709

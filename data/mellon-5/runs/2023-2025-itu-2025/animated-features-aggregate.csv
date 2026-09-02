@@ -1,0 +1,5 @@
+set,cohort_year,selected_media_objects,earliest_sample_date,latest_sample_date,summed_unique_btiha,summed_cumulative_unique_downloaders,downloaders_per_unique_btiha,summed_cumulative_unique_uploaders,uploaders_per_unique_btiha
+animated-features,2023,2,2023-05-16,2024-02-05,731,55413620,75805.225718,12513714,17118.623803
+animated-features,2024,3,2024-06-26,2025-04-22,945,147669153,156263.653968,14813473,15675.632804
+animated-features,2025,2,2025-01-28,2025-09-27,547,81097527,148258.733090,7176142,13119.089580
+animated-features,all,7,2023-05-16,2025-09-27,2223,284180300,127836.392263,34503329,15521.065677

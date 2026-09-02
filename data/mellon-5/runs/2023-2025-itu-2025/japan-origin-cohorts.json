@@ -1,0 +1,97 @@
+{
+  "cohort_counts": {
+    "2023": 0,
+    "2024": 1,
+    "2025": 4
+  },
+  "group": {
+    "id": "japan-origin",
+    "label": "Japan-origin animation",
+    "predicate": {
+      "all": [
+        {
+          "contains": {
+            "field": "collection_tags",
+            "value": "animation"
+          }
+        },
+        {
+          "any": [
+            {
+              "contains": {
+                "field": "release.countries_of_origin",
+                "value": "Japan"
+              }
+            },
+            {
+              "contains": {
+                "field": "release.original_languages",
+                "value": "Japanese"
+              }
+            },
+            {
+              "contains": {
+                "field": "collection_tags",
+                "value": "japan_origin"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "predicate_summary": "collection_tags contains animation AND (release.countries_of_origin contains Japan OR release.original_languages contains Japanese OR collection_tags contains japan_origin)"
+  },
+  "memberships": [
+    {
+      "cohort_year": 2024,
+      "collection_key": "boy-and-the-heron",
+      "evidence": [
+        "collection_tags contains \"animation\"",
+        "release.countries_of_origin contains \"Japan\"",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "dan-da-dan-210",
+      "evidence": [
+        "collection_tags contains \"animation\"",
+        "release.countries_of_origin contains \"Japan\"",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-101",
+      "evidence": [
+        "collection_tags contains \"animation\"",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-108",
+      "evidence": [
+        "collection_tags contains \"animation\"",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-111",
+      "evidence": [
+        "collection_tags contains \"animation\"",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    }
+  ],
+  "method_id": "mellon-5-meta-collection",
+  "method_version": "1.0.0-rough",
+  "run_id": "2023-2025-itu-2025",
+  "total_memberships": 5
+}
