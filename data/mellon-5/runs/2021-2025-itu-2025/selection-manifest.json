@@ -16,15 +16,15 @@
   "groups": [
     {
       "cohort_counts": {
-        "2021": 2,
+        "2021": 3,
         "2022": 2,
         "2023": 1,
         "2024": 2,
-        "2025": 2
+        "2025": 3
       },
       "id": "disney-meta",
-      "total_memberships": 9,
-      "weekly_points": 187
+      "total_memberships": 11,
+      "weekly_points": 225
     },
     {
       "cohort_counts": {
@@ -245,6 +245,14 @@
     },
     {
       "cohort_year": 2021,
+      "collection_key": "star-wars-visions-01",
+      "evidence": [
+        "collection_tags contains \"star_wars\""
+      ],
+      "set": "disney-meta"
+    },
+    {
+      "cohort_year": 2021,
       "collection_key": "what-if-2021-101",
       "evidence": [
         "production_tags intersects [\"marvel studios animation\"]"
@@ -298,6 +306,14 @@
       "collection_key": "eyes-of-wakanda-01",
       "evidence": [
         "production_tags intersects [\"marvel studios animation\"]"
+      ],
+      "set": "disney-meta"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "star-wars-visions-03",
+      "evidence": [
+        "collection_tags contains \"star_wars\""
       ],
       "set": "disney-meta"
     },
@@ -586,7 +602,7 @@
     ]
   },
   "method_id": "mellon-5-meta-collection",
-  "method_version": "1.0.0-rough",
+  "method_version": "1.1.0-rough",
   "run_id": "2021-2025-itu-2025",
   "schema_version": "1.0.0",
   "selected_source_runs": [
@@ -1060,6 +1076,18 @@
     },
     {
       "cohort_year": 2025,
+      "collection_key": "star-wars-visions-03",
+      "cumulative_path": "data/json/star-wars-visions-03-cumulative.json",
+      "cumulative_sha256": "04ef103beb953c3ea971616b6622ffe486b93f94483022b16d24971e173a23d9",
+      "repository": "alpha60-devops/alpha60-results-2025",
+      "revision": "e5c0e3e1cb2a2c0ebdfab803b9f70c8b41b233f",
+      "sample_year_end": 2026,
+      "sample_year_start": 2025,
+      "weekly_path": "data/json/star-wars-visions-03-week.json",
+      "weekly_sha256": "98338f0cf23b959333179922daecbf47b78185942b107e028779c6fce202d2f0"
+    },
+    {
+      "cohort_year": 2025,
       "collection_key": "your-friendly-neighborhood-spider-man-01",
       "cumulative_path": "data/json/your-friendly-neighborhood-spider-man-01-cumulative.json",
       "cumulative_sha256": "7094a7d5cf51d26b820a54fac0ac5369f9522e873361ffff2e559436ae51b783",
@@ -1072,5 +1100,5 @@
     }
   ],
   "status": "rough",
-  "unique_selected_media_objects": 40
+  "unique_selected_media_objects": 41
 }

@@ -52,205 +52,249 @@
 <circle class="point" cx="343.33" cy="605.13" r="2.8" stroke="#0072B2"><title>archer-1201; cohort 2021; week 10; raw 3,760,732; factor 1.224490; adjusted 4,604,977.96</title></circle>
 <line x1="900" y1="150" x2="945" y2="150" stroke="#0072B2" stroke-width="3"/>
 <text x="955" y="155" class="small">2021 · archer-1201</text>
-<polyline class="series" stroke="#D55E00" points="90,619.91 118.15,611.28 146.3,602.96 174.44,595.1 202.59,588.42 230.74,582.31 258.89,579.29 287.04,577.13 315.19,575.08 343.33,573.53 371.48,572.17 399.63,570.52 427.78,568.93 455.93,567.5 484.07,566.31"><title>what-if-2021-101, cohort 2021</title></polyline>
-<circle class="point" cx="90" cy="619.91" r="2.8" stroke="#D55E00"><title>what-if-2021-101; cohort 2021; week 1; raw 1,526,369; factor 1.224490; adjusted 1,869,023.27</title></circle>
-<circle class="point" cx="118.15" cy="611.28" r="2.8" stroke="#D55E00"><title>what-if-2021-101; cohort 2021; week 2; raw 2,831,556; factor 1.224490; adjusted 3,467,211.43</title></circle>
-<circle class="point" cx="146.3" cy="602.96" r="2.8" stroke="#D55E00"><title>what-if-2021-101; cohort 2021; week 3; raw 4,088,753; factor 1.224490; adjusted 5,006,636.33</title></circle>
-<circle class="point" cx="174.44" cy="595.1" r="2.8" stroke="#D55E00"><title>what-if-2021-101; cohort 2021; week 4; raw 5,277,578; factor 1.224490; adjusted 6,462,340.41</title></circle>
-<circle class="point" cx="202.59" cy="588.42" r="2.8" stroke="#D55E00"><title>what-if-2021-101; cohort 2021; week 5; raw 6,288,725; factor 1.224490; adjusted 7,700,479.59</title></circle>
-<circle class="point" cx="230.74" cy="582.31" r="2.8" stroke="#D55E00"><title>what-if-2021-101; cohort 2021; week 6; raw 7,212,535; factor 1.224490; adjusted 8,831,675.51</title></circle>
-<circle class="point" cx="258.89" cy="579.29" r="2.8" stroke="#D55E00"><title>what-if-2021-101; cohort 2021; week 7; raw 7,669,254; factor 1.224490; adjusted 9,390,923.27</title></circle>
-<circle class="point" cx="287.04" cy="577.13" r="2.8" stroke="#D55E00"><title>what-if-2021-101; cohort 2021; week 8; raw 7,996,004; factor 1.224490; adjusted 9,791,025.31</title></circle>
-<circle class="point" cx="315.19" cy="575.08" r="2.8" stroke="#D55E00"><title>what-if-2021-101; cohort 2021; week 9; raw 8,305,947; factor 1.224490; adjusted 10,170,547.35</title></circle>
-<circle class="point" cx="343.33" cy="573.53" r="2.8" stroke="#D55E00"><title>what-if-2021-101; cohort 2021; week 10; raw 8,539,490; factor 1.224490; adjusted 10,456,518.37</title></circle>
-<circle class="point" cx="371.48" cy="572.17" r="2.8" stroke="#D55E00"><title>what-if-2021-101; cohort 2021; week 11; raw 8,745,804; factor 1.224490; adjusted 10,709,147.76</title></circle>
-<circle class="point" cx="399.63" cy="570.52" r="2.8" stroke="#D55E00"><title>what-if-2021-101; cohort 2021; week 12; raw 8,994,697; factor 1.224490; adjusted 11,013,914.69</title></circle>
-<circle class="point" cx="427.78" cy="568.93" r="2.8" stroke="#D55E00"><title>what-if-2021-101; cohort 2021; week 13; raw 9,236,031; factor 1.224490; adjusted 11,309,425.71</title></circle>
-<circle class="point" cx="455.93" cy="567.5" r="2.8" stroke="#D55E00"><title>what-if-2021-101; cohort 2021; week 14; raw 9,452,588; factor 1.224490; adjusted 11,574,597.55</title></circle>
-<circle class="point" cx="484.07" cy="566.31" r="2.8" stroke="#D55E00"><title>what-if-2021-101; cohort 2021; week 15; raw 9,632,766; factor 1.224490; adjusted 11,795,223.67</title></circle>
+<polyline class="series" stroke="#D55E00" points="90,627.07 118.15,625.25 146.3,623.72 174.44,622.41 202.59,621.17 230.74,619.81 258.89,618.48 287.04,617.32 315.19,616.24 343.33,615.06 371.48,613.96 399.63,613.8"><title>star-wars-visions-01, cohort 2021</title></polyline>
+<circle class="point" cx="90" cy="627.07" r="2.8" stroke="#D55E00"><title>star-wars-visions-01; cohort 2021; week 1; raw 442,561; factor 1.224490; adjusted 541,911.43</title></circle>
+<circle class="point" cx="118.15" cy="625.25" r="2.8" stroke="#D55E00"><title>star-wars-visions-01; cohort 2021; week 2; raw 718,594; factor 1.224490; adjusted 879,911.02</title></circle>
+<circle class="point" cx="146.3" cy="623.72" r="2.8" stroke="#D55E00"><title>star-wars-visions-01; cohort 2021; week 3; raw 950,044; factor 1.224490; adjusted 1,163,319.18</title></circle>
+<circle class="point" cx="174.44" cy="622.41" r="2.8" stroke="#D55E00"><title>star-wars-visions-01; cohort 2021; week 4; raw 1,148,148; factor 1.224490; adjusted 1,405,895.51</title></circle>
+<circle class="point" cx="202.59" cy="621.17" r="2.8" stroke="#D55E00"><title>star-wars-visions-01; cohort 2021; week 5; raw 1,335,906; factor 1.224490; adjusted 1,635,803.27</title></circle>
+<circle class="point" cx="230.74" cy="619.81" r="2.8" stroke="#D55E00"><title>star-wars-visions-01; cohort 2021; week 6; raw 1,541,393; factor 1.224490; adjusted 1,887,420.00</title></circle>
+<circle class="point" cx="258.89" cy="618.48" r="2.8" stroke="#D55E00"><title>star-wars-visions-01; cohort 2021; week 7; raw 1,742,376; factor 1.224490; adjusted 2,133,521.63</title></circle>
+<circle class="point" cx="287.04" cy="617.32" r="2.8" stroke="#D55E00"><title>star-wars-visions-01; cohort 2021; week 8; raw 1,917,127; factor 1.224490; adjusted 2,347,502.45</title></circle>
+<circle class="point" cx="315.19" cy="616.24" r="2.8" stroke="#D55E00"><title>star-wars-visions-01; cohort 2021; week 9; raw 2,081,493; factor 1.224490; adjusted 2,548,766.94</title></circle>
+<circle class="point" cx="343.33" cy="615.06" r="2.8" stroke="#D55E00"><title>star-wars-visions-01; cohort 2021; week 10; raw 2,259,624; factor 1.224490; adjusted 2,766,886.53</title></circle>
+<circle class="point" cx="371.48" cy="613.96" r="2.8" stroke="#D55E00"><title>star-wars-visions-01; cohort 2021; week 11; raw 2,425,663; factor 1.224490; adjusted 2,970,199.59</title></circle>
+<circle class="point" cx="399.63" cy="613.8" r="2.8" stroke="#D55E00"><title>star-wars-visions-01; cohort 2021; week 12; raw 2,449,889; factor 1.224490; adjusted 2,999,864.08</title></circle>
 <line x1="900" y1="184" x2="945" y2="184" stroke="#D55E00" stroke-width="3"/>
-<text x="955" y="189" class="small">2021 · what-if-2021-101</text>
-<polyline class="series" stroke="#009E73" points="90,629.21 118.15,628.79 146.3,628.36 174.44,627.94 202.59,627.53 230.74,627.18 258.89,626.88 287.04,626.54 315.19,626.25 343.33,626 371.48,625.79 399.63,625.55 427.78,625.32 455.93,625.06 484.07,624.82"><title>archer-1308, cohort 2022</title></polyline>
-<circle class="point" cx="90" cy="629.21" r="2.8" stroke="#009E73"><title>archer-1308; cohort 2022; week 1; raw 128,412; factor 1.132075; adjusted 145,372.08</title></circle>
-<circle class="point" cx="118.15" cy="628.79" r="2.8" stroke="#009E73"><title>archer-1308; cohort 2022; week 2; raw 198,565; factor 1.132075; adjusted 224,790.57</title></circle>
-<circle class="point" cx="146.3" cy="628.36" r="2.8" stroke="#009E73"><title>archer-1308; cohort 2022; week 3; raw 267,468; factor 1.132075; adjusted 302,793.96</title></circle>
-<circle class="point" cx="174.44" cy="627.94" r="2.8" stroke="#009E73"><title>archer-1308; cohort 2022; week 4; raw 336,744; factor 1.132075; adjusted 381,219.62</title></circle>
-<circle class="point" cx="202.59" cy="627.53" r="2.8" stroke="#009E73"><title>archer-1308; cohort 2022; week 5; raw 404,463; factor 1.132075; adjusted 457,882.64</title></circle>
-<circle class="point" cx="230.74" cy="627.18" r="2.8" stroke="#009E73"><title>archer-1308; cohort 2022; week 6; raw 461,422; factor 1.132075; adjusted 522,364.53</title></circle>
-<circle class="point" cx="258.89" cy="626.88" r="2.8" stroke="#009E73"><title>archer-1308; cohort 2022; week 7; raw 510,534; factor 1.132075; adjusted 577,963.02</title></circle>
-<circle class="point" cx="287.04" cy="626.54" r="2.8" stroke="#009E73"><title>archer-1308; cohort 2022; week 8; raw 566,277; factor 1.132075; adjusted 641,068.30</title></circle>
-<circle class="point" cx="315.19" cy="626.25" r="2.8" stroke="#009E73"><title>archer-1308; cohort 2022; week 9; raw 613,446; factor 1.132075; adjusted 694,467.17</title></circle>
-<circle class="point" cx="343.33" cy="626" r="2.8" stroke="#009E73"><title>archer-1308; cohort 2022; week 10; raw 653,800; factor 1.132075; adjusted 740,150.94</title></circle>
-<circle class="point" cx="371.48" cy="625.79" r="2.8" stroke="#009E73"><title>archer-1308; cohort 2022; week 11; raw 689,144; factor 1.132075; adjusted 780,163.02</title></circle>
-<circle class="point" cx="399.63" cy="625.55" r="2.8" stroke="#009E73"><title>archer-1308; cohort 2022; week 12; raw 727,224; factor 1.132075; adjusted 823,272.45</title></circle>
-<circle class="point" cx="427.78" cy="625.32" r="2.8" stroke="#009E73"><title>archer-1308; cohort 2022; week 13; raw 765,876; factor 1.132075; adjusted 867,029.43</title></circle>
-<circle class="point" cx="455.93" cy="625.06" r="2.8" stroke="#009E73"><title>archer-1308; cohort 2022; week 14; raw 807,926; factor 1.132075; adjusted 914,633.21</title></circle>
-<circle class="point" cx="484.07" cy="624.82" r="2.8" stroke="#009E73"><title>archer-1308; cohort 2022; week 15; raw 847,063; factor 1.132075; adjusted 958,939.25</title></circle>
+<text x="955" y="189" class="small">2021 · star-wars-visions-01</text>
+<polyline class="series" stroke="#009E73" points="90,619.91 118.15,611.28 146.3,602.96 174.44,595.1 202.59,588.42 230.74,582.31 258.89,579.29 287.04,577.13 315.19,575.08 343.33,573.53 371.48,572.17 399.63,570.52 427.78,568.93 455.93,567.5 484.07,566.31"><title>what-if-2021-101, cohort 2021</title></polyline>
+<circle class="point" cx="90" cy="619.91" r="2.8" stroke="#009E73"><title>what-if-2021-101; cohort 2021; week 1; raw 1,526,369; factor 1.224490; adjusted 1,869,023.27</title></circle>
+<circle class="point" cx="118.15" cy="611.28" r="2.8" stroke="#009E73"><title>what-if-2021-101; cohort 2021; week 2; raw 2,831,556; factor 1.224490; adjusted 3,467,211.43</title></circle>
+<circle class="point" cx="146.3" cy="602.96" r="2.8" stroke="#009E73"><title>what-if-2021-101; cohort 2021; week 3; raw 4,088,753; factor 1.224490; adjusted 5,006,636.33</title></circle>
+<circle class="point" cx="174.44" cy="595.1" r="2.8" stroke="#009E73"><title>what-if-2021-101; cohort 2021; week 4; raw 5,277,578; factor 1.224490; adjusted 6,462,340.41</title></circle>
+<circle class="point" cx="202.59" cy="588.42" r="2.8" stroke="#009E73"><title>what-if-2021-101; cohort 2021; week 5; raw 6,288,725; factor 1.224490; adjusted 7,700,479.59</title></circle>
+<circle class="point" cx="230.74" cy="582.31" r="2.8" stroke="#009E73"><title>what-if-2021-101; cohort 2021; week 6; raw 7,212,535; factor 1.224490; adjusted 8,831,675.51</title></circle>
+<circle class="point" cx="258.89" cy="579.29" r="2.8" stroke="#009E73"><title>what-if-2021-101; cohort 2021; week 7; raw 7,669,254; factor 1.224490; adjusted 9,390,923.27</title></circle>
+<circle class="point" cx="287.04" cy="577.13" r="2.8" stroke="#009E73"><title>what-if-2021-101; cohort 2021; week 8; raw 7,996,004; factor 1.224490; adjusted 9,791,025.31</title></circle>
+<circle class="point" cx="315.19" cy="575.08" r="2.8" stroke="#009E73"><title>what-if-2021-101; cohort 2021; week 9; raw 8,305,947; factor 1.224490; adjusted 10,170,547.35</title></circle>
+<circle class="point" cx="343.33" cy="573.53" r="2.8" stroke="#009E73"><title>what-if-2021-101; cohort 2021; week 10; raw 8,539,490; factor 1.224490; adjusted 10,456,518.37</title></circle>
+<circle class="point" cx="371.48" cy="572.17" r="2.8" stroke="#009E73"><title>what-if-2021-101; cohort 2021; week 11; raw 8,745,804; factor 1.224490; adjusted 10,709,147.76</title></circle>
+<circle class="point" cx="399.63" cy="570.52" r="2.8" stroke="#009E73"><title>what-if-2021-101; cohort 2021; week 12; raw 8,994,697; factor 1.224490; adjusted 11,013,914.69</title></circle>
+<circle class="point" cx="427.78" cy="568.93" r="2.8" stroke="#009E73"><title>what-if-2021-101; cohort 2021; week 13; raw 9,236,031; factor 1.224490; adjusted 11,309,425.71</title></circle>
+<circle class="point" cx="455.93" cy="567.5" r="2.8" stroke="#009E73"><title>what-if-2021-101; cohort 2021; week 14; raw 9,452,588; factor 1.224490; adjusted 11,574,597.55</title></circle>
+<circle class="point" cx="484.07" cy="566.31" r="2.8" stroke="#009E73"><title>what-if-2021-101; cohort 2021; week 15; raw 9,632,766; factor 1.224490; adjusted 11,795,223.67</title></circle>
 <line x1="900" y1="218" x2="945" y2="218" stroke="#009E73" stroke-width="3"/>
-<text x="955" y="223" class="small">2022 · archer-1308</text>
-<polyline class="series" stroke="#CC79A7" points="90,615.65 118.15,606.72 146.3,596.91 174.44,590.37 202.59,583.92 230.74,578.18 258.89,573.2 287.04,568.9 315.19,565.42 343.33,562.24 371.48,559.16 399.63,556.35 427.78,553.78 455.93,551.28 484.07,548.82"><title>turning-red, cohort 2022</title></polyline>
-<circle class="point" cx="90" cy="615.65" r="2.8" stroke="#CC79A7"><title>turning-red; cohort 2022; week 1; raw 2,347,235; factor 1.132075; adjusted 2,657,247.17</title></circle>
-<circle class="point" cx="118.15" cy="606.72" r="2.8" stroke="#CC79A7"><title>turning-red; cohort 2022; week 2; raw 3,808,283; factor 1.132075; adjusted 4,311,263.77</title></circle>
-<circle class="point" cx="146.3" cy="596.91" r="2.8" stroke="#CC79A7"><title>turning-red; cohort 2022; week 3; raw 5,412,883; factor 1.132075; adjusted 6,127,792.08</title></circle>
-<circle class="point" cx="174.44" cy="590.37" r="2.8" stroke="#CC79A7"><title>turning-red; cohort 2022; week 4; raw 6,482,574; factor 1.132075; adjusted 7,338,763.02</title></circle>
-<circle class="point" cx="202.59" cy="583.92" r="2.8" stroke="#CC79A7"><title>turning-red; cohort 2022; week 5; raw 7,538,521; factor 1.132075; adjusted 8,534,174.72</title></circle>
-<circle class="point" cx="230.74" cy="578.18" r="2.8" stroke="#CC79A7"><title>turning-red; cohort 2022; week 6; raw 8,476,679; factor 1.132075; adjusted 9,596,240.38</title></circle>
-<circle class="point" cx="258.89" cy="573.2" r="2.8" stroke="#CC79A7"><title>turning-red; cohort 2022; week 7; raw 9,291,676; factor 1.132075; adjusted 10,518,878.49</title></circle>
-<circle class="point" cx="287.04" cy="568.9" r="2.8" stroke="#CC79A7"><title>turning-red; cohort 2022; week 8; raw 9,994,693; factor 1.132075; adjusted 11,314,746.79</title></circle>
-<circle class="point" cx="315.19" cy="565.42" r="2.8" stroke="#CC79A7"><title>turning-red; cohort 2022; week 9; raw 10,564,004; factor 1.132075; adjusted 11,959,249.81</title></circle>
-<circle class="point" cx="343.33" cy="562.24" r="2.8" stroke="#CC79A7"><title>turning-red; cohort 2022; week 10; raw 11,084,864; factor 1.132075; adjusted 12,548,902.64</title></circle>
-<circle class="point" cx="371.48" cy="559.16" r="2.8" stroke="#CC79A7"><title>turning-red; cohort 2022; week 11; raw 11,587,646; factor 1.132075; adjusted 13,118,089.81</title></circle>
-<circle class="point" cx="399.63" cy="556.35" r="2.8" stroke="#CC79A7"><title>turning-red; cohort 2022; week 12; raw 12,047,968; factor 1.132075; adjusted 13,639,209.06</title></circle>
-<circle class="point" cx="427.78" cy="553.78" r="2.8" stroke="#CC79A7"><title>turning-red; cohort 2022; week 13; raw 12,468,709; factor 1.132075; adjusted 14,115,519.62</title></circle>
-<circle class="point" cx="455.93" cy="551.28" r="2.8" stroke="#CC79A7"><title>turning-red; cohort 2022; week 14; raw 12,877,038; factor 1.132075; adjusted 14,577,778.87</title></circle>
-<circle class="point" cx="484.07" cy="548.82" r="2.8" stroke="#CC79A7"><title>turning-red; cohort 2022; week 15; raw 13,279,797; factor 1.132075; adjusted 15,033,732.45</title></circle>
+<text x="955" y="223" class="small">2021 · what-if-2021-101</text>
+<polyline class="series" stroke="#CC79A7" points="90,629.21 118.15,628.79 146.3,628.36 174.44,627.94 202.59,627.53 230.74,627.18 258.89,626.88 287.04,626.54 315.19,626.25 343.33,626 371.48,625.79 399.63,625.55 427.78,625.32 455.93,625.06 484.07,624.82"><title>archer-1308, cohort 2022</title></polyline>
+<circle class="point" cx="90" cy="629.21" r="2.8" stroke="#CC79A7"><title>archer-1308; cohort 2022; week 1; raw 128,412; factor 1.132075; adjusted 145,372.08</title></circle>
+<circle class="point" cx="118.15" cy="628.79" r="2.8" stroke="#CC79A7"><title>archer-1308; cohort 2022; week 2; raw 198,565; factor 1.132075; adjusted 224,790.57</title></circle>
+<circle class="point" cx="146.3" cy="628.36" r="2.8" stroke="#CC79A7"><title>archer-1308; cohort 2022; week 3; raw 267,468; factor 1.132075; adjusted 302,793.96</title></circle>
+<circle class="point" cx="174.44" cy="627.94" r="2.8" stroke="#CC79A7"><title>archer-1308; cohort 2022; week 4; raw 336,744; factor 1.132075; adjusted 381,219.62</title></circle>
+<circle class="point" cx="202.59" cy="627.53" r="2.8" stroke="#CC79A7"><title>archer-1308; cohort 2022; week 5; raw 404,463; factor 1.132075; adjusted 457,882.64</title></circle>
+<circle class="point" cx="230.74" cy="627.18" r="2.8" stroke="#CC79A7"><title>archer-1308; cohort 2022; week 6; raw 461,422; factor 1.132075; adjusted 522,364.53</title></circle>
+<circle class="point" cx="258.89" cy="626.88" r="2.8" stroke="#CC79A7"><title>archer-1308; cohort 2022; week 7; raw 510,534; factor 1.132075; adjusted 577,963.02</title></circle>
+<circle class="point" cx="287.04" cy="626.54" r="2.8" stroke="#CC79A7"><title>archer-1308; cohort 2022; week 8; raw 566,277; factor 1.132075; adjusted 641,068.30</title></circle>
+<circle class="point" cx="315.19" cy="626.25" r="2.8" stroke="#CC79A7"><title>archer-1308; cohort 2022; week 9; raw 613,446; factor 1.132075; adjusted 694,467.17</title></circle>
+<circle class="point" cx="343.33" cy="626" r="2.8" stroke="#CC79A7"><title>archer-1308; cohort 2022; week 10; raw 653,800; factor 1.132075; adjusted 740,150.94</title></circle>
+<circle class="point" cx="371.48" cy="625.79" r="2.8" stroke="#CC79A7"><title>archer-1308; cohort 2022; week 11; raw 689,144; factor 1.132075; adjusted 780,163.02</title></circle>
+<circle class="point" cx="399.63" cy="625.55" r="2.8" stroke="#CC79A7"><title>archer-1308; cohort 2022; week 12; raw 727,224; factor 1.132075; adjusted 823,272.45</title></circle>
+<circle class="point" cx="427.78" cy="625.32" r="2.8" stroke="#CC79A7"><title>archer-1308; cohort 2022; week 13; raw 765,876; factor 1.132075; adjusted 867,029.43</title></circle>
+<circle class="point" cx="455.93" cy="625.06" r="2.8" stroke="#CC79A7"><title>archer-1308; cohort 2022; week 14; raw 807,926; factor 1.132075; adjusted 914,633.21</title></circle>
+<circle class="point" cx="484.07" cy="624.82" r="2.8" stroke="#CC79A7"><title>archer-1308; cohort 2022; week 15; raw 847,063; factor 1.132075; adjusted 958,939.25</title></circle>
 <line x1="900" y1="252" x2="945" y2="252" stroke="#CC79A7" stroke-width="3"/>
-<text x="955" y="257" class="small">2022 · turning-red</text>
-<polyline class="series" stroke="#E69F00" stroke-dasharray="10 4" points="90,628.97 118.15,627.87 146.3,626.76 174.44,625.85 202.59,624.81 230.74,623.83 258.89,622.7 287.04,621.76 315.19,620.17 343.33,618.58 371.48,616.88 399.63,615.1 427.78,613.44 455.93,611.78 484.07,609.94 512.22,608.26 540.37,606.65 568.52,604.89 596.67,603.07 624.81,601.35 652.96,599.57 681.11,597.92 709.26,596.35 737.41,594.73 765.56,593.01 793.7,591.25"><title>archer-1401, cohort 2023</title></polyline>
-<circle class="point" cx="90" cy="628.97" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 1; raw 172,471; factor 1.111111; adjusted 191,634.44</title></circle>
-<circle class="point" cx="118.15" cy="627.87" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 2; raw 355,507; factor 1.111111; adjusted 395,007.78</title></circle>
-<circle class="point" cx="146.3" cy="626.76" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 3; raw 539,409; factor 1.111111; adjusted 599,343.33</title></circle>
-<circle class="point" cx="174.44" cy="625.85" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 4; raw 691,601; factor 1.111111; adjusted 768,445.56</title></circle>
-<circle class="point" cx="202.59" cy="624.81" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 5; raw 864,898; factor 1.111111; adjusted 960,997.78</title></circle>
-<circle class="point" cx="230.74" cy="623.83" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 6; raw 1,027,644; factor 1.111111; adjusted 1,141,826.67</title></circle>
-<circle class="point" cx="258.89" cy="622.7" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 7; raw 1,216,814; factor 1.111111; adjusted 1,352,015.56</title></circle>
-<circle class="point" cx="287.04" cy="621.76" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 8; raw 1,373,570; factor 1.111111; adjusted 1,526,188.89</title></circle>
-<circle class="point" cx="315.19" cy="620.17" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 9; raw 1,638,602; factor 1.111111; adjusted 1,820,668.89</title></circle>
-<circle class="point" cx="343.33" cy="618.58" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 10; raw 1,903,332; factor 1.111111; adjusted 2,114,813.33</title></circle>
-<circle class="point" cx="371.48" cy="616.88" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 11; raw 2,187,187; factor 1.111111; adjusted 2,430,207.78</title></circle>
-<circle class="point" cx="399.63" cy="615.1" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 12; raw 2,483,520; factor 1.111111; adjusted 2,759,466.67</title></circle>
-<circle class="point" cx="427.78" cy="613.44" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 13; raw 2,760,082; factor 1.111111; adjusted 3,066,757.78</title></circle>
-<circle class="point" cx="455.93" cy="611.78" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 14; raw 3,036,951; factor 1.111111; adjusted 3,374,390.00</title></circle>
-<circle class="point" cx="484.07" cy="609.94" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 15; raw 3,344,123; factor 1.111111; adjusted 3,715,692.22</title></circle>
-<circle class="point" cx="512.22" cy="608.26" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 16; raw 3,623,232; factor 1.111111; adjusted 4,025,813.33</title></circle>
-<circle class="point" cx="540.37" cy="606.65" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 17; raw 3,891,160; factor 1.111111; adjusted 4,323,511.11</title></circle>
-<circle class="point" cx="568.52" cy="604.89" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 18; raw 4,184,590; factor 1.111111; adjusted 4,649,544.44</title></circle>
-<circle class="point" cx="596.67" cy="603.07" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 19; raw 4,487,561; factor 1.111111; adjusted 4,986,178.89</title></circle>
-<circle class="point" cx="624.81" cy="601.35" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 20; raw 4,774,876; factor 1.111111; adjusted 5,305,417.78</title></circle>
-<circle class="point" cx="652.96" cy="599.57" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 21; raw 5,071,020; factor 1.111111; adjusted 5,634,466.67</title></circle>
-<circle class="point" cx="681.11" cy="597.92" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 22; raw 5,346,533; factor 1.111111; adjusted 5,940,592.22</title></circle>
-<circle class="point" cx="709.26" cy="596.35" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 23; raw 5,608,736; factor 1.111111; adjusted 6,231,928.89</title></circle>
-<circle class="point" cx="737.41" cy="594.73" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 24; raw 5,878,350; factor 1.111111; adjusted 6,531,500.00</title></circle>
-<circle class="point" cx="765.56" cy="593.01" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 25; raw 6,165,239; factor 1.111111; adjusted 6,850,265.56</title></circle>
-<circle class="point" cx="793.7" cy="591.25" r="2.8" stroke="#E69F00"><title>archer-1401; cohort 2023; week 26; raw 6,457,910; factor 1.111111; adjusted 7,175,455.56</title></circle>
-<line x1="900" y1="286" x2="945" y2="286" stroke="#E69F00" stroke-width="3" stroke-dasharray="10 4"/>
-<text x="955" y="291" class="small">2023 · archer-1401</text>
-<polyline class="series" stroke="#56B4E9" stroke-dasharray="3 3" points="90,618.54 118.15,604.83 146.3,593.43 174.44,581.44 202.59,567.96 230.74,555.33 258.89,541.42 287.04,528.05 315.19,515.8 343.33,503.65 371.48,492.49 399.63,481.2 427.78,470.51 455.93,458.56 484.07,445.22 512.22,433.43 540.37,421.91 568.52,411.14 596.67,393 624.81,374.9 652.96,356.42 681.11,338.88 709.26,321.1 737.41,302.99 765.56,285.39 793.7,267.75 821.85,250.41 850,240.65"><title>inside-out-2, cohort 2024</title></polyline>
-<circle class="point" cx="90" cy="618.54" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 1; raw 1,946,198; factor 1.090909; adjusted 2,123,125.09</title></circle>
-<circle class="point" cx="118.15" cy="604.83" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 2; raw 4,273,232; factor 1.090909; adjusted 4,661,707.64</title></circle>
-<circle class="point" cx="146.3" cy="593.43" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 3; raw 6,208,284; factor 1.090909; adjusted 6,772,673.45</title></circle>
-<circle class="point" cx="174.44" cy="581.44" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 4; raw 8,242,648; factor 1.090909; adjusted 8,991,979.64</title></circle>
-<circle class="point" cx="202.59" cy="567.96" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 5; raw 10,531,935; factor 1.090909; adjusted 11,489,383.64</title></circle>
-<circle class="point" cx="230.74" cy="555.33" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 6; raw 12,674,708; factor 1.090909; adjusted 13,826,954.18</title></circle>
-<circle class="point" cx="258.89" cy="541.42" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 7; raw 15,036,058; factor 1.090909; adjusted 16,402,972.36</title></circle>
-<circle class="point" cx="287.04" cy="528.05" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 8; raw 17,305,867; factor 1.090909; adjusted 18,879,127.64</title></circle>
-<circle class="point" cx="315.19" cy="515.8" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 9; raw 19,385,951; factor 1.090909; adjusted 21,148,310.18</title></circle>
-<circle class="point" cx="343.33" cy="503.65" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 10; raw 21,447,583; factor 1.090909; adjusted 23,397,363.27</title></circle>
-<circle class="point" cx="371.48" cy="492.49" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 11; raw 23,343,537; factor 1.090909; adjusted 25,465,676.73</title></circle>
-<circle class="point" cx="399.63" cy="481.2" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 12; raw 25,259,280; factor 1.090909; adjusted 27,555,578.18</title></circle>
-<circle class="point" cx="427.78" cy="470.51" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 13; raw 27,073,152; factor 1.090909; adjusted 29,534,347.64</title></circle>
-<circle class="point" cx="455.93" cy="458.56" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 14; raw 29,102,037; factor 1.090909; adjusted 31,747,676.73</title></circle>
-<circle class="point" cx="484.07" cy="445.22" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 15; raw 31,367,823; factor 1.090909; adjusted 34,219,443.27</title></circle>
-<circle class="point" cx="512.22" cy="433.43" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 16; raw 33,368,908; factor 1.090909; adjusted 36,402,445.09</title></circle>
-<circle class="point" cx="540.37" cy="421.91" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 17; raw 35,323,246; factor 1.090909; adjusted 38,534,450.18</title></circle>
-<circle class="point" cx="568.52" cy="411.14" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 18; raw 37,151,475; factor 1.090909; adjusted 40,528,881.82</title></circle>
-<circle class="point" cx="596.67" cy="393" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 19; raw 40,230,860; factor 1.090909; adjusted 43,888,210.91</title></circle>
-<circle class="point" cx="624.81" cy="374.9" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 20; raw 43,304,226; factor 1.090909; adjusted 47,240,973.82</title></circle>
-<circle class="point" cx="652.96" cy="356.42" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 21; raw 46,440,661; factor 1.090909; adjusted 50,662,539.27</title></circle>
-<circle class="point" cx="681.11" cy="338.88" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 22; raw 49,418,133; factor 1.090909; adjusted 53,910,690.55</title></circle>
-<circle class="point" cx="709.26" cy="321.1" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 23; raw 52,436,863; factor 1.090909; adjusted 57,203,850.55</title></circle>
-<circle class="point" cx="737.41" cy="302.99" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 24; raw 55,511,771; factor 1.090909; adjusted 60,558,295.64</title></circle>
-<circle class="point" cx="765.56" cy="285.39" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 25; raw 58,498,991; factor 1.090909; adjusted 63,817,081.09</title></circle>
-<circle class="point" cx="793.7" cy="267.75" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 26; raw 61,493,848; factor 1.090909; adjusted 67,084,197.82</title></circle>
-<circle class="point" cx="821.85" cy="250.41" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 27; raw 64,436,272; factor 1.090909; adjusted 70,294,114.91</title></circle>
-<circle class="point" cx="850" cy="240.65" r="2.8" stroke="#56B4E9"><title>inside-out-2; cohort 2024; week 28; raw 66,093,610; factor 1.090909; adjusted 72,102,120.00</title></circle>
-<line x1="900" y1="320" x2="945" y2="320" stroke="#56B4E9" stroke-width="3" stroke-dasharray="3 3"/>
-<text x="955" y="325" class="small">2024 · inside-out-2</text>
-<polyline class="series" stroke="#6F4E7C" stroke-dasharray="3 3" points="90,624.44 118.15,612.77 146.3,600.41 174.44,583.91 202.59,567.2 230.74,550.39 258.89,534.35 287.04,517.78 315.19,501.07 343.33,485.72 371.48,470.53 399.63,455.98 427.78,441.52 455.93,426.98 484.07,413.63 512.22,402.1 540.37,390.49 568.52,378.36 596.67,366.82 624.81,355.31 652.96,344.1 681.11,332.13 709.26,320.33 737.41,308.2 765.56,301.03 793.7,288.39"><title>what-if-2021-03, cohort 2024</title></polyline>
-<circle class="point" cx="90" cy="624.44" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 1; raw 943,387; factor 1.090909; adjusted 1,029,149.45</title></circle>
-<circle class="point" cx="118.15" cy="612.77" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 2; raw 2,924,900; factor 1.090909; adjusted 3,190,800.00</title></circle>
-<circle class="point" cx="146.3" cy="600.41" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 3; raw 5,022,521; factor 1.090909; adjusted 5,479,113.82</title></circle>
-<circle class="point" cx="174.44" cy="583.91" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 4; raw 7,823,867; factor 1.090909; adjusted 8,535,127.64</title></circle>
-<circle class="point" cx="202.59" cy="567.2" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 5; raw 10,659,733; factor 1.090909; adjusted 11,628,799.64</title></circle>
-<circle class="point" cx="230.74" cy="550.39" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 6; raw 13,514,178; factor 1.090909; adjusted 14,742,739.64</title></circle>
-<circle class="point" cx="258.89" cy="534.35" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 7; raw 16,237,550; factor 1.090909; adjusted 17,713,690.91</title></circle>
-<circle class="point" cx="287.04" cy="517.78" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 8; raw 19,050,028; factor 1.090909; adjusted 20,781,848.73</title></circle>
-<circle class="point" cx="315.19" cy="501.07" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 9; raw 21,885,810; factor 1.090909; adjusted 23,875,429.09</title></circle>
-<circle class="point" cx="343.33" cy="485.72" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 10; raw 24,491,583; factor 1.090909; adjusted 26,718,090.55</title></circle>
-<circle class="point" cx="371.48" cy="470.53" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 11; raw 27,070,992; factor 1.090909; adjusted 29,531,991.27</title></circle>
-<circle class="point" cx="399.63" cy="455.98" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 12; raw 29,539,914; factor 1.090909; adjusted 32,225,360.73</title></circle>
-<circle class="point" cx="427.78" cy="441.52" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 13; raw 31,994,521; factor 1.090909; adjusted 34,903,113.82</title></circle>
-<circle class="point" cx="455.93" cy="426.98" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 14; raw 34,463,633; factor 1.090909; adjusted 37,596,690.55</title></circle>
-<circle class="point" cx="484.07" cy="413.63" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 15; raw 36,728,759; factor 1.090909; adjusted 40,067,737.09</title></circle>
-<circle class="point" cx="512.22" cy="402.1" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 16; raw 38,686,657; factor 1.090909; adjusted 42,203,625.82</title></circle>
-<circle class="point" cx="540.37" cy="390.49" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 17; raw 40,656,977; factor 1.090909; adjusted 44,353,065.82</title></circle>
-<circle class="point" cx="568.52" cy="378.36" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 18; raw 42,716,730; factor 1.090909; adjusted 46,600,069.09</title></circle>
-<circle class="point" cx="596.67" cy="366.82" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 19; raw 44,676,347; factor 1.090909; adjusted 48,737,833.09</title></circle>
-<circle class="point" cx="624.81" cy="355.31" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 20; raw 46,630,249; factor 1.090909; adjusted 50,869,362.55</title></circle>
-<circle class="point" cx="652.96" cy="344.1" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 21; raw 48,532,165; factor 1.090909; adjusted 52,944,180.00</title></circle>
-<circle class="point" cx="681.11" cy="332.13" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 22; raw 50,563,890; factor 1.090909; adjusted 55,160,607.27</title></circle>
-<circle class="point" cx="709.26" cy="320.33" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 23; raw 52,567,786; factor 1.090909; adjusted 57,346,675.64</title></circle>
-<circle class="point" cx="737.41" cy="308.2" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 24; raw 54,626,938; factor 1.090909; adjusted 59,593,023.27</title></circle>
-<circle class="point" cx="765.56" cy="301.03" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 25; raw 55,843,811; factor 1.090909; adjusted 60,920,521.09</title></circle>
-<circle class="point" cx="793.7" cy="288.39" r="2.8" stroke="#6F4E7C"><title>what-if-2021-03; cohort 2024; week 26; raw 57,989,142; factor 1.090909; adjusted 63,260,882.18</title></circle>
+<text x="955" y="257" class="small">2022 · archer-1308</text>
+<polyline class="series" stroke="#E69F00" points="90,615.65 118.15,606.72 146.3,596.91 174.44,590.37 202.59,583.92 230.74,578.18 258.89,573.2 287.04,568.9 315.19,565.42 343.33,562.24 371.48,559.16 399.63,556.35 427.78,553.78 455.93,551.28 484.07,548.82"><title>turning-red, cohort 2022</title></polyline>
+<circle class="point" cx="90" cy="615.65" r="2.8" stroke="#E69F00"><title>turning-red; cohort 2022; week 1; raw 2,347,235; factor 1.132075; adjusted 2,657,247.17</title></circle>
+<circle class="point" cx="118.15" cy="606.72" r="2.8" stroke="#E69F00"><title>turning-red; cohort 2022; week 2; raw 3,808,283; factor 1.132075; adjusted 4,311,263.77</title></circle>
+<circle class="point" cx="146.3" cy="596.91" r="2.8" stroke="#E69F00"><title>turning-red; cohort 2022; week 3; raw 5,412,883; factor 1.132075; adjusted 6,127,792.08</title></circle>
+<circle class="point" cx="174.44" cy="590.37" r="2.8" stroke="#E69F00"><title>turning-red; cohort 2022; week 4; raw 6,482,574; factor 1.132075; adjusted 7,338,763.02</title></circle>
+<circle class="point" cx="202.59" cy="583.92" r="2.8" stroke="#E69F00"><title>turning-red; cohort 2022; week 5; raw 7,538,521; factor 1.132075; adjusted 8,534,174.72</title></circle>
+<circle class="point" cx="230.74" cy="578.18" r="2.8" stroke="#E69F00"><title>turning-red; cohort 2022; week 6; raw 8,476,679; factor 1.132075; adjusted 9,596,240.38</title></circle>
+<circle class="point" cx="258.89" cy="573.2" r="2.8" stroke="#E69F00"><title>turning-red; cohort 2022; week 7; raw 9,291,676; factor 1.132075; adjusted 10,518,878.49</title></circle>
+<circle class="point" cx="287.04" cy="568.9" r="2.8" stroke="#E69F00"><title>turning-red; cohort 2022; week 8; raw 9,994,693; factor 1.132075; adjusted 11,314,746.79</title></circle>
+<circle class="point" cx="315.19" cy="565.42" r="2.8" stroke="#E69F00"><title>turning-red; cohort 2022; week 9; raw 10,564,004; factor 1.132075; adjusted 11,959,249.81</title></circle>
+<circle class="point" cx="343.33" cy="562.24" r="2.8" stroke="#E69F00"><title>turning-red; cohort 2022; week 10; raw 11,084,864; factor 1.132075; adjusted 12,548,902.64</title></circle>
+<circle class="point" cx="371.48" cy="559.16" r="2.8" stroke="#E69F00"><title>turning-red; cohort 2022; week 11; raw 11,587,646; factor 1.132075; adjusted 13,118,089.81</title></circle>
+<circle class="point" cx="399.63" cy="556.35" r="2.8" stroke="#E69F00"><title>turning-red; cohort 2022; week 12; raw 12,047,968; factor 1.132075; adjusted 13,639,209.06</title></circle>
+<circle class="point" cx="427.78" cy="553.78" r="2.8" stroke="#E69F00"><title>turning-red; cohort 2022; week 13; raw 12,468,709; factor 1.132075; adjusted 14,115,519.62</title></circle>
+<circle class="point" cx="455.93" cy="551.28" r="2.8" stroke="#E69F00"><title>turning-red; cohort 2022; week 14; raw 12,877,038; factor 1.132075; adjusted 14,577,778.87</title></circle>
+<circle class="point" cx="484.07" cy="548.82" r="2.8" stroke="#E69F00"><title>turning-red; cohort 2022; week 15; raw 13,279,797; factor 1.132075; adjusted 15,033,732.45</title></circle>
+<line x1="900" y1="286" x2="945" y2="286" stroke="#E69F00" stroke-width="3"/>
+<text x="955" y="291" class="small">2022 · turning-red</text>
+<polyline class="series" stroke="#56B4E9" stroke-dasharray="10 4" points="90,628.97 118.15,627.87 146.3,626.76 174.44,625.85 202.59,624.81 230.74,623.83 258.89,622.7 287.04,621.76 315.19,620.17 343.33,618.58 371.48,616.88 399.63,615.1 427.78,613.44 455.93,611.78 484.07,609.94 512.22,608.26 540.37,606.65 568.52,604.89 596.67,603.07 624.81,601.35 652.96,599.57 681.11,597.92 709.26,596.35 737.41,594.73 765.56,593.01 793.7,591.25"><title>archer-1401, cohort 2023</title></polyline>
+<circle class="point" cx="90" cy="628.97" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 1; raw 172,471; factor 1.111111; adjusted 191,634.44</title></circle>
+<circle class="point" cx="118.15" cy="627.87" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 2; raw 355,507; factor 1.111111; adjusted 395,007.78</title></circle>
+<circle class="point" cx="146.3" cy="626.76" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 3; raw 539,409; factor 1.111111; adjusted 599,343.33</title></circle>
+<circle class="point" cx="174.44" cy="625.85" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 4; raw 691,601; factor 1.111111; adjusted 768,445.56</title></circle>
+<circle class="point" cx="202.59" cy="624.81" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 5; raw 864,898; factor 1.111111; adjusted 960,997.78</title></circle>
+<circle class="point" cx="230.74" cy="623.83" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 6; raw 1,027,644; factor 1.111111; adjusted 1,141,826.67</title></circle>
+<circle class="point" cx="258.89" cy="622.7" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 7; raw 1,216,814; factor 1.111111; adjusted 1,352,015.56</title></circle>
+<circle class="point" cx="287.04" cy="621.76" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 8; raw 1,373,570; factor 1.111111; adjusted 1,526,188.89</title></circle>
+<circle class="point" cx="315.19" cy="620.17" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 9; raw 1,638,602; factor 1.111111; adjusted 1,820,668.89</title></circle>
+<circle class="point" cx="343.33" cy="618.58" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 10; raw 1,903,332; factor 1.111111; adjusted 2,114,813.33</title></circle>
+<circle class="point" cx="371.48" cy="616.88" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 11; raw 2,187,187; factor 1.111111; adjusted 2,430,207.78</title></circle>
+<circle class="point" cx="399.63" cy="615.1" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 12; raw 2,483,520; factor 1.111111; adjusted 2,759,466.67</title></circle>
+<circle class="point" cx="427.78" cy="613.44" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 13; raw 2,760,082; factor 1.111111; adjusted 3,066,757.78</title></circle>
+<circle class="point" cx="455.93" cy="611.78" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 14; raw 3,036,951; factor 1.111111; adjusted 3,374,390.00</title></circle>
+<circle class="point" cx="484.07" cy="609.94" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 15; raw 3,344,123; factor 1.111111; adjusted 3,715,692.22</title></circle>
+<circle class="point" cx="512.22" cy="608.26" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 16; raw 3,623,232; factor 1.111111; adjusted 4,025,813.33</title></circle>
+<circle class="point" cx="540.37" cy="606.65" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 17; raw 3,891,160; factor 1.111111; adjusted 4,323,511.11</title></circle>
+<circle class="point" cx="568.52" cy="604.89" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 18; raw 4,184,590; factor 1.111111; adjusted 4,649,544.44</title></circle>
+<circle class="point" cx="596.67" cy="603.07" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 19; raw 4,487,561; factor 1.111111; adjusted 4,986,178.89</title></circle>
+<circle class="point" cx="624.81" cy="601.35" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 20; raw 4,774,876; factor 1.111111; adjusted 5,305,417.78</title></circle>
+<circle class="point" cx="652.96" cy="599.57" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 21; raw 5,071,020; factor 1.111111; adjusted 5,634,466.67</title></circle>
+<circle class="point" cx="681.11" cy="597.92" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 22; raw 5,346,533; factor 1.111111; adjusted 5,940,592.22</title></circle>
+<circle class="point" cx="709.26" cy="596.35" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 23; raw 5,608,736; factor 1.111111; adjusted 6,231,928.89</title></circle>
+<circle class="point" cx="737.41" cy="594.73" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 24; raw 5,878,350; factor 1.111111; adjusted 6,531,500.00</title></circle>
+<circle class="point" cx="765.56" cy="593.01" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 25; raw 6,165,239; factor 1.111111; adjusted 6,850,265.56</title></circle>
+<circle class="point" cx="793.7" cy="591.25" r="2.8" stroke="#56B4E9"><title>archer-1401; cohort 2023; week 26; raw 6,457,910; factor 1.111111; adjusted 7,175,455.56</title></circle>
+<line x1="900" y1="320" x2="945" y2="320" stroke="#56B4E9" stroke-width="3" stroke-dasharray="10 4"/>
+<text x="955" y="325" class="small">2023 · archer-1401</text>
+<polyline class="series" stroke="#6F4E7C" stroke-dasharray="3 3" points="90,618.54 118.15,604.83 146.3,593.43 174.44,581.44 202.59,567.96 230.74,555.33 258.89,541.42 287.04,528.05 315.19,515.8 343.33,503.65 371.48,492.49 399.63,481.2 427.78,470.51 455.93,458.56 484.07,445.22 512.22,433.43 540.37,421.91 568.52,411.14 596.67,393 624.81,374.9 652.96,356.42 681.11,338.88 709.26,321.1 737.41,302.99 765.56,285.39 793.7,267.75 821.85,250.41 850,240.65"><title>inside-out-2, cohort 2024</title></polyline>
+<circle class="point" cx="90" cy="618.54" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 1; raw 1,946,198; factor 1.090909; adjusted 2,123,125.09</title></circle>
+<circle class="point" cx="118.15" cy="604.83" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 2; raw 4,273,232; factor 1.090909; adjusted 4,661,707.64</title></circle>
+<circle class="point" cx="146.3" cy="593.43" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 3; raw 6,208,284; factor 1.090909; adjusted 6,772,673.45</title></circle>
+<circle class="point" cx="174.44" cy="581.44" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 4; raw 8,242,648; factor 1.090909; adjusted 8,991,979.64</title></circle>
+<circle class="point" cx="202.59" cy="567.96" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 5; raw 10,531,935; factor 1.090909; adjusted 11,489,383.64</title></circle>
+<circle class="point" cx="230.74" cy="555.33" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 6; raw 12,674,708; factor 1.090909; adjusted 13,826,954.18</title></circle>
+<circle class="point" cx="258.89" cy="541.42" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 7; raw 15,036,058; factor 1.090909; adjusted 16,402,972.36</title></circle>
+<circle class="point" cx="287.04" cy="528.05" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 8; raw 17,305,867; factor 1.090909; adjusted 18,879,127.64</title></circle>
+<circle class="point" cx="315.19" cy="515.8" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 9; raw 19,385,951; factor 1.090909; adjusted 21,148,310.18</title></circle>
+<circle class="point" cx="343.33" cy="503.65" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 10; raw 21,447,583; factor 1.090909; adjusted 23,397,363.27</title></circle>
+<circle class="point" cx="371.48" cy="492.49" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 11; raw 23,343,537; factor 1.090909; adjusted 25,465,676.73</title></circle>
+<circle class="point" cx="399.63" cy="481.2" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 12; raw 25,259,280; factor 1.090909; adjusted 27,555,578.18</title></circle>
+<circle class="point" cx="427.78" cy="470.51" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 13; raw 27,073,152; factor 1.090909; adjusted 29,534,347.64</title></circle>
+<circle class="point" cx="455.93" cy="458.56" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 14; raw 29,102,037; factor 1.090909; adjusted 31,747,676.73</title></circle>
+<circle class="point" cx="484.07" cy="445.22" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 15; raw 31,367,823; factor 1.090909; adjusted 34,219,443.27</title></circle>
+<circle class="point" cx="512.22" cy="433.43" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 16; raw 33,368,908; factor 1.090909; adjusted 36,402,445.09</title></circle>
+<circle class="point" cx="540.37" cy="421.91" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 17; raw 35,323,246; factor 1.090909; adjusted 38,534,450.18</title></circle>
+<circle class="point" cx="568.52" cy="411.14" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 18; raw 37,151,475; factor 1.090909; adjusted 40,528,881.82</title></circle>
+<circle class="point" cx="596.67" cy="393" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 19; raw 40,230,860; factor 1.090909; adjusted 43,888,210.91</title></circle>
+<circle class="point" cx="624.81" cy="374.9" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 20; raw 43,304,226; factor 1.090909; adjusted 47,240,973.82</title></circle>
+<circle class="point" cx="652.96" cy="356.42" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 21; raw 46,440,661; factor 1.090909; adjusted 50,662,539.27</title></circle>
+<circle class="point" cx="681.11" cy="338.88" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 22; raw 49,418,133; factor 1.090909; adjusted 53,910,690.55</title></circle>
+<circle class="point" cx="709.26" cy="321.1" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 23; raw 52,436,863; factor 1.090909; adjusted 57,203,850.55</title></circle>
+<circle class="point" cx="737.41" cy="302.99" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 24; raw 55,511,771; factor 1.090909; adjusted 60,558,295.64</title></circle>
+<circle class="point" cx="765.56" cy="285.39" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 25; raw 58,498,991; factor 1.090909; adjusted 63,817,081.09</title></circle>
+<circle class="point" cx="793.7" cy="267.75" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 26; raw 61,493,848; factor 1.090909; adjusted 67,084,197.82</title></circle>
+<circle class="point" cx="821.85" cy="250.41" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 27; raw 64,436,272; factor 1.090909; adjusted 70,294,114.91</title></circle>
+<circle class="point" cx="850" cy="240.65" r="2.8" stroke="#6F4E7C"><title>inside-out-2; cohort 2024; week 28; raw 66,093,610; factor 1.090909; adjusted 72,102,120.00</title></circle>
 <line x1="900" y1="354" x2="945" y2="354" stroke="#6F4E7C" stroke-width="3" stroke-dasharray="3 3"/>
-<text x="955" y="359" class="small">2024 · what-if-2021-03</text>
-<polyline class="series" stroke="#000000" points="90,626.06 118.15,618.97 146.3,613.23 174.44,608.52 202.59,602.87 230.74,597.4 258.89,592.08 287.04,586.09 315.19,579.74 343.33,573.39 371.48,566.56 399.63,560.28 427.78,553.71 455.93,546.99 484.07,540.59 512.22,534.53 540.37,528.43 568.52,521.73 596.67,513.97 624.81,505.79 652.96,499.44 681.11,492.58 709.26,484.93 737.41,477.46 765.56,470.29 793.7,462.93"><title>eyes-of-wakanda-01, cohort 2025</title></polyline>
-<circle class="point" cx="90" cy="626.06" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 1; raw 729,376; factor 1.000000; adjusted 729,376.00</title></circle>
-<circle class="point" cx="118.15" cy="618.97" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 2; raw 2,043,484; factor 1.000000; adjusted 2,043,484.00</title></circle>
-<circle class="point" cx="146.3" cy="613.23" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 3; raw 3,106,364; factor 1.000000; adjusted 3,106,364.00</title></circle>
-<circle class="point" cx="174.44" cy="608.52" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 4; raw 3,978,142; factor 1.000000; adjusted 3,978,142.00</title></circle>
-<circle class="point" cx="202.59" cy="602.87" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 5; raw 5,023,271; factor 1.000000; adjusted 5,023,271.00</title></circle>
-<circle class="point" cx="230.74" cy="597.4" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 6; raw 6,037,871; factor 1.000000; adjusted 6,037,871.00</title></circle>
-<circle class="point" cx="258.89" cy="592.08" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 7; raw 7,022,177; factor 1.000000; adjusted 7,022,177.00</title></circle>
-<circle class="point" cx="287.04" cy="586.09" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 8; raw 8,130,803; factor 1.000000; adjusted 8,130,803.00</title></circle>
-<circle class="point" cx="315.19" cy="579.74" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 9; raw 9,308,212; factor 1.000000; adjusted 9,308,212.00</title></circle>
-<circle class="point" cx="343.33" cy="573.39" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 10; raw 10,483,902; factor 1.000000; adjusted 10,483,902.00</title></circle>
-<circle class="point" cx="371.48" cy="566.56" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 11; raw 11,748,394; factor 1.000000; adjusted 11,748,394.00</title></circle>
-<circle class="point" cx="399.63" cy="560.28" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 12; raw 12,910,293; factor 1.000000; adjusted 12,910,293.00</title></circle>
-<circle class="point" cx="427.78" cy="553.71" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 13; raw 14,127,786; factor 1.000000; adjusted 14,127,786.00</title></circle>
-<circle class="point" cx="455.93" cy="546.99" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 14; raw 15,372,899; factor 1.000000; adjusted 15,372,899.00</title></circle>
-<circle class="point" cx="484.07" cy="540.59" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 15; raw 16,556,718; factor 1.000000; adjusted 16,556,718.00</title></circle>
-<circle class="point" cx="512.22" cy="534.53" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 16; raw 17,679,697; factor 1.000000; adjusted 17,679,697.00</title></circle>
-<circle class="point" cx="540.37" cy="528.43" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 17; raw 18,808,417; factor 1.000000; adjusted 18,808,417.00</title></circle>
-<circle class="point" cx="568.52" cy="521.73" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 18; raw 20,050,909; factor 1.000000; adjusted 20,050,909.00</title></circle>
-<circle class="point" cx="596.67" cy="513.97" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 19; raw 21,486,372; factor 1.000000; adjusted 21,486,372.00</title></circle>
-<circle class="point" cx="624.81" cy="505.79" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 20; raw 23,002,777; factor 1.000000; adjusted 23,002,777.00</title></circle>
-<circle class="point" cx="652.96" cy="499.44" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 21; raw 24,177,906; factor 1.000000; adjusted 24,177,906.00</title></circle>
-<circle class="point" cx="681.11" cy="492.58" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 22; raw 25,448,014; factor 1.000000; adjusted 25,448,014.00</title></circle>
-<circle class="point" cx="709.26" cy="484.93" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 23; raw 26,864,429; factor 1.000000; adjusted 26,864,429.00</title></circle>
-<circle class="point" cx="737.41" cy="477.46" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 24; raw 28,248,311; factor 1.000000; adjusted 28,248,311.00</title></circle>
-<circle class="point" cx="765.56" cy="470.29" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 25; raw 29,575,344; factor 1.000000; adjusted 29,575,344.00</title></circle>
-<circle class="point" cx="793.7" cy="462.93" r="2.8" stroke="#000000"><title>eyes-of-wakanda-01; cohort 2025; week 26; raw 30,938,193; factor 1.000000; adjusted 30,938,193.00</title></circle>
-<line x1="900" y1="388" x2="945" y2="388" stroke="#000000" stroke-width="3"/>
-<text x="955" y="393" class="small">2025 · eyes-of-wakanda-01</text>
-<polyline class="series" stroke="#0072B2" points="90,626.56 118.15,618.88 146.3,606.95 174.44,592.77 202.59,578.39 230.74,563.84 258.89,549.8 287.04,536.27 315.19,522.99 343.33,511.78 371.48,500.28 399.63,489.13 427.78,478.33 455.93,467.24 484.07,456.1 512.22,444.79 540.37,433.81 568.52,423 596.67,411.87 624.81,400.03 652.96,388.78 681.11,377.74 709.26,367.51 737.41,357.3 765.56,347.72 793.7,334.93"><title>your-friendly-neighborhood-spider-man-01, cohort 2025</title></polyline>
-<circle class="point" cx="90" cy="626.56" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 1; raw 637,644; factor 1.000000; adjusted 637,644.00</title></circle>
-<circle class="point" cx="118.15" cy="618.88" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 2; raw 2,058,822; factor 1.000000; adjusted 2,058,822.00</title></circle>
-<circle class="point" cx="146.3" cy="606.95" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 3; raw 4,268,734; factor 1.000000; adjusted 4,268,734.00</title></circle>
-<circle class="point" cx="174.44" cy="592.77" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 4; raw 6,894,748; factor 1.000000; adjusted 6,894,748.00</title></circle>
-<circle class="point" cx="202.59" cy="578.39" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 5; raw 9,557,817; factor 1.000000; adjusted 9,557,817.00</title></circle>
-<circle class="point" cx="230.74" cy="563.84" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 6; raw 12,251,087; factor 1.000000; adjusted 12,251,087.00</title></circle>
-<circle class="point" cx="258.89" cy="549.8" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 7; raw 14,852,374; factor 1.000000; adjusted 14,852,374.00</title></circle>
-<circle class="point" cx="287.04" cy="536.27" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 8; raw 17,357,625; factor 1.000000; adjusted 17,357,625.00</title></circle>
-<circle class="point" cx="315.19" cy="522.99" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 9; raw 19,817,111; factor 1.000000; adjusted 19,817,111.00</title></circle>
-<circle class="point" cx="343.33" cy="511.78" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 10; raw 21,892,405; factor 1.000000; adjusted 21,892,405.00</title></circle>
-<circle class="point" cx="371.48" cy="500.28" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 11; raw 24,022,889; factor 1.000000; adjusted 24,022,889.00</title></circle>
-<circle class="point" cx="399.63" cy="489.13" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 12; raw 26,087,219; factor 1.000000; adjusted 26,087,219.00</title></circle>
-<circle class="point" cx="427.78" cy="478.33" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 13; raw 28,087,960; factor 1.000000; adjusted 28,087,960.00</title></circle>
-<circle class="point" cx="455.93" cy="467.24" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 14; raw 30,141,220; factor 1.000000; adjusted 30,141,220.00</title></circle>
-<circle class="point" cx="484.07" cy="456.1" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 15; raw 32,204,246; factor 1.000000; adjusted 32,204,246.00</title></circle>
-<circle class="point" cx="512.22" cy="444.79" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 16; raw 34,297,745; factor 1.000000; adjusted 34,297,745.00</title></circle>
-<circle class="point" cx="540.37" cy="433.81" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 17; raw 36,331,052; factor 1.000000; adjusted 36,331,052.00</title></circle>
-<circle class="point" cx="568.52" cy="423" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 18; raw 38,332,902; factor 1.000000; adjusted 38,332,902.00</title></circle>
-<circle class="point" cx="596.67" cy="411.87" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 19; raw 40,394,602; factor 1.000000; adjusted 40,394,602.00</title></circle>
-<circle class="point" cx="624.81" cy="400.03" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 20; raw 42,586,901; factor 1.000000; adjusted 42,586,901.00</title></circle>
-<circle class="point" cx="652.96" cy="388.78" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 21; raw 44,671,265; factor 1.000000; adjusted 44,671,265.00</title></circle>
-<circle class="point" cx="681.11" cy="377.74" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 22; raw 46,715,230; factor 1.000000; adjusted 46,715,230.00</title></circle>
-<circle class="point" cx="709.26" cy="367.51" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 23; raw 48,610,154; factor 1.000000; adjusted 48,610,154.00</title></circle>
-<circle class="point" cx="737.41" cy="357.3" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 24; raw 50,500,832; factor 1.000000; adjusted 50,500,832.00</title></circle>
-<circle class="point" cx="765.56" cy="347.72" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 25; raw 52,274,476; factor 1.000000; adjusted 52,274,476.00</title></circle>
-<circle class="point" cx="793.7" cy="334.93" r="2.8" stroke="#0072B2"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 26; raw 54,642,109; factor 1.000000; adjusted 54,642,109.00</title></circle>
+<text x="955" y="359" class="small">2024 · inside-out-2</text>
+<polyline class="series" stroke="#000000" stroke-dasharray="3 3" points="90,624.44 118.15,612.77 146.3,600.41 174.44,583.91 202.59,567.2 230.74,550.39 258.89,534.35 287.04,517.78 315.19,501.07 343.33,485.72 371.48,470.53 399.63,455.98 427.78,441.52 455.93,426.98 484.07,413.63 512.22,402.1 540.37,390.49 568.52,378.36 596.67,366.82 624.81,355.31 652.96,344.1 681.11,332.13 709.26,320.33 737.41,308.2 765.56,301.03 793.7,288.39"><title>what-if-2021-03, cohort 2024</title></polyline>
+<circle class="point" cx="90" cy="624.44" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 1; raw 943,387; factor 1.090909; adjusted 1,029,149.45</title></circle>
+<circle class="point" cx="118.15" cy="612.77" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 2; raw 2,924,900; factor 1.090909; adjusted 3,190,800.00</title></circle>
+<circle class="point" cx="146.3" cy="600.41" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 3; raw 5,022,521; factor 1.090909; adjusted 5,479,113.82</title></circle>
+<circle class="point" cx="174.44" cy="583.91" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 4; raw 7,823,867; factor 1.090909; adjusted 8,535,127.64</title></circle>
+<circle class="point" cx="202.59" cy="567.2" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 5; raw 10,659,733; factor 1.090909; adjusted 11,628,799.64</title></circle>
+<circle class="point" cx="230.74" cy="550.39" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 6; raw 13,514,178; factor 1.090909; adjusted 14,742,739.64</title></circle>
+<circle class="point" cx="258.89" cy="534.35" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 7; raw 16,237,550; factor 1.090909; adjusted 17,713,690.91</title></circle>
+<circle class="point" cx="287.04" cy="517.78" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 8; raw 19,050,028; factor 1.090909; adjusted 20,781,848.73</title></circle>
+<circle class="point" cx="315.19" cy="501.07" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 9; raw 21,885,810; factor 1.090909; adjusted 23,875,429.09</title></circle>
+<circle class="point" cx="343.33" cy="485.72" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 10; raw 24,491,583; factor 1.090909; adjusted 26,718,090.55</title></circle>
+<circle class="point" cx="371.48" cy="470.53" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 11; raw 27,070,992; factor 1.090909; adjusted 29,531,991.27</title></circle>
+<circle class="point" cx="399.63" cy="455.98" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 12; raw 29,539,914; factor 1.090909; adjusted 32,225,360.73</title></circle>
+<circle class="point" cx="427.78" cy="441.52" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 13; raw 31,994,521; factor 1.090909; adjusted 34,903,113.82</title></circle>
+<circle class="point" cx="455.93" cy="426.98" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 14; raw 34,463,633; factor 1.090909; adjusted 37,596,690.55</title></circle>
+<circle class="point" cx="484.07" cy="413.63" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 15; raw 36,728,759; factor 1.090909; adjusted 40,067,737.09</title></circle>
+<circle class="point" cx="512.22" cy="402.1" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 16; raw 38,686,657; factor 1.090909; adjusted 42,203,625.82</title></circle>
+<circle class="point" cx="540.37" cy="390.49" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 17; raw 40,656,977; factor 1.090909; adjusted 44,353,065.82</title></circle>
+<circle class="point" cx="568.52" cy="378.36" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 18; raw 42,716,730; factor 1.090909; adjusted 46,600,069.09</title></circle>
+<circle class="point" cx="596.67" cy="366.82" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 19; raw 44,676,347; factor 1.090909; adjusted 48,737,833.09</title></circle>
+<circle class="point" cx="624.81" cy="355.31" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 20; raw 46,630,249; factor 1.090909; adjusted 50,869,362.55</title></circle>
+<circle class="point" cx="652.96" cy="344.1" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 21; raw 48,532,165; factor 1.090909; adjusted 52,944,180.00</title></circle>
+<circle class="point" cx="681.11" cy="332.13" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 22; raw 50,563,890; factor 1.090909; adjusted 55,160,607.27</title></circle>
+<circle class="point" cx="709.26" cy="320.33" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 23; raw 52,567,786; factor 1.090909; adjusted 57,346,675.64</title></circle>
+<circle class="point" cx="737.41" cy="308.2" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 24; raw 54,626,938; factor 1.090909; adjusted 59,593,023.27</title></circle>
+<circle class="point" cx="765.56" cy="301.03" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 25; raw 55,843,811; factor 1.090909; adjusted 60,920,521.09</title></circle>
+<circle class="point" cx="793.7" cy="288.39" r="2.8" stroke="#000000"><title>what-if-2021-03; cohort 2024; week 26; raw 57,989,142; factor 1.090909; adjusted 63,260,882.18</title></circle>
+<line x1="900" y1="388" x2="945" y2="388" stroke="#000000" stroke-width="3" stroke-dasharray="3 3"/>
+<text x="955" y="393" class="small">2024 · what-if-2021-03</text>
+<polyline class="series" stroke="#0072B2" points="90,626.06 118.15,618.97 146.3,613.23 174.44,608.52 202.59,602.87 230.74,597.4 258.89,592.08 287.04,586.09 315.19,579.74 343.33,573.39 371.48,566.56 399.63,560.28 427.78,553.71 455.93,546.99 484.07,540.59 512.22,534.53 540.37,528.43 568.52,521.73 596.67,513.97 624.81,505.79 652.96,499.44 681.11,492.58 709.26,484.93 737.41,477.46 765.56,470.29 793.7,462.93"><title>eyes-of-wakanda-01, cohort 2025</title></polyline>
+<circle class="point" cx="90" cy="626.06" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 1; raw 729,376; factor 1.000000; adjusted 729,376.00</title></circle>
+<circle class="point" cx="118.15" cy="618.97" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 2; raw 2,043,484; factor 1.000000; adjusted 2,043,484.00</title></circle>
+<circle class="point" cx="146.3" cy="613.23" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 3; raw 3,106,364; factor 1.000000; adjusted 3,106,364.00</title></circle>
+<circle class="point" cx="174.44" cy="608.52" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 4; raw 3,978,142; factor 1.000000; adjusted 3,978,142.00</title></circle>
+<circle class="point" cx="202.59" cy="602.87" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 5; raw 5,023,271; factor 1.000000; adjusted 5,023,271.00</title></circle>
+<circle class="point" cx="230.74" cy="597.4" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 6; raw 6,037,871; factor 1.000000; adjusted 6,037,871.00</title></circle>
+<circle class="point" cx="258.89" cy="592.08" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 7; raw 7,022,177; factor 1.000000; adjusted 7,022,177.00</title></circle>
+<circle class="point" cx="287.04" cy="586.09" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 8; raw 8,130,803; factor 1.000000; adjusted 8,130,803.00</title></circle>
+<circle class="point" cx="315.19" cy="579.74" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 9; raw 9,308,212; factor 1.000000; adjusted 9,308,212.00</title></circle>
+<circle class="point" cx="343.33" cy="573.39" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 10; raw 10,483,902; factor 1.000000; adjusted 10,483,902.00</title></circle>
+<circle class="point" cx="371.48" cy="566.56" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 11; raw 11,748,394; factor 1.000000; adjusted 11,748,394.00</title></circle>
+<circle class="point" cx="399.63" cy="560.28" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 12; raw 12,910,293; factor 1.000000; adjusted 12,910,293.00</title></circle>
+<circle class="point" cx="427.78" cy="553.71" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 13; raw 14,127,786; factor 1.000000; adjusted 14,127,786.00</title></circle>
+<circle class="point" cx="455.93" cy="546.99" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 14; raw 15,372,899; factor 1.000000; adjusted 15,372,899.00</title></circle>
+<circle class="point" cx="484.07" cy="540.59" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 15; raw 16,556,718; factor 1.000000; adjusted 16,556,718.00</title></circle>
+<circle class="point" cx="512.22" cy="534.53" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 16; raw 17,679,697; factor 1.000000; adjusted 17,679,697.00</title></circle>
+<circle class="point" cx="540.37" cy="528.43" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 17; raw 18,808,417; factor 1.000000; adjusted 18,808,417.00</title></circle>
+<circle class="point" cx="568.52" cy="521.73" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 18; raw 20,050,909; factor 1.000000; adjusted 20,050,909.00</title></circle>
+<circle class="point" cx="596.67" cy="513.97" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 19; raw 21,486,372; factor 1.000000; adjusted 21,486,372.00</title></circle>
+<circle class="point" cx="624.81" cy="505.79" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 20; raw 23,002,777; factor 1.000000; adjusted 23,002,777.00</title></circle>
+<circle class="point" cx="652.96" cy="499.44" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 21; raw 24,177,906; factor 1.000000; adjusted 24,177,906.00</title></circle>
+<circle class="point" cx="681.11" cy="492.58" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 22; raw 25,448,014; factor 1.000000; adjusted 25,448,014.00</title></circle>
+<circle class="point" cx="709.26" cy="484.93" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 23; raw 26,864,429; factor 1.000000; adjusted 26,864,429.00</title></circle>
+<circle class="point" cx="737.41" cy="477.46" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 24; raw 28,248,311; factor 1.000000; adjusted 28,248,311.00</title></circle>
+<circle class="point" cx="765.56" cy="470.29" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 25; raw 29,575,344; factor 1.000000; adjusted 29,575,344.00</title></circle>
+<circle class="point" cx="793.7" cy="462.93" r="2.8" stroke="#0072B2"><title>eyes-of-wakanda-01; cohort 2025; week 26; raw 30,938,193; factor 1.000000; adjusted 30,938,193.00</title></circle>
 <line x1="900" y1="422" x2="945" y2="422" stroke="#0072B2" stroke-width="3"/>
-<text x="955" y="427" class="small">2025 · your-friendly-neighborhood-spider-man-01</text>
+<text x="955" y="427" class="small">2025 · eyes-of-wakanda-01</text>
+<polyline class="series" stroke="#D55E00" points="90,623.97 118.15,615.06 146.3,604.89 174.44,593.82 202.59,581.9 230.74,568.83 258.89,555.32 287.04,543.81 315.19,532 343.33,518.57 371.48,505.09 399.63,492.19 427.78,479.83 455.93,467.67 484.07,455.24 512.22,443.08 540.37,430.73 568.52,420.35 596.67,409.6 624.81,398.24 652.96,387.32 681.11,375.88 709.26,363.96 737.41,352.67 765.56,341.23 793.7,330.97"><title>star-wars-visions-03, cohort 2025</title></polyline>
+<circle class="point" cx="90" cy="623.97" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 1; raw 1,117,312; factor 1.000000; adjusted 1,117,312.00</title></circle>
+<circle class="point" cx="118.15" cy="615.06" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 2; raw 2,766,280; factor 1.000000; adjusted 2,766,280.00</title></circle>
+<circle class="point" cx="146.3" cy="604.89" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 3; raw 4,650,560; factor 1.000000; adjusted 4,650,560.00</title></circle>
+<circle class="point" cx="174.44" cy="593.82" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 4; raw 6,700,306; factor 1.000000; adjusted 6,700,306.00</title></circle>
+<circle class="point" cx="202.59" cy="581.9" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 5; raw 8,906,793; factor 1.000000; adjusted 8,906,793.00</title></circle>
+<circle class="point" cx="230.74" cy="568.83" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 6; raw 11,326,965; factor 1.000000; adjusted 11,326,965.00</title></circle>
+<circle class="point" cx="258.89" cy="555.32" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 7; raw 13,829,717; factor 1.000000; adjusted 13,829,717.00</title></circle>
+<circle class="point" cx="287.04" cy="543.81" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 8; raw 15,961,130; factor 1.000000; adjusted 15,961,130.00</title></circle>
+<circle class="point" cx="315.19" cy="532" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 9; raw 18,148,777; factor 1.000000; adjusted 18,148,777.00</title></circle>
+<circle class="point" cx="343.33" cy="518.57" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 10; raw 20,634,828; factor 1.000000; adjusted 20,634,828.00</title></circle>
+<circle class="point" cx="371.48" cy="505.09" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 11; raw 23,131,579; factor 1.000000; adjusted 23,131,579.00</title></circle>
+<circle class="point" cx="399.63" cy="492.19" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 12; raw 25,521,061; factor 1.000000; adjusted 25,521,061.00</title></circle>
+<circle class="point" cx="427.78" cy="479.83" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 13; raw 27,808,812; factor 1.000000; adjusted 27,808,812.00</title></circle>
+<circle class="point" cx="455.93" cy="467.67" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 14; raw 30,060,914; factor 1.000000; adjusted 30,060,914.00</title></circle>
+<circle class="point" cx="484.07" cy="455.24" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 15; raw 32,362,561; factor 1.000000; adjusted 32,362,561.00</title></circle>
+<circle class="point" cx="512.22" cy="443.08" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 16; raw 34,614,868; factor 1.000000; adjusted 34,614,868.00</title></circle>
+<circle class="point" cx="540.37" cy="430.73" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 17; raw 36,902,482; factor 1.000000; adjusted 36,902,482.00</title></circle>
+<circle class="point" cx="568.52" cy="420.35" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 18; raw 38,824,587; factor 1.000000; adjusted 38,824,587.00</title></circle>
+<circle class="point" cx="596.67" cy="409.6" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 19; raw 40,815,572; factor 1.000000; adjusted 40,815,572.00</title></circle>
+<circle class="point" cx="624.81" cy="398.24" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 20; raw 42,917,800; factor 1.000000; adjusted 42,917,800.00</title></circle>
+<circle class="point" cx="652.96" cy="387.32" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 21; raw 44,941,432; factor 1.000000; adjusted 44,941,432.00</title></circle>
+<circle class="point" cx="681.11" cy="375.88" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 22; raw 47,060,159; factor 1.000000; adjusted 47,060,159.00</title></circle>
+<circle class="point" cx="709.26" cy="363.96" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 23; raw 49,266,470; factor 1.000000; adjusted 49,266,470.00</title></circle>
+<circle class="point" cx="737.41" cy="352.67" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 24; raw 51,357,436; factor 1.000000; adjusted 51,357,436.00</title></circle>
+<circle class="point" cx="765.56" cy="341.23" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 25; raw 53,475,123; factor 1.000000; adjusted 53,475,123.00</title></circle>
+<circle class="point" cx="793.7" cy="330.97" r="2.8" stroke="#D55E00"><title>star-wars-visions-03; cohort 2025; week 26; raw 55,376,447; factor 1.000000; adjusted 55,376,447.00</title></circle>
+<line x1="900" y1="456" x2="945" y2="456" stroke="#D55E00" stroke-width="3"/>
+<text x="955" y="461" class="small">2025 · star-wars-visions-03</text>
+<polyline class="series" stroke="#009E73" points="90,626.56 118.15,618.88 146.3,606.95 174.44,592.77 202.59,578.39 230.74,563.84 258.89,549.8 287.04,536.27 315.19,522.99 343.33,511.78 371.48,500.28 399.63,489.13 427.78,478.33 455.93,467.24 484.07,456.1 512.22,444.79 540.37,433.81 568.52,423 596.67,411.87 624.81,400.03 652.96,388.78 681.11,377.74 709.26,367.51 737.41,357.3 765.56,347.72 793.7,334.93"><title>your-friendly-neighborhood-spider-man-01, cohort 2025</title></polyline>
+<circle class="point" cx="90" cy="626.56" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 1; raw 637,644; factor 1.000000; adjusted 637,644.00</title></circle>
+<circle class="point" cx="118.15" cy="618.88" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 2; raw 2,058,822; factor 1.000000; adjusted 2,058,822.00</title></circle>
+<circle class="point" cx="146.3" cy="606.95" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 3; raw 4,268,734; factor 1.000000; adjusted 4,268,734.00</title></circle>
+<circle class="point" cx="174.44" cy="592.77" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 4; raw 6,894,748; factor 1.000000; adjusted 6,894,748.00</title></circle>
+<circle class="point" cx="202.59" cy="578.39" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 5; raw 9,557,817; factor 1.000000; adjusted 9,557,817.00</title></circle>
+<circle class="point" cx="230.74" cy="563.84" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 6; raw 12,251,087; factor 1.000000; adjusted 12,251,087.00</title></circle>
+<circle class="point" cx="258.89" cy="549.8" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 7; raw 14,852,374; factor 1.000000; adjusted 14,852,374.00</title></circle>
+<circle class="point" cx="287.04" cy="536.27" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 8; raw 17,357,625; factor 1.000000; adjusted 17,357,625.00</title></circle>
+<circle class="point" cx="315.19" cy="522.99" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 9; raw 19,817,111; factor 1.000000; adjusted 19,817,111.00</title></circle>
+<circle class="point" cx="343.33" cy="511.78" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 10; raw 21,892,405; factor 1.000000; adjusted 21,892,405.00</title></circle>
+<circle class="point" cx="371.48" cy="500.28" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 11; raw 24,022,889; factor 1.000000; adjusted 24,022,889.00</title></circle>
+<circle class="point" cx="399.63" cy="489.13" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 12; raw 26,087,219; factor 1.000000; adjusted 26,087,219.00</title></circle>
+<circle class="point" cx="427.78" cy="478.33" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 13; raw 28,087,960; factor 1.000000; adjusted 28,087,960.00</title></circle>
+<circle class="point" cx="455.93" cy="467.24" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 14; raw 30,141,220; factor 1.000000; adjusted 30,141,220.00</title></circle>
+<circle class="point" cx="484.07" cy="456.1" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 15; raw 32,204,246; factor 1.000000; adjusted 32,204,246.00</title></circle>
+<circle class="point" cx="512.22" cy="444.79" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 16; raw 34,297,745; factor 1.000000; adjusted 34,297,745.00</title></circle>
+<circle class="point" cx="540.37" cy="433.81" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 17; raw 36,331,052; factor 1.000000; adjusted 36,331,052.00</title></circle>
+<circle class="point" cx="568.52" cy="423" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 18; raw 38,332,902; factor 1.000000; adjusted 38,332,902.00</title></circle>
+<circle class="point" cx="596.67" cy="411.87" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 19; raw 40,394,602; factor 1.000000; adjusted 40,394,602.00</title></circle>
+<circle class="point" cx="624.81" cy="400.03" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 20; raw 42,586,901; factor 1.000000; adjusted 42,586,901.00</title></circle>
+<circle class="point" cx="652.96" cy="388.78" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 21; raw 44,671,265; factor 1.000000; adjusted 44,671,265.00</title></circle>
+<circle class="point" cx="681.11" cy="377.74" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 22; raw 46,715,230; factor 1.000000; adjusted 46,715,230.00</title></circle>
+<circle class="point" cx="709.26" cy="367.51" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 23; raw 48,610,154; factor 1.000000; adjusted 48,610,154.00</title></circle>
+<circle class="point" cx="737.41" cy="357.3" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 24; raw 50,500,832; factor 1.000000; adjusted 50,500,832.00</title></circle>
+<circle class="point" cx="765.56" cy="347.72" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 25; raw 52,274,476; factor 1.000000; adjusted 52,274,476.00</title></circle>
+<circle class="point" cx="793.7" cy="334.93" r="2.8" stroke="#009E73"><title>your-friendly-neighborhood-spider-man-01; cohort 2025; week 26; raw 54,642,109; factor 1.000000; adjusted 54,642,109.00</title></circle>
+<line x1="900" y1="490" x2="945" y2="490" stroke="#009E73" stroke-width="3"/>
+<text x="955" y="495" class="small">2025 · your-friendly-neighborhood-spider-man-01</text>
 </svg>

@@ -32,19 +32,20 @@ OR
   AND release.genres intersects {
     "Adult animation", "Animated sitcom"
   }
-)</code></pre>
+)
+OR collection_tags contains "star_wars"</code></pre>
 
 Array matching is exact. The inventory year is the cohort year; release year
 does not determine membership.
 
 | Cohort | Media objects |
 | ---: | ---: |
-| 2021 | 2 |
+| 2021 | 3 |
 | 2022 | 2 |
 | 2023 | 1 |
 | 2024 | 2 |
-| 2025 | 2 |
-| **Total** | **9** |
+| 2025 | 3 |
+| **Total** | **11** |
 
 ## Weekly graph
 
@@ -76,5 +77,5 @@ cross-object-deduplicated counts of people or IP addresses.
 - [Itemized CSV](../data/mellon-5/runs/2021-2025-itu-2025/disney-meta-itemized.csv)
 - [Selection manifest](../data/mellon-5/runs/2021-2025-itu-2025/selection-manifest.json)
 
-Method <code>mellon-5-meta-collection 1.0.0-rough</code>; run
+Method <code>mellon-5-meta-collection 1.1.0-rough</code>; run
 <code>2021-2025-itu-2025</code>; ITU reference year 2025.

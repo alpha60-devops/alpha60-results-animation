@@ -42,15 +42,15 @@
   "groups": [
     {
       "cohort_counts": {
-        "2021": 2,
+        "2021": 3,
         "2022": 2,
         "2023": 1,
         "2024": 2,
-        "2025": 2
+        "2025": 3
       },
       "id": "disney-meta",
-      "total_memberships": 9,
-      "weekly_points": 187
+      "total_memberships": 11,
+      "weekly_points": 225
     },
     {
       "cohort_counts": {
@@ -113,6 +113,6 @@
   "run_id": "2021-2025-itu-2025",
   "schema_version": "1.0.0",
   "status": "rough-results-generated",
-  "total_memberships": 50,
-  "unique_selected_media_objects": 40
+  "total_memberships": 52,
+  "unique_selected_media_objects": 41
 }

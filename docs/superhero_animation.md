@@ -70,5 +70,5 @@ cross-object-deduplicated counts of people or IP addresses.
 - [Itemized CSV](../data/mellon-5/runs/2021-2025-itu-2025/superhero-animation-itemized.csv)
 - [Selection manifest](../data/mellon-5/runs/2021-2025-itu-2025/selection-manifest.json)
 
-Method <code>mellon-5-meta-collection 1.0.0-rough</code>; run
+Method <code>mellon-5-meta-collection 1.1.0-rough</code>; run
 <code>2021-2025-itu-2025</code>; ITU reference year 2025.
