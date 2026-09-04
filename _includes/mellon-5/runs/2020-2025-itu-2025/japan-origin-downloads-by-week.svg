@@ -44,8 +44,10 @@
 <text x="470.0" y="692" text-anchor="middle" class="label">sample week</text>
 <text x="24" y="360.0" text-anchor="middle" transform="rotate(-90 24 360.0)" class="label">adjusted unique downloaders</text>
 <text x="900" y="90" class="label">media-object series</text>
-<text x="900" y="115" class="small">2023: long dash · 2024: short dash · 2025: solid</text>
-<polyline class="series" stroke="#0072B2" points="90,628.6 107.27,627.67 124.55,626.57 141.82,625.47 159.09,624.56 176.36,623.84 193.64,622.94 210.91,622.06 228.18,621.29 245.45,620.68"><title>altered-carbon-resleeved, cohort 2020</title></polyline>
+<text x="900" y="115" class="small">2020: 2-2 · 2021: 5-3 · 2022: 8-4 · 2023: 10-4 · 2024: 3-3 · 2025: solid</text>
+<g id="composite-chart">
+<g id="line-graph-1-altered-carbon-resleeved">
+<polyline class="series" stroke="#0072B2" stroke-dasharray="2 2" points="90,628.6 107.27,627.67 124.55,626.57 141.82,625.47 159.09,624.56 176.36,623.84 193.64,622.94 210.91,622.06 228.18,621.29 245.45,620.68"><title>altered-carbon-resleeved, cohort 2020</title></polyline>
 <circle class="point" cx="90" cy="628.6" r="2.8" stroke="#0072B2"><title>altered-carbon-resleeved; cohort 2020; week 1; raw 194,583; factor 1.333333; adjusted 259,444.00</title></circle>
 <circle class="point" cx="107.27" cy="627.67" r="2.8" stroke="#0072B2"><title>altered-carbon-resleeved; cohort 2020; week 2; raw 324,248; factor 1.333333; adjusted 432,330.67</title></circle>
 <circle class="point" cx="124.55" cy="626.57" r="2.8" stroke="#0072B2"><title>altered-carbon-resleeved; cohort 2020; week 3; raw 475,704; factor 1.333333; adjusted 634,272.00</title></circle>
@@ -56,9 +58,11 @@
 <circle class="point" cx="210.91" cy="622.06" r="2.8" stroke="#0072B2"><title>altered-carbon-resleeved; cohort 2020; week 8; raw 1,102,537; factor 1.333333; adjusted 1,470,049.33</title></circle>
 <circle class="point" cx="228.18" cy="621.29" r="2.8" stroke="#0072B2"><title>altered-carbon-resleeved; cohort 2020; week 9; raw 1,209,371; factor 1.333333; adjusted 1,612,494.67</title></circle>
 <circle class="point" cx="245.45" cy="620.68" r="2.8" stroke="#0072B2"><title>altered-carbon-resleeved; cohort 2020; week 10; raw 1,294,918; factor 1.333333; adjusted 1,726,557.33</title></circle>
-<line x1="900" y1="150" x2="945" y2="150" stroke="#0072B2" stroke-width="3"/>
+<line x1="900" y1="150" x2="945" y2="150" stroke="#0072B2" stroke-width="3" stroke-dasharray="2 2"/>
 <text x="955" y="155" class="small">2020 · altered-carbon-resleeved</text>
-<polyline class="series" stroke="#D55E00" points="90,629.46 107.27,628.77 124.55,627.85 141.82,626.84 159.09,625.84 176.36,625.18 193.64,624.44 210.91,623.77 228.18,623.25 245.45,622.72 262.73,622.08 280,621.41 297.27,620.92 314.55,620.41 331.82,620.02 349.09,619.59 366.36,619.15 383.64,618.77 400.91,618.42 418.18,617.9 435.45,607.98 452.73,596.38 470,586.67 487.27,577.43 504.55,568.91 521.82,561.43 539.09,554.22 556.36,544.25 573.64,531.7 590.91,521.48 608.18,512.61 625.45,505.68 642.73,499.03 660,493.76 677.27,487.45 694.55,481.55 711.82,475.93 729.09,470.53 746.36,465.16 763.64,459.84 780.91,454.86 798.18,452.15 815.45,449.61 832.73,447.11 850,445"><title>demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train, cohort 2020</title></polyline>
+</g>
+<g id="line-graph-2-demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train">
+<polyline class="series" stroke="#D55E00" stroke-dasharray="2 2" points="90,629.46 107.27,628.77 124.55,627.85 141.82,626.84 159.09,625.84 176.36,625.18 193.64,624.44 210.91,623.77 228.18,623.25 245.45,622.72 262.73,622.08 280,621.41 297.27,620.92 314.55,620.41 331.82,620.02 349.09,619.59 366.36,619.15 383.64,618.77 400.91,618.42 418.18,617.9 435.45,607.98 452.73,596.38 470,586.67 487.27,577.43 504.55,568.91 521.82,561.43 539.09,554.22 556.36,544.25 573.64,531.7 590.91,521.48 608.18,512.61 625.45,505.68 642.73,499.03 660,493.76 677.27,487.45 694.55,481.55 711.82,475.93 729.09,470.53 746.36,465.16 763.64,459.84 780.91,454.86 798.18,452.15 815.45,449.61 832.73,447.11 850,445"><title>demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train, cohort 2020</title></polyline>
 <circle class="point" cx="90" cy="629.46" r="2.8" stroke="#D55E00"><title>demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train; cohort 2020; week 1; raw 75,493; factor 1.333333; adjusted 100,657.33</title></circle>
 <circle class="point" cx="107.27" cy="628.77" r="2.8" stroke="#D55E00"><title>demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train; cohort 2020; week 2; raw 170,474; factor 1.333333; adjusted 227,298.67</title></circle>
 <circle class="point" cx="124.55" cy="627.85" r="2.8" stroke="#D55E00"><title>demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train; cohort 2020; week 3; raw 298,287; factor 1.333333; adjusted 397,716.00</title></circle>
@@ -104,9 +108,11 @@
 <circle class="point" cx="815.45" cy="449.61" r="2.8" stroke="#D55E00"><title>demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train; cohort 2020; week 43; raw 25,053,566; factor 1.333333; adjusted 33,404,754.67</title></circle>
 <circle class="point" cx="832.73" cy="447.11" r="2.8" stroke="#D55E00"><title>demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train; cohort 2020; week 44; raw 25,400,733; factor 1.333333; adjusted 33,867,644.00</title></circle>
 <circle class="point" cx="850" cy="445" r="2.8" stroke="#D55E00"><title>demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train; cohort 2020; week 45; raw 25,693,864; factor 1.333333; adjusted 34,258,485.33</title></circle>
-<line x1="900" y1="184" x2="945" y2="184" stroke="#D55E00" stroke-width="3"/>
+<line x1="900" y1="184" x2="945" y2="184" stroke="#D55E00" stroke-width="3" stroke-dasharray="2 2"/>
 <text x="955" y="189" class="small">2020 · demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train</text>
-<polyline class="series" stroke="#009E73" points="90,629.43 107.27,629.01 124.55,628.46 141.82,627.63 159.09,627.01 176.36,626.32 193.64,625.75 210.91,625.2 228.18,624.68 245.45,624.13 262.73,623.44"><title>japan-sinks, cohort 2020</title></polyline>
+</g>
+<g id="line-graph-3-japan-sinks">
+<polyline class="series" stroke="#009E73" stroke-dasharray="2 2" points="90,629.43 107.27,629.01 124.55,628.46 141.82,627.63 159.09,627.01 176.36,626.32 193.64,625.75 210.91,625.2 228.18,624.68 245.45,624.13 262.73,623.44"><title>japan-sinks, cohort 2020</title></polyline>
 <circle class="point" cx="90" cy="629.43" r="2.8" stroke="#009E73"><title>japan-sinks; cohort 2020; week 1; raw 78,644; factor 1.333333; adjusted 104,858.67</title></circle>
 <circle class="point" cx="107.27" cy="629.01" r="2.8" stroke="#009E73"><title>japan-sinks; cohort 2020; week 2; raw 137,557; factor 1.333333; adjusted 183,409.33</title></circle>
 <circle class="point" cx="124.55" cy="628.46" r="2.8" stroke="#009E73"><title>japan-sinks; cohort 2020; week 3; raw 213,592; factor 1.333333; adjusted 284,789.33</title></circle>
@@ -118,9 +124,11 @@
 <circle class="point" cx="228.18" cy="624.68" r="2.8" stroke="#009E73"><title>japan-sinks; cohort 2020; week 9; raw 739,093; factor 1.333333; adjusted 985,457.33</title></circle>
 <circle class="point" cx="245.45" cy="624.13" r="2.8" stroke="#009E73"><title>japan-sinks; cohort 2020; week 10; raw 814,941; factor 1.333333; adjusted 1,086,588.00</title></circle>
 <circle class="point" cx="262.73" cy="623.44" r="2.8" stroke="#009E73"><title>japan-sinks; cohort 2020; week 11; raw 911,142; factor 1.333333; adjusted 1,214,856.00</title></circle>
-<line x1="900" y1="218" x2="945" y2="218" stroke="#009E73" stroke-width="3"/>
+<line x1="900" y1="218" x2="945" y2="218" stroke="#009E73" stroke-width="3" stroke-dasharray="2 2"/>
 <text x="955" y="223" class="small">2020 · japan-sinks</text>
-<polyline class="series" stroke="#CC79A7" points="90,628.64 107.27,627.69 124.55,626.95 141.82,626.25 159.09,625.63 176.36,625.02 193.64,624.42 210.91,623.76 228.18,623.1 245.45,622.34"><title>blade-runner-black-lotus-101, cohort 2021</title></polyline>
+</g>
+<g id="line-graph-4-blade-runner-black-lotus-101">
+<polyline class="series" stroke="#CC79A7" stroke-dasharray="5 3" points="90,628.64 107.27,627.69 124.55,626.95 141.82,626.25 159.09,625.63 176.36,625.02 193.64,624.42 210.91,623.76 228.18,623.1 245.45,622.34"><title>blade-runner-black-lotus-101, cohort 2021</title></polyline>
 <circle class="point" cx="90" cy="628.64" r="2.8" stroke="#CC79A7"><title>blade-runner-black-lotus-101; cohort 2021; week 1; raw 206,076; factor 1.224490; adjusted 252,337.96</title></circle>
 <circle class="point" cx="107.27" cy="627.69" r="2.8" stroke="#CC79A7"><title>blade-runner-black-lotus-101; cohort 2021; week 2; raw 349,975; factor 1.224490; adjusted 428,540.82</title></circle>
 <circle class="point" cx="124.55" cy="626.95" r="2.8" stroke="#CC79A7"><title>blade-runner-black-lotus-101; cohort 2021; week 3; raw 460,987; factor 1.224490; adjusted 564,473.88</title></circle>
@@ -131,9 +139,11 @@
 <circle class="point" cx="210.91" cy="623.76" r="2.8" stroke="#CC79A7"><title>blade-runner-black-lotus-101; cohort 2021; week 8; raw 944,442; factor 1.224490; adjusted 1,156,459.59</title></circle>
 <circle class="point" cx="228.18" cy="623.1" r="2.8" stroke="#CC79A7"><title>blade-runner-black-lotus-101; cohort 2021; week 9; raw 1,043,066; factor 1.224490; adjusted 1,277,223.67</title></circle>
 <circle class="point" cx="245.45" cy="622.34" r="2.8" stroke="#CC79A7"><title>blade-runner-black-lotus-101; cohort 2021; week 10; raw 1,158,416; factor 1.224490; adjusted 1,418,468.57</title></circle>
-<line x1="900" y1="252" x2="945" y2="252" stroke="#CC79A7" stroke-width="3"/>
+<line x1="900" y1="252" x2="945" y2="252" stroke="#CC79A7" stroke-width="3" stroke-dasharray="5 3"/>
 <text x="955" y="257" class="small">2021 · blade-runner-black-lotus-101</text>
-<polyline class="series" stroke="#E69F00" points="90,629.77 107.27,629.3 124.55,628.85 141.82,626.33 159.09,619.93 176.36,613.9 193.64,609.18 210.91,605.39 228.18,602.13 245.45,596.4 262.73,592.08 280,587.32 297.27,582.47 314.55,578.11 331.82,575.15 349.09,572.42 366.36,570.13 383.64,567.99 400.91,565.82 418.18,563.8 435.45,562.02 452.73,560.17 470,558.19 487.27,556.35 504.55,553.17 521.82,551.21 539.09,549.48"><title>one-piece-95x, cohort 2021</title></polyline>
+</g>
+<g id="line-graph-5-one-piece-95x">
+<polyline class="series" stroke="#E69F00" stroke-dasharray="5 3" points="90,629.77 107.27,629.3 124.55,628.85 141.82,626.33 159.09,619.93 176.36,613.9 193.64,609.18 210.91,605.39 228.18,602.13 245.45,596.4 262.73,592.08 280,587.32 297.27,582.47 314.55,578.11 331.82,575.15 349.09,572.42 366.36,570.13 383.64,567.99 400.91,565.82 418.18,563.8 435.45,562.02 452.73,560.17 470,558.19 487.27,556.35 504.55,553.17 521.82,551.21 539.09,549.48"><title>one-piece-95x, cohort 2021</title></polyline>
 <circle class="point" cx="90" cy="629.77" r="2.8" stroke="#E69F00"><title>one-piece-95x; cohort 2021; week 1; raw 34,090; factor 1.224490; adjusted 41,742.86</title></circle>
 <circle class="point" cx="107.27" cy="629.3" r="2.8" stroke="#E69F00"><title>one-piece-95x; cohort 2021; week 2; raw 105,539; factor 1.224490; adjusted 129,231.43</title></circle>
 <circle class="point" cx="124.55" cy="628.85" r="2.8" stroke="#E69F00"><title>one-piece-95x; cohort 2021; week 3; raw 174,272; factor 1.224490; adjusted 213,394.29</title></circle>
@@ -161,9 +171,11 @@
 <circle class="point" cx="504.55" cy="553.17" r="2.8" stroke="#E69F00"><title>one-piece-95x; cohort 2021; week 25; raw 11,618,935; factor 1.224490; adjusted 14,227,267.35</title></circle>
 <circle class="point" cx="521.82" cy="551.21" r="2.8" stroke="#E69F00"><title>one-piece-95x; cohort 2021; week 26; raw 11,916,098; factor 1.224490; adjusted 14,591,140.41</title></circle>
 <circle class="point" cx="539.09" cy="549.48" r="2.8" stroke="#E69F00"><title>one-piece-95x; cohort 2021; week 27; raw 12,177,928; factor 1.224490; adjusted 14,911,748.57</title></circle>
-<line x1="900" y1="286" x2="945" y2="286" stroke="#E69F00" stroke-width="3"/>
+<line x1="900" y1="286" x2="945" y2="286" stroke="#E69F00" stroke-width="3" stroke-dasharray="5 3"/>
 <text x="955" y="291" class="small">2021 · one-piece-95x</text>
-<polyline class="series" stroke="#56B4E9" points="90,626.24 107.27,624.55 124.55,623.43 141.82,621.97 159.09,619.86 176.36,617.69 193.64,615.31 210.91,613.03 228.18,610.81 245.45,608.1 262.73,605.12 280,602.11 297.27,591.35 314.55,588.03 331.82,585.3 349.09,582.2 366.36,579.24 383.64,575.85 400.91,572.37 418.18,568.99 435.45,565.9 452.73,562.51 470,559.52 487.27,556.67 504.55,553.74 521.82,552.47"><title>one-piece-98x, cohort 2021</title></polyline>
+</g>
+<g id="line-graph-6-one-piece-98x">
+<polyline class="series" stroke="#56B4E9" stroke-dasharray="5 3" points="90,626.24 107.27,624.55 124.55,623.43 141.82,621.97 159.09,619.86 176.36,617.69 193.64,615.31 210.91,613.03 228.18,610.81 245.45,608.1 262.73,605.12 280,602.11 297.27,591.35 314.55,588.03 331.82,585.3 349.09,582.2 366.36,579.24 383.64,575.85 400.91,572.37 418.18,568.99 435.45,565.9 452.73,562.51 470,559.52 487.27,556.67 504.55,553.74 521.82,552.47"><title>one-piece-98x, cohort 2021</title></polyline>
 <circle class="point" cx="90" cy="626.24" r="2.8" stroke="#56B4E9"><title>one-piece-98x; cohort 2021; week 1; raw 568,966; factor 1.224490; adjusted 696,693.06</title></circle>
 <circle class="point" cx="107.27" cy="624.55" r="2.8" stroke="#56B4E9"><title>one-piece-98x; cohort 2021; week 2; raw 823,633; factor 1.224490; adjusted 1,008,530.20</title></circle>
 <circle class="point" cx="124.55" cy="623.43" r="2.8" stroke="#56B4E9"><title>one-piece-98x; cohort 2021; week 3; raw 992,880; factor 1.224490; adjusted 1,215,771.43</title></circle>
@@ -190,9 +202,11 @@
 <circle class="point" cx="487.27" cy="556.67" r="2.8" stroke="#56B4E9"><title>one-piece-98x; cohort 2021; week 24; raw 11,089,463; factor 1.224490; adjusted 13,578,934.29</title></circle>
 <circle class="point" cx="504.55" cy="553.74" r="2.8" stroke="#56B4E9"><title>one-piece-98x; cohort 2021; week 25; raw 11,533,583; factor 1.224490; adjusted 14,122,754.69</title></circle>
 <circle class="point" cx="521.82" cy="552.47" r="2.8" stroke="#56B4E9"><title>one-piece-98x; cohort 2021; week 26; raw 11,725,588; factor 1.224490; adjusted 14,357,862.86</title></circle>
-<line x1="900" y1="320" x2="945" y2="320" stroke="#56B4E9" stroke-width="3"/>
+<line x1="900" y1="320" x2="945" y2="320" stroke="#56B4E9" stroke-width="3" stroke-dasharray="5 3"/>
 <text x="955" y="325" class="small">2021 · one-piece-98x</text>
-<polyline class="series" stroke="#6F4E7C" points="90,629.28 107.27,628.91 124.55,628.64 141.82,628.42 159.09,628.23 176.36,628.05 193.64,627.9 210.91,626.73 228.18,620.89 245.45,617.27"><title>pacific-rim-the-black, cohort 2021</title></polyline>
+</g>
+<g id="line-graph-7-pacific-rim-the-black">
+<polyline class="series" stroke="#6F4E7C" stroke-dasharray="5 3" points="90,629.28 107.27,628.91 124.55,628.64 141.82,628.42 159.09,628.23 176.36,628.05 193.64,627.9 210.91,626.73 228.18,620.89 245.45,617.27"><title>pacific-rim-the-black, cohort 2021</title></polyline>
 <circle class="point" cx="90" cy="629.28" r="2.8" stroke="#6F4E7C"><title>pacific-rim-the-black; cohort 2021; week 1; raw 108,412; factor 1.224490; adjusted 132,749.39</title></circle>
 <circle class="point" cx="107.27" cy="628.91" r="2.8" stroke="#6F4E7C"><title>pacific-rim-the-black; cohort 2021; week 2; raw 165,042; factor 1.224490; adjusted 202,092.24</title></circle>
 <circle class="point" cx="124.55" cy="628.64" r="2.8" stroke="#6F4E7C"><title>pacific-rim-the-black; cohort 2021; week 3; raw 206,159; factor 1.224490; adjusted 252,439.59</title></circle>
@@ -203,9 +217,11 @@
 <circle class="point" cx="210.91" cy="626.73" r="2.8" stroke="#6F4E7C"><title>pacific-rim-the-black; cohort 2021; week 8; raw 493,895; factor 1.224490; adjusted 604,769.39</title></circle>
 <circle class="point" cx="228.18" cy="620.89" r="2.8" stroke="#6F4E7C"><title>pacific-rim-the-black; cohort 2021; week 9; raw 1,377,053; factor 1.224490; adjusted 1,686,187.35</title></circle>
 <circle class="point" cx="245.45" cy="617.27" r="2.8" stroke="#6F4E7C"><title>pacific-rim-the-black; cohort 2021; week 10; raw 1,924,732; factor 1.224490; adjusted 2,356,814.69</title></circle>
-<line x1="900" y1="354" x2="945" y2="354" stroke="#6F4E7C" stroke-width="3"/>
+<line x1="900" y1="354" x2="945" y2="354" stroke="#6F4E7C" stroke-width="3" stroke-dasharray="5 3"/>
 <text x="955" y="359" class="small">2021 · pacific-rim-the-black</text>
-<polyline class="series" stroke="#000000" points="90,627.07 107.27,625.25 124.55,623.72 141.82,622.41 159.09,621.17 176.36,619.81 193.64,618.48 210.91,617.32 228.18,616.24 245.45,615.06 262.73,613.96 280,613.8"><title>star-wars-visions-01, cohort 2021</title></polyline>
+</g>
+<g id="line-graph-8-star-wars-visions-01">
+<polyline class="series" stroke="#000000" stroke-dasharray="5 3" points="90,627.07 107.27,625.25 124.55,623.72 141.82,622.41 159.09,621.17 176.36,619.81 193.64,618.48 210.91,617.32 228.18,616.24 245.45,615.06 262.73,613.96 280,613.8"><title>star-wars-visions-01, cohort 2021</title></polyline>
 <circle class="point" cx="90" cy="627.07" r="2.8" stroke="#000000"><title>star-wars-visions-01; cohort 2021; week 1; raw 442,561; factor 1.224490; adjusted 541,911.43</title></circle>
 <circle class="point" cx="107.27" cy="625.25" r="2.8" stroke="#000000"><title>star-wars-visions-01; cohort 2021; week 2; raw 718,594; factor 1.224490; adjusted 879,911.02</title></circle>
 <circle class="point" cx="124.55" cy="623.72" r="2.8" stroke="#000000"><title>star-wars-visions-01; cohort 2021; week 3; raw 950,044; factor 1.224490; adjusted 1,163,319.18</title></circle>
@@ -218,9 +234,11 @@
 <circle class="point" cx="245.45" cy="615.06" r="2.8" stroke="#000000"><title>star-wars-visions-01; cohort 2021; week 10; raw 2,259,624; factor 1.224490; adjusted 2,766,886.53</title></circle>
 <circle class="point" cx="262.73" cy="613.96" r="2.8" stroke="#000000"><title>star-wars-visions-01; cohort 2021; week 11; raw 2,425,663; factor 1.224490; adjusted 2,970,199.59</title></circle>
 <circle class="point" cx="280" cy="613.8" r="2.8" stroke="#000000"><title>star-wars-visions-01; cohort 2021; week 12; raw 2,449,889; factor 1.224490; adjusted 2,999,864.08</title></circle>
-<line x1="900" y1="388" x2="945" y2="388" stroke="#000000" stroke-width="3"/>
+<line x1="900" y1="388" x2="945" y2="388" stroke="#000000" stroke-width="3" stroke-dasharray="5 3"/>
 <text x="955" y="393" class="small">2021 · star-wars-visions-01</text>
-<polyline class="series" stroke="#0072B2" points="90,626.84 107.27,621.81 124.55,617.33 141.82,612.34 159.09,607.81 176.36,603.42 193.64,600.14 210.91,596.73 228.18,593.7 245.45,591.23"><title>yasuke-01, cohort 2021</title></polyline>
+</g>
+<g id="line-graph-9-yasuke-01">
+<polyline class="series" stroke="#0072B2" stroke-dasharray="5 3" points="90,626.84 107.27,621.81 124.55,617.33 141.82,612.34 159.09,607.81 176.36,603.42 193.64,600.14 210.91,596.73 228.18,593.7 245.45,591.23"><title>yasuke-01, cohort 2021</title></polyline>
 <circle class="point" cx="90" cy="626.84" r="2.8" stroke="#0072B2"><title>yasuke-01; cohort 2021; week 1; raw 478,383; factor 1.224490; adjusted 585,775.10</title></circle>
 <circle class="point" cx="107.27" cy="621.81" r="2.8" stroke="#0072B2"><title>yasuke-01; cohort 2021; week 2; raw 1,238,388; factor 1.224490; adjusted 1,516,393.47</title></circle>
 <circle class="point" cx="124.55" cy="617.33" r="2.8" stroke="#0072B2"><title>yasuke-01; cohort 2021; week 3; raw 1,915,499; factor 1.224490; adjusted 2,345,508.98</title></circle>
@@ -231,8 +249,10 @@
 <circle class="point" cx="210.91" cy="596.73" r="2.8" stroke="#0072B2"><title>yasuke-01; cohort 2021; week 8; raw 5,031,459; factor 1.224490; adjusted 6,160,970.20</title></circle>
 <circle class="point" cx="228.18" cy="593.7" r="2.8" stroke="#0072B2"><title>yasuke-01; cohort 2021; week 9; raw 5,490,366; factor 1.224490; adjusted 6,722,897.14</title></circle>
 <circle class="point" cx="245.45" cy="591.23" r="2.8" stroke="#0072B2"><title>yasuke-01; cohort 2021; week 10; raw 5,862,662; factor 1.224490; adjusted 7,178,769.80</title></circle>
-<line x1="900" y1="422" x2="945" y2="422" stroke="#0072B2" stroke-width="3"/>
+<line x1="900" y1="422" x2="945" y2="422" stroke="#0072B2" stroke-width="3" stroke-dasharray="5 3"/>
 <text x="955" y="427" class="small">2021 · yasuke-01</text>
+</g>
+<g id="line-graph-10-boy-and-the-heron">
 <polyline class="series" stroke="#D55E00" stroke-dasharray="3 3" points="90,625.61 107.27,621.32 124.55,615.61 141.82,609.12 159.09,602.37 176.36,594.98 193.64,587.83 210.91,580.76 228.18,573.9 245.45,568.15 262.73,562.41 280,556.99 297.27,551.4 314.55,545.7 331.82,539.96 349.09,534.63 366.36,529.65 383.64,524.64 400.91,519.83 418.18,515.1 435.45,510.27 452.73,504.72 470,499.08 487.27,494.76 504.55,489.68 521.82,484.34 539.09,477.99"><title>boy-and-the-heron, cohort 2024</title></polyline>
 <circle class="point" cx="90" cy="625.61" r="2.8" stroke="#D55E00"><title>boy-and-the-heron; cohort 2024; week 1; raw 744,879; factor 1.090909; adjusted 812,595.27</title></circle>
 <circle class="point" cx="107.27" cy="621.32" r="2.8" stroke="#D55E00"><title>boy-and-the-heron; cohort 2024; week 2; raw 1,472,614; factor 1.090909; adjusted 1,606,488.00</title></circle>
@@ -263,6 +283,8 @@
 <circle class="point" cx="539.09" cy="477.99" r="2.8" stroke="#D55E00"><title>boy-and-the-heron; cohort 2024; week 27; raw 25,804,356; factor 1.090909; adjusted 28,150,206.55</title></circle>
 <line x1="900" y1="456" x2="945" y2="456" stroke="#D55E00" stroke-width="3" stroke-dasharray="3 3"/>
 <text x="955" y="461" class="small">2024 · boy-and-the-heron</text>
+</g>
+<g id="line-graph-11-dan-da-dan-210">
 <polyline class="series" stroke="#009E73" points="90,627.92 107.27,621.72 124.55,609.37 141.82,596.06 159.09,582.69 176.36,567.93 193.64,554.97 210.91,541.35 228.18,527.97 245.45,514.23 262.73,500.77 280,487.77 297.27,473.44 314.55,458.36 331.82,441.82 349.09,427.9 366.36,414.57 383.64,398.75 400.91,383.23 418.18,368.18 435.45,352.91 452.73,338.48 470,323.42 487.27,307.93 504.55,293.25 521.82,280.68"><title>dan-da-dan-210, cohort 2025</title></polyline>
 <circle class="point" cx="90" cy="627.92" r="2.8" stroke="#009E73"><title>dan-da-dan-210; cohort 2025; week 1; raw 385,752; factor 1.000000; adjusted 385,752.00</title></circle>
 <circle class="point" cx="107.27" cy="621.72" r="2.8" stroke="#009E73"><title>dan-da-dan-210; cohort 2025; week 2; raw 1,533,528; factor 1.000000; adjusted 1,533,528.00</title></circle>
@@ -292,6 +314,8 @@
 <circle class="point" cx="521.82" cy="280.68" r="2.8" stroke="#009E73"><title>dan-da-dan-210; cohort 2025; week 26; raw 64,689,074; factor 1.000000; adjusted 64,689,074.00</title></circle>
 <line x1="900" y1="490" x2="945" y2="490" stroke="#009E73" stroke-width="3"/>
 <text x="955" y="495" class="small">2025 · dan-da-dan-210</text>
+</g>
+<g id="line-graph-12-lazarus-101">
 <polyline class="series" stroke="#CC79A7" points="90,627.84 107.27,623.17 124.55,616.97 141.82,610.43 159.09,604.03 176.36,598.05 193.64,591.84 210.91,585.49 228.18,579.4 245.45,572.79 262.73,565.93 280,559 297.27,552.6 314.55,545.96 331.82,539.17 349.09,532.51 366.36,523.27 383.64,517.16 400.91,510.25 418.18,504.13 435.45,498.37 452.73,492.09 470,485.93 487.27,479.85 504.55,472.56 521.82,465.08"><title>lazarus-101, cohort 2025</title></polyline>
 <circle class="point" cx="90" cy="627.84" r="2.8" stroke="#CC79A7"><title>lazarus-101; cohort 2025; week 1; raw 399,619; factor 1.000000; adjusted 399,619.00</title></circle>
 <circle class="point" cx="107.27" cy="623.17" r="2.8" stroke="#CC79A7"><title>lazarus-101; cohort 2025; week 2; raw 1,265,578; factor 1.000000; adjusted 1,265,578.00</title></circle>
@@ -321,6 +345,8 @@
 <circle class="point" cx="521.82" cy="465.08" r="2.8" stroke="#CC79A7"><title>lazarus-101; cohort 2025; week 26; raw 30,540,877; factor 1.000000; adjusted 30,540,877.00</title></circle>
 <line x1="900" y1="524" x2="945" y2="524" stroke="#CC79A7" stroke-width="3"/>
 <text x="955" y="529" class="small">2025 · lazarus-101</text>
+</g>
+<g id="line-graph-13-lazarus-108">
 <polyline class="series" stroke="#E69F00" points="90,629.21 107.27,626.94 124.55,624.4 141.82,621.78 159.09,619.24 176.36,616.94 193.64,614.77 210.91,612.68 228.18,610.63 245.45,607.71"><title>lazarus-108, cohort 2025</title></polyline>
 <circle class="point" cx="90" cy="629.21" r="2.8" stroke="#E69F00"><title>lazarus-108; cohort 2025; week 1; raw 146,746; factor 1.000000; adjusted 146,746.00</title></circle>
 <circle class="point" cx="107.27" cy="626.94" r="2.8" stroke="#E69F00"><title>lazarus-108; cohort 2025; week 2; raw 566,745; factor 1.000000; adjusted 566,745.00</title></circle>
@@ -334,6 +360,8 @@
 <circle class="point" cx="245.45" cy="607.71" r="2.8" stroke="#E69F00"><title>lazarus-108; cohort 2025; week 10; raw 4,128,545; factor 1.000000; adjusted 4,128,545.00</title></circle>
 <line x1="900" y1="558" x2="945" y2="558" stroke="#E69F00" stroke-width="3"/>
 <text x="955" y="563" class="small">2025 · lazarus-108</text>
+</g>
+<g id="line-graph-14-lazarus-111">
 <polyline class="series" stroke="#56B4E9" points="90,628.05 107.27,624.83 124.55,620.27 141.82,614.28 159.09,608 176.36,600.71 193.64,591.03 210.91,584.57 228.18,577.31 245.45,571.05 262.73,565.26 280,558.63 297.27,552.63 314.55,546.21 331.82,538.55 349.09,533.26 366.36,532.27"><title>lazarus-111, cohort 2025</title></polyline>
 <circle class="point" cx="90" cy="628.05" r="2.8" stroke="#56B4E9"><title>lazarus-111; cohort 2025; week 1; raw 361,977; factor 1.000000; adjusted 361,977.00</title></circle>
 <circle class="point" cx="107.27" cy="624.83" r="2.8" stroke="#56B4E9"><title>lazarus-111; cohort 2025; week 2; raw 956,580; factor 1.000000; adjusted 956,580.00</title></circle>
@@ -354,4 +382,6 @@
 <circle class="point" cx="366.36" cy="532.27" r="2.8" stroke="#56B4E9"><title>lazarus-111; cohort 2025; week 17; raw 18,099,073; factor 1.000000; adjusted 18,099,073.00</title></circle>
 <line x1="900" y1="592" x2="945" y2="592" stroke="#56B4E9" stroke-width="3"/>
 <text x="955" y="597" class="small">2025 · lazarus-111</text>
+</g>
+</g>
 </svg>

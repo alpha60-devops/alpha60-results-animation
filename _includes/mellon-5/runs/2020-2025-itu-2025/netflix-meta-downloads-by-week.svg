@@ -38,8 +38,10 @@
 <text x="470.0" y="692" text-anchor="middle" class="label">sample week</text>
 <text x="24" y="360.0" text-anchor="middle" transform="rotate(-90 24 360.0)" class="label">adjusted unique downloaders</text>
 <text x="900" y="90" class="label">media-object series</text>
-<text x="900" y="115" class="small">2023: long dash · 2024: short dash · 2025: solid</text>
-<polyline class="series" stroke="#0072B2" points="90,629.14 120.4,628.2 150.8,623.91 181.2,619.18 211.6,614.83 242,611.39 272.4,608.79 302.8,606.28 333.2,604.02 363.6,602.12"><title>bojack-horseman-06, cohort 2020</title></polyline>
+<text x="900" y="115" class="small">2020: 2-2 · 2021: 5-3 · 2022: 8-4 · 2023: 10-4 · 2024: 3-3 · 2025: solid</text>
+<g id="composite-chart">
+<g id="line-graph-1-bojack-horseman-06">
+<polyline class="series" stroke="#0072B2" stroke-dasharray="2 2" points="90,629.14 120.4,628.2 150.8,623.91 181.2,619.18 211.6,614.83 242,611.39 272.4,608.79 302.8,606.28 333.2,604.02 363.6,602.12"><title>bojack-horseman-06, cohort 2020</title></polyline>
 <circle class="point" cx="90" cy="629.14" r="2.8" stroke="#0072B2"><title>bojack-horseman-06; cohort 2020; week 1; raw 119,518; factor 1.333333; adjusted 159,357.33</title></circle>
 <circle class="point" cx="120.4" cy="628.2" r="2.8" stroke="#0072B2"><title>bojack-horseman-06; cohort 2020; week 2; raw 249,606; factor 1.333333; adjusted 332,808.00</title></circle>
 <circle class="point" cx="150.8" cy="623.91" r="2.8" stroke="#0072B2"><title>bojack-horseman-06; cohort 2020; week 3; raw 845,485; factor 1.333333; adjusted 1,127,313.33</title></circle>
@@ -50,9 +52,11 @@
 <circle class="point" cx="302.8" cy="606.28" r="2.8" stroke="#0072B2"><title>bojack-horseman-06; cohort 2020; week 8; raw 3,294,424; factor 1.333333; adjusted 4,392,565.33</title></circle>
 <circle class="point" cx="333.2" cy="604.02" r="2.8" stroke="#0072B2"><title>bojack-horseman-06; cohort 2020; week 9; raw 3,608,666; factor 1.333333; adjusted 4,811,554.67</title></circle>
 <circle class="point" cx="363.6" cy="602.12" r="2.8" stroke="#0072B2"><title>bojack-horseman-06; cohort 2020; week 10; raw 3,872,634; factor 1.333333; adjusted 5,163,512.00</title></circle>
-<line x1="900" y1="150" x2="945" y2="150" stroke="#0072B2" stroke-width="3"/>
+<line x1="900" y1="150" x2="945" y2="150" stroke="#0072B2" stroke-width="3" stroke-dasharray="2 2"/>
 <text x="955" y="155" class="small">2020 · bojack-horseman-06</text>
-<polyline class="series" stroke="#D55E00" points="90,625.45 120.4,619.41 150.8,613.34 181.2,607.51 211.6,602.95 242,598.33 272.4,594.08 302.8,590.41 333.2,587.53 363.6,585.18"><title>love-death-robots-02, cohort 2021</title></polyline>
+</g>
+<g id="line-graph-2-love-death-robots-02">
+<polyline class="series" stroke="#D55E00" stroke-dasharray="5 3" points="90,625.45 120.4,619.41 150.8,613.34 181.2,607.51 211.6,602.95 242,598.33 272.4,594.08 302.8,590.41 333.2,587.53 363.6,585.18"><title>love-death-robots-02, cohort 2021</title></polyline>
 <circle class="point" cx="90" cy="625.45" r="2.8" stroke="#D55E00"><title>love-death-robots-02; cohort 2021; week 1; raw 687,868; factor 1.224490; adjusted 842,287.35</title></circle>
 <circle class="point" cx="120.4" cy="619.41" r="2.8" stroke="#D55E00"><title>love-death-robots-02; cohort 2021; week 2; raw 1,601,475; factor 1.224490; adjusted 1,960,989.80</title></circle>
 <circle class="point" cx="150.8" cy="613.34" r="2.8" stroke="#D55E00"><title>love-death-robots-02; cohort 2021; week 3; raw 2,519,176; factor 1.224490; adjusted 3,084,705.31</title></circle>
@@ -63,8 +67,10 @@
 <circle class="point" cx="302.8" cy="590.41" r="2.8" stroke="#D55E00"><title>love-death-robots-02; cohort 2021; week 8; raw 5,987,176; factor 1.224490; adjusted 7,331,235.92</title></circle>
 <circle class="point" cx="333.2" cy="587.53" r="2.8" stroke="#D55E00"><title>love-death-robots-02; cohort 2021; week 9; raw 6,423,495; factor 1.224490; adjusted 7,865,504.08</title></circle>
 <circle class="point" cx="363.6" cy="585.18" r="2.8" stroke="#D55E00"><title>love-death-robots-02; cohort 2021; week 10; raw 6,778,276; factor 1.224490; adjusted 8,299,929.80</title></circle>
-<line x1="900" y1="184" x2="945" y2="184" stroke="#D55E00" stroke-width="3"/>
+<line x1="900" y1="184" x2="945" y2="184" stroke="#D55E00" stroke-width="3" stroke-dasharray="5 3"/>
 <text x="955" y="189" class="small">2021 · love-death-robots-02</text>
+</g>
+<g id="line-graph-3-blue-eye-samurai-01">
 <polyline class="series" stroke="#009E73" stroke-dasharray="10 4" points="90,628.28 120.4,625.13 150.8,621.86 181.2,618.68 211.6,615.7 242,612.79 272.4,609.95 302.8,607.28 333.2,604.2 363.6,601.2"><title>blue-eye-samurai-01, cohort 2023</title></polyline>
 <circle class="point" cx="90" cy="628.28" r="2.8" stroke="#009E73"><title>blue-eye-samurai-01; cohort 2023; week 1; raw 287,042; factor 1.111111; adjusted 318,935.56</title></circle>
 <circle class="point" cx="120.4" cy="625.13" r="2.8" stroke="#009E73"><title>blue-eye-samurai-01; cohort 2023; week 2; raw 811,899; factor 1.111111; adjusted 902,110.00</title></circle>
@@ -78,6 +84,8 @@
 <circle class="point" cx="363.6" cy="601.2" r="2.8" stroke="#009E73"><title>blue-eye-samurai-01; cohort 2023; week 10; raw 4,800,356; factor 1.111111; adjusted 5,333,728.89</title></circle>
 <line x1="900" y1="218" x2="945" y2="218" stroke="#009E73" stroke-width="3" stroke-dasharray="10 4"/>
 <text x="955" y="223" class="small">2023 · blue-eye-samurai-01</text>
+</g>
+<g id="line-graph-4-arcane-02.1">
 <polyline class="series" stroke="#CC79A7" stroke-dasharray="3 3" points="90,613.62 120.4,601.27 150.8,590.16 181.2,581.49 211.6,573.97 242,567.23 272.4,558.03 302.8,546.62 333.2,535.69 363.6,525.6 394,515.04 424.4,504.71 454.8,494.63 485.2,484.49 515.6,474.15 546,464.63 576.4,455.15 606.8,445.59 637.2,436.37 667.6,427.19 698,418.84 728.4,411.19 758.8,404.27 789.2,396.81 819.6,389.3 850,381.35"><title>arcane-02.1, cohort 2024</title></polyline>
 <circle class="point" cx="90" cy="613.62" r="2.8" stroke="#CC79A7"><title>arcane-02.1; cohort 2024; week 1; raw 2,781,288; factor 1.090909; adjusted 3,034,132.36</title></circle>
 <circle class="point" cx="120.4" cy="601.27" r="2.8" stroke="#CC79A7"><title>arcane-02.1; cohort 2024; week 2; raw 4,876,788; factor 1.090909; adjusted 5,320,132.36</title></circle>
@@ -107,6 +115,8 @@
 <circle class="point" cx="850" cy="381.35" r="2.8" stroke="#CC79A7"><title>arcane-02.1; cohort 2024; week 26; raw 42,209,243; factor 1.090909; adjusted 46,046,446.91</title></circle>
 <line x1="900" y1="252" x2="945" y2="252" stroke="#CC79A7" stroke-width="3" stroke-dasharray="3 3"/>
 <text x="955" y="257" class="small">2024 · arcane-02.1</text>
+</g>
+<g id="line-graph-5-arcane-02.2">
 <polyline class="series" stroke="#E69F00" stroke-dasharray="3 3" points="90,618.29 120.4,606.7 150.8,597.81 181.2,590 211.6,582.59 242,572.37 272.4,560.15 302.8,548.91 333.2,537.56 363.6,525.94 394,514.35 424.4,502.9 454.8,492.29 485.2,480.84 515.6,470.36 546,460.15 576.4,449.86 606.8,440.02 637.2,430.05 667.6,420.26 698,411.55 728.4,402.89 758.8,394.63 789.2,386.24 819.6,377.76 850,369.29"><title>arcane-02.2, cohort 2024</title></polyline>
 <circle class="point" cx="90" cy="618.29" r="2.8" stroke="#E69F00"><title>arcane-02.2; cohort 2024; week 1; raw 1,988,423; factor 1.090909; adjusted 2,169,188.73</title></circle>
 <circle class="point" cx="120.4" cy="606.7" r="2.8" stroke="#E69F00"><title>arcane-02.2; cohort 2024; week 2; raw 3,955,382; factor 1.090909; adjusted 4,314,962.18</title></circle>
@@ -136,6 +146,8 @@
 <circle class="point" cx="850" cy="369.29" r="2.8" stroke="#E69F00"><title>arcane-02.2; cohort 2024; week 26; raw 44,256,982; factor 1.090909; adjusted 48,280,344.00</title></circle>
 <line x1="900" y1="286" x2="945" y2="286" stroke="#E69F00" stroke-width="3" stroke-dasharray="3 3"/>
 <text x="955" y="291" class="small">2024 · arcane-02.2</text>
+</g>
+<g id="line-graph-6-arcane-02.3">
 <polyline class="series" stroke="#56B4E9" stroke-dasharray="3 3" points="90,613.92 120.4,601.73 150.8,591.05 181.2,580.29 211.6,565.91 242,550.17 272.4,534.91 302.8,520.02 333.2,504.76 363.6,489.8 394,474.89 424.4,460.32 454.8,445.03 485.2,430.67 515.6,416.14 546,401.34 576.4,387.13 606.8,373.37 637.2,360.05 667.6,348.6 698,337.45 728.4,326.16 758.8,315.11 789.2,304.26 819.6,292.61 850,281.24"><title>arcane-02.3, cohort 2024</title></polyline>
 <circle class="point" cx="90" cy="613.92" r="2.8" stroke="#56B4E9"><title>arcane-02.3; cohort 2024; week 1; raw 2,729,767; factor 1.090909; adjusted 2,977,927.64</title></circle>
 <circle class="point" cx="120.4" cy="601.73" r="2.8" stroke="#56B4E9"><title>arcane-02.3; cohort 2024; week 2; raw 4,799,657; factor 1.090909; adjusted 5,235,989.45</title></circle>
@@ -165,6 +177,8 @@
 <circle class="point" cx="850" cy="281.24" r="2.8" stroke="#56B4E9"><title>arcane-02.3; cohort 2024; week 26; raw 59,203,425; factor 1.090909; adjusted 64,585,554.55</title></circle>
 <line x1="900" y1="320" x2="945" y2="320" stroke="#56B4E9" stroke-width="3" stroke-dasharray="3 3"/>
 <text x="955" y="325" class="small">2024 · arcane-02.3</text>
+</g>
+<g id="line-graph-7-long-story-short-01">
 <polyline class="series" stroke="#6F4E7C" points="90,628.36 120.4,625.88 150.8,622.95 181.2,619.9 211.6,616.48 242,612.95 272.4,609.68 302.8,606.26 333.2,603.14 363.6,600.2 394,596.85 424.4,593.73 454.8,590.47 485.2,587.22 515.6,583.79 546,579.94 576.4,575.85 606.8,572.8 637.2,569.51 667.6,565.52 698,561.65 728.4,557.93 758.8,554.37 789.2,550.67 819.6,547.02 850,543.19"><title>long-story-short-01, cohort 2025</title></polyline>
 <circle class="point" cx="90" cy="628.36" r="2.8" stroke="#6F4E7C"><title>long-story-short-01; cohort 2025; week 1; raw 304,309; factor 1.000000; adjusted 304,309.00</title></circle>
 <circle class="point" cx="120.4" cy="625.88" r="2.8" stroke="#6F4E7C"><title>long-story-short-01; cohort 2025; week 2; raw 762,731; factor 1.000000; adjusted 762,731.00</title></circle>
@@ -194,6 +208,8 @@
 <circle class="point" cx="850" cy="543.19" r="2.8" stroke="#6F4E7C"><title>long-story-short-01; cohort 2025; week 26; raw 16,076,689; factor 1.000000; adjusted 16,076,689.00</title></circle>
 <line x1="900" y1="354" x2="945" y2="354" stroke="#6F4E7C" stroke-width="3"/>
 <text x="955" y="359" class="small">2025 · long-story-short-01</text>
+</g>
+<g id="line-graph-8-love-death-robots-04">
 <polyline class="series" stroke="#000000" points="90,623.04 120.4,614.73 150.8,606.28 181.2,597.48 211.6,588.94 242,579.9 272.4,571.76 302.8,564.63 333.2,557.41 363.6,550.21 394,541.64 424.4,533.48 454.8,524.95 485.2,517.7 515.6,511.36"><title>love-death-robots-04, cohort 2025</title></polyline>
 <circle class="point" cx="90" cy="623.04" r="2.8" stroke="#000000"><title>love-death-robots-04; cohort 2025; week 1; raw 1,288,805; factor 1.000000; adjusted 1,288,805.00</title></circle>
 <circle class="point" cx="120.4" cy="614.73" r="2.8" stroke="#000000"><title>love-death-robots-04; cohort 2025; week 2; raw 2,827,190; factor 1.000000; adjusted 2,827,190.00</title></circle>
@@ -212,4 +228,6 @@
 <circle class="point" cx="515.6" cy="511.36" r="2.8" stroke="#000000"><title>love-death-robots-04; cohort 2025; week 15; raw 21,970,042; factor 1.000000; adjusted 21,970,042.00</title></circle>
 <line x1="900" y1="388" x2="945" y2="388" stroke="#000000" stroke-width="3"/>
 <text x="955" y="393" class="small">2025 · love-death-robots-04</text>
+</g>
+</g>
 </svg>
