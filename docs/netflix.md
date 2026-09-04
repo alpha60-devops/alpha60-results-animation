@@ -12,7 +12,9 @@ description: "Rough 2020-2025 Netflix animation meta-collection results"
 <link rel="stylesheet" href="../resources/izzi-table-wcag-22.css">
 <link rel="stylesheet" href="../resources/izzi-table-sort-wcag-22.css">
 <script defer type="text/javascript" src="../resources/izzi-table-sort-wcag-22.js"></script>
-<script defer type="text/javascript" src="../resources/izzi-graph-hover-txt-polyline-red.js"></script>
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
 
 # Netflix Meta
 
