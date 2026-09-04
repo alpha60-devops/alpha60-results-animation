@@ -36,10 +36,11 @@
   },
   {
     "year": 2020,
-    "global_internet_users": "Estimate not produced (COVID-19)",
-    "global_year_over_year": "N/A",
-    "global_penetration_rate": "N/A",
-    "url": "https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2020.pdf"
+    "global_internet_users": 4.5,
+    "global_year_over_year": "Interpolated",
+    "global_penetration_rate": "Interpolated",
+    "url": "https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2020.pdf",
+    "note": "Linear interpolation between 2019 (4.1) and 2021 (4.9)."
   },
   {
     "year": 2021,
