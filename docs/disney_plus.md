@@ -2,7 +2,7 @@
 layout: default
 title: "Disney Meta"
 author: "Benjamin De Kosnik <bkoz@gnu.org>"
-description: "Rough 2023-2025 Disney animation meta-collection results"
+description: "Rough 2021-2025 Disney animation meta-collection results"
 ---
 
 {::nomarkdown}
@@ -15,8 +15,8 @@ description: "Rough 2023-2025 Disney animation meta-collection results"
 
 # Disney Meta
 
-This is a rough, unvalidated Mellon Method 5 result for the frozen 2023,
-2024, and 2025 Alpha60 inventories.
+This is a rough, unvalidated Mellon Method 5 result for the frozen 2021,
+2022, 2023, 2024, and 2025 Alpha60 inventories.
 
 ## Set definition
 
@@ -39,10 +39,12 @@ does not determine membership.
 
 | Cohort | Media objects |
 | ---: | ---: |
+| 2021 | 2 |
+| 2022 | 2 |
 | 2023 | 1 |
 | 2024 | 2 |
 | 2025 | 2 |
-| **Total** | **5** |
+| **Total** | **9** |
 
 ## Weekly graph
 
@@ -51,29 +53,28 @@ shown on the 2025 ITU Internet-user scale: raw count multiplied by
 <code>ITU users in 2025 / ITU users in the sample-start year</code>.
 
 {::nomarkdown}
-{% include mellon-5/runs/2023-2025-itu-2025/disney-meta-downloads-by-week.svg %}
+{% include mellon-5/runs/2021-2025-itu-2025/disney-meta-downloads-by-week.svg %}
 {:/}
 
 ## Aggregate results
 
-{% include mellon-5/runs/2023-2025-itu-2025/disney-meta-aggregate-table.html %}
+{% include mellon-5/runs/2021-2025-itu-2025/disney-meta-aggregate-table.html %}
 
 These values sum per-object cumulative measurements. They are not
 cross-object-deduplicated counts of people or IP addresses.
 
 ## Selected media objects
 
-{% include mellon-5/runs/2023-2025-itu-2025/disney-meta-media-objects-table.html %}
+{% include mellon-5/runs/2021-2025-itu-2025/disney-meta-media-objects-table.html %}
 
 ## Data and method
 
-- [Cohorts JSON](../data/mellon-5/runs/2023-2025-itu-2025/disney-meta-cohorts.json)
-- [Weekly CSV](../data/mellon-5/runs/2023-2025-itu-2025/disney-meta-weekly.csv)
-- [Weekly JSON](../data/mellon-5/runs/2023-2025-itu-2025/disney-meta-weekly.json)
-- [Aggregate CSV](../data/mellon-5/runs/2023-2025-itu-2025/disney-meta-aggregate.csv)
-- [Itemized CSV](../data/mellon-5/runs/2023-2025-itu-2025/disney-meta-itemized.csv)
-- [Selection manifest](../data/mellon-5/runs/2023-2025-itu-2025/selection-manifest.json)
+- [Cohorts JSON](../data/mellon-5/runs/2021-2025-itu-2025/disney-meta-cohorts.json)
+- [Weekly CSV](../data/mellon-5/runs/2021-2025-itu-2025/disney-meta-weekly.csv)
+- [Weekly JSON](../data/mellon-5/runs/2021-2025-itu-2025/disney-meta-weekly.json)
+- [Aggregate CSV](../data/mellon-5/runs/2021-2025-itu-2025/disney-meta-aggregate.csv)
+- [Itemized CSV](../data/mellon-5/runs/2021-2025-itu-2025/disney-meta-itemized.csv)
+- [Selection manifest](../data/mellon-5/runs/2021-2025-itu-2025/selection-manifest.json)
 
 Method <code>mellon-5-meta-collection 1.0.0-rough</code>; run
-<code>2023-2025-itu-2025</code>; ITU reference year 2025.
-
+<code>2021-2025-itu-2025</code>; ITU reference year 2025.

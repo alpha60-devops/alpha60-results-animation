@@ -1,0 +1,7 @@
+set,cohort_year,selected_media_objects,earliest_sample_date,latest_sample_date,summed_unique_btiha,summed_cumulative_unique_downloaders,downloaders_per_unique_btiha,summed_cumulative_unique_uploaders,uploaders_per_unique_btiha
+japan-origin,2021,6,2021-03-04,2022-03-11,1536,35299215,22981.259766,3944827,2568.246745
+japan-origin,2022,0,,,0,0,0.000000,0,0.000000
+japan-origin,2023,0,,,0,0,0.000000,0,0.000000
+japan-origin,2024,1,2024-06-26,2025-01-08,192,25804356,134397.687500,1620573,8440.484375
+japan-origin,2025,4,2025-04-07,2026-03-04,951,117457569,123509.536278,3263657,3431.815983
+japan-origin,all,11,2021-03-04,2026-03-04,2679,178561140,66652.161254,8829057,3295.653975

@@ -1,0 +1,112 @@
+{
+  "cohort_counts": {
+    "2021": 1,
+    "2022": 0,
+    "2023": 1,
+    "2024": 3,
+    "2025": 2
+  },
+  "group": {
+    "id": "netflix-meta",
+    "label": "Netflix Meta",
+    "predicate": {
+      "any": [
+        {
+          "contains": {
+            "field": "production_tags",
+            "value": "netflix animation studios"
+          }
+        },
+        {
+          "all": [
+            {
+              "contains": {
+                "field": "distribution_tags",
+                "value": "netflix"
+              }
+            },
+            {
+              "intersects": {
+                "field": "release.genres",
+                "values": [
+                  "Adult animation",
+                  "Animated sitcom"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "predicate_summary": "production_tags contains netflix animation studios OR (distribution_tags contains netflix AND release.genres intersects {Adult animation, Animated sitcom})"
+  },
+  "memberships": [
+    {
+      "cohort_year": 2021,
+      "collection_key": "love-death-robots-02",
+      "evidence": [
+        "distribution_tags contains \"netflix\"",
+        "release.genres intersects [\"Adult animation\"]"
+      ],
+      "set": "netflix-meta"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "blue-eye-samurai-01",
+      "evidence": [
+        "production_tags contains \"netflix animation studios\""
+      ],
+      "set": "netflix-meta"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.1",
+      "evidence": [
+        "distribution_tags contains \"netflix\"",
+        "release.genres intersects [\"Adult animation\"]"
+      ],
+      "set": "netflix-meta"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.2",
+      "evidence": [
+        "distribution_tags contains \"netflix\"",
+        "release.genres intersects [\"Adult animation\"]"
+      ],
+      "set": "netflix-meta"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.3",
+      "evidence": [
+        "distribution_tags contains \"netflix\"",
+        "release.genres intersects [\"Adult animation\"]"
+      ],
+      "set": "netflix-meta"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "long-story-short-01",
+      "evidence": [
+        "production_tags contains \"netflix animation studios\"",
+        "distribution_tags contains \"netflix\"",
+        "release.genres intersects [\"Adult animation\", \"Animated sitcom\"]"
+      ],
+      "set": "netflix-meta"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "love-death-robots-04",
+      "evidence": [
+        "distribution_tags contains \"netflix\"",
+        "release.genres intersects [\"Adult animation\"]"
+      ],
+      "set": "netflix-meta"
+    }
+  ],
+  "method_id": "mellon-5-meta-collection",
+  "method_version": "1.0.0-rough",
+  "run_id": "2021-2025-itu-2025",
+  "total_memberships": 7
+}

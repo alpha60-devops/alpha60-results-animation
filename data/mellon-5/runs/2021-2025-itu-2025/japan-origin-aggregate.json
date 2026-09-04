@@ -1,0 +1,74 @@
+[
+  {
+    "cohort_year": "2021",
+    "downloaders_per_unique_btiha": "22981.259766",
+    "earliest_sample_date": "2021-03-04",
+    "latest_sample_date": "2022-03-11",
+    "selected_media_objects": 6,
+    "set": "japan-origin",
+    "summed_cumulative_unique_downloaders": 35299215,
+    "summed_cumulative_unique_uploaders": 3944827,
+    "summed_unique_btiha": 1536,
+    "uploaders_per_unique_btiha": "2568.246745"
+  },
+  {
+    "cohort_year": "2022",
+    "downloaders_per_unique_btiha": "0.000000",
+    "earliest_sample_date": "",
+    "latest_sample_date": "",
+    "selected_media_objects": 0,
+    "set": "japan-origin",
+    "summed_cumulative_unique_downloaders": 0,
+    "summed_cumulative_unique_uploaders": 0,
+    "summed_unique_btiha": 0,
+    "uploaders_per_unique_btiha": "0.000000"
+  },
+  {
+    "cohort_year": "2023",
+    "downloaders_per_unique_btiha": "0.000000",
+    "earliest_sample_date": "",
+    "latest_sample_date": "",
+    "selected_media_objects": 0,
+    "set": "japan-origin",
+    "summed_cumulative_unique_downloaders": 0,
+    "summed_cumulative_unique_uploaders": 0,
+    "summed_unique_btiha": 0,
+    "uploaders_per_unique_btiha": "0.000000"
+  },
+  {
+    "cohort_year": "2024",
+    "downloaders_per_unique_btiha": "134397.687500",
+    "earliest_sample_date": "2024-06-26",
+    "latest_sample_date": "2025-01-08",
+    "selected_media_objects": 1,
+    "set": "japan-origin",
+    "summed_cumulative_unique_downloaders": 25804356,
+    "summed_cumulative_unique_uploaders": 1620573,
+    "summed_unique_btiha": 192,
+    "uploaders_per_unique_btiha": "8440.484375"
+  },
+  {
+    "cohort_year": "2025",
+    "downloaders_per_unique_btiha": "123509.536278",
+    "earliest_sample_date": "2025-04-07",
+    "latest_sample_date": "2026-03-04",
+    "selected_media_objects": 4,
+    "set": "japan-origin",
+    "summed_cumulative_unique_downloaders": 117457569,
+    "summed_cumulative_unique_uploaders": 3263657,
+    "summed_unique_btiha": 951,
+    "uploaders_per_unique_btiha": "3431.815983"
+  },
+  {
+    "cohort_year": "all",
+    "downloaders_per_unique_btiha": "66652.161254",
+    "earliest_sample_date": "2021-03-04",
+    "latest_sample_date": "2026-03-04",
+    "selected_media_objects": 11,
+    "set": "japan-origin",
+    "summed_cumulative_unique_downloaders": 178561140,
+    "summed_cumulative_unique_uploaders": 8829057,
+    "summed_unique_btiha": 2679,
+    "uploaders_per_unique_btiha": "3295.653975"
+  }
+]
