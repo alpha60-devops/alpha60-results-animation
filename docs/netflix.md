@@ -18,20 +18,6 @@ description: "Rough 2020-2025 Netflix animation meta-collection results"
 This is a rough, unvalidated Mellon Method 5 result for the frozen 2020,
 2021, 2022, 2023, 2024, and 2025 Alpha60 inventories.
 
-## Set definition
-
-<pre><code>production_tags contains "netflix animation studios"
-OR
-(
-  distribution_tags contains "netflix"
-  AND release.genres intersects {
-    "Adult animation", "Animated sitcom"
-  }
-)</code></pre>
-
-Array matching is exact. The inventory year is the cohort year; release year
-does not determine membership.
-
 | Cohort | Media objects |
 | ---: | ---: |
 | 2020 | 1 |
@@ -58,6 +44,20 @@ shown on the 2025 ITU Internet-user scale: raw count multiplied by
 
 These values sum per-object cumulative measurements. They are not
 cross-object-deduplicated counts of people or IP addresses.
+
+## Set definition
+
+<pre><code>production_tags contains "netflix animation studios"
+OR
+(
+  distribution_tags contains "netflix"
+  AND release.genres intersects {
+    "Adult animation", "Animated sitcom"
+  }
+)</code></pre>
+
+Array matching is exact. The inventory year is the cohort year; release year
+does not determine membership.
 
 ## Selected media objects
 

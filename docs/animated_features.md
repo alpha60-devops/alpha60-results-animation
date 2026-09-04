@@ -18,15 +18,6 @@ description: "Rough 2020-2025 animated-feature meta-collection results"
 This is a rough, unvalidated Mellon Method 5 result for the frozen 2020,
 2021, 2022, 2023, 2024, and 2025 Alpha60 inventories.
 
-## Set definition
-
-<pre><code>collection_tags contains "animation"
-AND media_object.type == "film"</code></pre>
-
-The <code>animation</code> tag comes from the hand-selected Animation
-publication list. Array matching is exact, and the inventory year is the
-cohort year.
-
 | Cohort | Media objects |
 | ---: | ---: |
 | 2020 | 3 |
@@ -53,6 +44,15 @@ shown on the 2025 ITU Internet-user scale: raw count multiplied by
 
 These values sum per-object cumulative measurements. They are not
 cross-object-deduplicated counts of people or IP addresses.
+
+## Set definition
+
+<pre><code>collection_tags contains "animation"
+AND media_object.type == "film"</code></pre>
+
+The <code>animation</code> tag comes from the hand-selected Animation
+publication list. Array matching is exact, and the inventory year is the
+cohort year.
 
 ## Selected media objects
 

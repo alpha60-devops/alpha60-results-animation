@@ -18,20 +18,6 @@ description: "Rough 2020-2025 Japan-origin animation meta-collection results"
 This is a rough, unvalidated Mellon Method 5 result for the frozen 2020,
 2021, 2022, 2023, 2024, and 2025 Alpha60 inventories.
 
-## Set definition
-
-<pre><code>collection_tags contains "animation"
-AND
-(
-  release.countries_of_origin contains "Japan"
-  OR release.original_languages contains "Japanese"
-  OR collection_tags contains "japan_origin"
-)</code></pre>
-
-Array matching is exact. The inventory year is the cohort year; release year
-does not determine membership. Demon Slayer is deferred until a future 2020
-cohort and is not listed, graphed, or counted in this run.
-
 | Cohort | Media objects |
 | ---: | ---: |
 | 2020 | 3 |
@@ -58,6 +44,20 @@ shown on the 2025 ITU Internet-user scale: raw count multiplied by
 
 These values sum per-object cumulative measurements. They are not
 cross-object-deduplicated counts of people or IP addresses.
+
+## Set definition
+
+<pre><code>collection_tags contains "animation"
+AND
+(
+  release.countries_of_origin contains "Japan"
+  OR release.original_languages contains "Japanese"
+  OR collection_tags contains "japan_origin"
+)</code></pre>
+
+Array matching is exact. The inventory year is the cohort year; release year
+does not determine membership. Demon Slayer is deferred until a future 2020
+cohort and is not listed, graphed, or counted in this run.
 
 ## Selected media objects
 
