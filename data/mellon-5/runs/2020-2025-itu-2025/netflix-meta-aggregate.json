@@ -1,0 +1,86 @@
+[
+  {
+    "cohort_year": "2020",
+    "downloaders_per_unique_btiha": "28900.253731",
+    "earliest_sample_date": "2020-01-31",
+    "latest_sample_date": "2020-04-09",
+    "selected_media_objects": 1,
+    "set": "netflix-meta",
+    "summed_cumulative_unique_downloaders": 3872634,
+    "summed_cumulative_unique_uploaders": 216149,
+    "summed_unique_btiha": 134,
+    "uploaders_per_unique_btiha": "1613.052239"
+  },
+  {
+    "cohort_year": "2021",
+    "downloaders_per_unique_btiha": "44889.245033",
+    "earliest_sample_date": "2021-05-14",
+    "latest_sample_date": "2021-07-22",
+    "selected_media_objects": 1,
+    "set": "netflix-meta",
+    "summed_cumulative_unique_downloaders": 6778276,
+    "summed_cumulative_unique_uploaders": 1188472,
+    "summed_unique_btiha": 151,
+    "uploaders_per_unique_btiha": "7870.675497"
+  },
+  {
+    "cohort_year": "2022",
+    "downloaders_per_unique_btiha": "0.000000",
+    "earliest_sample_date": "",
+    "latest_sample_date": "",
+    "selected_media_objects": 0,
+    "set": "netflix-meta",
+    "summed_cumulative_unique_downloaders": 0,
+    "summed_cumulative_unique_uploaders": 0,
+    "summed_unique_btiha": 0,
+    "uploaders_per_unique_btiha": "0.000000"
+  },
+  {
+    "cohort_year": "2023",
+    "downloaders_per_unique_btiha": "36366.333333",
+    "earliest_sample_date": "2023-11-04",
+    "latest_sample_date": "2024-01-12",
+    "selected_media_objects": 1,
+    "set": "netflix-meta",
+    "summed_cumulative_unique_downloaders": 4800356,
+    "summed_cumulative_unique_uploaders": 793179,
+    "summed_unique_btiha": 132,
+    "uploaders_per_unique_btiha": "6008.931818"
+  },
+  {
+    "cohort_year": "2024",
+    "downloaders_per_unique_btiha": "150020.236869",
+    "earliest_sample_date": "2024-11-09",
+    "latest_sample_date": "2025-05-23",
+    "selected_media_objects": 3,
+    "set": "netflix-meta",
+    "summed_cumulative_unique_downloaders": 145669650,
+    "summed_cumulative_unique_uploaders": 8927990,
+    "summed_unique_btiha": 971,
+    "uploaders_per_unique_btiha": "9194.634398"
+  },
+  {
+    "cohort_year": "2025",
+    "downloaders_per_unique_btiha": "93251.791667",
+    "earliest_sample_date": "2025-05-15",
+    "latest_sample_date": "2026-02-19",
+    "selected_media_objects": 2,
+    "set": "netflix-meta",
+    "summed_cumulative_unique_downloaders": 38046731,
+    "summed_cumulative_unique_uploaders": 2381011,
+    "summed_unique_btiha": 408,
+    "uploaders_per_unique_btiha": "5835.811275"
+  },
+  {
+    "cohort_year": "all",
+    "downloaders_per_unique_btiha": "110895.126392",
+    "earliest_sample_date": "2020-01-31",
+    "latest_sample_date": "2026-02-19",
+    "selected_media_objects": 8,
+    "set": "netflix-meta",
+    "summed_cumulative_unique_downloaders": 199167647,
+    "summed_cumulative_unique_uploaders": 13506801,
+    "summed_unique_btiha": 1796,
+    "uploaders_per_unique_btiha": "7520.490535"
+  }
+]

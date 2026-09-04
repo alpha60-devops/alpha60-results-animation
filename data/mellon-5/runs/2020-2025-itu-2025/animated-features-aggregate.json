@@ -1,0 +1,86 @@
+[
+  {
+    "cohort_year": "2020",
+    "downloaders_per_unique_btiha": "64733.002320",
+    "earliest_sample_date": "2020-03-19",
+    "latest_sample_date": "2021-10-19",
+    "selected_media_objects": 3,
+    "set": "animated-features",
+    "summed_cumulative_unique_downloaders": 27899924,
+    "summed_cumulative_unique_uploaders": 5849929,
+    "summed_unique_btiha": 431,
+    "uploaders_per_unique_btiha": "13572.921114"
+  },
+  {
+    "cohort_year": "2021",
+    "downloaders_per_unique_btiha": "108236.838298",
+    "earliest_sample_date": "2021-03-04",
+    "latest_sample_date": "2021-09-02",
+    "selected_media_objects": 4,
+    "set": "animated-features",
+    "summed_cumulative_unique_downloaders": 50871314,
+    "summed_cumulative_unique_uploaders": 12891599,
+    "summed_unique_btiha": 470,
+    "uploaders_per_unique_btiha": "27428.934043"
+  },
+  {
+    "cohort_year": "2022",
+    "downloaders_per_unique_btiha": "81974.055556",
+    "earliest_sample_date": "2022-03-11",
+    "latest_sample_date": "2022-06-23",
+    "selected_media_objects": 1,
+    "set": "animated-features",
+    "summed_cumulative_unique_downloaders": 13279797,
+    "summed_cumulative_unique_uploaders": 5318333,
+    "summed_unique_btiha": 162,
+    "uploaders_per_unique_btiha": "32829.216049"
+  },
+  {
+    "cohort_year": "2023",
+    "downloaders_per_unique_btiha": "75805.225718",
+    "earliest_sample_date": "2023-05-16",
+    "latest_sample_date": "2024-02-05",
+    "selected_media_objects": 2,
+    "set": "animated-features",
+    "summed_cumulative_unique_downloaders": 55413620,
+    "summed_cumulative_unique_uploaders": 12513714,
+    "summed_unique_btiha": 731,
+    "uploaders_per_unique_btiha": "17118.623803"
+  },
+  {
+    "cohort_year": "2024",
+    "downloaders_per_unique_btiha": "156263.653968",
+    "earliest_sample_date": "2024-06-26",
+    "latest_sample_date": "2025-04-22",
+    "selected_media_objects": 3,
+    "set": "animated-features",
+    "summed_cumulative_unique_downloaders": 147669153,
+    "summed_cumulative_unique_uploaders": 14813473,
+    "summed_unique_btiha": 945,
+    "uploaders_per_unique_btiha": "15675.632804"
+  },
+  {
+    "cohort_year": "2025",
+    "downloaders_per_unique_btiha": "148258.733090",
+    "earliest_sample_date": "2025-01-28",
+    "latest_sample_date": "2025-09-27",
+    "selected_media_objects": 2,
+    "set": "animated-features",
+    "summed_cumulative_unique_downloaders": 81097527,
+    "summed_cumulative_unique_uploaders": 7176142,
+    "summed_unique_btiha": 547,
+    "uploaders_per_unique_btiha": "13119.089580"
+  },
+  {
+    "cohort_year": "all",
+    "downloaders_per_unique_btiha": "114495.232806",
+    "earliest_sample_date": "2020-03-19",
+    "latest_sample_date": "2025-09-27",
+    "selected_media_objects": 15,
+    "set": "animated-features",
+    "summed_cumulative_unique_downloaders": 376231335,
+    "summed_cumulative_unique_uploaders": 58563190,
+    "summed_unique_btiha": 3286,
+    "uploaders_per_unique_btiha": "17822.029823"
+  }
+]

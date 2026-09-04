@@ -1,0 +1,172 @@
+{
+  "cohort_counts": {
+    "2020": 3,
+    "2021": 4,
+    "2022": 1,
+    "2023": 2,
+    "2024": 3,
+    "2025": 2
+  },
+  "group": {
+    "id": "animated-features",
+    "label": "Animated features",
+    "predicate": {
+      "all": [
+        {
+          "contains": {
+            "field": "collection_tags",
+            "value": "animation"
+          }
+        },
+        {
+          "equals": {
+            "field": "media_object.type",
+            "value": "film"
+          }
+        }
+      ]
+    },
+    "predicate_summary": "collection_tags contains animation AND media_object.type equals film"
+  },
+  "memberships": [
+    {
+      "cohort_year": 2020,
+      "collection_key": "altered-carbon-resleeved",
+      "evidence": [
+        "collection_tags contains \"animation\"",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+      "evidence": [
+        "collection_tags contains \"animation\"",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "japan-sinks",
+      "evidence": [
+        "collection_tags contains \"animation\"",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "mitchells-vs-the-machines",
+      "evidence": [
+        "collection_tags contains \"animation\"",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "pacific-rim-the-black",
+      "evidence": [
+        "collection_tags contains \"animation\"",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "raya-and-the-last-dragon",
+      "evidence": [
+        "collection_tags contains \"animation\"",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "yasuke-01",
+      "evidence": [
+        "collection_tags contains \"animation\"",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "turning-red",
+      "evidence": [
+        "collection_tags contains \"animation\"",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "spider-man-across-the-spider-verse",
+      "evidence": [
+        "collection_tags contains \"animation\"",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "super-mario-brothers-movie",
+      "evidence": [
+        "collection_tags contains \"animation\"",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "boy-and-the-heron",
+      "evidence": [
+        "collection_tags contains \"animation\"",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "inside-out-2",
+      "evidence": [
+        "collection_tags contains \"animation\"",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "wild-robot",
+      "evidence": [
+        "collection_tags contains \"animation\"",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "moana-2",
+      "evidence": [
+        "collection_tags contains \"animation\"",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "predator-killer-of-killers",
+      "evidence": [
+        "collection_tags contains \"animation\"",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    }
+  ],
+  "method_id": "mellon-5-meta-collection",
+  "method_version": "1.1.0-rough",
+  "run_id": "2020-2025-itu-2025",
+  "total_memberships": 15
+}
