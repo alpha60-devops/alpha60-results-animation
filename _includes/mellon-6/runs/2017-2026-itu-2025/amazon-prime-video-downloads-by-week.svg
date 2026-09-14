@@ -1,0 +1,343 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="amazon-prime-video-graph-title amazon-prime-video-graph-desc" viewBox="0 0 1920 1080">
+<title id="amazon-prime-video-graph-title">Amazon Prime Video downloads by week</title>
+<desc id="amazon-prime-video-graph-desc">One line per selected media object, adjusted to the 2025 ITU Internet-user scale.</desc>
+<style>
+.axis{stroke:rgb(118,118,118);stroke-width:1}
+.grid{stroke:rgb(222,222,222);stroke-width:1}
+.label{font-family:Apercu;fill:rgb(118,118,118)}
+.small{font-family:Apercu;fill:rgb(118,118,118)}
+</style>
+<text x="960.0" y="90" text-anchor="middle" class="label" font-size="26">Amazon Prime Video downloads by week</text>
+<text x="960.0" y="126" text-anchor="middle" class="small" font-size="16">one line per selected media object, adjusted to the 2025 ITU Internet-user scale</text>
+<line x1="200" y1="870" x2="1720" y2="870" class="grid"/>
+<text x="184" y="875" text-anchor="end" class="small" font-size="14">0.0M</text>
+<line x1="200" y1="730" x2="1720" y2="730" class="grid"/>
+<text x="184" y="735" text-anchor="end" class="small" font-size="14">4.0M</text>
+<line x1="200" y1="590" x2="1720" y2="590" class="grid"/>
+<text x="184" y="595" text-anchor="end" class="small" font-size="14">8.0M</text>
+<line x1="200" y1="450" x2="1720" y2="450" class="grid"/>
+<text x="184" y="455" text-anchor="end" class="small" font-size="14">12.0M</text>
+<line x1="200" y1="310" x2="1720" y2="310" class="grid"/>
+<text x="184" y="315" text-anchor="end" class="small" font-size="14">16.0M</text>
+<line x1="200" y1="170" x2="1720" y2="170" class="grid"/>
+<text x="184" y="175" text-anchor="end" class="small" font-size="14">20.0M</text>
+<line x1="200" y1="170" x2="200" y2="870" class="grid"/>
+<text x="200" y="900" text-anchor="middle" class="small" font-size="14">1</text>
+<line x1="634.29" y1="170" x2="634.29" y2="870" class="grid"/>
+<text x="634.29" y="900" text-anchor="middle" class="small" font-size="14">5</text>
+<line x1="1177.14" y1="170" x2="1177.14" y2="870" class="grid"/>
+<text x="1177.14" y="900" text-anchor="middle" class="small" font-size="14">10</text>
+<line x1="1720" y1="170" x2="1720" y2="870" class="grid"/>
+<text x="1720" y="900" text-anchor="middle" class="small" font-size="14">15</text>
+<line x1="200" y1="170" x2="200" y2="870" class="axis"/>
+<line x1="200" y1="870" x2="1720" y2="870" class="axis"/>
+<text x="960.0" y="938" text-anchor="middle" class="label" font-size="18">WEEK</text>
+<text x="74" y="520.0" text-anchor="middle" transform="rotate(-90 74 520.0)" class="label" font-size="18">DOWNLOADERS</text>
+<text x="1760" y="170" class="label" font-size="18">MEDIA OBJECTS</text>
+<text x="1760" y="198" class="small" font-size="14">2017: 1-3 · 2018: 4-2 · 2019: 7-3 · 2020: 2-2 · 2021: 5-3 · 2022: 8-4 · 2023: 10-4 · 2024: 3-3 · 2025: solid · 2026: 14-4</text>
+<g id="composite-chart">
+<g id="amazon-prime-video-line-graph-1-undone-01">
+<g id="polyline-amazon-prime-video-line-graph-1-undone-01">
+<polyline points="200,832.61 308.57,793.72 417.14,759.48 525.71,731.41 634.29,710.06 742.86,684.65 851.43,660.28 960,646.1 1068.57,631.09 1177.14,619.09" stroke-linecap="round" style="fill:rgb(0,114,178); fill-opacity:0; stroke:rgb(0,114,178); stroke-opacity:1; stroke-width:2" stroke-dasharray="7 3"/>
+</g>
+<g id="markers-amazon-prime-video-line-graph-1-undone-01">
+<circle cx="200" cy="832.61" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>undone-01
+week: 1
+1,068,300</title></circle>
+<circle cx="308.57" cy="793.72" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>undone-01
+week: 2
+2,179,499</title></circle>
+<circle cx="417.14" cy="759.48" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>undone-01
+week: 3
+3,157,781</title></circle>
+<circle cx="525.71" cy="731.41" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>undone-01
+week: 4
+3,959,612</title></circle>
+<circle cx="634.29" cy="710.06" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>undone-01
+week: 5
+4,569,591</title></circle>
+<circle cx="742.86" cy="684.65" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>undone-01
+week: 6
+5,295,676</title></circle>
+<circle cx="851.43" cy="660.28" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>undone-01
+week: 7
+5,992,139</title></circle>
+<circle cx="960" cy="646.1" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>undone-01
+week: 8
+6,397,199</title></circle>
+<circle cx="1068.57" cy="631.09" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>undone-01
+week: 9
+6,825,985</title></circle>
+<circle cx="1177.14" cy="619.09" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>undone-01
+week: 10
+7,168,768</title></circle>
+</g>
+</g>
+<line x1="1760" y1="230" x2="1792" y2="230" stroke="rgb(0,114,178)" stroke-width="2" stroke-dasharray="7 3"/>
+<text x="1800" y="235" class="small" font-size="14">2019 · undone-01</text>
+<g id="amazon-prime-video-line-graph-2-star-trek-lower-decks-101">
+<g id="polyline-amazon-prime-video-line-graph-2-star-trek-lower-decks-101">
+<polyline points="200,858.45 308.57,852.77 417.14,848.51 525.71,844.13 634.29,840.29 742.86,836.04 851.43,832.17 960,828.42 1068.57,826.8" stroke-linecap="round" style="fill:rgb(213,94,0); fill-opacity:0; stroke:rgb(213,94,0); stroke-opacity:1; stroke-width:2" stroke-dasharray="2 2"/>
+</g>
+<g id="markers-amazon-prime-video-line-graph-2-star-trek-lower-decks-101">
+<circle cx="200" cy="858.45" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>star-trek-lower-decks-101
+week: 1
+329,877</title></circle>
+<circle cx="308.57" cy="852.77" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>star-trek-lower-decks-101
+week: 2
+492,267</title></circle>
+<circle cx="417.14" cy="848.51" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>star-trek-lower-decks-101
+week: 3
+614,120</title></circle>
+<circle cx="525.71" cy="844.13" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>star-trek-lower-decks-101
+week: 4
+739,247</title></circle>
+<circle cx="634.29" cy="840.29" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>star-trek-lower-decks-101
+week: 5
+848,736</title></circle>
+<circle cx="742.86" cy="836.04" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>star-trek-lower-decks-101
+week: 6
+970,171</title></circle>
+<circle cx="851.43" cy="832.17" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>star-trek-lower-decks-101
+week: 7
+1,080,953</title></circle>
+<circle cx="960" cy="828.42" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>star-trek-lower-decks-101
+week: 8
+1,187,980</title></circle>
+<circle cx="1068.57" cy="826.8" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>star-trek-lower-decks-101
+week: 9
+1,234,331</title></circle>
+</g>
+</g>
+<line x1="1760" y1="258" x2="1792" y2="258" stroke="rgb(213,94,0)" stroke-width="2" stroke-dasharray="2 2"/>
+<text x="1800" y="263" class="small" font-size="14">2020 · star-trek-lower-decks-101</text>
+<g id="amazon-prime-video-line-graph-3-invincible-101">
+<g id="polyline-amazon-prime-video-line-graph-3-invincible-101">
+<polyline points="200,855.01 308.57,844.82 417.14,836.66 525.71,829.53 634.29,814.53 742.86,781.22 851.43,758.71 960,739.38 1068.57,725.28 1177.14,714.57" stroke-linecap="round" style="fill:rgb(0,158,115); fill-opacity:0; stroke:rgb(0,158,115); stroke-opacity:1; stroke-width:2" stroke-dasharray="5 3"/>
+</g>
+<g id="markers-amazon-prime-video-line-graph-3-invincible-101">
+<circle cx="200" cy="855.01" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>invincible-101
+week: 1
+428,216</title></circle>
+<circle cx="308.57" cy="844.82" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>invincible-101
+week: 2
+719,355</title></circle>
+<circle cx="417.14" cy="836.66" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>invincible-101
+week: 3
+952,599</title></circle>
+<circle cx="525.71" cy="829.53" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>invincible-101
+week: 4
+1,156,417</title></circle>
+<circle cx="634.29" cy="814.53" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>invincible-101
+week: 5
+1,584,994</title></circle>
+<circle cx="742.86" cy="781.22" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>invincible-101
+week: 6
+2,536,643</title></circle>
+<circle cx="851.43" cy="758.71" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>invincible-101
+week: 7
+3,179,851</title></circle>
+<circle cx="960" cy="739.38" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>invincible-101
+week: 8
+3,732,053</title></circle>
+<circle cx="1068.57" cy="725.28" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>invincible-101
+week: 9
+4,134,844</title></circle>
+<circle cx="1177.14" cy="714.57" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>invincible-101
+week: 10
+4,440,868</title></circle>
+</g>
+</g>
+<line x1="1760" y1="286" x2="1792" y2="286" stroke="rgb(0,158,115)" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="1800" y="291" class="small" font-size="14">2021 · invincible-101</text>
+<g id="amazon-prime-video-line-graph-4-boys-presents-diabolical-01">
+<g id="polyline-amazon-prime-video-line-graph-4-boys-presents-diabolical-01">
+<polyline points="200,858.52 308.57,848.46 417.14,840.8 525.71,833.1 634.29,825.59 742.86,818.78 851.43,812.81 960,807.02 1068.57,800.74 1177.14,795.11 1285.71,789.49" stroke-linecap="round" style="fill:rgb(204,121,167); fill-opacity:0; stroke:rgb(204,121,167); stroke-opacity:1; stroke-width:2" stroke-dasharray="8 4"/>
+</g>
+<g id="markers-amazon-prime-video-line-graph-4-boys-presents-diabolical-01">
+<circle cx="200" cy="858.52" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>boys-presents-diabolical-01
+week: 1
+328,106</title></circle>
+<circle cx="308.57" cy="848.46" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>boys-presents-diabolical-01
+week: 2
+615,406</title></circle>
+<circle cx="417.14" cy="840.8" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>boys-presents-diabolical-01
+week: 3
+834,171</title></circle>
+<circle cx="525.71" cy="833.1" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>boys-presents-diabolical-01
+week: 4
+1,054,265</title></circle>
+<circle cx="634.29" cy="825.59" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>boys-presents-diabolical-01
+week: 5
+1,269,000</title></circle>
+<circle cx="742.86" cy="818.78" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>boys-presents-diabolical-01
+week: 6
+1,463,290</title></circle>
+<circle cx="851.43" cy="812.81" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>boys-presents-diabolical-01
+week: 7
+1,634,129</title></circle>
+<circle cx="960" cy="807.02" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>boys-presents-diabolical-01
+week: 8
+1,799,513</title></circle>
+<circle cx="1068.57" cy="800.74" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>boys-presents-diabolical-01
+week: 9
+1,978,807</title></circle>
+<circle cx="1177.14" cy="795.11" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>boys-presents-diabolical-01
+week: 10
+2,139,792</title></circle>
+<circle cx="1285.71" cy="789.49" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>boys-presents-diabolical-01
+week: 11
+2,300,183</title></circle>
+</g>
+</g>
+<line x1="1760" y1="314" x2="1792" y2="314" stroke="rgb(204,121,167)" stroke-width="2" stroke-dasharray="8 4"/>
+<text x="1800" y="319" class="small" font-size="14">2022 · boys-presents-diabolical-01</text>
+<g id="amazon-prime-video-line-graph-5-undone-02">
+<g id="polyline-amazon-prime-video-line-graph-5-undone-02">
+<polyline points="200,863.66 308.57,857.72 417.14,851.85 525.71,845.63 634.29,839.53 742.86,833.51 851.43,827.73 960,821.17 1068.57,814.83 1177.14,807.92 1285.71,802.37 1394.29,796.74 1502.86,792.04 1611.43,786.93 1720,781.44" stroke-linecap="round" style="fill:rgb(230,159,0); fill-opacity:0; stroke:rgb(230,159,0); stroke-opacity:1; stroke-width:2" stroke-dasharray="8 4"/>
+</g>
+<g id="markers-amazon-prime-video-line-graph-5-undone-02">
+<circle cx="200" cy="863.66" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>undone-02
+week: 1
+181,177</title></circle>
+<circle cx="308.57" cy="857.72" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>undone-02
+week: 2
+350,766</title></circle>
+<circle cx="417.14" cy="851.85" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>undone-02
+week: 3
+518,604</title></circle>
+<circle cx="525.71" cy="845.63" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>undone-02
+week: 4
+696,168</title></circle>
+<circle cx="634.29" cy="839.53" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>undone-02
+week: 5
+870,700</title></circle>
+<circle cx="742.86" cy="833.51" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>undone-02
+week: 6
+1,042,534</title></circle>
+<circle cx="851.43" cy="827.73" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>undone-02
+week: 7
+1,207,851</title></circle>
+<circle cx="960" cy="821.17" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>undone-02
+week: 8
+1,395,036</title></circle>
+<circle cx="1068.57" cy="814.83" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>undone-02
+week: 9
+1,576,145</title></circle>
+<circle cx="1177.14" cy="807.92" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>undone-02
+week: 10
+1,773,781</title></circle>
+<circle cx="1285.71" cy="802.37" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>undone-02
+week: 11
+1,932,182</title></circle>
+<circle cx="1394.29" cy="796.74" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>undone-02
+week: 12
+2,093,117</title></circle>
+<circle cx="1502.86" cy="792.04" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>undone-02
+week: 13
+2,227,329</title></circle>
+<circle cx="1611.43" cy="786.93" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>undone-02
+week: 14
+2,373,352</title></circle>
+<circle cx="1720" cy="781.44" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>undone-02
+week: 15
+2,530,234</title></circle>
+</g>
+</g>
+<line x1="1760" y1="342" x2="1792" y2="342" stroke="rgb(230,159,0)" stroke-width="2" stroke-dasharray="8 4"/>
+<text x="1800" y="347" class="small" font-size="14">2022 · undone-02</text>
+<g id="amazon-prime-video-line-graph-6-invincible-201">
+<g id="polyline-amazon-prime-video-line-graph-6-invincible-201">
+<polyline points="200,848.21 308.57,819.04 417.14,787.87 525.71,762.11 634.29,740.44 742.86,719.54 851.43,701.1 960,682.89 1068.57,664.44 1177.14,647.34" stroke-linecap="round" style="fill:rgb(86,180,233); fill-opacity:0; stroke:rgb(86,180,233); stroke-opacity:1; stroke-width:2" stroke-dasharray="10 4"/>
+</g>
+<g id="markers-amazon-prime-video-line-graph-6-invincible-201">
+<circle cx="200" cy="848.21" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>invincible-201
+week: 1
+622,610</title></circle>
+<circle cx="308.57" cy="819.04" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>invincible-201
+week: 2
+1,456,091</title></circle>
+<circle cx="417.14" cy="787.87" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>invincible-201
+week: 3
+2,346,476</title></circle>
+<circle cx="525.71" cy="762.11" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>invincible-201
+week: 4
+3,082,653</title></circle>
+<circle cx="634.29" cy="740.44" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>invincible-201
+week: 5
+3,701,804</title></circle>
+<circle cx="742.86" cy="719.54" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>invincible-201
+week: 6
+4,298,976</title></circle>
+<circle cx="851.43" cy="701.1" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>invincible-201
+week: 7
+4,825,604</title></circle>
+<circle cx="960" cy="682.89" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>invincible-201
+week: 8
+5,346,037</title></circle>
+<circle cx="1068.57" cy="664.44" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>invincible-201
+week: 9
+5,873,176</title></circle>
+<circle cx="1177.14" cy="647.34" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>invincible-201
+week: 10
+6,361,820</title></circle>
+</g>
+</g>
+<line x1="1760" y1="370" x2="1792" y2="370" stroke="rgb(86,180,233)" stroke-width="2" stroke-dasharray="10 4"/>
+<text x="1800" y="375" class="small" font-size="14">2023 · invincible-201</text>
+<g id="amazon-prime-video-line-graph-7-invincible-301">
+<g id="polyline-amazon-prime-video-line-graph-7-invincible-301">
+<polyline points="200,814.56 308.57,759.73 417.14,712.41 525.71,669.02 634.29,625.5 742.86,579.73 851.43,536.6 960,496.16 1068.57,459.96 1177.14,426.89 1285.71,393.34 1394.29,362.08 1502.86,332.74 1611.43,299.86 1720,269.77" stroke-linecap="round" style="fill:rgb(111,78,124); fill-opacity:0; stroke:rgb(111,78,124); stroke-opacity:1; stroke-width:2"/>
+</g>
+<g id="markers-amazon-prime-video-line-graph-7-invincible-301">
+<circle cx="200" cy="814.56" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>invincible-301
+week: 1
+1,584,076</title></circle>
+<circle cx="308.57" cy="759.73" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>invincible-301
+week: 2
+3,150,556</title></circle>
+<circle cx="417.14" cy="712.41" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>invincible-301
+week: 3
+4,502,461</title></circle>
+<circle cx="525.71" cy="669.02" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>invincible-301
+week: 4
+5,742,339</title></circle>
+<circle cx="634.29" cy="625.5" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>invincible-301
+week: 5
+6,985,828</title></circle>
+<circle cx="742.86" cy="579.73" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>invincible-301
+week: 6
+8,293,518</title></circle>
+<circle cx="851.43" cy="536.6" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>invincible-301
+week: 7
+9,525,644</title></circle>
+<circle cx="960" cy="496.16" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>invincible-301
+week: 8
+10,681,156</title></circle>
+<circle cx="1068.57" cy="459.96" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>invincible-301
+week: 9
+11,715,291</title></circle>
+<circle cx="1177.14" cy="426.89" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>invincible-301
+week: 10
+12,660,365</title></circle>
+<circle cx="1285.71" cy="393.34" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>invincible-301
+week: 11
+13,618,952</title></circle>
+<circle cx="1394.29" cy="362.08" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>invincible-301
+week: 12
+14,511,863</title></circle>
+<circle cx="1502.86" cy="332.74" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>invincible-301
+week: 13
+15,350,213</title></circle>
+<circle cx="1611.43" cy="299.86" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>invincible-301
+week: 14
+16,289,592</title></circle>
+<circle cx="1720" cy="269.77" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>invincible-301
+week: 15
+17,149,288</title></circle>
+</g>
+</g>
+<line x1="1760" y1="398" x2="1792" y2="398" stroke="rgb(111,78,124)" stroke-width="2"/>
+<text x="1800" y="403" class="small" font-size="14">2025 · invincible-301</text>
+</g>
+</svg>

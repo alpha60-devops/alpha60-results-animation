@@ -1,0 +1,835 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="netflix-graph-title netflix-graph-desc" viewBox="0 0 1920 1080">
+<title id="netflix-graph-title">Netflix downloads by week</title>
+<desc id="netflix-graph-desc">One line per selected media object, adjusted to the 2025 ITU Internet-user scale.</desc>
+<style>
+.axis{stroke:rgb(118,118,118);stroke-width:1}
+.grid{stroke:rgb(222,222,222);stroke-width:1}
+.label{font-family:Apercu;fill:rgb(118,118,118)}
+.small{font-family:Apercu;fill:rgb(118,118,118)}
+</style>
+<text x="960.0" y="90" text-anchor="middle" class="label" font-size="26">Netflix downloads by week</text>
+<text x="960.0" y="126" text-anchor="middle" class="small" font-size="16">one line per selected media object, adjusted to the 2025 ITU Internet-user scale</text>
+<line x1="200" y1="870" x2="1720" y2="870" class="grid"/>
+<text x="184" y="875" text-anchor="end" class="small" font-size="14">0.0M</text>
+<line x1="200" y1="730" x2="1720" y2="730" class="grid"/>
+<text x="184" y="735" text-anchor="end" class="small" font-size="14">20.0M</text>
+<line x1="200" y1="590" x2="1720" y2="590" class="grid"/>
+<text x="184" y="595" text-anchor="end" class="small" font-size="14">40.0M</text>
+<line x1="200" y1="450" x2="1720" y2="450" class="grid"/>
+<text x="184" y="455" text-anchor="end" class="small" font-size="14">60.0M</text>
+<line x1="200" y1="310" x2="1720" y2="310" class="grid"/>
+<text x="184" y="315" text-anchor="end" class="small" font-size="14">80.0M</text>
+<line x1="200" y1="170" x2="1720" y2="170" class="grid"/>
+<text x="184" y="175" text-anchor="end" class="small" font-size="14">100.0M</text>
+<line x1="200" y1="170" x2="200" y2="870" class="grid"/>
+<text x="200" y="900" text-anchor="middle" class="small" font-size="14">1</text>
+<line x1="443.2" y1="170" x2="443.2" y2="870" class="grid"/>
+<text x="443.2" y="900" text-anchor="middle" class="small" font-size="14">5</text>
+<line x1="747.2" y1="170" x2="747.2" y2="870" class="grid"/>
+<text x="747.2" y="900" text-anchor="middle" class="small" font-size="14">10</text>
+<line x1="1051.2" y1="170" x2="1051.2" y2="870" class="grid"/>
+<text x="1051.2" y="900" text-anchor="middle" class="small" font-size="14">15</text>
+<line x1="1355.2" y1="170" x2="1355.2" y2="870" class="grid"/>
+<text x="1355.2" y="900" text-anchor="middle" class="small" font-size="14">20</text>
+<line x1="1659.2" y1="170" x2="1659.2" y2="870" class="grid"/>
+<text x="1659.2" y="900" text-anchor="middle" class="small" font-size="14">25</text>
+<line x1="1720" y1="170" x2="1720" y2="870" class="grid"/>
+<text x="1720" y="900" text-anchor="middle" class="small" font-size="14">26</text>
+<line x1="200" y1="170" x2="200" y2="870" class="axis"/>
+<line x1="200" y1="870" x2="1720" y2="870" class="axis"/>
+<text x="960.0" y="938" text-anchor="middle" class="label" font-size="18">WEEK</text>
+<text x="74" y="520.0" text-anchor="middle" transform="rotate(-90 74 520.0)" class="label" font-size="18">DOWNLOADERS</text>
+<text x="1760" y="170" class="label" font-size="18">MEDIA OBJECTS</text>
+<text x="1760" y="198" class="small" font-size="14">2017: 1-3 · 2018: 4-2 · 2019: 7-3 · 2020: 2-2 · 2021: 5-3 · 2022: 8-4 · 2023: 10-4 · 2024: 3-3 · 2025: solid · 2026: 14-4</text>
+<g id="composite-chart">
+<g id="netflix-line-graph-1-love-death-robots-01">
+<g id="polyline-netflix-line-graph-1-love-death-robots-01">
+<polyline points="200,850.27 260.8,829.5 321.6,814.16 382.4,800.14 443.2,788.99 504,778.99 564.8,770.97 625.6,763.16 686.4,756.14" stroke-linecap="round" style="fill:rgb(0,114,178); fill-opacity:0; stroke:rgb(0,114,178); stroke-opacity:1; stroke-width:2" stroke-dasharray="7 3"/>
+</g>
+<g id="markers-netflix-line-graph-1-love-death-robots-01">
+<circle cx="200" cy="850.27" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-01
+week: 1
+2,818,630</title></circle>
+<circle cx="260.8" cy="829.5" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-01
+week: 2
+5,786,120</title></circle>
+<circle cx="321.6" cy="814.16" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-01
+week: 3
+7,977,679</title></circle>
+<circle cx="382.4" cy="800.14" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-01
+week: 4
+9,980,438</title></circle>
+<circle cx="443.2" cy="788.99" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-01
+week: 5
+11,572,851</title></circle>
+<circle cx="504" cy="778.99" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-01
+week: 6
+13,002,051</title></circle>
+<circle cx="564.8" cy="770.97" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-01
+week: 7
+14,147,511</title></circle>
+<circle cx="625.6" cy="763.16" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-01
+week: 8
+15,263,164</title></circle>
+<circle cx="686.4" cy="756.14" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-01
+week: 9
+16,265,448</title></circle>
+</g>
+</g>
+<line x1="1760" y1="230" x2="1792" y2="230" stroke="rgb(0,114,178)" stroke-width="2" stroke-dasharray="7 3"/>
+<text x="1800" y="235" class="small" font-size="14">2019 · love-death-robots-01</text>
+<g id="netflix-line-graph-2-she-ra-04">
+<g id="polyline-netflix-line-graph-2-she-ra-04">
+<polyline points="200,869.9 260.8,869.71 321.6,869.52 382.4,869.22 443.2,868.94 504,868.68" stroke-linecap="round" style="fill:rgb(213,94,0); fill-opacity:0; stroke:rgb(213,94,0); stroke-opacity:1; stroke-width:2" stroke-dasharray="7 3"/>
+</g>
+<g id="markers-netflix-line-graph-2-she-ra-04">
+<circle cx="200" cy="869.9" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>she-ra-04
+week: 1
+14,956</title></circle>
+<circle cx="260.8" cy="869.71" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>she-ra-04
+week: 2
+41,728</title></circle>
+<circle cx="321.6" cy="869.52" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>she-ra-04
+week: 3
+68,595</title></circle>
+<circle cx="382.4" cy="869.22" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>she-ra-04
+week: 4
+111,190</title></circle>
+<circle cx="443.2" cy="868.94" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>she-ra-04
+week: 5
+150,907</title></circle>
+<circle cx="504" cy="868.68" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>she-ra-04
+week: 6
+188,903</title></circle>
+</g>
+</g>
+<line x1="1760" y1="258" x2="1792" y2="258" stroke="rgb(213,94,0)" stroke-width="2" stroke-dasharray="7 3"/>
+<text x="1800" y="263" class="small" font-size="14">2019 · she-ra-04</text>
+<g id="netflix-line-graph-3-altered-carbon-resleeved">
+<g id="polyline-netflix-line-graph-3-altered-carbon-resleeved">
+<polyline points="200,868.18 260.8,866.97 321.6,865.56 382.4,864.13 443.2,862.95 504,862.01 564.8,860.85 625.6,859.71 686.4,858.71 747.2,857.91" stroke-linecap="round" style="fill:rgb(0,158,115); fill-opacity:0; stroke:rgb(0,158,115); stroke-opacity:1; stroke-width:2" stroke-dasharray="2 2"/>
+</g>
+<g id="markers-netflix-line-graph-3-altered-carbon-resleeved">
+<circle cx="200" cy="868.18" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>altered-carbon-resleeved
+week: 1
+259,444</title></circle>
+<circle cx="260.8" cy="866.97" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>altered-carbon-resleeved
+week: 2
+432,331</title></circle>
+<circle cx="321.6" cy="865.56" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>altered-carbon-resleeved
+week: 3
+634,272</title></circle>
+<circle cx="382.4" cy="864.13" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>altered-carbon-resleeved
+week: 4
+838,860</title></circle>
+<circle cx="443.2" cy="862.95" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>altered-carbon-resleeved
+week: 5
+1,006,935</title></circle>
+<circle cx="504" cy="862.01" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>altered-carbon-resleeved
+week: 6
+1,141,629</title></circle>
+<circle cx="564.8" cy="860.85" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>altered-carbon-resleeved
+week: 7
+1,307,624</title></circle>
+<circle cx="625.6" cy="859.71" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>altered-carbon-resleeved
+week: 8
+1,470,049</title></circle>
+<circle cx="686.4" cy="858.71" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>altered-carbon-resleeved
+week: 9
+1,612,495</title></circle>
+<circle cx="747.2" cy="857.91" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>altered-carbon-resleeved
+week: 10
+1,726,557</title></circle>
+</g>
+</g>
+<line x1="1760" y1="286" x2="1792" y2="286" stroke="rgb(0,158,115)" stroke-width="2" stroke-dasharray="2 2"/>
+<text x="1800" y="291" class="small" font-size="14">2020 · altered-carbon-resleeved</text>
+<g id="netflix-line-graph-4-bojack-horseman-06">
+<g id="polyline-netflix-line-graph-4-bojack-horseman-06">
+<polyline points="200,868.88 260.8,867.67 321.6,862.11 382.4,855.98 443.2,850.34 504,845.87 564.8,842.5 625.6,839.25 686.4,836.32 747.2,833.86" stroke-linecap="round" style="fill:rgb(204,121,167); fill-opacity:0; stroke:rgb(204,121,167); stroke-opacity:1; stroke-width:2" stroke-dasharray="2 2"/>
+</g>
+<g id="markers-netflix-line-graph-4-bojack-horseman-06">
+<circle cx="200" cy="868.88" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>bojack-horseman-06
+week: 1
+159,357</title></circle>
+<circle cx="260.8" cy="867.67" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>bojack-horseman-06
+week: 2
+332,808</title></circle>
+<circle cx="321.6" cy="862.11" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>bojack-horseman-06
+week: 3
+1,127,313</title></circle>
+<circle cx="382.4" cy="855.98" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>bojack-horseman-06
+week: 4
+2,002,984</title></circle>
+<circle cx="443.2" cy="850.34" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>bojack-horseman-06
+week: 5
+2,808,908</title></circle>
+<circle cx="504" cy="845.87" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>bojack-horseman-06
+week: 6
+3,446,797</title></circle>
+<circle cx="564.8" cy="842.5" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>bojack-horseman-06
+week: 7
+3,927,864</title></circle>
+<circle cx="625.6" cy="839.25" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>bojack-horseman-06
+week: 8
+4,392,565</title></circle>
+<circle cx="686.4" cy="836.32" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>bojack-horseman-06
+week: 9
+4,811,555</title></circle>
+<circle cx="747.2" cy="833.86" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>bojack-horseman-06
+week: 10
+5,163,512</title></circle>
+</g>
+</g>
+<line x1="1760" y1="314" x2="1792" y2="314" stroke="rgb(204,121,167)" stroke-width="2" stroke-dasharray="2 2"/>
+<text x="1800" y="319" class="small" font-size="14">2020 · bojack-horseman-06</text>
+<g id="netflix-line-graph-5-japan-sinks">
+<g id="polyline-netflix-line-graph-5-japan-sinks">
+<polyline points="200,869.27 260.8,868.72 321.6,868.01 382.4,866.92 443.2,866.12 504,865.24 564.8,864.5 625.6,863.77 686.4,863.1 747.2,862.39 808,861.5" stroke-linecap="round" style="fill:rgb(230,159,0); fill-opacity:0; stroke:rgb(230,159,0); stroke-opacity:1; stroke-width:2" stroke-dasharray="2 2"/>
+</g>
+<g id="markers-netflix-line-graph-5-japan-sinks">
+<circle cx="200" cy="869.27" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>japan-sinks
+week: 1
+104,859</title></circle>
+<circle cx="260.8" cy="868.72" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>japan-sinks
+week: 2
+183,409</title></circle>
+<circle cx="321.6" cy="868.01" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>japan-sinks
+week: 3
+284,789</title></circle>
+<circle cx="382.4" cy="866.92" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>japan-sinks
+week: 4
+439,624</title></circle>
+<circle cx="443.2" cy="866.12" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>japan-sinks
+week: 5
+554,279</title></circle>
+<circle cx="504" cy="865.24" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>japan-sinks
+week: 6
+680,635</title></circle>
+<circle cx="564.8" cy="864.5" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>japan-sinks
+week: 7
+786,176</title></circle>
+<circle cx="625.6" cy="863.77" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>japan-sinks
+week: 8
+889,488</title></circle>
+<circle cx="686.4" cy="863.1" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>japan-sinks
+week: 9
+985,457</title></circle>
+<circle cx="747.2" cy="862.39" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>japan-sinks
+week: 10
+1,086,588</title></circle>
+<circle cx="808" cy="861.5" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>japan-sinks
+week: 11
+1,214,856</title></circle>
+</g>
+</g>
+<line x1="1760" y1="342" x2="1792" y2="342" stroke="rgb(230,159,0)" stroke-width="2" stroke-dasharray="2 2"/>
+<text x="1800" y="347" class="small" font-size="14">2020 · japan-sinks</text>
+<g id="netflix-line-graph-6-love-death-robots-02">
+<g id="polyline-netflix-line-graph-6-love-death-robots-02">
+<polyline points="200,864.1 260.8,856.27 321.6,848.41 382.4,840.85 443.2,834.94 504,828.94 564.8,823.43 625.6,818.68 686.4,814.94 747.2,811.9" stroke-linecap="round" style="fill:rgb(86,180,233); fill-opacity:0; stroke:rgb(86,180,233); stroke-opacity:1; stroke-width:2" stroke-dasharray="5 3"/>
+</g>
+<g id="markers-netflix-line-graph-6-love-death-robots-02">
+<circle cx="200" cy="864.1" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>love-death-robots-02
+week: 1
+842,287</title></circle>
+<circle cx="260.8" cy="856.27" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>love-death-robots-02
+week: 2
+1,960,990</title></circle>
+<circle cx="321.6" cy="848.41" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>love-death-robots-02
+week: 3
+3,084,705</title></circle>
+<circle cx="382.4" cy="840.85" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>love-death-robots-02
+week: 4
+4,164,018</title></circle>
+<circle cx="443.2" cy="834.94" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>love-death-robots-02
+week: 5
+5,008,782</title></circle>
+<circle cx="504" cy="828.94" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>love-death-robots-02
+week: 6
+5,865,576</title></circle>
+<circle cx="564.8" cy="823.43" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>love-death-robots-02
+week: 7
+6,652,567</title></circle>
+<circle cx="625.6" cy="818.68" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>love-death-robots-02
+week: 8
+7,331,236</title></circle>
+<circle cx="686.4" cy="814.94" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>love-death-robots-02
+week: 9
+7,865,504</title></circle>
+<circle cx="747.2" cy="811.9" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>love-death-robots-02
+week: 10
+8,299,930</title></circle>
+</g>
+</g>
+<line x1="1760" y1="370" x2="1792" y2="370" stroke="rgb(86,180,233)" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="1800" y="375" class="small" font-size="14">2021 · love-death-robots-02</text>
+<g id="netflix-line-graph-7-mitchells-vs-the-machines">
+<g id="polyline-netflix-line-graph-7-mitchells-vs-the-machines">
+<polyline points="200,856.72 260.8,846.82 321.6,835.81 382.4,824.38 443.2,815.13 504,808.18 564.8,801.49 625.6,794.58 686.4,788.89 747.2,784.25" stroke-linecap="round" style="fill:rgb(111,78,124); fill-opacity:0; stroke:rgb(111,78,124); stroke-opacity:1; stroke-width:2" stroke-dasharray="5 3"/>
+</g>
+<g id="markers-netflix-line-graph-7-mitchells-vs-the-machines">
+<circle cx="200" cy="856.72" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>mitchells-vs-the-machines
+week: 1
+1,897,669</title></circle>
+<circle cx="260.8" cy="846.82" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>mitchells-vs-the-machines
+week: 2
+3,311,622</title></circle>
+<circle cx="321.6" cy="835.81" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>mitchells-vs-the-machines
+week: 3
+4,883,982</title></circle>
+<circle cx="382.4" cy="824.38" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>mitchells-vs-the-machines
+week: 4
+6,516,716</title></circle>
+<circle cx="443.2" cy="815.13" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>mitchells-vs-the-machines
+week: 5
+7,838,627</title></circle>
+<circle cx="504" cy="808.18" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>mitchells-vs-the-machines
+week: 6
+8,830,744</title></circle>
+<circle cx="564.8" cy="801.49" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>mitchells-vs-the-machines
+week: 7
+9,786,796</title></circle>
+<circle cx="625.6" cy="794.58" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>mitchells-vs-the-machines
+week: 8
+10,774,816</title></circle>
+<circle cx="686.4" cy="788.89" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>mitchells-vs-the-machines
+week: 9
+11,586,599</title></circle>
+<circle cx="747.2" cy="784.25" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>mitchells-vs-the-machines
+week: 10
+12,249,413</title></circle>
+</g>
+</g>
+<line x1="1760" y1="398" x2="1792" y2="398" stroke="rgb(111,78,124)" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="1800" y="403" class="small" font-size="14">2021 · mitchells-vs-the-machines</text>
+<g id="netflix-line-graph-8-q-force-01">
+<g id="polyline-netflix-line-graph-8-q-force-01">
+<polyline points="200,869.34 260.8,867.87 321.6,866.46 382.4,866.04 443.2,865.8 504,865.54 564.8,865.31 625.6,865 686.4,864.68 747.2,864.44" stroke-linecap="round" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" stroke-dasharray="5 3"/>
+</g>
+<g id="markers-netflix-line-graph-8-q-force-01">
+<circle cx="200" cy="869.34" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>q-force-01
+week: 1
+94,520</title></circle>
+<circle cx="260.8" cy="867.87" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>q-force-01
+week: 2
+304,236</title></circle>
+<circle cx="321.6" cy="866.46" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>q-force-01
+week: 3
+505,327</title></circle>
+<circle cx="382.4" cy="866.04" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>q-force-01
+week: 4
+565,627</title></circle>
+<circle cx="443.2" cy="865.8" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>q-force-01
+week: 5
+599,984</title></circle>
+<circle cx="504" cy="865.54" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>q-force-01
+week: 6
+636,861</title></circle>
+<circle cx="564.8" cy="865.31" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>q-force-01
+week: 7
+669,775</title></circle>
+<circle cx="625.6" cy="865" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>q-force-01
+week: 8
+713,904</title></circle>
+<circle cx="686.4" cy="864.68" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>q-force-01
+week: 9
+759,437</title></circle>
+<circle cx="747.2" cy="864.44" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>q-force-01
+week: 10
+794,072</title></circle>
+</g>
+</g>
+<line x1="1760" y1="426" x2="1792" y2="426" stroke="rgb(0,0,0)" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="1800" y="431" class="small" font-size="14">2021 · q-force-01</text>
+<g id="netflix-line-graph-9-trese-01">
+<g id="polyline-netflix-line-graph-9-trese-01">
+<polyline points="200,866.43 260.8,861.36 321.6,855.69 382.4,850.75 443.2,846.86 504,843.37 564.8,840.17 625.6,837.47 686.4,834.71 747.2,832.24" stroke-linecap="round" style="fill:rgb(0,114,178); fill-opacity:0; stroke:rgb(0,114,178); stroke-opacity:1; stroke-width:2" stroke-dasharray="5 3"/>
+</g>
+<g id="markers-netflix-line-graph-9-trese-01">
+<circle cx="200" cy="866.43" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>trese-01
+week: 1
+510,053</title></circle>
+<circle cx="260.8" cy="861.36" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>trese-01
+week: 2
+1,234,758</title></circle>
+<circle cx="321.6" cy="855.69" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>trese-01
+week: 3
+2,044,806</title></circle>
+<circle cx="382.4" cy="850.75" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>trese-01
+week: 4
+2,749,584</title></circle>
+<circle cx="443.2" cy="846.86" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>trese-01
+week: 5
+3,306,323</title></circle>
+<circle cx="504" cy="843.37" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>trese-01
+week: 6
+3,803,784</title></circle>
+<circle cx="564.8" cy="840.17" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>trese-01
+week: 7
+4,260,841</title></circle>
+<circle cx="625.6" cy="837.47" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>trese-01
+week: 8
+4,647,285</title></circle>
+<circle cx="686.4" cy="834.71" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>trese-01
+week: 9
+5,042,023</title></circle>
+<circle cx="747.2" cy="832.24" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>trese-01
+week: 10
+5,394,869</title></circle>
+</g>
+</g>
+<line x1="1760" y1="454" x2="1792" y2="454" stroke="rgb(0,114,178)" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="1800" y="459" class="small" font-size="14">2021 · trese-01</text>
+<g id="netflix-line-graph-10-yasuke-01">
+<g id="polyline-netflix-line-graph-10-yasuke-01">
+<polyline points="200,865.9 260.8,859.39 321.6,853.58 382.4,847.1 443.2,841.23 504,835.54 564.8,831.3 625.6,826.87 686.4,822.94 747.2,819.75" stroke-linecap="round" style="fill:rgb(213,94,0); fill-opacity:0; stroke:rgb(213,94,0); stroke-opacity:1; stroke-width:2" stroke-dasharray="5 3"/>
+</g>
+<g id="markers-netflix-line-graph-10-yasuke-01">
+<circle cx="200" cy="865.9" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>yasuke-01
+week: 1
+585,775</title></circle>
+<circle cx="260.8" cy="859.39" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>yasuke-01
+week: 2
+1,516,393</title></circle>
+<circle cx="321.6" cy="853.58" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>yasuke-01
+week: 3
+2,345,509</title></circle>
+<circle cx="382.4" cy="847.1" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>yasuke-01
+week: 4
+3,271,130</title></circle>
+<circle cx="443.2" cy="841.23" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>yasuke-01
+week: 5
+4,110,083</title></circle>
+<circle cx="504" cy="835.54" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>yasuke-01
+week: 6
+4,922,682</title></circle>
+<circle cx="564.8" cy="831.3" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>yasuke-01
+week: 7
+5,528,712</title></circle>
+<circle cx="625.6" cy="826.87" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>yasuke-01
+week: 8
+6,160,970</title></circle>
+<circle cx="686.4" cy="822.94" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>yasuke-01
+week: 9
+6,722,897</title></circle>
+<circle cx="747.2" cy="819.75" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>yasuke-01
+week: 10
+7,178,770</title></circle>
+</g>
+</g>
+<line x1="1760" y1="482" x2="1792" y2="482" stroke="rgb(213,94,0)" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="1800" y="487" class="small" font-size="14">2021 · yasuke-01</text>
+<g id="netflix-line-graph-11-blue-eye-samurai-01">
+<g id="polyline-netflix-line-graph-11-blue-eye-samurai-01">
+<polyline points="200,867.77 260.8,863.69 321.6,859.45 382.4,855.33 443.2,851.47 504,847.69 564.8,844.01 625.6,840.54 686.4,836.56 747.2,832.66" stroke-linecap="round" style="fill:rgb(0,158,115); fill-opacity:0; stroke:rgb(0,158,115); stroke-opacity:1; stroke-width:2" stroke-dasharray="10 4"/>
+</g>
+<g id="markers-netflix-line-graph-11-blue-eye-samurai-01">
+<circle cx="200" cy="867.77" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>blue-eye-samurai-01
+week: 1
+318,936</title></circle>
+<circle cx="260.8" cy="863.69" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>blue-eye-samurai-01
+week: 2
+902,110</title></circle>
+<circle cx="321.6" cy="859.45" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>blue-eye-samurai-01
+week: 3
+1,506,920</title></circle>
+<circle cx="382.4" cy="855.33" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>blue-eye-samurai-01
+week: 4
+2,096,348</title></circle>
+<circle cx="443.2" cy="851.47" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>blue-eye-samurai-01
+week: 5
+2,647,260</title></circle>
+<circle cx="504" cy="847.69" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>blue-eye-samurai-01
+week: 6
+3,187,801</title></circle>
+<circle cx="564.8" cy="844.01" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>blue-eye-samurai-01
+week: 7
+3,712,914</title></circle>
+<circle cx="625.6" cy="840.54" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>blue-eye-samurai-01
+week: 8
+4,208,197</title></circle>
+<circle cx="686.4" cy="836.56" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>blue-eye-samurai-01
+week: 9
+4,777,233</title></circle>
+<circle cx="747.2" cy="832.66" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>blue-eye-samurai-01
+week: 10
+5,333,729</title></circle>
+</g>
+</g>
+<line x1="1760" y1="510" x2="1792" y2="510" stroke="rgb(0,158,115)" stroke-width="2" stroke-dasharray="10 4"/>
+<text x="1800" y="515" class="small" font-size="14">2023 · blue-eye-samurai-01</text>
+<g id="netflix-line-graph-12-arcane-02.1">
+<g id="polyline-netflix-line-graph-12-arcane-02.1">
+<polyline points="200,848.76 260.8,832.76 321.6,818.35 382.4,807.12 443.2,797.37 504,788.63 564.8,776.71 625.6,761.92 686.4,747.75 747.2,734.66 808,720.98 868.8,707.59 929.6,694.51 990.4,681.38 1051.2,667.97 1112,655.63 1172.8,643.35 1233.6,630.95 1294.4,619 1355.2,607.1 1416,596.27 1476.8,586.36 1537.6,577.39 1598.4,567.72 1659.2,557.99 1720,547.67" stroke-linecap="round" style="fill:rgb(204,121,167); fill-opacity:0; stroke:rgb(204,121,167); stroke-opacity:1; stroke-width:2" stroke-dasharray="3 3"/>
+</g>
+<g id="markers-netflix-line-graph-12-arcane-02.1">
+<circle cx="200" cy="848.76" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 1
+3,034,132</title></circle>
+<circle cx="260.8" cy="832.76" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 2
+5,320,132</title></circle>
+<circle cx="321.6" cy="818.35" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 3
+7,378,127</title></circle>
+<circle cx="382.4" cy="807.12" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 4
+8,983,173</title></circle>
+<circle cx="443.2" cy="797.37" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 5
+10,376,371</title></circle>
+<circle cx="504" cy="788.63" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 6
+11,624,259</title></circle>
+<circle cx="564.8" cy="776.71" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 7
+13,327,617</title></circle>
+<circle cx="625.6" cy="761.92" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 8
+15,440,249</title></circle>
+<circle cx="686.4" cy="747.75" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 9
+17,464,191</title></circle>
+<circle cx="747.2" cy="734.66" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 10
+19,333,763</title></circle>
+<circle cx="808" cy="720.98" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 11
+21,288,038</title></circle>
+<circle cx="868.8" cy="707.59" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 12
+23,201,834</title></circle>
+<circle cx="929.6" cy="694.51" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 13
+25,069,404</title></circle>
+<circle cx="990.4" cy="681.38" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 14
+26,945,425</title></circle>
+<circle cx="1051.2" cy="667.97" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 15
+28,860,785</title></circle>
+<circle cx="1112" cy="655.63" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 16
+30,623,746</title></circle>
+<circle cx="1172.8" cy="643.35" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 17
+32,379,136</title></circle>
+<circle cx="1233.6" cy="630.95" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 18
+34,149,920</title></circle>
+<circle cx="1294.4" cy="619" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 19
+35,856,530</title></circle>
+<circle cx="1355.2" cy="607.1" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 20
+37,556,611</title></circle>
+<circle cx="1416" cy="596.27" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 21
+39,103,757</title></circle>
+<circle cx="1476.8" cy="586.36" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 22
+40,519,491</title></circle>
+<circle cx="1537.6" cy="577.39" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 23
+41,801,977</title></circle>
+<circle cx="1598.4" cy="567.72" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 24
+43,182,599</title></circle>
+<circle cx="1659.2" cy="557.99" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 25
+44,573,159</title></circle>
+<circle cx="1720" cy="547.67" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>arcane-02.1
+week: 26
+46,046,447</title></circle>
+</g>
+</g>
+<line x1="1760" y1="538" x2="1792" y2="538" stroke="rgb(204,121,167)" stroke-width="2" stroke-dasharray="3 3"/>
+<text x="1800" y="543" class="small" font-size="14">2024 · arcane-02.1</text>
+<g id="netflix-line-graph-13-arcane-02.2">
+<g id="polyline-netflix-line-graph-13-arcane-02.2">
+<polyline points="200,854.82 260.8,839.8 321.6,828.27 382.4,818.15 443.2,808.54 504,795.29 564.8,779.45 625.6,764.89 686.4,750.17 747.2,735.11 808,720.09 868.8,705.25 929.6,691.49 990.4,676.64 1051.2,663.06 1112,649.83 1172.8,636.48 1233.6,623.72 1294.4,610.8 1355.2,598.12 1416,586.82 1476.8,575.59 1537.6,564.89 1598.4,554.01 1659.2,543.02 1720,532.04" stroke-linecap="round" style="fill:rgb(230,159,0); fill-opacity:0; stroke:rgb(230,159,0); stroke-opacity:1; stroke-width:2" stroke-dasharray="3 3"/>
+</g>
+<g id="markers-netflix-line-graph-13-arcane-02.2">
+<circle cx="200" cy="854.82" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 1
+2,169,189</title></circle>
+<circle cx="260.8" cy="839.8" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 2
+4,314,962</title></circle>
+<circle cx="321.6" cy="828.27" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 3
+5,961,562</title></circle>
+<circle cx="382.4" cy="818.15" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 4
+7,407,430</title></circle>
+<circle cx="443.2" cy="808.54" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 5
+8,779,844</title></circle>
+<circle cx="504" cy="795.29" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 6
+10,672,507</title></circle>
+<circle cx="564.8" cy="779.45" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 7
+12,935,755</title></circle>
+<circle cx="625.6" cy="764.89" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 8
+15,016,119</title></circle>
+<circle cx="686.4" cy="750.17" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 9
+17,118,544</title></circle>
+<circle cx="747.2" cy="735.11" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 10
+19,270,522</title></circle>
+<circle cx="808" cy="720.09" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 11
+21,416,407</title></circle>
+<circle cx="868.8" cy="705.25" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 12
+23,536,137</title></circle>
+<circle cx="929.6" cy="691.49" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 13
+25,501,659</title></circle>
+<circle cx="990.4" cy="676.64" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 14
+27,622,294</title></circle>
+<circle cx="1051.2" cy="663.06" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 15
+29,562,615</title></circle>
+<circle cx="1112" cy="649.83" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 16
+31,453,476</title></circle>
+<circle cx="1172.8" cy="636.48" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 17
+33,360,179</title></circle>
+<circle cx="1233.6" cy="623.72" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 18
+35,182,212</title></circle>
+<circle cx="1294.4" cy="610.8" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 19
+37,028,638</title></circle>
+<circle cx="1355.2" cy="598.12" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 20
+38,840,400</title></circle>
+<circle cx="1416" cy="586.82" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 21
+40,454,252</title></circle>
+<circle cx="1476.8" cy="575.59" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 22
+42,058,294</title></circle>
+<circle cx="1537.6" cy="564.89" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 23
+43,587,409</title></circle>
+<circle cx="1598.4" cy="554.01" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 24
+45,141,607</title></circle>
+<circle cx="1659.2" cy="543.02" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 25
+46,710,904</title></circle>
+<circle cx="1720" cy="532.04" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>arcane-02.2
+week: 26
+48,280,344</title></circle>
+</g>
+</g>
+<line x1="1760" y1="566" x2="1792" y2="566" stroke="rgb(230,159,0)" stroke-width="2" stroke-dasharray="3 3"/>
+<text x="1800" y="571" class="small" font-size="14">2024 · arcane-02.2</text>
+<g id="netflix-line-graph-14-arcane-02.3">
+<g id="polyline-netflix-line-graph-14-arcane-02.3">
+<polyline points="200,849.15 260.8,833.35 321.6,819.51 382.4,805.56 443.2,786.92 504,766.52 564.8,746.74 625.6,727.43 686.4,707.65 747.2,688.26 808,668.93 868.8,650.04 929.6,630.22 990.4,611.61 1051.2,592.78 1112,573.59 1172.8,555.17 1233.6,537.33 1294.4,520.07 1355.2,505.22 1416,490.77 1476.8,476.13 1537.6,461.81 1598.4,447.74 1659.2,432.64 1720,417.9" stroke-linecap="round" style="fill:rgb(86,180,233); fill-opacity:0; stroke:rgb(86,180,233); stroke-opacity:1; stroke-width:2" stroke-dasharray="3 3"/>
+</g>
+<g id="markers-netflix-line-graph-14-arcane-02.3">
+<circle cx="200" cy="849.15" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 1
+2,977,928</title></circle>
+<circle cx="260.8" cy="833.35" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 2
+5,235,989</title></circle>
+<circle cx="321.6" cy="819.51" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 3
+7,213,525</title></circle>
+<circle cx="382.4" cy="805.56" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 4
+9,205,801</title></circle>
+<circle cx="443.2" cy="786.92" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 5
+11,868,311</title></circle>
+<circle cx="504" cy="766.52" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 6
+14,783,051</title></circle>
+<circle cx="564.8" cy="746.74" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 7
+17,608,414</title></circle>
+<circle cx="625.6" cy="727.43" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 8
+20,367,230</title></circle>
+<circle cx="686.4" cy="707.65" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 9
+23,192,664</title></circle>
+<circle cx="747.2" cy="688.26" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 10
+25,963,200</title></circle>
+<circle cx="808" cy="668.93" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 11
+28,724,003</title></circle>
+<circle cx="868.8" cy="650.04" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 12
+31,422,544</title></circle>
+<circle cx="929.6" cy="630.22" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 13
+34,253,590</title></circle>
+<circle cx="990.4" cy="611.61" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 14
+36,913,493</title></circle>
+<circle cx="1051.2" cy="592.78" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 15
+39,603,160</title></circle>
+<circle cx="1112" cy="573.59" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 16
+42,343,591</title></circle>
+<circle cx="1172.8" cy="555.17" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 17
+44,976,226</title></circle>
+<circle cx="1233.6" cy="537.33" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 18
+47,523,995</title></circle>
+<circle cx="1294.4" cy="520.07" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 19
+49,989,889</title></circle>
+<circle cx="1355.2" cy="505.22" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 20
+52,111,889</title></circle>
+<circle cx="1416" cy="490.77" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 21
+54,175,601</title></circle>
+<circle cx="1476.8" cy="476.13" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 22
+56,267,375</title></circle>
+<circle cx="1537.6" cy="461.81" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 23
+58,312,474</title></circle>
+<circle cx="1598.4" cy="447.74" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 24
+60,323,138</title></circle>
+<circle cx="1659.2" cy="432.64" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 25
+62,479,489</title></circle>
+<circle cx="1720" cy="417.9" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>arcane-02.3
+week: 26
+64,585,555</title></circle>
+</g>
+</g>
+<line x1="1760" y1="594" x2="1792" y2="594" stroke="rgb(86,180,233)" stroke-width="2" stroke-dasharray="3 3"/>
+<text x="1800" y="599" class="small" font-size="14">2024 · arcane-02.3</text>
+<g id="netflix-line-graph-15-love-death-robots-04">
+<g id="polyline-netflix-line-graph-15-love-death-robots-04">
+<polyline points="200,860.98 260.8,850.21 321.6,839.26 382.4,827.85 443.2,816.78 504,805.06 564.8,794.5 625.6,785.26 686.4,775.9 747.2,766.57 808,755.46 868.8,744.89 929.6,733.83 990.4,724.43 1051.2,716.21" stroke-linecap="round" style="fill:rgb(111,78,124); fill-opacity:0; stroke:rgb(111,78,124); stroke-opacity:1; stroke-width:2"/>
+</g>
+<g id="markers-netflix-line-graph-15-love-death-robots-04">
+<circle cx="200" cy="860.98" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 1
+1,288,805</title></circle>
+<circle cx="260.8" cy="850.21" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 2
+2,827,190</title></circle>
+<circle cx="321.6" cy="839.26" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 3
+4,392,026</title></circle>
+<circle cx="382.4" cy="827.85" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 4
+6,021,520</title></circle>
+<circle cx="443.2" cy="816.78" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 5
+7,603,568</title></circle>
+<circle cx="504" cy="805.06" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 6
+9,277,448</title></circle>
+<circle cx="564.8" cy="794.5" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 7
+10,785,021</title></circle>
+<circle cx="625.6" cy="785.26" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 8
+12,105,683</title></circle>
+<circle cx="686.4" cy="775.9" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 9
+13,442,281</title></circle>
+<circle cx="747.2" cy="766.57" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 10
+14,775,408</title></circle>
+<circle cx="808" cy="755.46" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 11
+16,363,182</title></circle>
+<circle cx="868.8" cy="744.89" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 12
+17,873,253</title></circle>
+<circle cx="929.6" cy="733.83" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 13
+19,452,904</title></circle>
+<circle cx="990.4" cy="724.43" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 14
+20,795,379</title></circle>
+<circle cx="1051.2" cy="716.21" r="6" style="fill:rgb(111,78,124); fill-opacity:1; stroke:rgb(111,78,124); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 15
+21,970,042</title></circle>
+</g>
+</g>
+<line x1="1760" y1="622" x2="1792" y2="622" stroke="rgb(111,78,124)" stroke-width="2"/>
+<text x="1800" y="627" class="small" font-size="14">2025 · love-death-robots-04</text>
+<g id="netflix-line-graph-16-dinosaurs-01">
+<g id="polyline-netflix-line-graph-16-dinosaurs-01">
+<polyline points="200,862.29 260.8,853.49 321.6,844.42 382.4,836.08 443.2,828.76 504,820.8 564.8,812.81 625.6,805.82 686.4,799.09 747.2,792.14 808,783.79 868.8,776 929.6,768.82 990.4,762.51 1051.2,755.54 1112,747.9" stroke-linecap="round" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:2" stroke-dasharray="14 4"/>
+</g>
+<g id="markers-netflix-line-graph-16-dinosaurs-01">
+<circle cx="200" cy="862.29" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>dinosaurs-01
+week: 1
+1,101,985</title></circle>
+<circle cx="260.8" cy="853.49" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>dinosaurs-01
+week: 2
+2,358,668</title></circle>
+<circle cx="321.6" cy="844.42" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>dinosaurs-01
+week: 3
+3,654,319</title></circle>
+<circle cx="382.4" cy="836.08" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>dinosaurs-01
+week: 4
+4,845,176</title></circle>
+<circle cx="443.2" cy="828.76" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>dinosaurs-01
+week: 5
+5,890,858</title></circle>
+<circle cx="504" cy="820.8" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>dinosaurs-01
+week: 6
+7,028,295</title></circle>
+<circle cx="564.8" cy="812.81" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>dinosaurs-01
+week: 7
+8,169,605</title></circle>
+<circle cx="625.6" cy="805.82" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>dinosaurs-01
+week: 8
+9,169,286</title></circle>
+<circle cx="686.4" cy="799.09" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>dinosaurs-01
+week: 9
+10,130,130</title></circle>
+<circle cx="747.2" cy="792.14" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>dinosaurs-01
+week: 10
+11,123,104</title></circle>
+<circle cx="808" cy="783.79" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>dinosaurs-01
+week: 11
+12,315,825</title></circle>
+<circle cx="868.8" cy="776" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>dinosaurs-01
+week: 12
+13,428,378</title></circle>
+<circle cx="929.6" cy="768.82" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>dinosaurs-01
+week: 13
+14,453,837</title></circle>
+<circle cx="990.4" cy="762.51" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>dinosaurs-01
+week: 14
+15,355,506</title></circle>
+<circle cx="1051.2" cy="755.54" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>dinosaurs-01
+week: 15
+16,351,110</title></circle>
+<circle cx="1112" cy="747.9" r="6" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2"><title>dinosaurs-01
+week: 16
+17,443,141</title></circle>
+</g>
+</g>
+<line x1="1760" y1="650" x2="1792" y2="650" stroke="rgb(0,0,0)" stroke-width="2" stroke-dasharray="14 4"/>
+<text x="1800" y="655" class="small" font-size="14">2026 · dinosaurs-01</text>
+</g>
+</svg>

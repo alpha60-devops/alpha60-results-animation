@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="animated-features-2025-graph-title animated-features-2025-graph-desc" viewBox="0 0 1920 1080">
+<title id="animated-features-2025-graph-title">Animated features — 2025 downloads by week</title>
+<desc id="animated-features-2025-graph-desc">One line per selected media object, adjusted to the 2025 ITU Internet-user scale.</desc>
+<style>
+.axis{stroke:rgb(118,118,118);stroke-width:1}
+.grid{stroke:rgb(222,222,222);stroke-width:1}
+.label{font-family:Apercu;fill:rgb(118,118,118)}
+.small{font-family:Apercu;fill:rgb(118,118,118)}
+</style>
+<text x="960.0" y="90" text-anchor="middle" class="label" font-size="26">Animated features — 2025 downloads by week</text>
+<text x="960.0" y="126" text-anchor="middle" class="small" font-size="16">one line per selected media object, adjusted to the 2025 ITU Internet-user scale</text>
+<line x1="200" y1="870" x2="1720" y2="870" class="grid"/>
+<text x="184" y="875" text-anchor="end" class="small" font-size="14">0.0M</text>
+<line x1="200" y1="730" x2="1720" y2="730" class="grid"/>
+<text x="184" y="735" text-anchor="end" class="small" font-size="14">20.0M</text>
+<line x1="200" y1="590" x2="1720" y2="590" class="grid"/>
+<text x="184" y="595" text-anchor="end" class="small" font-size="14">40.0M</text>
+<line x1="200" y1="450" x2="1720" y2="450" class="grid"/>
+<text x="184" y="455" text-anchor="end" class="small" font-size="14">60.0M</text>
+<line x1="200" y1="310" x2="1720" y2="310" class="grid"/>
+<text x="184" y="315" text-anchor="end" class="small" font-size="14">80.0M</text>
+<line x1="200" y1="170" x2="1720" y2="170" class="grid"/>
+<text x="184" y="175" text-anchor="end" class="small" font-size="14">100.0M</text>
+<line x1="200" y1="170" x2="200" y2="870" class="grid"/>
+<text x="200" y="900" text-anchor="middle" class="small" font-size="14">1</text>
+<line x1="443.2" y1="170" x2="443.2" y2="870" class="grid"/>
+<text x="443.2" y="900" text-anchor="middle" class="small" font-size="14">5</text>
+<line x1="747.2" y1="170" x2="747.2" y2="870" class="grid"/>
+<text x="747.2" y="900" text-anchor="middle" class="small" font-size="14">10</text>
+<line x1="1051.2" y1="170" x2="1051.2" y2="870" class="grid"/>
+<text x="1051.2" y="900" text-anchor="middle" class="small" font-size="14">15</text>
+<line x1="1355.2" y1="170" x2="1355.2" y2="870" class="grid"/>
+<text x="1355.2" y="900" text-anchor="middle" class="small" font-size="14">20</text>
+<line x1="1659.2" y1="170" x2="1659.2" y2="870" class="grid"/>
+<text x="1659.2" y="900" text-anchor="middle" class="small" font-size="14">25</text>
+<line x1="1720" y1="170" x2="1720" y2="870" class="grid"/>
+<text x="1720" y="900" text-anchor="middle" class="small" font-size="14">26</text>
+<line x1="200" y1="170" x2="200" y2="870" class="axis"/>
+<line x1="200" y1="870" x2="1720" y2="870" class="axis"/>
+<text x="960.0" y="938" text-anchor="middle" class="label" font-size="18">WEEK</text>
+<text x="74" y="520.0" text-anchor="middle" transform="rotate(-90 74 520.0)" class="label" font-size="18">DOWNLOADERS</text>
+<text x="1760" y="170" class="label" font-size="18">MEDIA OBJECTS</text>
+<text x="1760" y="198" class="small" font-size="14">2017: 1-3 · 2018: 4-2 · 2019: 7-3 · 2020: 2-2 · 2021: 5-3 · 2022: 8-4 · 2023: 10-4 · 2024: 3-3 · 2025: solid · 2026: 14-4</text>
+<g id="composite-chart-animated-features-2025">
+<g id="animated-features-2025-line-graph-1-moana-2">
+<g id="polyline-animated-features-2025-line-graph-1-moana-2">
+<polyline points="200,850.63 260.8,833.44 321.6,815.85 382.4,797.46 443.2,780.26 504,763.7 564.8,744.16 625.6,723.59 686.4,702.11 747.2,682.97 808,665.08 868.8,646.91 929.6,628.89 990.4,611.81 1051.2,594.56 1112,577.63 1172.8,561.16 1233.6,544.59 1294.4,527.67 1355.2,509.84 1416,492.7 1476.8,475.7 1537.6,459.68 1598.4,444.27 1659.2,429.32 1720,412.45" stroke-linecap="round" style="fill:rgb(0,114,178); fill-opacity:0; stroke:rgb(0,114,178); stroke-opacity:1; stroke-width:2"/>
+</g>
+<g id="markers-animated-features-2025-line-graph-1-moana-2">
+<circle cx="200" cy="850.63" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 1
+2,766,551</title></circle>
+<circle cx="260.8" cy="833.44" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 2
+5,222,760</title></circle>
+<circle cx="321.6" cy="815.85" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 3
+7,736,145</title></circle>
+<circle cx="382.4" cy="797.46" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 4
+10,362,147</title></circle>
+<circle cx="443.2" cy="780.26" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 5
+12,819,400</title></circle>
+<circle cx="504" cy="763.7" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 6
+15,186,210</title></circle>
+<circle cx="564.8" cy="744.16" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 7
+17,976,541</title></circle>
+<circle cx="625.6" cy="723.59" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 8
+20,915,915</title></circle>
+<circle cx="686.4" cy="702.11" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 9
+23,984,714</title></circle>
+<circle cx="747.2" cy="682.97" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 10
+26,717,939</title></circle>
+<circle cx="808" cy="665.08" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 11
+29,273,813</title></circle>
+<circle cx="868.8" cy="646.91" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 12
+31,869,725</title></circle>
+<circle cx="929.6" cy="628.89" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 13
+34,444,319</title></circle>
+<circle cx="990.4" cy="611.81" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 14
+36,884,248</title></circle>
+<circle cx="1051.2" cy="594.56" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 15
+39,348,925</title></circle>
+<circle cx="1112" cy="577.63" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 16
+41,767,293</title></circle>
+<circle cx="1172.8" cy="561.16" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 17
+44,119,726</title></circle>
+<circle cx="1233.6" cy="544.59" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 18
+46,486,730</title></circle>
+<circle cx="1294.4" cy="527.67" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 19
+48,904,071</title></circle>
+<circle cx="1355.2" cy="509.84" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 20
+51,451,453</title></circle>
+<circle cx="1416" cy="492.7" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 21
+53,899,549</title></circle>
+<circle cx="1476.8" cy="475.7" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 22
+56,328,248</title></circle>
+<circle cx="1537.6" cy="459.68" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 23
+58,616,975</title></circle>
+<circle cx="1598.4" cy="444.27" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 24
+60,819,180</title></circle>
+<circle cx="1659.2" cy="429.32" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 25
+62,954,234</title></circle>
+<circle cx="1720" cy="412.45" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>moana-2
+week: 26
+65,364,819</title></circle>
+</g>
+</g>
+<line x1="1760" y1="230" x2="1792" y2="230" stroke="rgb(0,114,178)" stroke-width="2"/>
+<text x="1800" y="235" class="small" font-size="14">2025 · moana-2</text>
+<g id="animated-features-2025-line-graph-2-predator-killer-of-killers">
+<g id="polyline-animated-features-2025-line-graph-2-predator-killer-of-killers">
+<polyline points="200,859.23 260.8,849.21 321.6,840.15 382.4,832.02 443.2,824.65 504,818.22 564.8,811.74 625.6,803.05 747.2,795.57 808,789.19 868.8,783.48 929.6,777.03 990.4,770.5 1051.2,764.79 1112,759.87" stroke-linecap="round" style="fill:rgb(213,94,0); fill-opacity:0; stroke:rgb(213,94,0); stroke-opacity:1; stroke-width:2"/>
+</g>
+<g id="markers-animated-features-2025-line-graph-2-predator-killer-of-killers">
+<circle cx="200" cy="859.23" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>predator-killer-of-killers
+week: 1
+1,538,653</title></circle>
+<circle cx="260.8" cy="849.21" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>predator-killer-of-killers
+week: 2
+2,969,720</title></circle>
+<circle cx="321.6" cy="840.15" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>predator-killer-of-killers
+week: 3
+4,264,053</title></circle>
+<circle cx="382.4" cy="832.02" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>predator-killer-of-killers
+week: 4
+5,425,784</title></circle>
+<circle cx="443.2" cy="824.65" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>predator-killer-of-killers
+week: 5
+6,478,227</title></circle>
+<circle cx="504" cy="818.22" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>predator-killer-of-killers
+week: 6
+7,396,523</title></circle>
+<circle cx="564.8" cy="811.74" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>predator-killer-of-killers
+week: 7
+8,322,935</title></circle>
+<circle cx="625.6" cy="803.05" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>predator-killer-of-killers
+week: 8
+9,563,810</title></circle>
+<circle cx="747.2" cy="795.57" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>predator-killer-of-killers
+week: 10
+10,633,054</title></circle>
+<circle cx="808" cy="789.19" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>predator-killer-of-killers
+week: 11
+11,544,271</title></circle>
+<circle cx="868.8" cy="783.48" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>predator-killer-of-killers
+week: 12
+12,360,448</title></circle>
+<circle cx="929.6" cy="777.03" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>predator-killer-of-killers
+week: 13
+13,280,868</title></circle>
+<circle cx="990.4" cy="770.5" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>predator-killer-of-killers
+week: 14
+14,214,380</title></circle>
+<circle cx="1051.2" cy="764.79" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>predator-killer-of-killers
+week: 15
+15,029,762</title></circle>
+<circle cx="1112" cy="759.87" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>predator-killer-of-killers
+week: 16
+15,732,708</title></circle>
+</g>
+</g>
+<line x1="1760" y1="258" x2="1792" y2="258" stroke="rgb(213,94,0)" stroke-width="2"/>
+<text x="1800" y="263" class="small" font-size="14">2025 · predator-killer-of-killers</text>
+</g>
+</svg>

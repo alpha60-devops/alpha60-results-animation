@@ -1,0 +1,5072 @@
+{
+  "annual_row_count": 646,
+  "cohort_years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "distinct_collection_keys": 644,
+  "inventory_rows": [
+    {
+      "cohort_year": 2017,
+      "collection_key": "americans-501"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "americans-513"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "blade-runner-2049"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "el-chapo-02"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "expanse-201"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "expanse-203"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "expanse-204"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "expanse-210"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "expanse-213"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "feud-101"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "feud-102"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "feud-108"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "game-of-thrones-701"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "game-of-thrones-702"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "game-of-thrones-703"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "game-of-thrones-705"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "game-of-thrones-706"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "game-of-thrones-707"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "good-fight-101"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "good-fight-105"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "good-fight-108"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "good-fight-110"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "handmaids-tale-101"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "handmaids-tale-105"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "house-of-cards-05"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "i-love-dick"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "into-the-badlands-203"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "narcos-03"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "screeners"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "sense8-02.1"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "star-trek-discovery-101"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "star-trek-discovery-104"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "star-trek-discovery-109"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "star-wars-last-jedi"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "stormy-daniels-2017"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "stranger-things-02"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "twin-peaks-310"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "twin-peaks-317"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "walking-dead-709"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "walking-dead-710"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "walking-dead-713"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "walking-dead-716"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "walking-dead-801"
+    },
+    {
+      "cohort_year": 2017,
+      "collection_key": "walking-dead-807"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "3-percent-02"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "altered-carbon-01"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "american-crime-story-201"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "american-crime-story-205"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "better-call-saul-406"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "black-panther"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "chilling-adventures-of-sabrina-01"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "doctor-who-1101"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "doctor-who-1105"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "expanse-301"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "expanse-313"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "glow-02"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "good-fight-202"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "good-fight-205"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "good-fight-210"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "good-fight-213"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "handmaids-tale-201"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "handmaids-tale-208"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "handmaids-tale-213"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "house-of-cards-06"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "human-flow"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "into-the-badlands-308"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "legend-of-galactic-heroes-die-neue-these"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "luke-cage-02"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "maniac-01"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "marvelous-mrs-maisel-02"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "narcos-mexico-01"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "orange-is-the-new-black-06"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "orville-201"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "ozark-02"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "queen-of-the-south-301"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "queen-of-the-south-311"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "queen-of-the-south-313"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "random-acts-of-flyness-104"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "random-acts-of-flyness-106"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "romanoffs-101"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "romanoffs-104"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "romanoffs-108"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "sense8-02.2"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "star-trek-discovery-110"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "star-trek-discovery-115"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "walking-dead-811"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "walking-dead-816"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "walking-dead-908"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "westworld-201"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "westworld-203"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "westworld-205"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "westworld-207"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "westworld-210"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "bachelors-23-and-01"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "big-bang-theory-1223"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "big-little-lies-201"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "big-little-lies-207"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "black-monday-106"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "black-monday-110"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "cobra-kai-02"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "doctor-who-1200"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "dolemite-is-my-name"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "expanse-04"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "ferhat-ile-sirin"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "game-of-thrones-801"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "game-of-thrones-803"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "game-of-thrones-806"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "glow-03"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "good-fight-301"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "good-fight-310"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "high-flying-bird"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "i-am-the-night-103"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "i-am-the-night-106"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "killing-eve-201"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "killing-eve-208"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "kurulus-osman-01"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "love-death-robots-01"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "mandalorian-101"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "mandalorian-102"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "mandalorian-108"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "marvelous-mrs-maisel-03"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "oa-02"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "orange-is-the-new-black-07"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "orville-206"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "orville-214"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "permanent-record"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "queen-of-the-south-407"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "queen-of-the-south-413"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "queer-eye-2018-04"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "she-ra-04"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "star-trek-discovery-201"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "star-trek-discovery-206"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "star-trek-discovery-214"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "stranger-things-03"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "succession-210"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "tales-of-the-city-2019"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "true-detective-301"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "true-detective-308"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "umbrella-academy-01"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "undone-01"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "walking-dead-1008"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "walking-dead-916"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "watchmen-104"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "watchmen-109"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "wu-assassins-01"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "yellowstone-210"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "alienist-201"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "altered-carbon-02"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "altered-carbon-resleeved"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "avenue-5-101"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "away-01"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "biohackers-01"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "black-is-king"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "blackaf-01"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "bojack-horseman-06"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "boys-201"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "boys-208"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "control-z-01"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "da-5-bloods"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "dark-03"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "devs-108"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "doom-patrol-201"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "euphoria-special"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "expanse-501"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "folklore"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "good-fight-407"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "hamilton"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "happiest-season"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "high-fidelity-01"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "jamtara-sabka-number-ayega"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "japan-sinks"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "lego-star-wars-holiday-special-2020"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "lovebirds"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "lovecraft-country-101"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "lovecraft-country-110"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "mandalorian-201"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "mandalorian-208"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "mulan"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "narcos-mexico-02"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "queer-eye-2018-05"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "raised-by-wolves-110"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "solar-opposites-01"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "songbird"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "space-force-01"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "star-trek-discovery-305"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "star-trek-lower-decks-101"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "star-trek-picard-110"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "tales-from-the-loop-01"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "tenet"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "tiger-king-and-i"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "umbrella-academy-02"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "upload-01"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "vanguard"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "westworld-301"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "westworld-308"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "what-we-do-in-the-shadows-210"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "wonder-woman-1984"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "archer-1201"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "army-of-the-dead"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "beatles-get-back"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "black-monday-310"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "blade-runner-black-lotus-101"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "bliss"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "borats-american-lockdown"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "cinderella-2021"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "cobra-kai-03"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "cocaine-cowboys-the-kings-of-miami"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "coming-2-america"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "cowboy-bebop-2021-01"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "debris-113"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "detective-chinatown-3"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "dont-look-up"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "doom-patrol-301"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "doors"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "dune-2021"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "expanse-510"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "expanse-601"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "falcon-and-the-winter-soldier-101"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "falcon-and-the-winter-soldier-106"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "for-all-mankind-201"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "for-all-mankind-210"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "foundation-101"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "godzilla-vs-kong"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "good-fight-510"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "halston-01"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "harder-they-fall"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "intergalactic-01"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "invasion-101"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "invincible-101"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "kung-fu-101"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "kung-fu-113"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "loki-101"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "loki-106"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "love-death-robots-02"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "lupin-02"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "made-for-love-107"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "malcolm-and-marie"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "matrix-resurrections"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "me-you-cant-see-01"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "mitchells-vs-the-machines"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "money-heist-05.1"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "money-heist-05.2"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "mother-android"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "narcos-mexico-03"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "no-sudden-move"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "no-time-to-die"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "one-night-in-miami"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "one-piece-95x"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "one-piece-98x"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "only-murders-in-the-building-110"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "oprah-meghan-harry"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "outer-banks-02"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "outside-the-wire"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "pacific-rim-the-black"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "pose-307"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "princess-switch-3"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "prisoners-of-the-ghostland"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "q-force-01"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "queen-of-the-south-510"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "raya-and-the-last-dragon"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "reservation-dogs-101"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "shadow-and-bone-01"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "shang-chi-and-the-legend-of-the-ten-rings"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "snowpiercer-209"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "space-sweepers"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "star-wars-visions-01"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "succession-301"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "suicide-squad-2021"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "summer-of-soul"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "ted-lasso-201"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "tomorrow-war"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "trese-01"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "ultra-city-smiths-106"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "underground-railroad-01"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "wandavision-101"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "wandavision-109"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "what-if-2021-101"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "witcher-02"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "y-the-last-man-101"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "yasuke-01"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "abbott-elementary-113"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "all-of-us-are-dead-01"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "all-the-old-knives"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "andor-101"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "andor-112"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "andy-warhol-diaries-01"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "archer-1308"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "atlanta-301"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "atlanta-310"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "atlanta-410"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "book-of-boba-fett-107"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "boys-301"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "boys-308"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "boys-presents-diabolical-01"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "bridgerton-02"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "enola-holmes-2"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "eternals"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "euphoria-208"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "everything-everywhere-all-at-once"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "expanse-606"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "fistful-of-vengeance"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "flight-attendant-201"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "for-all-mankind-301"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "glass-onion"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "gray-man"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "harley-quinn-301"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "house-of-the-dragon-101"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "house-of-the-dragon-103"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "house-of-the-dragon-110"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "inventing-anna-01"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "jeen-yuhs-01"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "kimi"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "kindred-01"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "marvelous-mrs-maisel-407"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "obi-wan-kenobi-101"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "obi-wan-kenobi-106"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "old-man-107"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "only-murders-in-the-building-201"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "only-murders-in-the-building-210"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "pantheon-108"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "paper-girls-01"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "peripheral-101"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "peripheral-108"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "prehistoric-planet-01"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "prey"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "raised-by-wolves-201"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "raised-by-wolves-208"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "renaissance"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "reservation-dogs-201"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "rings-of-power-101"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "rings-of-power-108"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "roar-01"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "russian-doll-02"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "sandman-01"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "spider-man-no-way-home"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "station-eleven-110"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "stranger-things-04.1"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "stranger-things-04.2"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "tales-of-the-jedi-01"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "tokyo-vice-01"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "turning-red"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "undone-02"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "walking-dead-1124"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "wednesday-01"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "westworld-401"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "westworld-408"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "witcher-blood-origin-01"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "yellowjackets-110"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "yellowstone-505"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "ahsoka-101"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "ahsoka-108"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "american-born-chinese-01"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "and-just-like-that-201"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "and-just-like-that-211"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "archer-1401"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "archer-1408"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "avatar-the-way-of-water"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "barbie"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "barry-401"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "beacon-23-101"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "beacon-23-108"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "bear-02"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "black-mirror-06"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "black-panther-wakanda-forever"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "blue-eye-samurai-01"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "changeling-108"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "citadel-101"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "citadel-106"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "consultant-01"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "curse-01"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "dungeons-and-dragons-honor-among-thieves"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "fargo-501"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "for-all-mankind-401"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "foundation-201"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "fubar-01"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "full-circle-01"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "gen-v-101"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "gen-v-108"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "guardians-of-the-galaxy-3"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "hijack-101"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "hijack-107"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "idol-101"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "im-a-virgo-01"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "invincible-201"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "last-of-us-101"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "last-of-us-109"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "liaison-101"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "loki-201"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "loki-206"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "lupin-03"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "magic-mikes-last-dance"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "mandalorian-301"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "mandalorian-308"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "marvelous-mrs-maisel-501"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "minx-02"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "monarch-legacy-of-monsters-101"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "murder-at-the-end-of-the-world-101"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "murder-at-the-end-of-the-world-107"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "no-more-bets"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "only-murders-in-the-building-301"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "only-murders-in-the-building-310"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "oppenheimer"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "outer-banks-03"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "polite-society"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "power-105"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "power-109"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "prehistoric-planet-02"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "queen-charlotte-01"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "queer-eye-2018-07"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "reacher-201"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "reservation-dogs-301"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "reservation-dogs-310"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "spider-man-across-the-spider-verse"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "super-mario-brothers-movie"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "they-cloned-tyrone"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "twisted-metal-01"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "warrior-310"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "witcher-03.1"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "witcher-03.2"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "you-04.2"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "3-body-problem-01"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "acolyte-101"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "acolyte-107"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "agatha-all-along-101"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "agatha-all-along-107"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "american-fiction"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "anora"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "apprentice-2024"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.1"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.2"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.3"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "avatar-the-last-airbender-2024-01"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "bad-monkey-109"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "bear-03"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "beverly-hills-cop-axel-f"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "blink-twice"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "boy-and-the-heron"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "boys-401"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "brothers-sun-01"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "diplomat-02"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "dune-2024"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "echo-01"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "emilia-perez"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "fallout-2024-01"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "fantasmas-01"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "fargo-510"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "feud-02"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "for-all-mankind-410"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "godzilla-minus-one"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "godzilla-x-kong-the-new-empire"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "griselda-01"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "hit-man"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "hit-monkey-02"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "house-of-the-dragon-201"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "house-of-the-dragon-207"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "inside-out-2"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "interior-chinatown-01"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "killer-2024"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "kingdom-of-the-planet-of-the-apes"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "laid-01"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "madness-01"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "masters-of-the-air-101"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "masters-of-the-air-108"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "monarch-legacy-of-monsters-110"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "monsieur-spade-01"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "mr-and-mrs-smith-2024-01"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "old-man-201"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "only-murders-in-the-building-401"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "only-murders-in-the-building-409"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "outer-range-02"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "penguin-101"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "penguin-107"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "reacher-208"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "rings-of-power-201"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "rings-of-power-207"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "road-house-2024"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "shogun-2024-101"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "shogun-2024-110"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "silo-201"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "snowpiercer-401"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "special-ops-lioness-201"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "squid-game-02"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "stormy"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "sugar-107"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "tokyo-vice-201"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "tokyo-vice-209"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "we-are-lady-parts-02"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "what-if-2021-03"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "wild-robot"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "alien-earth-101"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "alien-earth-106"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "american-primeval"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "american-revolution-2025"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "andor-112"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "andor-201"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "andor-210"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "ballard-01"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "bear-04"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "beatles-anthology"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "black-bag-2025"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "chief-of-war-101"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "chief-of-war-107"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "cobra-kai-06.3"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "common-side-effects-01"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "companion-2025"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "dan-da-dan-210"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "dark-winds-301"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "death-by-lightning"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "dope-thief-101"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "down-cemetery-road-101"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "duster-101"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "duster-106"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "eyes-of-wakanda-01"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "fallout-2024-201"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "frankenstein-2025"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "gen-v-201"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "gen-v-206"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "hacks-401"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "hacks-408"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "highest-2-lowest"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "invasion-301"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "invincible-301"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "ironheart-01"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "king-of-the-hill-14"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "last-of-us-201"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "last-of-us-206"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-101"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-108"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-111"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "long-story-short-01"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "love-death-robots-04"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lowdown-101"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "mickey-17"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "mid-century-modern-01"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "minecraft-movie-2025"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "moana-2"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "night-agent-02"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "nouvelle-vague"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "one-battle-after-another"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "only-murders-in-the-building-501"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "only-murders-in-the-building-508"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "peacemaker-201"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "pluribus-107"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "predator-badlands"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "predator-killer-of-killers"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "prehistoric-planet-03"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "reacher-301"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "reacher-307"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "sean-combs-the-reckoning"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "severance-201"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "severance-209"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "sinners-2025"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "sly-lives"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "south-park-27"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "squid-game-03"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "star-wars-visions-03"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "stranger-things-05.1"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "stranger-things-05.2"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "studio-2025-101"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "summer-i-turned-pretty-311"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "superman-2025"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "tron-ares"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "weapons-2025"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "wednesday-02.1"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "wednesday-02.2"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "white-lotus-301"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "white-lotus-307"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "wicked-2024"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "wicked-for-good-2025"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "witcher-04"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "yellowjackets-201"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "your-friendly-neighborhood-spider-man-01"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "zero-day-01"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "acolyte-107"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "all-you-need-is-kill"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "avatar-the-last-airbender-2024-02"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "backrooms-2026"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "bear-00"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "bear-05"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "beastars-03.2"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "beauty-108"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "beef-02"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "bluff"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "boys-501"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "bridgerton-04.1"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "bridgerton-04.2"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "dang-01"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "dark-winds-401"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "dinosaurs-01"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "drama-2026"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "enola-holmes-3"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "euphoria-301"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "fallout-2024-206"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "for-all-mankind-501"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "furious-2025"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "ghost-in-the-shell-2026-01"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "goat-2026"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "hijack-201"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "his-and-hers-2026-01"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "hoppers"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "house-of-the-dragon-301"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "house-of-the-dragon-308"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "industry-401"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "invincible-401"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "invite-2026"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "knight-of-the-seven-kingdoms-106"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "lanterns-101"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "legend-of-aang-the-last-airbender"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "legend-of-vox-machina-410"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "love-story-2026-107"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "man-on-the-run"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "mandalorian-and-grogu"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "mating-season-01"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "maul-shadow-lord-101"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "monarch-legacy-of-monsters-201"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "monarch-legacy-of-monsters-208"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "my-brilliant-career-2026-01"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "night-agent-03"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "obsession-2025"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "olympics-2026"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "one-piece-2023-02"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "pitt-201"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "pitt-213"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "president-curtis-01"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "project-hail-mary"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "reacher-401"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "rick-and-morty-901"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "season-2026-01"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "send-help"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "shards-101"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "silo-301"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "spider-noir-01"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "star-city-101"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "star-wars-visions-the-ninth-jedi-01"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "stranger-things-05.3"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "stranger-things-tales-from-85-01"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "sugar-201"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "super-mario-galaxy-movie"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "testaments-101"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "toy-story-5"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "widows-bay-108"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "world-cup-2026"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "x-men-97-201"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "zootopia-2"
+    }
+  ],
+  "inventory_sources": [
+    {
+      "cohort_year": 2017,
+      "completion_receipt": "data/txt/year-2017-baseline-v2-completion.json",
+      "completion_receipt_sha256": "9005caf923d78d18c9131aa76b13a99bcbe0919663aa7dc913c595fa7b458a2a",
+      "data_tree": "2bd000514821abe68ab33940c1b293112dbe1ffa",
+      "inventory": "data/txt/year-2017-0-media-objects.txt",
+      "inventory_count": 44,
+      "inventory_sha256": "ff1c69725cfb7ba0edfd30a3e118106cd8919a8dc5bda733b6e4d48a0793623c",
+      "repository": "alpha60-devops/alpha60-results-2017",
+      "revision": "7d0f3dd04f6cbb6a4d4d4afa4df378921d0f1eda"
+    },
+    {
+      "cohort_year": 2018,
+      "completion_receipt": "data/txt/year-2018-baseline-v2-completion.json",
+      "completion_receipt_sha256": "9801265305f5bad95167fc44c056a725ba4318e6903e21fdc4a60b3c59c03edf",
+      "data_tree": "503f9a2bf5cfc9ae36eca2eaac92b74980fa5047",
+      "inventory": "data/txt/year-2018-0-media-objects.txt",
+      "inventory_count": 49,
+      "inventory_sha256": "25095eaa1947db6677564c10021b41566dc50f2fdf56a5c84d50e07f378b49b8",
+      "repository": "alpha60-devops/alpha60-results-2018",
+      "revision": "34ae9837133c26cccc702a20eaf4af1b5444221e"
+    },
+    {
+      "cohort_year": 2019,
+      "completion_receipt": "data/txt/year-2019-baseline-v2-completion.json",
+      "completion_receipt_sha256": "02e667aefdfcca436f2749e9a24824be7650b8b8bff01d92f0f0e8eca30b5ba7",
+      "data_tree": "a69d678c1916ef04a4ec4c3795bfa64bfb751557",
+      "inventory": "data/txt/year-2019-0-media-objects.txt",
+      "inventory_count": 53,
+      "inventory_sha256": "47ea3a01b0a20287fa2f79faa8b20868dc636e1c396f807b6f2fb08304f294c7",
+      "repository": "alpha60-devops/alpha60-results-2019",
+      "revision": "852e4a30685e4fe2117e910208b0c06bf60373c8"
+    },
+    {
+      "cohort_year": 2020,
+      "completion_receipt": "data/txt/year-2020-baseline-v2-completion.json",
+      "completion_receipt_sha256": "8673d80e9d7f8f272671bc1f65b256cb7f4780891dbf961e6ae51598ee29aa08",
+      "data_tree": "86b8e7ec4c5f04c2a48f8e2c813cd1c2b1524450",
+      "inventory": "data/txt/year-2020-0-media-objects.txt",
+      "inventory_count": 52,
+      "inventory_sha256": "daea811649b7ac8b21945533a078783bee52cb5cd21c3dbc8e614d418f471a77",
+      "repository": "alpha60-devops/alpha60-results-2020",
+      "revision": "cd7859dc590e6eda6c174a5fe2359ddf63b28cc6"
+    },
+    {
+      "cohort_year": 2021,
+      "completion_receipt": "data/txt/year-2021-baseline-v2-completion.json",
+      "completion_receipt_sha256": "25f1aed366926b89919e9eb1bc76968bf85bd358b97e01096212f185acb9bf9d",
+      "data_tree": "a169f31b2e37e24161ea24c275d41b1d0575d80b",
+      "inventory": "data/txt/year-2021-0-media-objects.txt",
+      "inventory_count": 83,
+      "inventory_sha256": "bdda9265e7155c9e7de91b17eba6b0f4062dfe98ecbdff10019bb733589780cb",
+      "repository": "alpha60-devops/alpha60-results-2021",
+      "revision": "d2d308425a53a464f256191042c20eb298fa3232"
+    },
+    {
+      "cohort_year": 2022,
+      "completion_receipt": "data/txt/year-2022-baseline-v2-completion.json",
+      "completion_receipt_sha256": "7aad6a392b15ecc6ff50bc650ef6fea72121d5a25edf5b9fbc03def144c9bbc5",
+      "data_tree": "c5af0d1ffb7aaf7443e07625b293ff9def010964",
+      "inventory": "data/txt/year-2022-0-media-objects.txt",
+      "inventory_count": 69,
+      "inventory_sha256": "38386383c7370623c8bd4e49e72a591f3c62c0e4fdf6d6872033f955be804ce3",
+      "repository": "alpha60-devops/alpha60-results-2022",
+      "revision": "6ad35ef6834eec7455f83f0bc9b9331b8bc6dff8"
+    },
+    {
+      "cohort_year": 2023,
+      "completion_receipt": "data/txt/year-2023-baseline-v2-completion.json",
+      "completion_receipt_sha256": "c5e926256090af181981b00af3e5a7c5fb3e66a928fd4a68cfd88e3cb6e03b13",
+      "data_tree": "15e170265b6f55e6508ffe2fdd8d7793516e73a3",
+      "inventory": "data/txt/year-2023-0-media-objects.txt",
+      "inventory_count": 71,
+      "inventory_sha256": "c20dc5d5885380b8f08c58df160bf84a648930dfacffd8c2eeba9a15da1c17ad",
+      "repository": "alpha60-devops/alpha60-results-2023",
+      "revision": "14ef04ef54c4fbcf1b479a949c432c0d42fdf43a"
+    },
+    {
+      "cohort_year": 2024,
+      "completion_receipt": "data/txt/year-2024-baseline-v2-completion.json",
+      "completion_receipt_sha256": "0b9eed448ccebc5632a8441fd69c7ee966fc550fe7bb4b0f1906131cdaa86812",
+      "data_tree": "05efe95a719f7d0abd31ecff726496459aa3c4d9",
+      "inventory": "data/txt/year-2024-0-media-objects.txt",
+      "inventory_count": 69,
+      "inventory_sha256": "2c5fffb157bc15ac32b831f3b723dfca35c907e5d7e5095cb080970cc477fae9",
+      "repository": "alpha60-devops/alpha60-results-2024",
+      "revision": "81f1b52151bcec5086af3a1ffb95e57903703d6d"
+    },
+    {
+      "cohort_year": 2025,
+      "completion_receipt": "data/txt/year-2025-baseline-v2-completion.json",
+      "completion_receipt_sha256": "9af0371b7df2192be82d8c45cd16aa55bbd7c6e27c1bb8fab2bd51ad11934671",
+      "data_tree": "08af51c1650d959f3dea7997ad0fae2517e18c05",
+      "inventory": "data/txt/year-2025-0-media-objects.txt",
+      "inventory_count": 85,
+      "inventory_sha256": "017e5665658a40791118316a434700125be51f69eb8e98e228bbbfcc5b8ae541",
+      "repository": "alpha60-devops/alpha60-results-2025",
+      "revision": "8931c562df38b3d177a085e033b529ecd9176683"
+    },
+    {
+      "cohort_year": 2026,
+      "completion_receipt": "data/txt/year-2026-baseline-v2-completion.json",
+      "completion_receipt_sha256": "bf84893c1db74a8fd34f3df17c86373a61fd4aed552786344af3613b54721b51",
+      "data_tree": "38a73e5aa922180bad10ab683ee89f6a341f97b1",
+      "inventory": "data/txt/year-2026-0-media-objects.txt",
+      "inventory_count": 71,
+      "inventory_sha256": "c43ed8309af2cca46e57f4b873377efb087b3f6b62701bd220483b81f26e9ea9",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "4c46889187a46fcacd9a70ec6379ce66f3cdfa0e"
+    }
+  ],
+  "itu_source": {
+    "file": "itu/facts_and_figures.json",
+    "provisional_years": [
+      2026
+    ],
+    "reference_year": 2025,
+    "repository": "alpha60-devops/alpha60-data",
+    "revision": "6ebc0ea8a07fe57875d836bdd87155187f24853c",
+    "root": "../alpha60-data",
+    "sha256": "302f0f874d5ed3ba2cb7f097c6d5eb3bcf153974087db90b0f5fcbdd16ccf685"
+  },
+  "memberships": [
+    {
+      "cohort_year": 2019,
+      "collection_key": "undone-01",
+      "evidence": [
+        "branch:amazon-prime-video-direct",
+        "distribution_tags intersects [\"amazon prime video\"]"
+      ],
+      "set": "amazon-prime-video"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "star-trek-lower-decks-101",
+      "evidence": [
+        "branch:amazon-prime-video-direct",
+        "distribution_tags intersects [\"amazon prime video\"]"
+      ],
+      "set": "amazon-prime-video"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "invincible-101",
+      "evidence": [
+        "branch:amazon-prime-video-direct",
+        "distribution_tags intersects [\"amazon prime\", \"amazon prime video\"]"
+      ],
+      "set": "amazon-prime-video"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "boys-presents-diabolical-01",
+      "evidence": [
+        "branch:amazon-prime-video-direct",
+        "distribution_tags intersects [\"amazon prime video\"]"
+      ],
+      "set": "amazon-prime-video"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "undone-02",
+      "evidence": [
+        "branch:amazon-prime-video-direct",
+        "distribution_tags intersects [\"amazon prime video\"]"
+      ],
+      "set": "amazon-prime-video"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "invincible-201",
+      "evidence": [
+        "branch:amazon-prime-video-direct",
+        "distribution_tags intersects [\"amazon prime video\"]"
+      ],
+      "set": "amazon-prime-video"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "invincible-301",
+      "evidence": [
+        "branch:amazon-prime-video-direct",
+        "distribution_tags intersects [\"amazon prime video\"]"
+      ],
+      "set": "amazon-prime-video"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "altered-carbon-resleeved",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "mitchells-vs-the-machines",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "raya-and-the-last-dragon",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "turning-red",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "spider-man-across-the-spider-verse",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "super-mario-brothers-movie",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "boy-and-the-heron",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "inside-out-2",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "wild-robot",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "moana-2",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "predator-killer-of-killers",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "zootopia-2",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "love-death-robots-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "she-ra-04",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "undone-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "altered-carbon-resleeved",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "bojack-horseman-06",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "japan-sinks",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "solar-opposites-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "star-trek-lower-decks-101",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "archer-1201",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "blade-runner-black-lotus-101",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "invincible-101",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "love-death-robots-02",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "mitchells-vs-the-machines",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "one-piece-95x",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "one-piece-98x",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "pacific-rim-the-black",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "q-force-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "raya-and-the-last-dragon",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "star-wars-visions-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "trese-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "ultra-city-smiths-106",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "what-if-2021-101",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "yasuke-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "archer-1308",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "boys-presents-diabolical-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "harley-quinn-301",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "pantheon-108",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "prehistoric-planet-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "tales-of-the-jedi-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "turning-red",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "undone-02",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "archer-1401",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "blue-eye-samurai-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "invincible-201",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "prehistoric-planet-02",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "spider-man-across-the-spider-verse",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "super-mario-brothers-movie",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.1",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.2",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.3",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "boy-and-the-heron",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "hit-monkey-02",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "inside-out-2",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "what-if-2021-03",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "wild-robot",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "common-side-effects-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "dan-da-dan-210",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "eyes-of-wakanda-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "invincible-301",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "king-of-the-hill-14",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-101",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-108",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-111",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "love-death-robots-04",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "moana-2",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "predator-killer-of-killers",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "prehistoric-planet-03",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "south-park-27",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "star-wars-visions-03",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "your-friendly-neighborhood-spider-man-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "beastars-03.2",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "dinosaurs-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "maul-shadow-lord-101",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "zootopia-2",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "solar-opposites-01",
+      "evidence": [
+        "branch:hulu-hub",
+        "distribution_tags intersects [\"hulu\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "archer-1201",
+      "evidence": [
+        "branch:fx-distribution",
+        "distribution_tags intersects [\"fx\"]",
+        "branch:fx-production",
+        "production_tags intersects [\"fxp\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "raya-and-the-last-dragon",
+      "evidence": [
+        "branch:disney-production",
+        "production_tags intersects [\"walt disney animation studios\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "star-wars-visions-01",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\"",
+        "branch:star-wars-lucasfilm-production",
+        "production_tags intersects [\"lucasfilm\"]",
+        "collection_key starts with \"star-wars-\""
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "what-if-2021-101",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\"",
+        "branch:marvel-production",
+        "production_tags intersects [\"marvel studios animation\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "archer-1308",
+      "evidence": [
+        "branch:fx-distribution",
+        "distribution_tags intersects [\"fx\"]",
+        "branch:fx-production",
+        "production_tags intersects [\"fxp\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "tales-of-the-jedi-01",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\""
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "turning-red",
+      "evidence": [
+        "branch:pixar-production",
+        "production_tags contains \"pixar animation studios\""
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "archer-1401",
+      "evidence": [
+        "branch:fx-distribution",
+        "distribution_tags intersects [\"fx\"]",
+        "branch:fx-production",
+        "production_tags intersects [\"fxp\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "spider-man-across-the-spider-verse",
+      "evidence": [
+        "branch:marvel-production",
+        "production_tags intersects [\"marvel entertainment\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "hit-monkey-02",
+      "evidence": [
+        "branch:marvel-production",
+        "production_tags intersects [\"marvel television season 1\"]",
+        "branch:hulu-hub",
+        "distribution_tags intersects [\"hulu\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "inside-out-2",
+      "evidence": [
+        "branch:pixar-production",
+        "production_tags contains \"pixar animation studios\""
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "what-if-2021-03",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\"",
+        "branch:marvel-production",
+        "production_tags intersects [\"marvel studios animation\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "eyes-of-wakanda-01",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\"",
+        "branch:marvel-production",
+        "production_tags intersects [\"marvel studios animation\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "moana-2",
+      "evidence": [
+        "branch:disney-production",
+        "production_tags intersects [\"walt disney animation studios\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "predator-killer-of-killers",
+      "evidence": [
+        "branch:hulu-hub",
+        "distribution_tags intersects [\"hulu\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "star-wars-visions-03",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\"",
+        "branch:star-wars-lucasfilm-production",
+        "production_tags intersects [\"lucasfilm\"]",
+        "collection_key starts with \"star-wars-\""
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "your-friendly-neighborhood-spider-man-01",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\"",
+        "branch:marvel-production",
+        "production_tags intersects [\"marvel studios animation\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "maul-shadow-lord-101",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\""
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "zootopia-2",
+      "evidence": [
+        "branch:disney-production",
+        "production_tags intersects [\"walt disney animation studios\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "altered-carbon-resleeved",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "japan-sinks",
+      "evidence": [
+        "branch:japan-origin-reviewed",
+        "collection_tags contains \"japan_origin\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "blade-runner-black-lotus-101",
+      "evidence": [
+        "branch:japan-origin-reviewed",
+        "collection_tags contains \"japan_origin\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "one-piece-95x",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "one-piece-98x",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "pacific-rim-the-black",
+      "evidence": [
+        "branch:japan-origin-reviewed",
+        "collection_tags contains \"japan_origin\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "star-wars-visions-01",
+      "evidence": [
+        "branch:japan-origin-reviewed",
+        "collection_tags contains \"japan_origin\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "yasuke-01",
+      "evidence": [
+        "branch:japan-origin-reviewed",
+        "collection_tags contains \"japan_origin\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "boy-and-the-heron",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "dan-da-dan-210",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-101",
+      "evidence": [
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-108",
+      "evidence": [
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-111",
+      "evidence": [
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "love-death-robots-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "she-ra-04",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "altered-carbon-resleeved",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "bojack-horseman-06",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "japan-sinks",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "love-death-robots-02",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "mitchells-vs-the-machines",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "q-force-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "trese-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "yasuke-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "blue-eye-samurai-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.1",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.2",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.3",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "love-death-robots-04",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "dinosaurs-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "she-ra-04",
+      "evidence": [
+        "branch:superhero-genre",
+        "release.genres contains \"Superhero\""
+      ],
+      "set": "superhero-animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "invincible-101",
+      "evidence": [
+        "branch:superhero-genre",
+        "release.genres contains \"Superhero\""
+      ],
+      "set": "superhero-animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "what-if-2021-101",
+      "evidence": [
+        "branch:superhero-genre",
+        "release.genres contains \"Superhero\""
+      ],
+      "set": "superhero-animation"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "boys-presents-diabolical-01",
+      "evidence": [
+        "branch:superhero-genre",
+        "release.genres contains \"Superhero\""
+      ],
+      "set": "superhero-animation"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "harley-quinn-301",
+      "evidence": [
+        "branch:superhero-genre",
+        "release.genres contains \"Superhero\""
+      ],
+      "set": "superhero-animation"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "invincible-201",
+      "evidence": [
+        "branch:superhero-genre",
+        "release.genres contains \"Superhero\""
+      ],
+      "set": "superhero-animation"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "spider-man-across-the-spider-verse",
+      "evidence": [
+        "branch:spider-man-reviewed-slice",
+        "reviewed slice spider_man"
+      ],
+      "set": "superhero-animation"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "hit-monkey-02",
+      "evidence": [
+        "branch:superhero-genre",
+        "release.genres contains \"Superhero\""
+      ],
+      "set": "superhero-animation"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "what-if-2021-03",
+      "evidence": [
+        "branch:superhero-genre",
+        "release.genres contains \"Superhero\""
+      ],
+      "set": "superhero-animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "eyes-of-wakanda-01",
+      "evidence": [
+        "branch:superhero-genre",
+        "release.genres contains \"Superhero\""
+      ],
+      "set": "superhero-animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "invincible-301",
+      "evidence": [
+        "branch:superhero-genre",
+        "release.genres contains \"Superhero\""
+      ],
+      "set": "superhero-animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "your-friendly-neighborhood-spider-man-01",
+      "evidence": [
+        "branch:superhero-genre",
+        "release.genres contains \"Superhero\"",
+        "branch:spider-man-reviewed-slice",
+        "reviewed slice spider_man"
+      ],
+      "set": "superhero-animation"
+    }
+  ],
+  "metadata_source": {
+    "animation_review_status": "published-predecessor-65-members-pending-h08",
+    "animation_slice": "animation",
+    "directory": "metadata",
+    "record_count": 680,
+    "record_digest": "479a9ceda90cef1afeef6bc69fde21f62a0da9bed8122217b24936b95ac5b461",
+    "repository": "alpha60-devops/alpha60-swarm-metadata",
+    "revision": "bf6a662f03337eef48ebb15a874263fa00cdc6e1",
+    "root": "../alpha60-swarm-metadata",
+    "slice_config": "config/slices.json",
+    "slice_config_sha256": "0fc4ffbe5238b59e30422dedc60ed650c30732aaf5680f9eeb2a1d616a225231",
+    "validation_report": "reports/validation/v2.json"
+  },
+  "method_id": "mellon-6-animation",
+  "method_sha256": "e09b4e7232175d2660d841342bcbdedc606994db09fae84ed8d9eb245be9c7f3",
+  "method_version": "1.0.0-draft",
+  "publication_gates": {
+    "h08_animation_dispositions_complete": false,
+    "itu_2026_policy_approved": false,
+    "stable_pages_may_switch": false
+  },
+  "repeated_collection_keys": [
+    "acolyte-107",
+    "andor-112"
+  ],
+  "run_id": "2017-2026-itu-2025",
+  "schema_version": "1.0.0",
+  "selected_source_runs": [
+    {
+      "cohort_year": 2019,
+      "collection_key": "love-death-robots-01",
+      "cumulative_path": "data/json/love-death-robots-01-cumulative.json",
+      "cumulative_sha256": "618e6fd72c851da39c69cfc5933dd827d0d0ad5e33d558650d7eca71377e3ddd",
+      "repository": "alpha60-devops/alpha60-results-2019",
+      "revision": "852e4a30685e4fe2117e910208b0c06bf60373c8",
+      "sample_duration": "2019-03-15-to-2019-05-16",
+      "sample_year_end": 2019,
+      "sample_year_start": 2019,
+      "weekly_path": "data/json/love-death-robots-01-week.json",
+      "weekly_sha256": "8e5e973f88ef66e24e9ffac85b405644d97417bd41d8409749a061ffb7e2db34"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "she-ra-04",
+      "cumulative_path": "data/json/she-ra-04-cumulative.json",
+      "cumulative_sha256": "9d5319d9ae43c8d612faefefc1398585b4f99fa54833016a1bdec9832894e18f",
+      "repository": "alpha60-devops/alpha60-results-2019",
+      "revision": "852e4a30685e4fe2117e910208b0c06bf60373c8",
+      "sample_duration": "2019-11-05-to-2019-12-16",
+      "sample_year_end": 2019,
+      "sample_year_start": 2019,
+      "weekly_path": "data/json/she-ra-04-week.json",
+      "weekly_sha256": "bbe85b9dec2f36cf349325c814fd011dcbe89f4e79b59cfa2cdc8ea19fa2f2f9"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "undone-01",
+      "cumulative_path": "data/json/undone-01-cumulative.json",
+      "cumulative_sha256": "2110b27b90655a6ed307b4d635716d009ad511988d5efb650b511407fc048c39",
+      "repository": "alpha60-devops/alpha60-results-2019",
+      "revision": "852e4a30685e4fe2117e910208b0c06bf60373c8",
+      "sample_duration": "2019-09-13-to-2019-11-21",
+      "sample_year_end": 2019,
+      "sample_year_start": 2019,
+      "weekly_path": "data/json/undone-01-week.json",
+      "weekly_sha256": "7562b8cf35577d4d9745b6e029d0046cefc97e8292098614ad101e3f0ea5e4cf"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "altered-carbon-resleeved",
+      "cumulative_path": "data/json/altered-carbon-resleeved-cumulative.json",
+      "cumulative_sha256": "598caebbaab6076e35a5f276d19523190c29fa06245c5d742563fe0d8d64ccb0",
+      "repository": "alpha60-devops/alpha60-results-2020",
+      "revision": "cd7859dc590e6eda6c174a5fe2359ddf63b28cc6",
+      "sample_duration": "2020-03-19-to-2020-05-27",
+      "sample_year_end": 2020,
+      "sample_year_start": 2020,
+      "weekly_path": "data/json/altered-carbon-resleeved-week.json",
+      "weekly_sha256": "9a14bad9619c05c648e7b290f6281ffacf2fed4eb566db6c81269b5ee38a3d52"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "bojack-horseman-06",
+      "cumulative_path": "data/json/bojack-horseman-06-cumulative.json",
+      "cumulative_sha256": "1d6eb3f50abe2aeecdef0ffbb1b507ee2f8ac6a37bd884434740bc10eb9fd642",
+      "repository": "alpha60-devops/alpha60-results-2020",
+      "revision": "cd7859dc590e6eda6c174a5fe2359ddf63b28cc6",
+      "sample_duration": "2020-01-31-to-2020-04-09",
+      "sample_year_end": 2020,
+      "sample_year_start": 2020,
+      "weekly_path": "data/json/bojack-horseman-06-week.json",
+      "weekly_sha256": "b20fab345a411c6448d2d3bb5207ea26bc79057d3e6f8cfeb8fd427b5848b33e"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+      "cumulative_path": "data/json/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-cumulative.json",
+      "cumulative_sha256": "0439ac637870f0e44e8e23ffd19dc102d569bad43f1674761a60e4f08fe71ef7",
+      "repository": "alpha60-devops/alpha60-results-2020",
+      "revision": "cd7859dc590e6eda6c174a5fe2359ddf63b28cc6",
+      "sample_duration": "2020-12-10-to-2021-10-19",
+      "sample_year_end": 2021,
+      "sample_year_start": 2020,
+      "weekly_path": "data/json/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-week.json",
+      "weekly_sha256": "588c9a0845d0e60b53ba3106b94e4a29cef76cda945d429ceda4464cd7ff0766"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "japan-sinks",
+      "cumulative_path": "data/json/japan-sinks-cumulative.json",
+      "cumulative_sha256": "d039c8b6e877e139c7b3888bc5c7aa7e007aa62e5d355a6be22206c7cfa3f7c1",
+      "repository": "alpha60-devops/alpha60-results-2020",
+      "revision": "cd7859dc590e6eda6c174a5fe2359ddf63b28cc6",
+      "sample_duration": "2020-07-09-to-2020-09-23",
+      "sample_year_end": 2020,
+      "sample_year_start": 2020,
+      "weekly_path": "data/json/japan-sinks-week.json",
+      "weekly_sha256": "634d93ed3826bf7772779bf214537c424596f406d584b2dcd7541c39857eec83"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "solar-opposites-01",
+      "cumulative_path": "data/json/solar-opposites-01-cumulative.json",
+      "cumulative_sha256": "2ebd68730083384e69c3db4e6ec0311dc76308c908a8109ca599aca43bf91741",
+      "repository": "alpha60-devops/alpha60-results-2020",
+      "revision": "cd7859dc590e6eda6c174a5fe2359ddf63b28cc6",
+      "sample_duration": "2020-05-08-to-2020-07-16",
+      "sample_year_end": 2020,
+      "sample_year_start": 2020,
+      "weekly_path": "data/json/solar-opposites-01-week.json",
+      "weekly_sha256": "9246aa35618974cae86dc8f342ad11520bef1c4f96791a8ccd99313b60327b89"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "star-trek-lower-decks-101",
+      "cumulative_path": "data/json/star-trek-lower-decks-101-cumulative.json",
+      "cumulative_sha256": "87de598883d7b4255fc77b167c5a4911c55853fdf9312af70a9f782e81ccdab3",
+      "repository": "alpha60-devops/alpha60-results-2020",
+      "revision": "cd7859dc590e6eda6c174a5fe2359ddf63b28cc6",
+      "sample_duration": "2020-08-06-to-2020-10-03",
+      "sample_year_end": 2020,
+      "sample_year_start": 2020,
+      "weekly_path": "data/json/star-trek-lower-decks-101-week.json",
+      "weekly_sha256": "89bd3d91171e2911f3a4925642f4e8ad3f9e48e38128474a327c7972e9c494f0"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "archer-1201",
+      "cumulative_path": "data/json/archer-1201-cumulative.json",
+      "cumulative_sha256": "6f403a1e3aa54ce062bf72d19d1bbb60be6d99822a6dea41319f5eacc3f06965",
+      "repository": "alpha60-devops/alpha60-results-2021",
+      "revision": "d2d308425a53a464f256191042c20eb298fa3232",
+      "sample_duration": "2021-08-26-to-2021-11-03",
+      "sample_year_end": 2021,
+      "sample_year_start": 2021,
+      "weekly_path": "data/json/archer-1201-week.json",
+      "weekly_sha256": "e9869e96c42131ba89875023b168e5ac8074957c96a8858d0a801be6cc7f285b"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "blade-runner-black-lotus-101",
+      "cumulative_path": "data/json/blade-runner-black-lotus-101-cumulative.json",
+      "cumulative_sha256": "ba9b67caa5cd7ed9ff4ec3bed14071e09fa2f5836ed934f24d6b657879e15081",
+      "repository": "alpha60-devops/alpha60-results-2021",
+      "revision": "d2d308425a53a464f256191042c20eb298fa3232",
+      "sample_duration": "2021-11-14-to-2022-01-22",
+      "sample_year_end": 2022,
+      "sample_year_start": 2021,
+      "weekly_path": "data/json/blade-runner-black-lotus-101-week.json",
+      "weekly_sha256": "a57410de538d9e5b6c80fccb61c98e3c1440df2a257d2103af3e39e554ef3044"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "invincible-101",
+      "cumulative_path": "data/json/invincible-101-cumulative.json",
+      "cumulative_sha256": "7a164358aaaa1bded6d9a38e3be6c16a004195f6df449cde9f69314c6b889f50",
+      "repository": "alpha60-devops/alpha60-results-2021",
+      "revision": "d2d308425a53a464f256191042c20eb298fa3232",
+      "sample_duration": "2021-03-26-to-2021-06-03",
+      "sample_year_end": 2021,
+      "sample_year_start": 2021,
+      "weekly_path": "data/json/invincible-101-week.json",
+      "weekly_sha256": "1ea8254193b310726183cd9710b678037cb77a728ce5c7dd1be6f470b51eebec"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "love-death-robots-02",
+      "cumulative_path": "data/json/love-death-robots-02-cumulative.json",
+      "cumulative_sha256": "1de952e7261618bac98f80347583178b802fceb37062b47fc1e8f06be3459589",
+      "repository": "alpha60-devops/alpha60-results-2021",
+      "revision": "d2d308425a53a464f256191042c20eb298fa3232",
+      "sample_duration": "2021-05-14-to-2021-07-22",
+      "sample_year_end": 2021,
+      "sample_year_start": 2021,
+      "weekly_path": "data/json/love-death-robots-02-week.json",
+      "weekly_sha256": "d24a6f83f64e8c099f506cc4b83307c8050ce4d622494c39c36e2b0d96e5287f"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "mitchells-vs-the-machines",
+      "cumulative_path": "data/json/mitchells-vs-the-machines-cumulative.json",
+      "cumulative_sha256": "4fe2ed5aa8463389ad9d29806406296cdf340aa9312ceabc570239b077f62ba7",
+      "repository": "alpha60-devops/alpha60-results-2021",
+      "revision": "d2d308425a53a464f256191042c20eb298fa3232",
+      "sample_duration": "2021-05-01-to-2021-07-09",
+      "sample_year_end": 2021,
+      "sample_year_start": 2021,
+      "weekly_path": "data/json/mitchells-vs-the-machines-week.json",
+      "weekly_sha256": "7addb9772ecffde4bf3705ef3be7b5ab2d7dd80a4ee820f09d33a17d4b2345ad"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "one-piece-95x",
+      "cumulative_path": "data/json/one-piece-95x-cumulative.json",
+      "cumulative_sha256": "78901fd2768848850c35e0277e601a91cdcd4ccce99ed2150d1707ba1fc2e5f8",
+      "repository": "alpha60-devops/alpha60-results-2021",
+      "revision": "d2d308425a53a464f256191042c20eb298fa3232",
+      "sample_duration": "2021-04-02-to-2021-10-07",
+      "sample_year_end": 2021,
+      "sample_year_start": 2021,
+      "weekly_path": "data/json/one-piece-95x-week.json",
+      "weekly_sha256": "0a28bbd8220c78c3f013e26db988460901b75d5795d1aab6cd14ea859e47c63f"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "one-piece-98x",
+      "cumulative_path": "data/json/one-piece-98x-cumulative.json",
+      "cumulative_sha256": "bfdb10e84657b5a8bde1eba168e9f019daebb5f7a86e3273620c6603aa0c5e3c",
+      "repository": "alpha60-devops/alpha60-results-2021",
+      "revision": "d2d308425a53a464f256191042c20eb298fa3232",
+      "sample_duration": "2021-09-15-to-2022-03-11",
+      "sample_year_end": 2022,
+      "sample_year_start": 2021,
+      "weekly_path": "data/json/one-piece-98x-week.json",
+      "weekly_sha256": "7727333bb94a68847ead234563f048fc1f94348557382c055ae5e835502c9fb1"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "pacific-rim-the-black",
+      "cumulative_path": "data/json/pacific-rim-the-black-cumulative.json",
+      "cumulative_sha256": "7cc84a72e5f721acbc9de676da38fb87c29ed2e4d7680cebe199b0069beb8a21",
+      "repository": "alpha60-devops/alpha60-results-2021",
+      "revision": "d2d308425a53a464f256191042c20eb298fa3232",
+      "sample_duration": "2021-03-04-to-2021-05-12",
+      "sample_year_end": 2021,
+      "sample_year_start": 2021,
+      "weekly_path": "data/json/pacific-rim-the-black-week.json",
+      "weekly_sha256": "d0e8405f750e860dc59f66bda54abee3e653be58ed8f308de5bdf3e1001839d3"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "q-force-01",
+      "cumulative_path": "data/json/q-force-01-cumulative.json",
+      "cumulative_sha256": "d4ddf2dab219d09b531522dc9286e9175b28a68ca5d50914449ab08f42359d3c",
+      "repository": "alpha60-devops/alpha60-results-2021",
+      "revision": "d2d308425a53a464f256191042c20eb298fa3232",
+      "sample_duration": "2021-09-02-to-2021-11-10",
+      "sample_year_end": 2021,
+      "sample_year_start": 2021,
+      "weekly_path": "data/json/q-force-01-week.json",
+      "weekly_sha256": "fee6d5d3b60a6fee8c4eb1474706d8c5d742bf9cd0c5d84728f4e6a868a4c648"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "raya-and-the-last-dragon",
+      "cumulative_path": "data/json/raya-and-the-last-dragon-cumulative.json",
+      "cumulative_sha256": "29be1c5186f8aec524c6335704ee86db821de25fd39c57d62b53a507b0ebe8fd",
+      "repository": "alpha60-devops/alpha60-results-2021",
+      "revision": "d2d308425a53a464f256191042c20eb298fa3232",
+      "sample_duration": "2021-03-05-to-2021-09-02",
+      "sample_year_end": 2021,
+      "sample_year_start": 2021,
+      "weekly_path": "data/json/raya-and-the-last-dragon-week.json",
+      "weekly_sha256": "f853ab9464e36c1f2ced63fead089bcfa8e9fc6a7a0fb78c31db7c114da79b89"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "star-wars-visions-01",
+      "cumulative_path": "data/json/star-wars-visions-01-cumulative.json",
+      "cumulative_sha256": "1706826b74a9998e80e89a1e07484f81f2b35bc86734ea696420640ccfc8871b",
+      "repository": "alpha60-devops/alpha60-results-2021",
+      "revision": "d2d308425a53a464f256191042c20eb298fa3232",
+      "sample_duration": "2021-09-22-to-2021-12-08",
+      "sample_year_end": 2021,
+      "sample_year_start": 2021,
+      "weekly_path": "data/json/star-wars-visions-01-week.json",
+      "weekly_sha256": "f4db5f3f2b092937ae8a1d549194ee5b16028bdb5450c5465ae90ad62d2129d5"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "trese-01",
+      "cumulative_path": "data/json/trese-01-cumulative.json",
+      "cumulative_sha256": "2152e9f66fe5b91c8ba555e0574e5d771654a53ae45b321f2ca2adca366f51c9",
+      "repository": "alpha60-devops/alpha60-results-2021",
+      "revision": "d2d308425a53a464f256191042c20eb298fa3232",
+      "sample_duration": "2021-06-11-to-2021-08-19",
+      "sample_year_end": 2021,
+      "sample_year_start": 2021,
+      "weekly_path": "data/json/trese-01-week.json",
+      "weekly_sha256": "82085145a557964ca0bcd62ff4dfd5c90ca3d81ef9980482c70c31459422c3ad"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "ultra-city-smiths-106",
+      "cumulative_path": "data/json/ultra-city-smiths-106-cumulative.json",
+      "cumulative_sha256": "9367edbf4ecc081869475268e5e09b60a4bf05cf50200051b31566a3574ca2ae",
+      "repository": "alpha60-devops/alpha60-results-2021",
+      "revision": "d2d308425a53a464f256191042c20eb298fa3232",
+      "sample_duration": "2021-08-19-to-2021-10-27",
+      "sample_year_end": 2021,
+      "sample_year_start": 2021,
+      "weekly_path": "data/json/ultra-city-smiths-106-week.json",
+      "weekly_sha256": "4d5cb1c4e02bd0627cd064bc3e925ecf7bd675f4300c076df7fe87b947534c04"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "what-if-2021-101",
+      "cumulative_path": "data/json/what-if-2021-101-cumulative.json",
+      "cumulative_sha256": "26f2d7121837f07475daa0b4aab10afe7d19f4181bd8a602e56200371d59967c",
+      "repository": "alpha60-devops/alpha60-results-2021",
+      "revision": "d2d308425a53a464f256191042c20eb298fa3232",
+      "sample_duration": "2021-08-11-to-2021-11-23",
+      "sample_year_end": 2021,
+      "sample_year_start": 2021,
+      "weekly_path": "data/json/what-if-2021-101-week.json",
+      "weekly_sha256": "dd400e31f419410bdfb472f339ddfcfe332e6a0819777220d5a74090fbd8288c"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "yasuke-01",
+      "cumulative_path": "data/json/yasuke-01-cumulative.json",
+      "cumulative_sha256": "267e0574e79cd92571032ac6f209fb0dedb7bc46c1326a55f0e21cbccd4d1b96",
+      "repository": "alpha60-devops/alpha60-results-2021",
+      "revision": "d2d308425a53a464f256191042c20eb298fa3232",
+      "sample_duration": "2021-04-29-to-2021-07-07",
+      "sample_year_end": 2021,
+      "sample_year_start": 2021,
+      "weekly_path": "data/json/yasuke-01-week.json",
+      "weekly_sha256": "5221a17e410b38e0c41def1170981b115866fb53292fea34773e749cc2fdfe5f"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "archer-1308",
+      "cumulative_path": "data/json/archer-1308-cumulative.json",
+      "cumulative_sha256": "bd633909e6a7d3c1262b5abb75e6b17f471bd8edffaf66a58c8db7892fee7b89",
+      "repository": "alpha60-devops/alpha60-results-2022",
+      "revision": "6ad35ef6834eec7455f83f0bc9b9331b8bc6dff8",
+      "sample_duration": "2022-10-13-to-2023-01-25",
+      "sample_year_end": 2023,
+      "sample_year_start": 2022,
+      "weekly_path": "data/json/archer-1308-week.json",
+      "weekly_sha256": "4d4b3ea1c5a700c339c10bc1d47a739822ee8f37b311267998b57b5945a3037b"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "boys-presents-diabolical-01",
+      "cumulative_path": "data/json/boys-presents-diabolical-01-cumulative.json",
+      "cumulative_sha256": "ae2011192e41b603fd96e32b41fba4de25c547612d7c920fdfc7a2b18dd3fbb0",
+      "repository": "alpha60-devops/alpha60-results-2022",
+      "revision": "6ad35ef6834eec7455f83f0bc9b9331b8bc6dff8",
+      "sample_duration": "2022-03-04-to-2022-05-19",
+      "sample_year_end": 2022,
+      "sample_year_start": 2022,
+      "weekly_path": "data/json/boys-presents-diabolical-01-week.json",
+      "weekly_sha256": "0b85166efae130454f337f4cf1bf38dcc7e1420ab7d393061c9a63aa85b2136f"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "harley-quinn-301",
+      "cumulative_path": "data/json/harley-quinn-301-cumulative.json",
+      "cumulative_sha256": "5d375889b8d7b47db8c49073e0ed72dd27f2c3a98ea6f6e218704be403b27696",
+      "repository": "alpha60-devops/alpha60-results-2022",
+      "revision": "6ad35ef6834eec7455f83f0bc9b9331b8bc6dff8",
+      "sample_duration": "2022-07-28-to-2022-10-05",
+      "sample_year_end": 2022,
+      "sample_year_start": 2022,
+      "weekly_path": "data/json/harley-quinn-301-week.json",
+      "weekly_sha256": "e46e4ecd3396aec9141d294b2b32e351817b8e734afa527c30362229ace39c01"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "pantheon-108",
+      "cumulative_path": "data/json/pantheon-108-cumulative.json",
+      "cumulative_sha256": "8093b51e2a1b0a534f3d93b7514c1a3999d7291da8819bc4884d827683986c24",
+      "repository": "alpha60-devops/alpha60-results-2022",
+      "revision": "6ad35ef6834eec7455f83f0bc9b9331b8bc6dff8",
+      "sample_duration": "2022-10-13-to-2022-12-20",
+      "sample_year_end": 2022,
+      "sample_year_start": 2022,
+      "weekly_path": "data/json/pantheon-108-week.json",
+      "weekly_sha256": "db6ed441d2c45365b0eb8283486019dca23c26bb67f1fb721653f2e1bc92f0b4"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "prehistoric-planet-01",
+      "cumulative_path": "data/json/prehistoric-planet-01-cumulative.json",
+      "cumulative_sha256": "55974355ae6b1c0c837de6814b8202c4f44a69fa3228e083a20aeca418952abb",
+      "repository": "alpha60-devops/alpha60-results-2022",
+      "revision": "6ad35ef6834eec7455f83f0bc9b9331b8bc6dff8",
+      "sample_duration": "2022-05-23-to-2022-09-04",
+      "sample_year_end": 2022,
+      "sample_year_start": 2022,
+      "weekly_path": "data/json/prehistoric-planet-01-week.json",
+      "weekly_sha256": "3edff4b0f1c6947230191a10d049cae77b6687494b594ed5bea6cdad3e56f3a7"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "tales-of-the-jedi-01",
+      "cumulative_path": "data/json/tales-of-the-jedi-01-cumulative.json",
+      "cumulative_sha256": "0b7269f93311589c2f8745e81c664085dca5f44b460c475de081a0d5a38fad76",
+      "repository": "alpha60-devops/alpha60-results-2022",
+      "revision": "6ad35ef6834eec7455f83f0bc9b9331b8bc6dff8",
+      "sample_duration": "2022-10-26-to-2023-02-14",
+      "sample_year_end": 2023,
+      "sample_year_start": 2022,
+      "weekly_path": "data/json/tales-of-the-jedi-01-week.json",
+      "weekly_sha256": "7c2ec05935bac6fd8b0ff39caa0de4fa603029e0a45341f9a762635d506f6077"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "turning-red",
+      "cumulative_path": "data/json/turning-red-cumulative.json",
+      "cumulative_sha256": "71c20be5882a31dc6faea3b1243fba72343d676596623129c294330fa77de92b",
+      "repository": "alpha60-devops/alpha60-results-2022",
+      "revision": "6ad35ef6834eec7455f83f0bc9b9331b8bc6dff8",
+      "sample_duration": "2022-03-11-to-2022-06-23",
+      "sample_year_end": 2022,
+      "sample_year_start": 2022,
+      "weekly_path": "data/json/turning-red-week.json",
+      "weekly_sha256": "8e22c621b51a4d3d5aca6aabdf6e06bad41aac2ec6f672ed40bddcf0c9f3380c"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "undone-02",
+      "cumulative_path": "data/json/undone-02-cumulative.json",
+      "cumulative_sha256": "ceb485eb0a2304417a64605260e73d3efae3f6612c0cce9e53d3b3f133679d97",
+      "repository": "alpha60-devops/alpha60-results-2022",
+      "revision": "6ad35ef6834eec7455f83f0bc9b9331b8bc6dff8",
+      "sample_duration": "2022-04-29-to-2022-08-11",
+      "sample_year_end": 2022,
+      "sample_year_start": 2022,
+      "weekly_path": "data/json/undone-02-week.json",
+      "weekly_sha256": "67d0c73f41cea6b393a0ef47d4ac0b94c064c819cebc9dafac7da216f6d309ac"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "archer-1401",
+      "cumulative_path": "data/json/archer-1401-cumulative.json",
+      "cumulative_sha256": "c0a47153c1f6b66a1ed7f2fa3b2e551bb29ccedb6aba46842d3c17dded1e9c81",
+      "repository": "alpha60-devops/alpha60-results-2023",
+      "revision": "14ef04ef54c4fbcf1b479a949c432c0d42fdf43a",
+      "sample_duration": "2023-08-31-to-2024-02-28",
+      "sample_year_end": 2024,
+      "sample_year_start": 2023,
+      "weekly_path": "data/json/archer-1401-week.json",
+      "weekly_sha256": "5b55ba4bc66ce8e6bc4ba369fbffbabf9a7307d89bb65fe6bb3dc4f5a6138688"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "blue-eye-samurai-01",
+      "cumulative_path": "data/json/blue-eye-samurai-01-cumulative.json",
+      "cumulative_sha256": "ea4ce7516c320e94e3a486d19dd016948cb800d2922c98a7a8b570426e0cd6e2",
+      "repository": "alpha60-devops/alpha60-results-2023",
+      "revision": "14ef04ef54c4fbcf1b479a949c432c0d42fdf43a",
+      "sample_duration": "2023-11-04-to-2024-01-12",
+      "sample_year_end": 2024,
+      "sample_year_start": 2023,
+      "weekly_path": "data/json/blue-eye-samurai-01-week.json",
+      "weekly_sha256": "bda2afb94da60f41b5893034d38f59604177642be023a5c2b1cccda77549d7c9"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "invincible-201",
+      "cumulative_path": "data/json/invincible-201-cumulative.json",
+      "cumulative_sha256": "445c355b4bb639ac7ec28f74a57f6f8fc9970d390888e4b10c808716d552884f",
+      "repository": "alpha60-devops/alpha60-results-2023",
+      "revision": "14ef04ef54c4fbcf1b479a949c432c0d42fdf43a",
+      "sample_duration": "2023-11-04-to-2024-01-12",
+      "sample_year_end": 2024,
+      "sample_year_start": 2023,
+      "weekly_path": "data/json/invincible-201-week.json",
+      "weekly_sha256": "8ca8b465271306b692a2fcbd4e4e48019e92aa157b8f92191e8f9ab7623f5f76"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "prehistoric-planet-02",
+      "cumulative_path": "data/json/prehistoric-planet-02-cumulative.json",
+      "cumulative_sha256": "c16464750003ffa8d7ee7f04a57d58511184fd028c25d68d26255ad1dbc506b5",
+      "repository": "alpha60-devops/alpha60-results-2023",
+      "revision": "14ef04ef54c4fbcf1b479a949c432c0d42fdf43a",
+      "sample_duration": "2023-05-22-to-2023-07-30",
+      "sample_year_end": 2023,
+      "sample_year_start": 2023,
+      "weekly_path": "data/json/prehistoric-planet-02-week.json",
+      "weekly_sha256": "17591e0950338c05b2410acf09f96fc8ef3348c1fd7c307958b84b306b190a14"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "spider-man-across-the-spider-verse",
+      "cumulative_path": "data/json/spider-man-across-the-spider-verse-cumulative.json",
+      "cumulative_sha256": "b677ad8feeed7c77512ad67f5c081b91af85bb8db7f464d0eca3ea2dfceb9ce6",
+      "repository": "alpha60-devops/alpha60-results-2023",
+      "revision": "14ef04ef54c4fbcf1b479a949c432c0d42fdf43a",
+      "sample_duration": "2023-08-07-to-2024-02-05",
+      "sample_year_end": 2024,
+      "sample_year_start": 2023,
+      "weekly_path": "data/json/spider-man-across-the-spider-verse-week.json",
+      "weekly_sha256": "4a77a887766001adad8ac171bc4c67ff0a3b0bc66b231e88a3617f9794489669"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "super-mario-brothers-movie",
+      "cumulative_path": "data/json/super-mario-brothers-movie-cumulative.json",
+      "cumulative_sha256": "8c1b8d4005036d5e205ea7a22f3708ed0ead2b57f3dd3d5b07e8e5549e0db480",
+      "repository": "alpha60-devops/alpha60-results-2023",
+      "revision": "14ef04ef54c4fbcf1b479a949c432c0d42fdf43a",
+      "sample_duration": "2023-05-16-to-2023-09-25",
+      "sample_year_end": 2023,
+      "sample_year_start": 2023,
+      "weekly_path": "data/json/super-mario-brothers-movie-week.json",
+      "weekly_sha256": "dce563656df778c9c98553eb894a975c8581a2ccb388378c188d1d3361ea3ce0"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.1",
+      "cumulative_path": "data/json/arcane-02.1-cumulative.json",
+      "cumulative_sha256": "b5f9d11071d809394b3b807717e2609811d09a1c86cf613926b7f1f7fbec08ca",
+      "repository": "alpha60-devops/alpha60-results-2024",
+      "revision": "81f1b52151bcec5086af3a1ffb95e57903703d6d",
+      "sample_duration": "2024-11-09-to-2025-05-09",
+      "sample_year_end": 2025,
+      "sample_year_start": 2024,
+      "weekly_path": "data/json/arcane-02.1-week.json",
+      "weekly_sha256": "e4b948ce5d771225ce35fa54a9c5ad2d115f371a8eb04410ad61697dff1df0a7"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.2",
+      "cumulative_path": "data/json/arcane-02.2-cumulative.json",
+      "cumulative_sha256": "7a5b004d8890a9288004e9137b1780c4e5e75d75785166e9380b1c0689aafb28",
+      "repository": "alpha60-devops/alpha60-results-2024",
+      "revision": "81f1b52151bcec5086af3a1ffb95e57903703d6d",
+      "sample_duration": "2024-11-16-to-2025-05-16",
+      "sample_year_end": 2025,
+      "sample_year_start": 2024,
+      "weekly_path": "data/json/arcane-02.2-week.json",
+      "weekly_sha256": "a686f28e4af15fb710dcb4e7401f9f7980f47f831079438a3b5e465ba251fb82"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.3",
+      "cumulative_path": "data/json/arcane-02.3-cumulative.json",
+      "cumulative_sha256": "20cd01beea8e329e8135aa1a668ceaed774f733fa66c40cf93585dc792431288",
+      "repository": "alpha60-devops/alpha60-results-2024",
+      "revision": "81f1b52151bcec5086af3a1ffb95e57903703d6d",
+      "sample_duration": "2024-11-23-to-2025-05-23",
+      "sample_year_end": 2025,
+      "sample_year_start": 2024,
+      "weekly_path": "data/json/arcane-02.3-week.json",
+      "weekly_sha256": "2f5cc60fe5a1ccc50f805b29b87eedd5fdf796e27bc8c39a05b3ff0d62ea83a1"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "boy-and-the-heron",
+      "cumulative_path": "data/json/boy-and-the-heron-cumulative.json",
+      "cumulative_sha256": "3040432380313029900a849ea9ace1c816505cbd26d5a3ea38303ad53cbd9c62",
+      "repository": "alpha60-devops/alpha60-results-2024",
+      "revision": "81f1b52151bcec5086af3a1ffb95e57903703d6d",
+      "sample_duration": "2024-06-26-to-2025-01-08",
+      "sample_year_end": 2025,
+      "sample_year_start": 2024,
+      "weekly_path": "data/json/boy-and-the-heron-week.json",
+      "weekly_sha256": "0fe2d48b6e4ac3c2cc3206b04d770fe56560518707612d1b294ffba2a25f95db"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "hit-monkey-02",
+      "cumulative_path": "data/json/hit-monkey-02-cumulative.json",
+      "cumulative_sha256": "a16e64a14816a0cb24daa1ce5b87983b2e78a7a6e4ee64f2d385c26455d06d2e",
+      "repository": "alpha60-devops/alpha60-results-2024",
+      "revision": "81f1b52151bcec5086af3a1ffb95e57903703d6d",
+      "sample_duration": "2024-07-16-to-2024-10-28",
+      "sample_year_end": 2024,
+      "sample_year_start": 2024,
+      "weekly_path": "data/json/hit-monkey-02-week.json",
+      "weekly_sha256": "380b4da7edbe371f7eb7eb061544e8dec40aa8e04c0bb0c6818e09dc17042d8e"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "inside-out-2",
+      "cumulative_path": "data/json/inside-out-2-cumulative.json",
+      "cumulative_sha256": "507a40299e2e1d52b4e30fa1edee5f7c6e885e152f35ab6b6be0ccc08f8feccb",
+      "repository": "alpha60-devops/alpha60-results-2024",
+      "revision": "81f1b52151bcec5086af3a1ffb95e57903703d6d",
+      "sample_duration": "2024-08-19-to-2025-02-27",
+      "sample_year_end": 2025,
+      "sample_year_start": 2024,
+      "weekly_path": "data/json/inside-out-2-week.json",
+      "weekly_sha256": "a9db6f58d991e45960e06012c3c33d4a6b4d1d1504edec1867b6732b907c1515"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "what-if-2021-03",
+      "cumulative_path": "data/json/what-if-2021-03-cumulative.json",
+      "cumulative_sha256": "c38d302302bc013af895aba1f9f434c844ebe693d9f70e0d260bb93014864cd2",
+      "repository": "alpha60-devops/alpha60-results-2024",
+      "revision": "81f1b52151bcec5086af3a1ffb95e57903703d6d",
+      "sample_duration": "2024-12-22-to-2025-06-21",
+      "sample_year_end": 2025,
+      "sample_year_start": 2024,
+      "weekly_path": "data/json/what-if-2021-03-week.json",
+      "weekly_sha256": "2c1e451dde27b095ad7d29366155e90fc5bb595a5add04e7ec8bb49d02288359"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "wild-robot",
+      "cumulative_path": "data/json/wild-robot-cumulative.json",
+      "cumulative_sha256": "92229023f69d64b2eeab44087619f0988cf3c51540f4e77d17b172a831efc7d6",
+      "repository": "alpha60-devops/alpha60-results-2024",
+      "revision": "81f1b52151bcec5086af3a1ffb95e57903703d6d",
+      "sample_duration": "2024-10-16-to-2025-04-22",
+      "sample_year_end": 2025,
+      "sample_year_start": 2024,
+      "weekly_path": "data/json/wild-robot-week.json",
+      "weekly_sha256": "38390336a5c76d03033084d95b9f2b1c69f1388b70f64bdeb65a8dfccb7b7681"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "common-side-effects-01",
+      "cumulative_path": "data/json/common-side-effects-01-cumulative.json",
+      "cumulative_sha256": "890d7b76b8f83c8f3b028e0c0fcd2858ab6ba8e5ddbdee7ba199cbae1d8ad2d8",
+      "repository": "alpha60-devops/alpha60-results-2025",
+      "revision": "8931c562df38b3d177a085e033b529ecd9176683",
+      "sample_duration": "2025-02-03-to-2025-05-19",
+      "sample_year_end": 2025,
+      "sample_year_start": 2025,
+      "weekly_path": "data/json/common-side-effects-01-week.json",
+      "weekly_sha256": "3b1cd1f9bf7164b6f0e6b596e736b41ecd8ce44f03ed9a6f27525e5b31f8547e"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "dan-da-dan-210",
+      "cumulative_path": "data/json/dan-da-dan-210-cumulative.json",
+      "cumulative_sha256": "76d24accceeb8b15e2551604055e0b7417b7ec4284fe461f4c0a63930ef8f936",
+      "repository": "alpha60-devops/alpha60-results-2025",
+      "revision": "8931c562df38b3d177a085e033b529ecd9176683",
+      "sample_duration": "2025-09-04-to-2026-03-04",
+      "sample_year_end": 2026,
+      "sample_year_start": 2025,
+      "weekly_path": "data/json/dan-da-dan-210-week.json",
+      "weekly_sha256": "48fc34f3ec8b7bead097657e1c991ed0f0650f70cd522163ba22aee37130fd3e"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "eyes-of-wakanda-01",
+      "cumulative_path": "data/json/eyes-of-wakanda-01-cumulative.json",
+      "cumulative_sha256": "bf686b2e8bc617128592db7b7a2d7b3ce8f07a47abdc49f796080d838b18495e",
+      "repository": "alpha60-devops/alpha60-results-2025",
+      "revision": "8931c562df38b3d177a085e033b529ecd9176683",
+      "sample_duration": "2025-08-01-to-2026-01-29",
+      "sample_year_end": 2026,
+      "sample_year_start": 2025,
+      "weekly_path": "data/json/eyes-of-wakanda-01-week.json",
+      "weekly_sha256": "585876971f20a79a2c05fdad07f7936a4bc2912893976fbbe480388fd5a3a58d"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "invincible-301",
+      "cumulative_path": "data/json/invincible-301-cumulative.json",
+      "cumulative_sha256": "56f8fc26252a0a73fae0a114a5785d0f691ca063a9c560b9f82bc19a28a487e3",
+      "repository": "alpha60-devops/alpha60-results-2025",
+      "revision": "8931c562df38b3d177a085e033b529ecd9176683",
+      "sample_duration": "2025-02-06-to-2025-05-21",
+      "sample_year_end": 2025,
+      "sample_year_start": 2025,
+      "weekly_path": "data/json/invincible-301-week.json",
+      "weekly_sha256": "e557a8086be82d8c5ce9249e35a3fa1aeb8ba83aa1e5e619303a8dc1e2c44f97"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "king-of-the-hill-14",
+      "cumulative_path": "data/json/king-of-the-hill-14-cumulative.json",
+      "cumulative_sha256": "1812825536f8fac1c2970ac5c1e64da6e220291abfbc673b3fdea6f974681ba7",
+      "repository": "alpha60-devops/alpha60-results-2025",
+      "revision": "8931c562df38b3d177a085e033b529ecd9176683",
+      "sample_duration": "2025-08-04-to-2025-11-16",
+      "sample_year_end": 2025,
+      "sample_year_start": 2025,
+      "weekly_path": "data/json/king-of-the-hill-14-week.json",
+      "weekly_sha256": "e58fc76c67f2e1057cf4477d35c0c2cda7b67ab00842c27c737b538a4470e761"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-101",
+      "cumulative_path": "data/json/lazarus-101-cumulative.json",
+      "cumulative_sha256": "4b61983ab45801045f71a159b70ae88cf61f1cbe0602079cf9c23d2267bb4003",
+      "repository": "alpha60-devops/alpha60-results-2025",
+      "revision": "8931c562df38b3d177a085e033b529ecd9176683",
+      "sample_duration": "2025-04-07-to-2025-10-05",
+      "sample_year_end": 2025,
+      "sample_year_start": 2025,
+      "weekly_path": "data/json/lazarus-101-week.json",
+      "weekly_sha256": "fe58ee0a852735e12d6fe369b49d35d167284a3d3a6c83822ff40784e5491708"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-108",
+      "cumulative_path": "data/json/lazarus-108-cumulative.json",
+      "cumulative_sha256": "29ea8b521877a49eaba456a94588eb1b1afb3ffb119e8c626c5d81952c36f29e",
+      "repository": "alpha60-devops/alpha60-results-2025",
+      "revision": "8931c562df38b3d177a085e033b529ecd9176683",
+      "sample_duration": "2025-05-25-to-2025-08-02",
+      "sample_year_end": 2025,
+      "sample_year_start": 2025,
+      "weekly_path": "data/json/lazarus-108-week.json",
+      "weekly_sha256": "0dad4fb4179c3e602f7955ca8a6e80e97ec0f8ac22074e635c6b78c95a9a9973"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-111",
+      "cumulative_path": "data/json/lazarus-111-cumulative.json",
+      "cumulative_sha256": "7c81ce1b886aef17636c523bf61b8c89167fd16a495e37d171a8ce51b19ca536",
+      "repository": "alpha60-devops/alpha60-results-2025",
+      "revision": "8931c562df38b3d177a085e033b529ecd9176683",
+      "sample_duration": "2025-06-16-to-2025-10-06",
+      "sample_year_end": 2025,
+      "sample_year_start": 2025,
+      "weekly_path": "data/json/lazarus-111-week.json",
+      "weekly_sha256": "b57ad886f1b8802edeb84a175bcb3ef6ff09afb5c32342889962c73bef6d3973"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "love-death-robots-04",
+      "cumulative_path": "data/json/love-death-robots-04-cumulative.json",
+      "cumulative_sha256": "75584dbf3cbc4b33ed95cb9848626303fb5a98671b2f51605131aac5ad71cd52",
+      "repository": "alpha60-devops/alpha60-results-2025",
+      "revision": "8931c562df38b3d177a085e033b529ecd9176683",
+      "sample_duration": "2025-05-15-to-2025-08-27",
+      "sample_year_end": 2025,
+      "sample_year_start": 2025,
+      "weekly_path": "data/json/love-death-robots-04-week.json",
+      "weekly_sha256": "06b6830d445c47cad14f5e88988ae3e460cea5335d57f25be571f9aac18945bf"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "moana-2",
+      "cumulative_path": "data/json/moana-2-cumulative.json",
+      "cumulative_sha256": "d24a64f7b6f00c7bbaf0188aaf823e7b1f328bb2939bc24757922cf0302a10bb",
+      "repository": "alpha60-devops/alpha60-results-2025",
+      "revision": "8931c562df38b3d177a085e033b529ecd9176683",
+      "sample_duration": "2025-01-28-to-2025-07-28",
+      "sample_year_end": 2025,
+      "sample_year_start": 2025,
+      "weekly_path": "data/json/moana-2-week.json",
+      "weekly_sha256": "fdf48458571b3c9b0a323a4f29bfddc379799d136b56fe4a3d585fe1eb8b20db"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "predator-killer-of-killers",
+      "cumulative_path": "data/json/predator-killer-of-killers-cumulative.json",
+      "cumulative_sha256": "0917177c90bbcf1d93c5a29e6dfd972a9464ce3841e7ae5272adef3383781beb",
+      "repository": "alpha60-devops/alpha60-results-2025",
+      "revision": "8931c562df38b3d177a085e033b529ecd9176683",
+      "sample_duration": "2025-06-08-to-2025-09-27",
+      "sample_year_end": 2025,
+      "sample_year_start": 2025,
+      "weekly_path": "data/json/predator-killer-of-killers-week.json",
+      "weekly_sha256": "dd711f916b481ea2be91a9c25674ae99f95a0721600697101863d5fabc07cb4f"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "prehistoric-planet-03",
+      "cumulative_path": "data/json/prehistoric-planet-03-cumulative.json",
+      "cumulative_sha256": "52b16386e8c4c218e4f53b112fb1946315e767eee7cd4af7e4911d12061e7392",
+      "repository": "alpha60-devops/alpha60-results-2025",
+      "revision": "8931c562df38b3d177a085e033b529ecd9176683",
+      "sample_duration": "2025-11-27-to-2026-05-27",
+      "sample_year_end": 2026,
+      "sample_year_start": 2025,
+      "weekly_path": "data/json/prehistoric-planet-03-week.json",
+      "weekly_sha256": "f8d4969d6074acad731a60398fde19d1c0baed45071f483d95a82be4b8a22ddf"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "south-park-27",
+      "cumulative_path": "data/json/south-park-27-cumulative.json",
+      "cumulative_sha256": "ea756b828e4eaeeca56e5f3bb48c4266bd8c6dc11d6e0eaaddcec7a7e8b50906",
+      "repository": "alpha60-devops/alpha60-results-2025",
+      "revision": "8931c562df38b3d177a085e033b529ecd9176683",
+      "sample_duration": "2025-07-25-to-2026-01-22",
+      "sample_year_end": 2026,
+      "sample_year_start": 2025,
+      "weekly_path": "data/json/south-park-27-week.json",
+      "weekly_sha256": "d72d226df0987ef625892348013e3ae6919fb6d8fb5f72926f019845ba38b05d"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "star-wars-visions-03",
+      "cumulative_path": "data/json/star-wars-visions-03-cumulative.json",
+      "cumulative_sha256": "04ef103beb953c3ea971616b6622ffe486b93f94483022b16d24971e173a23d9",
+      "repository": "alpha60-devops/alpha60-results-2025",
+      "revision": "8931c562df38b3d177a085e033b529ecd9176683",
+      "sample_duration": "2025-10-29-to-2026-04-28",
+      "sample_year_end": 2026,
+      "sample_year_start": 2025,
+      "weekly_path": "data/json/star-wars-visions-03-week.json",
+      "weekly_sha256": "98338f0cf23b959333179922daecbf47b78185942b107e028779c6fce202d2f0"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "your-friendly-neighborhood-spider-man-01",
+      "cumulative_path": "data/json/your-friendly-neighborhood-spider-man-01-cumulative.json",
+      "cumulative_sha256": "7094a7d5cf51d26b820a54fac0ac5369f9522e873361ffff2e559436ae51b783",
+      "repository": "alpha60-devops/alpha60-results-2025",
+      "revision": "8931c562df38b3d177a085e033b529ecd9176683",
+      "sample_duration": "2025-01-30-to-2025-07-30",
+      "sample_year_end": 2025,
+      "sample_year_start": 2025,
+      "weekly_path": "data/json/your-friendly-neighborhood-spider-man-01-week.json",
+      "weekly_sha256": "ec28ee731b19c5b8472bc7e112947a7db33186f408bf5f17fe622728b155490f"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "beastars-03.2",
+      "cumulative_path": "data/json/beastars-03.2-cumulative.json",
+      "cumulative_sha256": "7f014f8b7b45a8c91567f3d7beef547944841d05690ab571b9ea7a5f90298330",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "4c46889187a46fcacd9a70ec6379ce66f3cdfa0e",
+      "sample_duration": "2026-03-07-to-2026-06-19",
+      "sample_year_end": 2026,
+      "sample_year_start": 2026,
+      "weekly_path": "data/json/beastars-03.2-week.json",
+      "weekly_sha256": "b20ac2d764f534d188f9c7fb97f5434c555a64b32cca0802de74127eb5056c16"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "dinosaurs-01",
+      "cumulative_path": "data/json/dinosaurs-01-cumulative.json",
+      "cumulative_sha256": "f5fa9d4ce376acd17023cd885b6e333fcf0c82919ca6f22735fe487a90024d97",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "4c46889187a46fcacd9a70ec6379ce66f3cdfa0e",
+      "sample_duration": "2026-03-06-to-2026-06-25",
+      "sample_year_end": 2026,
+      "sample_year_start": 2026,
+      "weekly_path": "data/json/dinosaurs-01-week.json",
+      "weekly_sha256": "b15a3817b2cd4114c25730ca383f26d21b3a7edb154688c4d638c2ed4b7da9f4"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "maul-shadow-lord-101",
+      "cumulative_path": "data/json/maul-shadow-lord-101-cumulative.json",
+      "cumulative_sha256": "5cac980efbdfeabb1e767a1addf4e77da94598237e3d0cd1b61b6e0e6b78fc6e",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "4c46889187a46fcacd9a70ec6379ce66f3cdfa0e",
+      "sample_duration": "2026-04-06-to-2026-09-07",
+      "sample_year_end": 2026,
+      "sample_year_start": 2026,
+      "weekly_path": "data/json/maul-shadow-lord-101-week.json",
+      "weekly_sha256": "a0b923eb20acfdd99309033a1d06df7b3361df71cc1d40195e6aadf37a391a81"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "zootopia-2",
+      "cumulative_path": "data/json/zootopia-2-cumulative.json",
+      "cumulative_sha256": "f36b88fc4f36c4fd6479a2b4343ac7df59ddf08026df5e3eb03328d462067228",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "4c46889187a46fcacd9a70ec6379ce66f3cdfa0e",
+      "sample_duration": "2026-01-29-to-2026-07-29",
+      "sample_year_end": 2026,
+      "sample_year_start": 2026,
+      "weekly_path": "data/json/zootopia-2-week.json",
+      "weekly_sha256": "11683698928fdea6e7cae243e105348fb945cbd0801dfb0e71ffa25521591167"
+    }
+  ],
+  "sets": [
+    {
+      "branch_counts": {},
+      "cohort_counts": {
+        "2017": 0,
+        "2018": 0,
+        "2019": 3,
+        "2020": 6,
+        "2021": 15,
+        "2022": 8,
+        "2023": 6,
+        "2024": 8,
+        "2025": 15,
+        "2026": 4
+      },
+      "id": "animation",
+      "total_memberships": 65,
+      "unique_media_objects": 65,
+      "weekly_points": 1127
+    },
+    {
+      "branch_counts": {
+        "disney-distribution": 8,
+        "disney-production": 3,
+        "fx-distribution": 3,
+        "fx-production": 3,
+        "hulu-hub": 3,
+        "marvel-production": 6,
+        "pixar-production": 2,
+        "star-wars-lucasfilm-production": 2
+      },
+      "cohort_counts": {
+        "2017": 0,
+        "2018": 0,
+        "2019": 0,
+        "2020": 1,
+        "2021": 4,
+        "2022": 3,
+        "2023": 2,
+        "2024": 3,
+        "2025": 5,
+        "2026": 2
+      },
+      "id": "disney-plus",
+      "total_memberships": 20,
+      "unique_media_objects": 20,
+      "weekly_points": 409
+    },
+    {
+      "branch_counts": {
+        "netflix-direct": 16
+      },
+      "cohort_counts": {
+        "2017": 0,
+        "2018": 0,
+        "2019": 2,
+        "2020": 3,
+        "2021": 5,
+        "2022": 0,
+        "2023": 1,
+        "2024": 3,
+        "2025": 1,
+        "2026": 1
+      },
+      "id": "netflix",
+      "total_memberships": 16,
+      "unique_media_objects": 16,
+      "weekly_points": 215
+    },
+    {
+      "branch_counts": {
+        "amazon-prime-video-direct": 7
+      },
+      "cohort_counts": {
+        "2017": 0,
+        "2018": 0,
+        "2019": 1,
+        "2020": 1,
+        "2021": 1,
+        "2022": 2,
+        "2023": 1,
+        "2024": 0,
+        "2025": 1,
+        "2026": 0
+      },
+      "id": "amazon-prime-video",
+      "total_memberships": 7,
+      "unique_media_objects": 7,
+      "weekly_points": 80
+    },
+    {
+      "branch_counts": {},
+      "cohort_counts": {
+        "2017": 0,
+        "2018": 0,
+        "2019": 0,
+        "2020": 0,
+        "2021": 0,
+        "2022": 0,
+        "2023": 0,
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "id": "hbo-max-discovery-warner",
+      "total_memberships": 0,
+      "unique_media_objects": 0,
+      "weekly_points": 0
+    },
+    {
+      "branch_counts": {
+        "film": 13
+      },
+      "cohort_counts": {
+        "2017": 0,
+        "2018": 0,
+        "2019": 0,
+        "2020": 2,
+        "2021": 2,
+        "2022": 1,
+        "2023": 2,
+        "2024": 3,
+        "2025": 2,
+        "2026": 1
+      },
+      "id": "animated-features",
+      "total_memberships": 13,
+      "unique_media_objects": 13,
+      "weekly_points": 301
+    },
+    {
+      "branch_counts": {
+        "spider-man-reviewed-slice": 2,
+        "superhero-genre": 11
+      },
+      "cohort_counts": {
+        "2017": 0,
+        "2018": 0,
+        "2019": 1,
+        "2020": 0,
+        "2021": 2,
+        "2022": 2,
+        "2023": 2,
+        "2024": 2,
+        "2025": 3,
+        "2026": 0
+      },
+      "id": "superhero-animation",
+      "total_memberships": 12,
+      "unique_media_objects": 12,
+      "weekly_points": 197
+    },
+    {
+      "branch_counts": {
+        "japan-country": 6,
+        "japan-origin-reviewed": 5,
+        "japanese-language": 9
+      },
+      "cohort_counts": {
+        "2017": 0,
+        "2018": 0,
+        "2019": 0,
+        "2020": 3,
+        "2021": 6,
+        "2022": 0,
+        "2023": 0,
+        "2024": 1,
+        "2025": 4,
+        "2026": 0
+      },
+      "id": "japan-origin",
+      "total_memberships": 14,
+      "unique_media_objects": 14,
+      "weekly_points": 267
+    }
+  ],
+  "status": "draft-pending-h08-and-2026-itu-review"
+}

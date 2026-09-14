@@ -1,0 +1,547 @@
+{
+  "cohort_counts": {
+    "2017": 0,
+    "2018": 0,
+    "2019": 3,
+    "2020": 6,
+    "2021": 15,
+    "2022": 8,
+    "2023": 6,
+    "2024": 8,
+    "2025": 15,
+    "2026": 4
+  },
+  "memberships": [
+    {
+      "cohort_year": 2019,
+      "collection_key": "love-death-robots-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "she-ra-04",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "undone-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "altered-carbon-resleeved",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "bojack-horseman-06",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "japan-sinks",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "solar-opposites-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "star-trek-lower-decks-101",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "archer-1201",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "blade-runner-black-lotus-101",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "invincible-101",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "love-death-robots-02",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "mitchells-vs-the-machines",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "one-piece-95x",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "one-piece-98x",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "pacific-rim-the-black",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "q-force-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "raya-and-the-last-dragon",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "star-wars-visions-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "trese-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "ultra-city-smiths-106",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "what-if-2021-101",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "yasuke-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "archer-1308",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "boys-presents-diabolical-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "harley-quinn-301",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "pantheon-108",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "prehistoric-planet-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "tales-of-the-jedi-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "turning-red",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "undone-02",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "archer-1401",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "blue-eye-samurai-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "invincible-201",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "prehistoric-planet-02",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "spider-man-across-the-spider-verse",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "super-mario-brothers-movie",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.1",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.2",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.3",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "boy-and-the-heron",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "hit-monkey-02",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "inside-out-2",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "what-if-2021-03",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "wild-robot",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "common-side-effects-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "dan-da-dan-210",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "eyes-of-wakanda-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "invincible-301",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "king-of-the-hill-14",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-101",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-108",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-111",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "love-death-robots-04",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "moana-2",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "predator-killer-of-killers",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "prehistoric-planet-03",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "south-park-27",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "star-wars-visions-03",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "your-friendly-neighborhood-spider-man-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "beastars-03.2",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "dinosaurs-01",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "maul-shadow-lord-101",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "zootopia-2",
+      "evidence": [
+        "reviewed slice animation"
+      ],
+      "set": "animation"
+    }
+  ],
+  "method_id": "mellon-6-animation",
+  "method_version": "1.0.0-draft",
+  "run_id": "2017-2026-itu-2025",
+  "set": {
+    "branches": [],
+    "id": "animation",
+    "label": "Animation",
+    "predicate_summary": "reviewed configured Animation universe",
+    "umbrella": true
+  },
+  "total_memberships": 65
+}

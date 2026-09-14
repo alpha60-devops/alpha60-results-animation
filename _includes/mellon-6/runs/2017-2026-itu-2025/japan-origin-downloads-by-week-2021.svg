@@ -1,0 +1,385 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="japan-origin-2021-graph-title japan-origin-2021-graph-desc" viewBox="0 0 1920 1080">
+<title id="japan-origin-2021-graph-title">Japan-origin animation — 2021 downloads by week</title>
+<desc id="japan-origin-2021-graph-desc">One line per selected media object, adjusted to the 2025 ITU Internet-user scale.</desc>
+<style>
+.axis{stroke:rgb(118,118,118);stroke-width:1}
+.grid{stroke:rgb(222,222,222);stroke-width:1}
+.label{font-family:Apercu;fill:rgb(118,118,118)}
+.small{font-family:Apercu;fill:rgb(118,118,118)}
+</style>
+<text x="960.0" y="90" text-anchor="middle" class="label" font-size="26">Japan-origin animation — 2021 downloads by week</text>
+<text x="960.0" y="126" text-anchor="middle" class="small" font-size="16">one line per selected media object, adjusted to the 2025 ITU Internet-user scale</text>
+<line x1="200" y1="870" x2="1720" y2="870" class="grid"/>
+<text x="184" y="875" text-anchor="end" class="small" font-size="14">0.0M</text>
+<line x1="200" y1="730" x2="1720" y2="730" class="grid"/>
+<text x="184" y="735" text-anchor="end" class="small" font-size="14">4.0M</text>
+<line x1="200" y1="590" x2="1720" y2="590" class="grid"/>
+<text x="184" y="595" text-anchor="end" class="small" font-size="14">8.0M</text>
+<line x1="200" y1="450" x2="1720" y2="450" class="grid"/>
+<text x="184" y="455" text-anchor="end" class="small" font-size="14">12.0M</text>
+<line x1="200" y1="310" x2="1720" y2="310" class="grid"/>
+<text x="184" y="315" text-anchor="end" class="small" font-size="14">16.0M</text>
+<line x1="200" y1="170" x2="1720" y2="170" class="grid"/>
+<text x="184" y="175" text-anchor="end" class="small" font-size="14">20.0M</text>
+<line x1="200" y1="170" x2="200" y2="870" class="grid"/>
+<text x="200" y="900" text-anchor="middle" class="small" font-size="14">1</text>
+<line x1="433.85" y1="170" x2="433.85" y2="870" class="grid"/>
+<text x="433.85" y="900" text-anchor="middle" class="small" font-size="14">5</text>
+<line x1="726.15" y1="170" x2="726.15" y2="870" class="grid"/>
+<text x="726.15" y="900" text-anchor="middle" class="small" font-size="14">10</text>
+<line x1="1018.46" y1="170" x2="1018.46" y2="870" class="grid"/>
+<text x="1018.46" y="900" text-anchor="middle" class="small" font-size="14">15</text>
+<line x1="1310.77" y1="170" x2="1310.77" y2="870" class="grid"/>
+<text x="1310.77" y="900" text-anchor="middle" class="small" font-size="14">20</text>
+<line x1="1603.08" y1="170" x2="1603.08" y2="870" class="grid"/>
+<text x="1603.08" y="900" text-anchor="middle" class="small" font-size="14">25</text>
+<line x1="1720" y1="170" x2="1720" y2="870" class="grid"/>
+<text x="1720" y="900" text-anchor="middle" class="small" font-size="14">27</text>
+<line x1="200" y1="170" x2="200" y2="870" class="axis"/>
+<line x1="200" y1="870" x2="1720" y2="870" class="axis"/>
+<text x="960.0" y="938" text-anchor="middle" class="label" font-size="18">WEEK</text>
+<text x="74" y="520.0" text-anchor="middle" transform="rotate(-90 74 520.0)" class="label" font-size="18">DOWNLOADERS</text>
+<text x="1760" y="170" class="label" font-size="18">MEDIA OBJECTS</text>
+<text x="1760" y="198" class="small" font-size="14">2017: 1-3 · 2018: 4-2 · 2019: 7-3 · 2020: 2-2 · 2021: 5-3 · 2022: 8-4 · 2023: 10-4 · 2024: 3-3 · 2025: solid · 2026: 14-4</text>
+<g id="composite-chart-japan-origin-2021">
+<g id="japan-origin-2021-line-graph-1-blade-runner-black-lotus-101">
+<g id="polyline-japan-origin-2021-line-graph-1-blade-runner-black-lotus-101">
+<polyline points="200,861.17 258.46,855 316.92,850.24 375.38,845.71 433.85,841.68 492.31,837.7 550.77,833.81 609.23,829.52 667.69,825.3 726.15,820.35" stroke-linecap="round" style="fill:rgb(0,114,178); fill-opacity:0; stroke:rgb(0,114,178); stroke-opacity:1; stroke-width:2" stroke-dasharray="5 3"/>
+</g>
+<g id="markers-japan-origin-2021-line-graph-1-blade-runner-black-lotus-101">
+<circle cx="200" cy="861.17" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>blade-runner-black-lotus-101
+week: 1
+252,338</title></circle>
+<circle cx="258.46" cy="855" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>blade-runner-black-lotus-101
+week: 2
+428,541</title></circle>
+<circle cx="316.92" cy="850.24" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>blade-runner-black-lotus-101
+week: 3
+564,474</title></circle>
+<circle cx="375.38" cy="845.71" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>blade-runner-black-lotus-101
+week: 4
+694,037</title></circle>
+<circle cx="433.85" cy="841.68" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>blade-runner-black-lotus-101
+week: 5
+809,257</title></circle>
+<circle cx="492.31" cy="837.7" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>blade-runner-black-lotus-101
+week: 6
+922,976</title></circle>
+<circle cx="550.77" cy="833.81" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>blade-runner-black-lotus-101
+week: 7
+1,034,023</title></circle>
+<circle cx="609.23" cy="829.52" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>blade-runner-black-lotus-101
+week: 8
+1,156,460</title></circle>
+<circle cx="667.69" cy="825.3" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>blade-runner-black-lotus-101
+week: 9
+1,277,224</title></circle>
+<circle cx="726.15" cy="820.35" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>blade-runner-black-lotus-101
+week: 10
+1,418,469</title></circle>
+</g>
+</g>
+<line x1="1760" y1="230" x2="1792" y2="230" stroke="rgb(0,114,178)" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="1800" y="235" class="small" font-size="14">2021 · blade-runner-black-lotus-101</text>
+<g id="japan-origin-2021-line-graph-2-one-piece-95x">
+<g id="polyline-japan-origin-2021-line-graph-2-one-piece-95x">
+<polyline points="200,868.54 258.46,865.48 316.92,862.53 375.38,846.21 433.85,804.75 492.31,765.66 550.77,735.03 609.23,710.49 667.69,689.34 726.15,652.19 784.62,624.2 843.08,593.38 901.54,561.92 960,533.7 1018.46,514.5 1076.92,496.78 1135.38,481.94 1193.85,468.08 1252.31,454.01 1310.77,440.95 1369.23,429.4 1427.69,417.39 1486.15,404.55 1544.62,392.67 1603.08,372.05 1661.54,359.31 1720,348.09" stroke-linecap="round" style="fill:rgb(213,94,0); fill-opacity:0; stroke:rgb(213,94,0); stroke-opacity:1; stroke-width:2" stroke-dasharray="5 3"/>
+</g>
+<g id="markers-japan-origin-2021-line-graph-2-one-piece-95x">
+<circle cx="200" cy="868.54" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 1
+41,743</title></circle>
+<circle cx="258.46" cy="865.48" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 2
+129,231</title></circle>
+<circle cx="316.92" cy="862.53" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 3
+213,394</title></circle>
+<circle cx="375.38" cy="846.21" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 4
+679,750</title></circle>
+<circle cx="433.85" cy="804.75" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 5
+1,864,231</title></circle>
+<circle cx="492.31" cy="765.66" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 6
+2,981,183</title></circle>
+<circle cx="550.77" cy="735.03" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 7
+3,856,265</title></circle>
+<circle cx="609.23" cy="710.49" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 8
+4,557,571</title></circle>
+<circle cx="667.69" cy="689.34" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 9
+5,161,690</title></circle>
+<circle cx="726.15" cy="652.19" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 10
+6,223,092</title></circle>
+<circle cx="784.62" cy="624.2" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 11
+7,022,826</title></circle>
+<circle cx="843.08" cy="593.38" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 12
+7,903,313</title></circle>
+<circle cx="901.54" cy="561.92" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 13
+8,802,211</title></circle>
+<circle cx="960" cy="533.7" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 14
+9,608,611</title></circle>
+<circle cx="1018.46" cy="514.5" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 15
+10,157,197</title></circle>
+<circle cx="1076.92" cy="496.78" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 16
+10,663,527</title></circle>
+<circle cx="1135.38" cy="481.94" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 17
+11,087,352</title></circle>
+<circle cx="1193.85" cy="468.08" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 18
+11,483,556</title></circle>
+<circle cx="1252.31" cy="454.01" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 19
+11,885,298</title></circle>
+<circle cx="1310.77" cy="440.95" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 20
+12,258,612</title></circle>
+<circle cx="1369.23" cy="429.4" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 21
+12,588,498</title></circle>
+<circle cx="1427.69" cy="417.39" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 22
+12,931,811</title></circle>
+<circle cx="1486.15" cy="404.55" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 23
+13,298,645</title></circle>
+<circle cx="1544.62" cy="392.67" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 24
+13,638,125</title></circle>
+<circle cx="1603.08" cy="372.05" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 25
+14,227,267</title></circle>
+<circle cx="1661.54" cy="359.31" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 26
+14,591,140</title></circle>
+<circle cx="1720" cy="348.09" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>one-piece-95x
+week: 27
+14,911,749</title></circle>
+</g>
+</g>
+<line x1="1760" y1="258" x2="1792" y2="258" stroke="rgb(213,94,0)" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="1800" y="263" class="small" font-size="14">2021 · one-piece-95x</text>
+<g id="japan-origin-2021-line-graph-3-one-piece-98x">
+<g id="polyline-japan-origin-2021-line-graph-3-one-piece-98x">
+<polyline points="200,845.62 258.46,834.7 316.92,827.45 375.38,817.96 433.85,804.3 492.31,790.23 550.77,774.76 609.23,760.01 667.69,745.63 726.15,728.08 784.62,708.73 843.08,689.25 901.54,619.51 960,597.95 1018.46,580.27 1076.92,560.16 1135.38,541 1193.85,519.03 1252.31,496.49 1310.77,474.54 1369.23,454.51 1427.69,432.57 1486.15,413.15 1544.62,394.74 1603.08,375.7 1661.54,367.47" stroke-linecap="round" style="fill:rgb(0,158,115); fill-opacity:0; stroke:rgb(0,158,115); stroke-opacity:1; stroke-width:2" stroke-dasharray="5 3"/>
+</g>
+<g id="markers-japan-origin-2021-line-graph-3-one-piece-98x">
+<circle cx="200" cy="845.62" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 1
+696,693</title></circle>
+<circle cx="258.46" cy="834.7" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 2
+1,008,530</title></circle>
+<circle cx="316.92" cy="827.45" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 3
+1,215,771</title></circle>
+<circle cx="375.38" cy="817.96" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 4
+1,486,886</title></circle>
+<circle cx="433.85" cy="804.3" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 5
+1,877,123</title></circle>
+<circle cx="492.31" cy="790.23" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 6
+2,279,094</title></circle>
+<circle cx="550.77" cy="774.76" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 7
+2,721,169</title></circle>
+<circle cx="609.23" cy="760.01" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 8
+3,142,531</title></circle>
+<circle cx="667.69" cy="745.63" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 9
+3,553,460</title></circle>
+<circle cx="726.15" cy="728.08" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 10
+4,054,869</title></circle>
+<circle cx="784.62" cy="708.73" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 11
+4,607,818</title></circle>
+<circle cx="843.08" cy="689.25" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 12
+5,164,311</title></circle>
+<circle cx="901.54" cy="619.51" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 13
+7,156,888</title></circle>
+<circle cx="960" cy="597.95" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 14
+7,772,783</title></circle>
+<circle cx="1018.46" cy="580.27" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 15
+8,278,021</title></circle>
+<circle cx="1076.92" cy="560.16" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 16
+8,852,606</title></circle>
+<circle cx="1135.38" cy="541" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 17
+9,400,013</title></circle>
+<circle cx="1193.85" cy="519.03" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 18
+10,027,610</title></circle>
+<circle cx="1252.31" cy="496.49" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 19
+10,671,840</title></circle>
+<circle cx="1310.77" cy="474.54" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 20
+11,298,833</title></circle>
+<circle cx="1369.23" cy="454.51" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 21
+11,871,143</title></circle>
+<circle cx="1427.69" cy="432.57" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 22
+12,497,995</title></circle>
+<circle cx="1486.15" cy="413.15" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 23
+13,052,720</title></circle>
+<circle cx="1544.62" cy="394.74" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 24
+13,578,934</title></circle>
+<circle cx="1603.08" cy="375.7" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 25
+14,122,755</title></circle>
+<circle cx="1661.54" cy="367.47" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>one-piece-98x
+week: 26
+14,357,863</title></circle>
+</g>
+</g>
+<line x1="1760" y1="286" x2="1792" y2="286" stroke="rgb(0,158,115)" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="1800" y="291" class="small" font-size="14">2021 · one-piece-98x</text>
+<g id="japan-origin-2021-line-graph-4-pacific-rim-the-black">
+<g id="polyline-japan-origin-2021-line-graph-4-pacific-rim-the-black">
+<polyline points="200,865.35 258.46,862.93 316.92,861.16 375.38,859.74 433.85,858.51 492.31,857.38 550.77,856.38 609.23,848.83 667.69,810.98 726.15,787.51" stroke-linecap="round" style="fill:rgb(204,121,167); fill-opacity:0; stroke:rgb(204,121,167); stroke-opacity:1; stroke-width:2" stroke-dasharray="5 3"/>
+</g>
+<g id="markers-japan-origin-2021-line-graph-4-pacific-rim-the-black">
+<circle cx="200" cy="865.35" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>pacific-rim-the-black
+week: 1
+132,749</title></circle>
+<circle cx="258.46" cy="862.93" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>pacific-rim-the-black
+week: 2
+202,092</title></circle>
+<circle cx="316.92" cy="861.16" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>pacific-rim-the-black
+week: 3
+252,440</title></circle>
+<circle cx="375.38" cy="859.74" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>pacific-rim-the-black
+week: 4
+293,094</title></circle>
+<circle cx="433.85" cy="858.51" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>pacific-rim-the-black
+week: 5
+328,354</title></circle>
+<circle cx="492.31" cy="857.38" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>pacific-rim-the-black
+week: 6
+360,556</title></circle>
+<circle cx="550.77" cy="856.38" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>pacific-rim-the-black
+week: 7
+389,129</title></circle>
+<circle cx="609.23" cy="848.83" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>pacific-rim-the-black
+week: 8
+604,769</title></circle>
+<circle cx="667.69" cy="810.98" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>pacific-rim-the-black
+week: 9
+1,686,187</title></circle>
+<circle cx="726.15" cy="787.51" r="6" style="fill:rgb(204,121,167); fill-opacity:1; stroke:rgb(204,121,167); stroke-opacity:0; stroke-width:2"><title>pacific-rim-the-black
+week: 10
+2,356,815</title></circle>
+</g>
+</g>
+<line x1="1760" y1="314" x2="1792" y2="314" stroke="rgb(204,121,167)" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="1800" y="319" class="small" font-size="14">2021 · pacific-rim-the-black</text>
+<g id="japan-origin-2021-line-graph-5-star-wars-visions-01">
+<g id="polyline-japan-origin-2021-line-graph-5-star-wars-visions-01">
+<polyline points="200,851.03 258.46,839.2 316.92,829.28 375.38,820.79 433.85,812.75 492.31,803.94 550.77,795.33 609.23,787.84 667.69,780.79 726.15,773.16 784.62,766.04 843.08,765" stroke-linecap="round" style="fill:rgb(230,159,0); fill-opacity:0; stroke:rgb(230,159,0); stroke-opacity:1; stroke-width:2" stroke-dasharray="5 3"/>
+</g>
+<g id="markers-japan-origin-2021-line-graph-5-star-wars-visions-01">
+<circle cx="200" cy="851.03" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>star-wars-visions-01
+week: 1
+541,911</title></circle>
+<circle cx="258.46" cy="839.2" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>star-wars-visions-01
+week: 2
+879,911</title></circle>
+<circle cx="316.92" cy="829.28" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>star-wars-visions-01
+week: 3
+1,163,319</title></circle>
+<circle cx="375.38" cy="820.79" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>star-wars-visions-01
+week: 4
+1,405,896</title></circle>
+<circle cx="433.85" cy="812.75" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>star-wars-visions-01
+week: 5
+1,635,803</title></circle>
+<circle cx="492.31" cy="803.94" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>star-wars-visions-01
+week: 6
+1,887,420</title></circle>
+<circle cx="550.77" cy="795.33" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>star-wars-visions-01
+week: 7
+2,133,522</title></circle>
+<circle cx="609.23" cy="787.84" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>star-wars-visions-01
+week: 8
+2,347,502</title></circle>
+<circle cx="667.69" cy="780.79" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>star-wars-visions-01
+week: 9
+2,548,767</title></circle>
+<circle cx="726.15" cy="773.16" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>star-wars-visions-01
+week: 10
+2,766,887</title></circle>
+<circle cx="784.62" cy="766.04" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>star-wars-visions-01
+week: 11
+2,970,200</title></circle>
+<circle cx="843.08" cy="765" r="6" style="fill:rgb(230,159,0); fill-opacity:1; stroke:rgb(230,159,0); stroke-opacity:0; stroke-width:2"><title>star-wars-visions-01
+week: 12
+2,999,864</title></circle>
+</g>
+</g>
+<line x1="1760" y1="342" x2="1792" y2="342" stroke="rgb(230,159,0)" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="1800" y="347" class="small" font-size="14">2021 · star-wars-visions-01</text>
+<g id="japan-origin-2021-line-graph-6-yasuke-01">
+<g id="polyline-japan-origin-2021-line-graph-6-yasuke-01">
+<polyline points="200,849.5 258.46,816.93 316.92,787.91 375.38,755.51 433.85,726.15 492.31,697.71 550.77,676.5 609.23,654.37 667.69,634.7 726.15,618.74" stroke-linecap="round" style="fill:rgb(86,180,233); fill-opacity:0; stroke:rgb(86,180,233); stroke-opacity:1; stroke-width:2" stroke-dasharray="5 3"/>
+</g>
+<g id="markers-japan-origin-2021-line-graph-6-yasuke-01">
+<circle cx="200" cy="849.5" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>yasuke-01
+week: 1
+585,775</title></circle>
+<circle cx="258.46" cy="816.93" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>yasuke-01
+week: 2
+1,516,393</title></circle>
+<circle cx="316.92" cy="787.91" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>yasuke-01
+week: 3
+2,345,509</title></circle>
+<circle cx="375.38" cy="755.51" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>yasuke-01
+week: 4
+3,271,130</title></circle>
+<circle cx="433.85" cy="726.15" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>yasuke-01
+week: 5
+4,110,083</title></circle>
+<circle cx="492.31" cy="697.71" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>yasuke-01
+week: 6
+4,922,682</title></circle>
+<circle cx="550.77" cy="676.5" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>yasuke-01
+week: 7
+5,528,712</title></circle>
+<circle cx="609.23" cy="654.37" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>yasuke-01
+week: 8
+6,160,970</title></circle>
+<circle cx="667.69" cy="634.7" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>yasuke-01
+week: 9
+6,722,897</title></circle>
+<circle cx="726.15" cy="618.74" r="6" style="fill:rgb(86,180,233); fill-opacity:1; stroke:rgb(86,180,233); stroke-opacity:0; stroke-width:2"><title>yasuke-01
+week: 10
+7,178,770</title></circle>
+</g>
+</g>
+<line x1="1760" y1="370" x2="1792" y2="370" stroke="rgb(86,180,233)" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="1800" y="375" class="small" font-size="14">2021 · yasuke-01</text>
+</g>
+</svg>

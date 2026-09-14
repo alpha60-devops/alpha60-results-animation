@@ -1,0 +1,402 @@
+{
+  "cohort_counts": {
+    "2017": 0,
+    "2018": 0,
+    "2019": 0,
+    "2020": 1,
+    "2021": 4,
+    "2022": 3,
+    "2023": 2,
+    "2024": 3,
+    "2025": 5,
+    "2026": 2
+  },
+  "memberships": [
+    {
+      "cohort_year": 2020,
+      "collection_key": "solar-opposites-01",
+      "evidence": [
+        "branch:hulu-hub",
+        "distribution_tags intersects [\"hulu\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "archer-1201",
+      "evidence": [
+        "branch:fx-distribution",
+        "distribution_tags intersects [\"fx\"]",
+        "branch:fx-production",
+        "production_tags intersects [\"fxp\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "raya-and-the-last-dragon",
+      "evidence": [
+        "branch:disney-production",
+        "production_tags intersects [\"walt disney animation studios\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "star-wars-visions-01",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\"",
+        "branch:star-wars-lucasfilm-production",
+        "production_tags intersects [\"lucasfilm\"]",
+        "collection_key starts with \"star-wars-\""
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "what-if-2021-101",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\"",
+        "branch:marvel-production",
+        "production_tags intersects [\"marvel studios animation\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "archer-1308",
+      "evidence": [
+        "branch:fx-distribution",
+        "distribution_tags intersects [\"fx\"]",
+        "branch:fx-production",
+        "production_tags intersects [\"fxp\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "tales-of-the-jedi-01",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\""
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "turning-red",
+      "evidence": [
+        "branch:pixar-production",
+        "production_tags contains \"pixar animation studios\""
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "archer-1401",
+      "evidence": [
+        "branch:fx-distribution",
+        "distribution_tags intersects [\"fx\"]",
+        "branch:fx-production",
+        "production_tags intersects [\"fxp\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "spider-man-across-the-spider-verse",
+      "evidence": [
+        "branch:marvel-production",
+        "production_tags intersects [\"marvel entertainment\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "hit-monkey-02",
+      "evidence": [
+        "branch:marvel-production",
+        "production_tags intersects [\"marvel television season 1\"]",
+        "branch:hulu-hub",
+        "distribution_tags intersects [\"hulu\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "inside-out-2",
+      "evidence": [
+        "branch:pixar-production",
+        "production_tags contains \"pixar animation studios\""
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "what-if-2021-03",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\"",
+        "branch:marvel-production",
+        "production_tags intersects [\"marvel studios animation\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "eyes-of-wakanda-01",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\"",
+        "branch:marvel-production",
+        "production_tags intersects [\"marvel studios animation\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "moana-2",
+      "evidence": [
+        "branch:disney-production",
+        "production_tags intersects [\"walt disney animation studios\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "predator-killer-of-killers",
+      "evidence": [
+        "branch:hulu-hub",
+        "distribution_tags intersects [\"hulu\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "star-wars-visions-03",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\"",
+        "branch:star-wars-lucasfilm-production",
+        "production_tags intersects [\"lucasfilm\"]",
+        "collection_key starts with \"star-wars-\""
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "your-friendly-neighborhood-spider-man-01",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\"",
+        "branch:marvel-production",
+        "production_tags intersects [\"marvel studios animation\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "maul-shadow-lord-101",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\""
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "zootopia-2",
+      "evidence": [
+        "branch:disney-production",
+        "production_tags intersects [\"walt disney animation studios\"]"
+      ],
+      "set": "disney-plus"
+    }
+  ],
+  "method_id": "mellon-6-animation",
+  "method_version": "1.0.0-draft",
+  "run_id": "2017-2026-itu-2025",
+  "set": {
+    "branches": [
+      {
+        "id": "disney-plus-direct",
+        "predicate": {
+          "contains": {
+            "field": "distribution_tags",
+            "value": "disney+"
+          }
+        }
+      },
+      {
+        "id": "disney-distribution",
+        "predicate": {
+          "contains": {
+            "field": "distribution_tags",
+            "value": "disney"
+          }
+        }
+      },
+      {
+        "id": "disney-production",
+        "predicate": {
+          "intersects": {
+            "field": "production_tags",
+            "values": [
+              "walt disney animation studios",
+              "walt disney pictures",
+              "walt disney studios"
+            ]
+          }
+        }
+      },
+      {
+        "id": "pixar-production",
+        "predicate": {
+          "contains": {
+            "field": "production_tags",
+            "value": "pixar animation studios"
+          }
+        }
+      },
+      {
+        "id": "marvel-production",
+        "predicate": {
+          "intersects": {
+            "field": "production_tags",
+            "values": [
+              "marvel entertainment",
+              "marvel studios",
+              "marvel studios animation",
+              "marvel television",
+              "marvel television season 1"
+            ]
+          }
+        }
+      },
+      {
+        "id": "star-wars-lucasfilm-production",
+        "predicate": {
+          "all": [
+            {
+              "intersects": {
+                "field": "production_tags",
+                "values": [
+                  "lucasfilm",
+                  "lucasfilm animation",
+                  "lucasfilm ltd"
+                ]
+              }
+            },
+            {
+              "collection_key_prefix": "star-wars-"
+            }
+          ]
+        }
+      },
+      {
+        "id": "national-geographic",
+        "predicate": {
+          "any": [
+            {
+              "contains": {
+                "field": "distribution_tags",
+                "value": "national geographic"
+              }
+            },
+            {
+              "contains": {
+                "field": "production_tags",
+                "value": "national geographic"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "espn-regional",
+        "predicate": {
+          "all": [
+            {
+              "any": [
+                {
+                  "contains": {
+                    "field": "distribution_tags",
+                    "value": "espn"
+                  }
+                },
+                {
+                  "contains": {
+                    "field": "production_tags",
+                    "value": "espn"
+                  }
+                }
+              ]
+            },
+            {
+              "availability_territory_intersects": [
+                "United States",
+                "Latin America",
+                "Caribbean",
+                "Australia",
+                "New Zealand",
+                "South Africa"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "hulu-hub",
+        "predicate": {
+          "intersects": {
+            "field": "distribution_tags",
+            "values": [
+              "fx on hulu",
+              "hulu",
+              "hulu united states",
+              "hulu us"
+            ]
+          }
+        }
+      },
+      {
+        "id": "fx-distribution",
+        "predicate": {
+          "intersects": {
+            "field": "distribution_tags",
+            "values": [
+              "fx",
+              "fx networks",
+              "fx movie channel",
+              "fxm",
+              "fxx",
+              "fx on hulu"
+            ]
+          }
+        }
+      },
+      {
+        "id": "fx-production",
+        "predicate": {
+          "intersects": {
+            "field": "production_tags",
+            "values": [
+              "fx",
+              "fx networks",
+              "fx productions",
+              "fxm",
+              "fxp",
+              "fxx"
+            ]
+          }
+        }
+      }
+    ],
+    "id": "disney-plus",
+    "label": "Disney+",
+    "predicate_summary": "reviewed Animation universe AND exact Disney+ direct or approved Disney/Pixar/Marvel/Star Wars/National Geographic/ESPN/Hulu/FX hub evidence"
+  },
+  "total_memberships": 20
+}

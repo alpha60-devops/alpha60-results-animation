@@ -1,0 +1,28 @@
+{
+  "annual_rows": 646,
+  "distinct_collection_keys": 644,
+  "publication_gates": {
+    "h08_animation_dispositions_complete": false,
+    "itu_2026_policy_approved": false,
+    "stable_pages_may_switch": false
+  },
+  "repeated_collection_keys": [
+    "acolyte-107",
+    "andor-112"
+  ],
+  "run_id": "2017-2026-itu-2025",
+  "schema_version": "1.0.0",
+  "selected_source_runs_checked": 65,
+  "sets_checked": [
+    "amazon-prime-video",
+    "animated-features",
+    "animation",
+    "disney-plus",
+    "hbo-max-discovery-warner",
+    "japan-origin",
+    "netflix",
+    "superhero-animation"
+  ],
+  "status": "pass",
+  "structured_files_checked": 64
+}

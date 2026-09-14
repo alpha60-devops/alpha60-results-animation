@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="superhero-animation-2024-graph-title superhero-animation-2024-graph-desc" viewBox="0 0 1920 1080">
+<title id="superhero-animation-2024-graph-title">Superhero animation — 2024 downloads by week</title>
+<desc id="superhero-animation-2024-graph-desc">One line per selected media object, adjusted to the 2025 ITU Internet-user scale.</desc>
+<style>
+.axis{stroke:rgb(118,118,118);stroke-width:1}
+.grid{stroke:rgb(222,222,222);stroke-width:1}
+.label{font-family:Apercu;fill:rgb(118,118,118)}
+.small{font-family:Apercu;fill:rgb(118,118,118)}
+</style>
+<text x="960.0" y="90" text-anchor="middle" class="label" font-size="26">Superhero animation — 2024 downloads by week</text>
+<text x="960.0" y="126" text-anchor="middle" class="small" font-size="16">one line per selected media object, adjusted to the 2025 ITU Internet-user scale</text>
+<line x1="200" y1="870" x2="1720" y2="870" class="grid"/>
+<text x="184" y="875" text-anchor="end" class="small" font-size="14">0.0M</text>
+<line x1="200" y1="730" x2="1720" y2="730" class="grid"/>
+<text x="184" y="735" text-anchor="end" class="small" font-size="14">20.0M</text>
+<line x1="200" y1="590" x2="1720" y2="590" class="grid"/>
+<text x="184" y="595" text-anchor="end" class="small" font-size="14">40.0M</text>
+<line x1="200" y1="450" x2="1720" y2="450" class="grid"/>
+<text x="184" y="455" text-anchor="end" class="small" font-size="14">60.0M</text>
+<line x1="200" y1="310" x2="1720" y2="310" class="grid"/>
+<text x="184" y="315" text-anchor="end" class="small" font-size="14">80.0M</text>
+<line x1="200" y1="170" x2="1720" y2="170" class="grid"/>
+<text x="184" y="175" text-anchor="end" class="small" font-size="14">100.0M</text>
+<line x1="200" y1="170" x2="200" y2="870" class="grid"/>
+<text x="200" y="900" text-anchor="middle" class="small" font-size="14">1</text>
+<line x1="443.2" y1="170" x2="443.2" y2="870" class="grid"/>
+<text x="443.2" y="900" text-anchor="middle" class="small" font-size="14">5</text>
+<line x1="747.2" y1="170" x2="747.2" y2="870" class="grid"/>
+<text x="747.2" y="900" text-anchor="middle" class="small" font-size="14">10</text>
+<line x1="1051.2" y1="170" x2="1051.2" y2="870" class="grid"/>
+<text x="1051.2" y="900" text-anchor="middle" class="small" font-size="14">15</text>
+<line x1="1355.2" y1="170" x2="1355.2" y2="870" class="grid"/>
+<text x="1355.2" y="900" text-anchor="middle" class="small" font-size="14">20</text>
+<line x1="1659.2" y1="170" x2="1659.2" y2="870" class="grid"/>
+<text x="1659.2" y="900" text-anchor="middle" class="small" font-size="14">25</text>
+<line x1="1720" y1="170" x2="1720" y2="870" class="grid"/>
+<text x="1720" y="900" text-anchor="middle" class="small" font-size="14">26</text>
+<line x1="200" y1="170" x2="200" y2="870" class="axis"/>
+<line x1="200" y1="870" x2="1720" y2="870" class="axis"/>
+<text x="960.0" y="938" text-anchor="middle" class="label" font-size="18">WEEK</text>
+<text x="74" y="520.0" text-anchor="middle" transform="rotate(-90 74 520.0)" class="label" font-size="18">DOWNLOADERS</text>
+<text x="1760" y="170" class="label" font-size="18">MEDIA OBJECTS</text>
+<text x="1760" y="198" class="small" font-size="14">2017: 1-3 · 2018: 4-2 · 2019: 7-3 · 2020: 2-2 · 2021: 5-3 · 2022: 8-4 · 2023: 10-4 · 2024: 3-3 · 2025: solid · 2026: 14-4</text>
+<g id="composite-chart-superhero-animation-2024">
+<g id="superhero-animation-2024-line-graph-1-hit-monkey-02">
+<g id="polyline-superhero-animation-2024-line-graph-1-hit-monkey-02">
+<polyline points="200,868.47 260.8,866.64 321.6,864.72 382.4,862.8 443.2,860.44 504,857.93 564.8,855.39 625.6,852.89 686.4,851.96 747.2,850.44 808,848.01 868.8,845.43 929.6,842.91 990.4,840.34 1051.2,838.12" stroke-linecap="round" style="fill:rgb(0,114,178); fill-opacity:0; stroke:rgb(0,114,178); stroke-opacity:1; stroke-width:2" stroke-dasharray="3 3"/>
+</g>
+<g id="markers-superhero-animation-2024-line-graph-1-hit-monkey-02">
+<circle cx="200" cy="868.47" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 1
+218,019</title></circle>
+<circle cx="260.8" cy="866.64" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 2
+480,401</title></circle>
+<circle cx="321.6" cy="864.72" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 3
+754,919</title></circle>
+<circle cx="382.4" cy="862.8" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 4
+1,028,738</title></circle>
+<circle cx="443.2" cy="860.44" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 5
+1,366,044</title></circle>
+<circle cx="504" cy="857.93" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 6
+1,724,918</title></circle>
+<circle cx="564.8" cy="855.39" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 7
+2,087,009</title></circle>
+<circle cx="625.6" cy="852.89" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 8
+2,443,772</title></circle>
+<circle cx="686.4" cy="851.96" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 9
+2,576,432</title></circle>
+<circle cx="747.2" cy="850.44" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 10
+2,794,732</title></circle>
+<circle cx="808" cy="848.01" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 11
+3,141,215</title></circle>
+<circle cx="868.8" cy="845.43" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 12
+3,510,121</title></circle>
+<circle cx="929.6" cy="842.91" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 13
+3,870,153</title></circle>
+<circle cx="990.4" cy="840.34" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 14
+4,237,583</title></circle>
+<circle cx="1051.2" cy="838.12" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 15
+4,553,992</title></circle>
+</g>
+</g>
+<line x1="1760" y1="230" x2="1792" y2="230" stroke="rgb(0,114,178)" stroke-width="2" stroke-dasharray="3 3"/>
+<text x="1800" y="235" class="small" font-size="14">2024 · hit-monkey-02</text>
+<g id="superhero-animation-2024-line-graph-2-what-if-2021-03">
+<g id="polyline-superhero-animation-2024-line-graph-2-what-if-2021-03">
+<polyline points="200,862.8 260.8,847.66 321.6,831.65 382.4,810.25 443.2,788.6 504,766.8 564.8,746 625.6,724.53 686.4,702.87 747.2,682.97 808,663.28 868.8,644.42 929.6,625.68 990.4,606.82 1051.2,589.53 1112,574.57 1172.8,559.53 1233.6,543.8 1294.4,528.84 1355.2,513.91 1416,499.39 1476.8,483.88 1537.6,468.57 1598.4,452.85 1659.2,443.56 1720,427.17" stroke-linecap="round" style="fill:rgb(213,94,0); fill-opacity:0; stroke:rgb(213,94,0); stroke-opacity:1; stroke-width:2" stroke-dasharray="3 3"/>
+</g>
+<g id="markers-superhero-animation-2024-line-graph-2-what-if-2021-03">
+<circle cx="200" cy="862.8" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 1
+1,029,149</title></circle>
+<circle cx="260.8" cy="847.66" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 2
+3,190,800</title></circle>
+<circle cx="321.6" cy="831.65" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 3
+5,479,114</title></circle>
+<circle cx="382.4" cy="810.25" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 4
+8,535,128</title></circle>
+<circle cx="443.2" cy="788.6" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 5
+11,628,800</title></circle>
+<circle cx="504" cy="766.8" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 6
+14,742,740</title></circle>
+<circle cx="564.8" cy="746" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 7
+17,713,691</title></circle>
+<circle cx="625.6" cy="724.53" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 8
+20,781,849</title></circle>
+<circle cx="686.4" cy="702.87" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 9
+23,875,429</title></circle>
+<circle cx="747.2" cy="682.97" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 10
+26,718,091</title></circle>
+<circle cx="808" cy="663.28" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 11
+29,531,991</title></circle>
+<circle cx="868.8" cy="644.42" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 12
+32,225,361</title></circle>
+<circle cx="929.6" cy="625.68" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 13
+34,903,114</title></circle>
+<circle cx="990.4" cy="606.82" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 14
+37,596,691</title></circle>
+<circle cx="1051.2" cy="589.53" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 15
+40,067,737</title></circle>
+<circle cx="1112" cy="574.57" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 16
+42,203,626</title></circle>
+<circle cx="1172.8" cy="559.53" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 17
+44,353,066</title></circle>
+<circle cx="1233.6" cy="543.8" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 18
+46,600,069</title></circle>
+<circle cx="1294.4" cy="528.84" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 19
+48,737,833</title></circle>
+<circle cx="1355.2" cy="513.91" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 20
+50,869,363</title></circle>
+<circle cx="1416" cy="499.39" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 21
+52,944,180</title></circle>
+<circle cx="1476.8" cy="483.88" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 22
+55,160,607</title></circle>
+<circle cx="1537.6" cy="468.57" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 23
+57,346,676</title></circle>
+<circle cx="1598.4" cy="452.85" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 24
+59,593,023</title></circle>
+<circle cx="1659.2" cy="443.56" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 25
+60,920,521</title></circle>
+<circle cx="1720" cy="427.17" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 26
+63,260,882</title></circle>
+</g>
+</g>
+<line x1="1760" y1="258" x2="1792" y2="258" stroke="rgb(213,94,0)" stroke-width="2" stroke-dasharray="3 3"/>
+<text x="1800" y="263" class="small" font-size="14">2024 · what-if-2021-03</text>
+</g>
+</svg>

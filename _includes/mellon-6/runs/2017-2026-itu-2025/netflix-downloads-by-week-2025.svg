@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="netflix-2025-graph-title netflix-2025-graph-desc" viewBox="0 0 1920 1080">
+<title id="netflix-2025-graph-title">Netflix — 2025 downloads by week</title>
+<desc id="netflix-2025-graph-desc">One line per selected media object, adjusted to the 2025 ITU Internet-user scale.</desc>
+<style>
+.axis{stroke:rgb(118,118,118);stroke-width:1}
+.grid{stroke:rgb(222,222,222);stroke-width:1}
+.label{font-family:Apercu;fill:rgb(118,118,118)}
+.small{font-family:Apercu;fill:rgb(118,118,118)}
+</style>
+<text x="960.0" y="90" text-anchor="middle" class="label" font-size="26">Netflix — 2025 downloads by week</text>
+<text x="960.0" y="126" text-anchor="middle" class="small" font-size="16">one line per selected media object, adjusted to the 2025 ITU Internet-user scale</text>
+<line x1="200" y1="870" x2="1720" y2="870" class="grid"/>
+<text x="184" y="875" text-anchor="end" class="small" font-size="14">0.0M</text>
+<line x1="200" y1="730" x2="1720" y2="730" class="grid"/>
+<text x="184" y="735" text-anchor="end" class="small" font-size="14">10.0M</text>
+<line x1="200" y1="590" x2="1720" y2="590" class="grid"/>
+<text x="184" y="595" text-anchor="end" class="small" font-size="14">20.0M</text>
+<line x1="200" y1="450" x2="1720" y2="450" class="grid"/>
+<text x="184" y="455" text-anchor="end" class="small" font-size="14">30.0M</text>
+<line x1="200" y1="310" x2="1720" y2="310" class="grid"/>
+<text x="184" y="315" text-anchor="end" class="small" font-size="14">40.0M</text>
+<line x1="200" y1="170" x2="1720" y2="170" class="grid"/>
+<text x="184" y="175" text-anchor="end" class="small" font-size="14">50.0M</text>
+<line x1="200" y1="170" x2="200" y2="870" class="grid"/>
+<text x="200" y="900" text-anchor="middle" class="small" font-size="14">1</text>
+<line x1="634.29" y1="170" x2="634.29" y2="870" class="grid"/>
+<text x="634.29" y="900" text-anchor="middle" class="small" font-size="14">5</text>
+<line x1="1177.14" y1="170" x2="1177.14" y2="870" class="grid"/>
+<text x="1177.14" y="900" text-anchor="middle" class="small" font-size="14">10</text>
+<line x1="1720" y1="170" x2="1720" y2="870" class="grid"/>
+<text x="1720" y="900" text-anchor="middle" class="small" font-size="14">15</text>
+<line x1="200" y1="170" x2="200" y2="870" class="axis"/>
+<line x1="200" y1="870" x2="1720" y2="870" class="axis"/>
+<text x="960.0" y="938" text-anchor="middle" class="label" font-size="18">WEEK</text>
+<text x="74" y="520.0" text-anchor="middle" transform="rotate(-90 74 520.0)" class="label" font-size="18">DOWNLOADERS</text>
+<text x="1760" y="170" class="label" font-size="18">MEDIA OBJECTS</text>
+<text x="1760" y="198" class="small" font-size="14">2017: 1-3 · 2018: 4-2 · 2019: 7-3 · 2020: 2-2 · 2021: 5-3 · 2022: 8-4 · 2023: 10-4 · 2024: 3-3 · 2025: solid · 2026: 14-4</text>
+<g id="composite-chart-netflix-2025">
+<g id="netflix-2025-line-graph-1-love-death-robots-04">
+<g id="polyline-netflix-2025-line-graph-1-love-death-robots-04">
+<polyline points="200,851.96 308.57,830.42 417.14,808.51 525.71,785.7 634.29,763.55 742.86,740.12 851.43,719.01 960,700.52 1068.57,681.81 1177.14,663.14 1285.71,640.92 1394.29,619.77 1502.86,597.66 1611.43,578.86 1720,562.42" stroke-linecap="round" style="fill:rgb(0,114,178); fill-opacity:0; stroke:rgb(0,114,178); stroke-opacity:1; stroke-width:2"/>
+</g>
+<g id="markers-netflix-2025-line-graph-1-love-death-robots-04">
+<circle cx="200" cy="851.96" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 1
+1,288,805</title></circle>
+<circle cx="308.57" cy="830.42" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 2
+2,827,190</title></circle>
+<circle cx="417.14" cy="808.51" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 3
+4,392,026</title></circle>
+<circle cx="525.71" cy="785.7" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 4
+6,021,520</title></circle>
+<circle cx="634.29" cy="763.55" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 5
+7,603,568</title></circle>
+<circle cx="742.86" cy="740.12" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 6
+9,277,448</title></circle>
+<circle cx="851.43" cy="719.01" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 7
+10,785,021</title></circle>
+<circle cx="960" cy="700.52" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 8
+12,105,683</title></circle>
+<circle cx="1068.57" cy="681.81" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 9
+13,442,281</title></circle>
+<circle cx="1177.14" cy="663.14" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 10
+14,775,408</title></circle>
+<circle cx="1285.71" cy="640.92" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 11
+16,363,182</title></circle>
+<circle cx="1394.29" cy="619.77" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 12
+17,873,253</title></circle>
+<circle cx="1502.86" cy="597.66" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 13
+19,452,904</title></circle>
+<circle cx="1611.43" cy="578.86" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 14
+20,795,379</title></circle>
+<circle cx="1720" cy="562.42" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>love-death-robots-04
+week: 15
+21,970,042</title></circle>
+</g>
+</g>
+<line x1="1760" y1="230" x2="1792" y2="230" stroke="rgb(0,114,178)" stroke-width="2"/>
+<text x="1800" y="235" class="small" font-size="14">2025 · love-death-robots-04</text>
+</g>
+</svg>

@@ -1,0 +1,153 @@
+{
+  "cohort_counts": {
+    "2017": 0,
+    "2018": 0,
+    "2019": 0,
+    "2020": 2,
+    "2021": 2,
+    "2022": 1,
+    "2023": 2,
+    "2024": 3,
+    "2025": 2,
+    "2026": 1
+  },
+  "memberships": [
+    {
+      "cohort_year": 2020,
+      "collection_key": "altered-carbon-resleeved",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "mitchells-vs-the-machines",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "raya-and-the-last-dragon",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "turning-red",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "spider-man-across-the-spider-verse",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "super-mario-brothers-movie",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "boy-and-the-heron",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "inside-out-2",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "wild-robot",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "moana-2",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "predator-killer-of-killers",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "zootopia-2",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    }
+  ],
+  "method_id": "mellon-6-animation",
+  "method_version": "1.0.0-draft",
+  "run_id": "2017-2026-itu-2025",
+  "set": {
+    "branches": [
+      {
+        "id": "film",
+        "predicate": {
+          "equals": {
+            "field": "media_object.type",
+            "value": "film"
+          }
+        }
+      }
+    ],
+    "id": "animated-features",
+    "label": "Animated features",
+    "predicate_summary": "reviewed Animation universe AND media_object.type equals film"
+  },
+  "total_memberships": 13
+}

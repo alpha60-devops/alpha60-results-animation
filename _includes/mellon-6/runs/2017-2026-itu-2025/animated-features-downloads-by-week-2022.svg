@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="animated-features-2022-graph-title animated-features-2022-graph-desc" viewBox="0 0 1920 1080">
+<title id="animated-features-2022-graph-title">Animated features — 2022 downloads by week</title>
+<desc id="animated-features-2022-graph-desc">One line per selected media object, adjusted to the 2025 ITU Internet-user scale.</desc>
+<style>
+.axis{stroke:rgb(118,118,118);stroke-width:1}
+.grid{stroke:rgb(222,222,222);stroke-width:1}
+.label{font-family:Apercu;fill:rgb(118,118,118)}
+.small{font-family:Apercu;fill:rgb(118,118,118)}
+</style>
+<text x="960.0" y="90" text-anchor="middle" class="label" font-size="26">Animated features — 2022 downloads by week</text>
+<text x="960.0" y="126" text-anchor="middle" class="small" font-size="16">one line per selected media object, adjusted to the 2025 ITU Internet-user scale</text>
+<line x1="200" y1="870" x2="1720" y2="870" class="grid"/>
+<text x="184" y="875" text-anchor="end" class="small" font-size="14">0.0M</text>
+<line x1="200" y1="730" x2="1720" y2="730" class="grid"/>
+<text x="184" y="735" text-anchor="end" class="small" font-size="14">4.0M</text>
+<line x1="200" y1="590" x2="1720" y2="590" class="grid"/>
+<text x="184" y="595" text-anchor="end" class="small" font-size="14">8.0M</text>
+<line x1="200" y1="450" x2="1720" y2="450" class="grid"/>
+<text x="184" y="455" text-anchor="end" class="small" font-size="14">12.0M</text>
+<line x1="200" y1="310" x2="1720" y2="310" class="grid"/>
+<text x="184" y="315" text-anchor="end" class="small" font-size="14">16.0M</text>
+<line x1="200" y1="170" x2="1720" y2="170" class="grid"/>
+<text x="184" y="175" text-anchor="end" class="small" font-size="14">20.0M</text>
+<line x1="200" y1="170" x2="200" y2="870" class="grid"/>
+<text x="200" y="900" text-anchor="middle" class="small" font-size="14">1</text>
+<line x1="634.29" y1="170" x2="634.29" y2="870" class="grid"/>
+<text x="634.29" y="900" text-anchor="middle" class="small" font-size="14">5</text>
+<line x1="1177.14" y1="170" x2="1177.14" y2="870" class="grid"/>
+<text x="1177.14" y="900" text-anchor="middle" class="small" font-size="14">10</text>
+<line x1="1720" y1="170" x2="1720" y2="870" class="grid"/>
+<text x="1720" y="900" text-anchor="middle" class="small" font-size="14">15</text>
+<line x1="200" y1="170" x2="200" y2="870" class="axis"/>
+<line x1="200" y1="870" x2="1720" y2="870" class="axis"/>
+<text x="960.0" y="938" text-anchor="middle" class="label" font-size="18">WEEK</text>
+<text x="74" y="520.0" text-anchor="middle" transform="rotate(-90 74 520.0)" class="label" font-size="18">DOWNLOADERS</text>
+<text x="1760" y="170" class="label" font-size="18">MEDIA OBJECTS</text>
+<text x="1760" y="198" class="small" font-size="14">2017: 1-3 · 2018: 4-2 · 2019: 7-3 · 2020: 2-2 · 2021: 5-3 · 2022: 8-4 · 2023: 10-4 · 2024: 3-3 · 2025: solid · 2026: 14-4</text>
+<g id="composite-chart-animated-features-2022">
+<g id="animated-features-2022-line-graph-1-turning-red">
+<g id="polyline-animated-features-2022-line-graph-1-turning-red">
+<polyline points="200,777 308.57,719.11 417.14,655.53 525.71,613.14 634.29,571.3 742.86,534.13 851.43,501.84 960,473.98 1068.57,451.43 1177.14,430.79 1285.71,410.87 1394.29,392.63 1502.86,375.96 1611.43,359.78 1720,343.82" stroke-linecap="round" style="fill:rgb(0,114,178); fill-opacity:0; stroke:rgb(0,114,178); stroke-opacity:1; stroke-width:2" stroke-dasharray="8 4"/>
+</g>
+<g id="markers-animated-features-2022-line-graph-1-turning-red">
+<circle cx="200" cy="777" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>turning-red
+week: 1
+2,657,247</title></circle>
+<circle cx="308.57" cy="719.11" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>turning-red
+week: 2
+4,311,264</title></circle>
+<circle cx="417.14" cy="655.53" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>turning-red
+week: 3
+6,127,792</title></circle>
+<circle cx="525.71" cy="613.14" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>turning-red
+week: 4
+7,338,763</title></circle>
+<circle cx="634.29" cy="571.3" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>turning-red
+week: 5
+8,534,175</title></circle>
+<circle cx="742.86" cy="534.13" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>turning-red
+week: 6
+9,596,240</title></circle>
+<circle cx="851.43" cy="501.84" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>turning-red
+week: 7
+10,518,878</title></circle>
+<circle cx="960" cy="473.98" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>turning-red
+week: 8
+11,314,747</title></circle>
+<circle cx="1068.57" cy="451.43" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>turning-red
+week: 9
+11,959,250</title></circle>
+<circle cx="1177.14" cy="430.79" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>turning-red
+week: 10
+12,548,903</title></circle>
+<circle cx="1285.71" cy="410.87" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>turning-red
+week: 11
+13,118,090</title></circle>
+<circle cx="1394.29" cy="392.63" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>turning-red
+week: 12
+13,639,209</title></circle>
+<circle cx="1502.86" cy="375.96" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>turning-red
+week: 13
+14,115,520</title></circle>
+<circle cx="1611.43" cy="359.78" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>turning-red
+week: 14
+14,577,779</title></circle>
+<circle cx="1720" cy="343.82" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>turning-red
+week: 15
+15,033,732</title></circle>
+</g>
+</g>
+<line x1="1760" y1="230" x2="1792" y2="230" stroke="rgb(0,114,178)" stroke-width="2" stroke-dasharray="8 4"/>
+<text x="1800" y="235" class="small" font-size="14">2022 · turning-red</text>
+</g>
+</svg>

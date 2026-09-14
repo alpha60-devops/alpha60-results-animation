@@ -1,0 +1,280 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="disney-plus-2024-graph-title disney-plus-2024-graph-desc" viewBox="0 0 1920 1080">
+<title id="disney-plus-2024-graph-title">Disney+ — 2024 downloads by week</title>
+<desc id="disney-plus-2024-graph-desc">One line per selected media object, adjusted to the 2025 ITU Internet-user scale.</desc>
+<style>
+.axis{stroke:rgb(118,118,118);stroke-width:1}
+.grid{stroke:rgb(222,222,222);stroke-width:1}
+.label{font-family:Apercu;fill:rgb(118,118,118)}
+.small{font-family:Apercu;fill:rgb(118,118,118)}
+</style>
+<text x="960.0" y="90" text-anchor="middle" class="label" font-size="26">Disney+ — 2024 downloads by week</text>
+<text x="960.0" y="126" text-anchor="middle" class="small" font-size="16">one line per selected media object, adjusted to the 2025 ITU Internet-user scale</text>
+<line x1="200" y1="870" x2="1720" y2="870" class="grid"/>
+<text x="184" y="875" text-anchor="end" class="small" font-size="14">0.0M</text>
+<line x1="200" y1="730" x2="1720" y2="730" class="grid"/>
+<text x="184" y="735" text-anchor="end" class="small" font-size="14">20.0M</text>
+<line x1="200" y1="590" x2="1720" y2="590" class="grid"/>
+<text x="184" y="595" text-anchor="end" class="small" font-size="14">40.0M</text>
+<line x1="200" y1="450" x2="1720" y2="450" class="grid"/>
+<text x="184" y="455" text-anchor="end" class="small" font-size="14">60.0M</text>
+<line x1="200" y1="310" x2="1720" y2="310" class="grid"/>
+<text x="184" y="315" text-anchor="end" class="small" font-size="14">80.0M</text>
+<line x1="200" y1="170" x2="1720" y2="170" class="grid"/>
+<text x="184" y="175" text-anchor="end" class="small" font-size="14">100.0M</text>
+<line x1="200" y1="170" x2="200" y2="870" class="grid"/>
+<text x="200" y="900" text-anchor="middle" class="small" font-size="14">1</text>
+<line x1="425.19" y1="170" x2="425.19" y2="870" class="grid"/>
+<text x="425.19" y="900" text-anchor="middle" class="small" font-size="14">5</text>
+<line x1="706.67" y1="170" x2="706.67" y2="870" class="grid"/>
+<text x="706.67" y="900" text-anchor="middle" class="small" font-size="14">10</text>
+<line x1="988.15" y1="170" x2="988.15" y2="870" class="grid"/>
+<text x="988.15" y="900" text-anchor="middle" class="small" font-size="14">15</text>
+<line x1="1269.63" y1="170" x2="1269.63" y2="870" class="grid"/>
+<text x="1269.63" y="900" text-anchor="middle" class="small" font-size="14">20</text>
+<line x1="1551.11" y1="170" x2="1551.11" y2="870" class="grid"/>
+<text x="1551.11" y="900" text-anchor="middle" class="small" font-size="14">25</text>
+<line x1="1720" y1="170" x2="1720" y2="870" class="grid"/>
+<text x="1720" y="900" text-anchor="middle" class="small" font-size="14">28</text>
+<line x1="200" y1="170" x2="200" y2="870" class="axis"/>
+<line x1="200" y1="870" x2="1720" y2="870" class="axis"/>
+<text x="960.0" y="938" text-anchor="middle" class="label" font-size="18">WEEK</text>
+<text x="74" y="520.0" text-anchor="middle" transform="rotate(-90 74 520.0)" class="label" font-size="18">DOWNLOADERS</text>
+<text x="1760" y="170" class="label" font-size="18">MEDIA OBJECTS</text>
+<text x="1760" y="198" class="small" font-size="14">2017: 1-3 · 2018: 4-2 · 2019: 7-3 · 2020: 2-2 · 2021: 5-3 · 2022: 8-4 · 2023: 10-4 · 2024: 3-3 · 2025: solid · 2026: 14-4</text>
+<g id="composite-chart-disney-plus-2024">
+<g id="disney-plus-2024-line-graph-1-hit-monkey-02">
+<g id="polyline-disney-plus-2024-line-graph-1-hit-monkey-02">
+<polyline points="200,868.47 256.3,866.64 312.59,864.72 368.89,862.8 425.19,860.44 481.48,857.93 537.78,855.39 594.07,852.89 650.37,851.96 706.67,850.44 762.96,848.01 819.26,845.43 875.56,842.91 931.85,840.34 988.15,838.12" stroke-linecap="round" style="fill:rgb(0,114,178); fill-opacity:0; stroke:rgb(0,114,178); stroke-opacity:1; stroke-width:2" stroke-dasharray="3 3"/>
+</g>
+<g id="markers-disney-plus-2024-line-graph-1-hit-monkey-02">
+<circle cx="200" cy="868.47" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 1
+218,019</title></circle>
+<circle cx="256.3" cy="866.64" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 2
+480,401</title></circle>
+<circle cx="312.59" cy="864.72" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 3
+754,919</title></circle>
+<circle cx="368.89" cy="862.8" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 4
+1,028,738</title></circle>
+<circle cx="425.19" cy="860.44" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 5
+1,366,044</title></circle>
+<circle cx="481.48" cy="857.93" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 6
+1,724,918</title></circle>
+<circle cx="537.78" cy="855.39" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 7
+2,087,009</title></circle>
+<circle cx="594.07" cy="852.89" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 8
+2,443,772</title></circle>
+<circle cx="650.37" cy="851.96" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 9
+2,576,432</title></circle>
+<circle cx="706.67" cy="850.44" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 10
+2,794,732</title></circle>
+<circle cx="762.96" cy="848.01" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 11
+3,141,215</title></circle>
+<circle cx="819.26" cy="845.43" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 12
+3,510,121</title></circle>
+<circle cx="875.56" cy="842.91" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 13
+3,870,153</title></circle>
+<circle cx="931.85" cy="840.34" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 14
+4,237,583</title></circle>
+<circle cx="988.15" cy="838.12" r="6" style="fill:rgb(0,114,178); fill-opacity:1; stroke:rgb(0,114,178); stroke-opacity:0; stroke-width:2"><title>hit-monkey-02
+week: 15
+4,553,992</title></circle>
+</g>
+</g>
+<line x1="1760" y1="230" x2="1792" y2="230" stroke="rgb(0,114,178)" stroke-width="2" stroke-dasharray="3 3"/>
+<text x="1800" y="235" class="small" font-size="14">2024 · hit-monkey-02</text>
+<g id="disney-plus-2024-line-graph-2-inside-out-2">
+<g id="polyline-disney-plus-2024-line-graph-2-inside-out-2">
+<polyline points="200,855.14 256.3,837.37 312.59,822.59 368.89,807.06 425.19,789.57 481.48,773.21 537.78,755.18 594.07,737.85 650.37,721.96 706.67,706.22 762.96,691.74 819.26,677.11 875.56,663.26 931.85,647.77 988.15,630.46 1044.44,615.18 1100.74,600.26 1157.04,586.3 1213.33,562.78 1269.63,539.31 1325.93,515.36 1382.22,492.63 1438.52,469.57 1494.81,446.09 1551.11,423.28 1607.41,400.41 1663.7,377.94 1720,365.29" stroke-linecap="round" style="fill:rgb(213,94,0); fill-opacity:0; stroke:rgb(213,94,0); stroke-opacity:1; stroke-width:2" stroke-dasharray="3 3"/>
+</g>
+<g id="markers-disney-plus-2024-line-graph-2-inside-out-2">
+<circle cx="200" cy="855.14" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 1
+2,123,125</title></circle>
+<circle cx="256.3" cy="837.37" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 2
+4,661,708</title></circle>
+<circle cx="312.59" cy="822.59" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 3
+6,772,673</title></circle>
+<circle cx="368.89" cy="807.06" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 4
+8,991,980</title></circle>
+<circle cx="425.19" cy="789.57" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 5
+11,489,384</title></circle>
+<circle cx="481.48" cy="773.21" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 6
+13,826,954</title></circle>
+<circle cx="537.78" cy="755.18" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 7
+16,402,972</title></circle>
+<circle cx="594.07" cy="737.85" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 8
+18,879,128</title></circle>
+<circle cx="650.37" cy="721.96" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 9
+21,148,310</title></circle>
+<circle cx="706.67" cy="706.22" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 10
+23,397,363</title></circle>
+<circle cx="762.96" cy="691.74" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 11
+25,465,677</title></circle>
+<circle cx="819.26" cy="677.11" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 12
+27,555,578</title></circle>
+<circle cx="875.56" cy="663.26" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 13
+29,534,348</title></circle>
+<circle cx="931.85" cy="647.77" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 14
+31,747,677</title></circle>
+<circle cx="988.15" cy="630.46" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 15
+34,219,443</title></circle>
+<circle cx="1044.44" cy="615.18" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 16
+36,402,445</title></circle>
+<circle cx="1100.74" cy="600.26" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 17
+38,534,450</title></circle>
+<circle cx="1157.04" cy="586.3" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 18
+40,528,882</title></circle>
+<circle cx="1213.33" cy="562.78" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 19
+43,888,211</title></circle>
+<circle cx="1269.63" cy="539.31" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 20
+47,240,974</title></circle>
+<circle cx="1325.93" cy="515.36" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 21
+50,662,539</title></circle>
+<circle cx="1382.22" cy="492.63" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 22
+53,910,691</title></circle>
+<circle cx="1438.52" cy="469.57" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 23
+57,203,851</title></circle>
+<circle cx="1494.81" cy="446.09" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 24
+60,558,296</title></circle>
+<circle cx="1551.11" cy="423.28" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 25
+63,817,081</title></circle>
+<circle cx="1607.41" cy="400.41" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 26
+67,084,198</title></circle>
+<circle cx="1663.7" cy="377.94" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 27
+70,294,115</title></circle>
+<circle cx="1720" cy="365.29" r="6" style="fill:rgb(213,94,0); fill-opacity:1; stroke:rgb(213,94,0); stroke-opacity:0; stroke-width:2"><title>inside-out-2
+week: 28
+72,102,120</title></circle>
+</g>
+</g>
+<line x1="1760" y1="258" x2="1792" y2="258" stroke="rgb(213,94,0)" stroke-width="2" stroke-dasharray="3 3"/>
+<text x="1800" y="263" class="small" font-size="14">2024 · inside-out-2</text>
+<g id="disney-plus-2024-line-graph-3-what-if-2021-03">
+<g id="polyline-disney-plus-2024-line-graph-3-what-if-2021-03">
+<polyline points="200,862.8 256.3,847.66 312.59,831.65 368.89,810.25 425.19,788.6 481.48,766.8 537.78,746 594.07,724.53 650.37,702.87 706.67,682.97 762.96,663.28 819.26,644.42 875.56,625.68 931.85,606.82 988.15,589.53 1044.44,574.57 1100.74,559.53 1157.04,543.8 1213.33,528.84 1269.63,513.91 1325.93,499.39 1382.22,483.88 1438.52,468.57 1494.81,452.85 1551.11,443.56 1607.41,427.17" stroke-linecap="round" style="fill:rgb(0,158,115); fill-opacity:0; stroke:rgb(0,158,115); stroke-opacity:1; stroke-width:2" stroke-dasharray="3 3"/>
+</g>
+<g id="markers-disney-plus-2024-line-graph-3-what-if-2021-03">
+<circle cx="200" cy="862.8" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 1
+1,029,149</title></circle>
+<circle cx="256.3" cy="847.66" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 2
+3,190,800</title></circle>
+<circle cx="312.59" cy="831.65" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 3
+5,479,114</title></circle>
+<circle cx="368.89" cy="810.25" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 4
+8,535,128</title></circle>
+<circle cx="425.19" cy="788.6" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 5
+11,628,800</title></circle>
+<circle cx="481.48" cy="766.8" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 6
+14,742,740</title></circle>
+<circle cx="537.78" cy="746" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 7
+17,713,691</title></circle>
+<circle cx="594.07" cy="724.53" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 8
+20,781,849</title></circle>
+<circle cx="650.37" cy="702.87" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 9
+23,875,429</title></circle>
+<circle cx="706.67" cy="682.97" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 10
+26,718,091</title></circle>
+<circle cx="762.96" cy="663.28" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 11
+29,531,991</title></circle>
+<circle cx="819.26" cy="644.42" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 12
+32,225,361</title></circle>
+<circle cx="875.56" cy="625.68" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 13
+34,903,114</title></circle>
+<circle cx="931.85" cy="606.82" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 14
+37,596,691</title></circle>
+<circle cx="988.15" cy="589.53" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 15
+40,067,737</title></circle>
+<circle cx="1044.44" cy="574.57" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 16
+42,203,626</title></circle>
+<circle cx="1100.74" cy="559.53" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 17
+44,353,066</title></circle>
+<circle cx="1157.04" cy="543.8" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 18
+46,600,069</title></circle>
+<circle cx="1213.33" cy="528.84" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 19
+48,737,833</title></circle>
+<circle cx="1269.63" cy="513.91" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 20
+50,869,363</title></circle>
+<circle cx="1325.93" cy="499.39" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 21
+52,944,180</title></circle>
+<circle cx="1382.22" cy="483.88" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 22
+55,160,607</title></circle>
+<circle cx="1438.52" cy="468.57" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 23
+57,346,676</title></circle>
+<circle cx="1494.81" cy="452.85" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 24
+59,593,023</title></circle>
+<circle cx="1551.11" cy="443.56" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 25
+60,920,521</title></circle>
+<circle cx="1607.41" cy="427.17" r="6" style="fill:rgb(0,158,115); fill-opacity:1; stroke:rgb(0,158,115); stroke-opacity:0; stroke-width:2"><title>what-if-2021-03
+week: 26
+63,260,882</title></circle>
+</g>
+</g>
+<line x1="1760" y1="286" x2="1792" y2="286" stroke="rgb(0,158,115)" stroke-width="2" stroke-dasharray="3 3"/>
+<text x="1800" y="291" class="small" font-size="14">2024 · what-if-2021-03</text>
+</g>
+</svg>
