@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Disney Meta"
+title: "Disney+ — Mellon 6"
 author: "Benjamin De Kosnik <bkoz@gnu.org>"
-description: "Rough 2020-2025 Disney animation meta-collection results"
+description: "2017–2026 Disney+ Animation peer-swarm analysis"
 ---
 
 {::nomarkdown}
@@ -13,73 +13,79 @@ description: "Rough 2020-2025 Disney animation meta-collection results"
 <link rel="stylesheet" href="../resources/izzi-table-sort-wcag-22.css">
 <script defer type="text/javascript" src="../resources/izzi-table-sort-wcag-22.js"></script>
 <script type="text/javascript" crossorigin="anonymous" id="graph-hover"
-	src="../resources/izzi-graph-hover-txt-polyline-red.js">
-</script>
+  src="../resources/izzi-graph-hover-txt-polyline-red.js"></script>
 
-# Disney Meta
+# Disney+
 
-This is a rough, unvalidated Mellon Method 5 result for the frozen 2020,
-2021, 2022, 2023, 2024, and 2025 Alpha60 inventories.
+> **Provisional publication.** This Mellon 6 result is the stable expanded
+> 2017–2026 analysis page. It uses the frozen 65-member
+> Animation predecessor slice while H-08 dispositions remain pending. The 2026
+> normalization uses a provisional 6.1-billion Internet-user value and must
+> not be read as final.
+
+The cohort year comes from each frozen annual inventory, not release year.
+Category memberships are non-exclusive. Platform evidence does not establish
+current availability, exclusivity, territory, or availability window.
 
 | Cohort | Media objects |
 | ---: | ---: |
+| 2017 | 0 |
+| 2018 | 0 |
+| 2019 | 0 |
 | 2020 | 1 |
-| 2021 | 3 |
-| 2022 | 2 |
-| 2023 | 1 |
-| 2024 | 2 |
-| 2025 | 3 |
-| **Total** | **12** |
+| 2021 | 4 |
+| 2022 | 3 |
+| 2023 | 2 |
+| 2024 | 3 |
+| 2025 | 5 |
+| 2026 | 2 |
+| **Total** | **20** |
 
-## Weekly graph
+## Combined weekly graph
 
-Each line is one selected media object. Weekly unique downloader counts are
-shown on the 2025 ITU Internet-user scale: raw count multiplied by
-<code>ITU users in 2025 / ITU users in the sample-start year</code>.
+Each line is one selected annual media-object sample. Values are shown on the
+2025 ITU Internet-user scale; 2026 is provisional as noted above.
 
 {::nomarkdown}
-{% include mellon-5/runs/2020-2025-itu-2025/disney-meta-downloads-by-week.svg %}
+{% include mellon-6/runs/2017-2026-itu-2025/disney-plus-downloads-by-week.svg %}
 {:/}
+
+## Cohort small multiples
+
+{% include mellon-6/runs/2017-2026-itu-2025/disney-plus-year-small-multiples.html %}
 
 ## Aggregate results
 
-{% include mellon-5/runs/2020-2025-itu-2025/disney-meta-aggregate-table.html %}
+{% include mellon-6/runs/2017-2026-itu-2025/disney-plus-aggregate-table.html %}
 
-These values sum per-object cumulative measurements. They are not
+The aggregate values sum per-object cumulative measurements. They are not
 cross-object-deduplicated counts of people or IP addresses.
 
 ## Set definition
 
-<pre><code>production_tags intersects {
-  "marvel studios animation",
-  "pixar animation studios"
-}
-OR
-(
-  distribution_tags intersects {
-    "disney", "walt disney studios", "fx", "hulu"
-  }
-  AND release.genres intersects {
-    "Adult animation", "Animated sitcom"
-  }
-)
-OR collection_tags contains "star_wars"</code></pre>
+reviewed Animation universe AND exact Disney+ direct or approved Disney/Pixar/Marvel/Star Wars/National Geographic/ESPN/Hulu/FX hub evidence.
 
-Array matching is exact. The inventory year is the cohort year; release year
-does not determine membership.
+All matching uses exact canonical values. The Animation-universe requirement
+is applied before every category predicate.
 
 ## Selected media objects
 
-{% include mellon-5/runs/2020-2025-itu-2025/disney-meta-media-objects-table.html %}
+{% include mellon-6/runs/2017-2026-itu-2025/disney-plus-media-objects-table.html %}
 
 ## Data and method
 
-- [Cohorts JSON](../data/mellon-5/runs/2020-2025-itu-2025/disney-meta-cohorts.json)
-- [Weekly CSV](../data/mellon-5/runs/2020-2025-itu-2025/disney-meta-weekly.csv)
-- [Weekly JSON](../data/mellon-5/runs/2020-2025-itu-2025/disney-meta-weekly.json)
-- [Aggregate CSV](../data/mellon-5/runs/2020-2025-itu-2025/disney-meta-aggregate.csv)
-- [Itemized CSV](../data/mellon-5/runs/2020-2025-itu-2025/disney-meta-itemized.csv)
-- [Selection manifest](../data/mellon-5/runs/2020-2025-itu-2025/selection-manifest.json)
+- [Cohorts JSON](../data/mellon-6/runs/2017-2026-itu-2025/disney-plus-cohorts.json)
+- [Weekly CSV](../data/mellon-6/runs/2017-2026-itu-2025/disney-plus-weekly.csv)
+- [Weekly JSON](../data/mellon-6/runs/2017-2026-itu-2025/disney-plus-weekly.json)
+- [Aggregate CSV](../data/mellon-6/runs/2017-2026-itu-2025/disney-plus-aggregate.csv)
+- [Aggregate JSON](../data/mellon-6/runs/2017-2026-itu-2025/disney-plus-aggregate.json)
+- [Itemized CSV](../data/mellon-6/runs/2017-2026-itu-2025/disney-plus-itemized.csv)
+- [Itemized JSON](../data/mellon-6/runs/2017-2026-itu-2025/disney-plus-itemized.json)
+- [Exclusions CSV](../data/mellon-6/runs/2017-2026-itu-2025/disney-plus-exclusions.csv)
+- [Exclusions JSON](../data/mellon-6/runs/2017-2026-itu-2025/disney-plus-exclusions.json)
+- [Selection manifest](../data/mellon-6/runs/2017-2026-itu-2025/selection-manifest.json)
+- [Build receipt](../data/mellon-6/runs/2017-2026-itu-2025/build-receipt.json)
+- [Independent validation](../data/mellon-6/runs/2017-2026-itu-2025/independent-validation-receipt.json)
 
-Method <code>mellon-5-meta-collection 1.1.0-rough</code>; run
-<code>2020-2025-itu-2025</code>; ITU reference year 2025.
+Method `mellon-6-animation 1.0.0-draft`; run `2017-2026-itu-2025`;
+canonical metadata `bf6a662f03337eef48ebb15a874263fa00cdc6e1`; ITU reference year 2025.

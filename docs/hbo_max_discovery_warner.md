@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Animated features — Mellon 6"
+title: "HBO / Max / Discovery / Warner — Mellon 6"
 author: "Benjamin De Kosnik <bkoz@gnu.org>"
-description: "2017–2026 animated-feature peer-swarm analysis"
+description: "2017–2026 HBO / Max / Discovery / Warner Animation peer-swarm analysis"
 ---
 
 {::nomarkdown}
@@ -15,7 +15,7 @@ description: "2017–2026 animated-feature peer-swarm analysis"
 <script type="text/javascript" crossorigin="anonymous" id="graph-hover"
   src="../resources/izzi-graph-hover-txt-polyline-red.js"></script>
 
-# Animated features
+# HBO / Max / Discovery / Warner
 
 > **Provisional publication.** This Mellon 6 result is the stable expanded
 > 2017–2026 analysis page. It uses the frozen 65-member
@@ -32,14 +32,14 @@ current availability, exclusivity, territory, or availability window.
 | 2017 | 0 |
 | 2018 | 0 |
 | 2019 | 0 |
-| 2020 | 2 |
-| 2021 | 2 |
-| 2022 | 1 |
-| 2023 | 2 |
-| 2024 | 3 |
-| 2025 | 2 |
-| 2026 | 1 |
-| **Total** | **13** |
+| 2020 | 0 |
+| 2021 | 0 |
+| 2022 | 0 |
+| 2023 | 0 |
+| 2024 | 0 |
+| 2025 | 0 |
+| 2026 | 0 |
+| **Total** | **0** |
 
 ## Combined weekly graph
 
@@ -47,42 +47,42 @@ Each line is one selected annual media-object sample. Values are shown on the
 2025 ITU Internet-user scale; 2026 is provisional as noted above.
 
 {::nomarkdown}
-{% include mellon-6/runs/2017-2026-itu-2025/animated-features-downloads-by-week.svg %}
+{% include mellon-6/runs/2017-2026-itu-2025/hbo-max-discovery-warner-downloads-by-week.svg %}
 {:/}
 
 ## Cohort small multiples
 
-{% include mellon-6/runs/2017-2026-itu-2025/animated-features-year-small-multiples.html %}
+{% include mellon-6/runs/2017-2026-itu-2025/hbo-max-discovery-warner-year-small-multiples.html %}
 
 ## Aggregate results
 
-{% include mellon-6/runs/2017-2026-itu-2025/animated-features-aggregate-table.html %}
+{% include mellon-6/runs/2017-2026-itu-2025/hbo-max-discovery-warner-aggregate-table.html %}
 
 The aggregate values sum per-object cumulative measurements. They are not
 cross-object-deduplicated counts of people or IP addresses.
 
 ## Set definition
 
-reviewed Animation universe AND media_object.type equals film.
+reviewed Animation universe AND exact HBO Max/Max, approved HBO network-origin, or direct Discovery+ evidence; generic Warner tags excluded.
 
 All matching uses exact canonical values. The Animation-universe requirement
 is applied before every category predicate.
 
 ## Selected media objects
 
-{% include mellon-6/runs/2017-2026-itu-2025/animated-features-media-objects-table.html %}
+{% include mellon-6/runs/2017-2026-itu-2025/hbo-max-discovery-warner-media-objects-table.html %}
 
 ## Data and method
 
-- [Cohorts JSON](../data/mellon-6/runs/2017-2026-itu-2025/animated-features-cohorts.json)
-- [Weekly CSV](../data/mellon-6/runs/2017-2026-itu-2025/animated-features-weekly.csv)
-- [Weekly JSON](../data/mellon-6/runs/2017-2026-itu-2025/animated-features-weekly.json)
-- [Aggregate CSV](../data/mellon-6/runs/2017-2026-itu-2025/animated-features-aggregate.csv)
-- [Aggregate JSON](../data/mellon-6/runs/2017-2026-itu-2025/animated-features-aggregate.json)
-- [Itemized CSV](../data/mellon-6/runs/2017-2026-itu-2025/animated-features-itemized.csv)
-- [Itemized JSON](../data/mellon-6/runs/2017-2026-itu-2025/animated-features-itemized.json)
-- [Exclusions CSV](../data/mellon-6/runs/2017-2026-itu-2025/animated-features-exclusions.csv)
-- [Exclusions JSON](../data/mellon-6/runs/2017-2026-itu-2025/animated-features-exclusions.json)
+- [Cohorts JSON](../data/mellon-6/runs/2017-2026-itu-2025/hbo-max-discovery-warner-cohorts.json)
+- [Weekly CSV](../data/mellon-6/runs/2017-2026-itu-2025/hbo-max-discovery-warner-weekly.csv)
+- [Weekly JSON](../data/mellon-6/runs/2017-2026-itu-2025/hbo-max-discovery-warner-weekly.json)
+- [Aggregate CSV](../data/mellon-6/runs/2017-2026-itu-2025/hbo-max-discovery-warner-aggregate.csv)
+- [Aggregate JSON](../data/mellon-6/runs/2017-2026-itu-2025/hbo-max-discovery-warner-aggregate.json)
+- [Itemized CSV](../data/mellon-6/runs/2017-2026-itu-2025/hbo-max-discovery-warner-itemized.csv)
+- [Itemized JSON](../data/mellon-6/runs/2017-2026-itu-2025/hbo-max-discovery-warner-itemized.json)
+- [Exclusions CSV](../data/mellon-6/runs/2017-2026-itu-2025/hbo-max-discovery-warner-exclusions.csv)
+- [Exclusions JSON](../data/mellon-6/runs/2017-2026-itu-2025/hbo-max-discovery-warner-exclusions.json)
 - [Selection manifest](../data/mellon-6/runs/2017-2026-itu-2025/selection-manifest.json)
 - [Build receipt](../data/mellon-6/runs/2017-2026-itu-2025/build-receipt.json)
 - [Independent validation](../data/mellon-6/runs/2017-2026-itu-2025/independent-validation-receipt.json)

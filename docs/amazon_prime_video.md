@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Animated features — Mellon 6"
+title: "Amazon Prime Video — Mellon 6"
 author: "Benjamin De Kosnik <bkoz@gnu.org>"
-description: "2017–2026 animated-feature peer-swarm analysis"
+description: "2017–2026 Amazon Prime Video Animation peer-swarm analysis"
 ---
 
 {::nomarkdown}
@@ -15,7 +15,7 @@ description: "2017–2026 animated-feature peer-swarm analysis"
 <script type="text/javascript" crossorigin="anonymous" id="graph-hover"
   src="../resources/izzi-graph-hover-txt-polyline-red.js"></script>
 
-# Animated features
+# Amazon Prime Video
 
 > **Provisional publication.** This Mellon 6 result is the stable expanded
 > 2017–2026 analysis page. It uses the frozen 65-member
@@ -31,15 +31,15 @@ current availability, exclusivity, territory, or availability window.
 | ---: | ---: |
 | 2017 | 0 |
 | 2018 | 0 |
-| 2019 | 0 |
-| 2020 | 2 |
-| 2021 | 2 |
-| 2022 | 1 |
-| 2023 | 2 |
-| 2024 | 3 |
-| 2025 | 2 |
-| 2026 | 1 |
-| **Total** | **13** |
+| 2019 | 1 |
+| 2020 | 1 |
+| 2021 | 1 |
+| 2022 | 2 |
+| 2023 | 1 |
+| 2024 | 0 |
+| 2025 | 1 |
+| 2026 | 0 |
+| **Total** | **7** |
 
 ## Combined weekly graph
 
@@ -47,42 +47,42 @@ Each line is one selected annual media-object sample. Values are shown on the
 2025 ITU Internet-user scale; 2026 is provisional as noted above.
 
 {::nomarkdown}
-{% include mellon-6/runs/2017-2026-itu-2025/animated-features-downloads-by-week.svg %}
+{% include mellon-6/runs/2017-2026-itu-2025/amazon-prime-video-downloads-by-week.svg %}
 {:/}
 
 ## Cohort small multiples
 
-{% include mellon-6/runs/2017-2026-itu-2025/animated-features-year-small-multiples.html %}
+{% include mellon-6/runs/2017-2026-itu-2025/amazon-prime-video-year-small-multiples.html %}
 
 ## Aggregate results
 
-{% include mellon-6/runs/2017-2026-itu-2025/animated-features-aggregate-table.html %}
+{% include mellon-6/runs/2017-2026-itu-2025/amazon-prime-video-aggregate-table.html %}
 
 The aggregate values sum per-object cumulative measurements. They are not
 cross-object-deduplicated counts of people or IP addresses.
 
 ## Set definition
 
-reviewed Animation universe AND media_object.type equals film.
+reviewed Animation universe AND exact Amazon Prime Video distribution evidence.
 
 All matching uses exact canonical values. The Animation-universe requirement
 is applied before every category predicate.
 
 ## Selected media objects
 
-{% include mellon-6/runs/2017-2026-itu-2025/animated-features-media-objects-table.html %}
+{% include mellon-6/runs/2017-2026-itu-2025/amazon-prime-video-media-objects-table.html %}
 
 ## Data and method
 
-- [Cohorts JSON](../data/mellon-6/runs/2017-2026-itu-2025/animated-features-cohorts.json)
-- [Weekly CSV](../data/mellon-6/runs/2017-2026-itu-2025/animated-features-weekly.csv)
-- [Weekly JSON](../data/mellon-6/runs/2017-2026-itu-2025/animated-features-weekly.json)
-- [Aggregate CSV](../data/mellon-6/runs/2017-2026-itu-2025/animated-features-aggregate.csv)
-- [Aggregate JSON](../data/mellon-6/runs/2017-2026-itu-2025/animated-features-aggregate.json)
-- [Itemized CSV](../data/mellon-6/runs/2017-2026-itu-2025/animated-features-itemized.csv)
-- [Itemized JSON](../data/mellon-6/runs/2017-2026-itu-2025/animated-features-itemized.json)
-- [Exclusions CSV](../data/mellon-6/runs/2017-2026-itu-2025/animated-features-exclusions.csv)
-- [Exclusions JSON](../data/mellon-6/runs/2017-2026-itu-2025/animated-features-exclusions.json)
+- [Cohorts JSON](../data/mellon-6/runs/2017-2026-itu-2025/amazon-prime-video-cohorts.json)
+- [Weekly CSV](../data/mellon-6/runs/2017-2026-itu-2025/amazon-prime-video-weekly.csv)
+- [Weekly JSON](../data/mellon-6/runs/2017-2026-itu-2025/amazon-prime-video-weekly.json)
+- [Aggregate CSV](../data/mellon-6/runs/2017-2026-itu-2025/amazon-prime-video-aggregate.csv)
+- [Aggregate JSON](../data/mellon-6/runs/2017-2026-itu-2025/amazon-prime-video-aggregate.json)
+- [Itemized CSV](../data/mellon-6/runs/2017-2026-itu-2025/amazon-prime-video-itemized.csv)
+- [Itemized JSON](../data/mellon-6/runs/2017-2026-itu-2025/amazon-prime-video-itemized.json)
+- [Exclusions CSV](../data/mellon-6/runs/2017-2026-itu-2025/amazon-prime-video-exclusions.csv)
+- [Exclusions JSON](../data/mellon-6/runs/2017-2026-itu-2025/amazon-prime-video-exclusions.json)
 - [Selection manifest](../data/mellon-6/runs/2017-2026-itu-2025/selection-manifest.json)
 - [Build receipt](../data/mellon-6/runs/2017-2026-itu-2025/build-receipt.json)
 - [Independent validation](../data/mellon-6/runs/2017-2026-itu-2025/independent-validation-receipt.json)

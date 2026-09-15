@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Netflix Meta"
+title: "Netflix — Mellon 6"
 author: "Benjamin De Kosnik <bkoz@gnu.org>"
-description: "Rough 2020-2025 Netflix animation meta-collection results"
+description: "2017–2026 Netflix Animation peer-swarm analysis"
 ---
 
 {::nomarkdown}
@@ -13,67 +13,79 @@ description: "Rough 2020-2025 Netflix animation meta-collection results"
 <link rel="stylesheet" href="../resources/izzi-table-sort-wcag-22.css">
 <script defer type="text/javascript" src="../resources/izzi-table-sort-wcag-22.js"></script>
 <script type="text/javascript" crossorigin="anonymous" id="graph-hover"
-	src="../resources/izzi-graph-hover-txt-polyline-red.js">
-</script>
+  src="../resources/izzi-graph-hover-txt-polyline-red.js"></script>
 
-# Netflix Meta
+# Netflix
 
-This is a rough, unvalidated Mellon Method 5 result for the frozen 2020,
-2021, 2022, 2023, 2024, and 2025 Alpha60 inventories.
+> **Provisional publication.** This Mellon 6 result is the stable expanded
+> 2017–2026 analysis page. It uses the frozen 65-member
+> Animation predecessor slice while H-08 dispositions remain pending. The 2026
+> normalization uses a provisional 6.1-billion Internet-user value and must
+> not be read as final.
+
+The cohort year comes from each frozen annual inventory, not release year.
+Category memberships are non-exclusive. Platform evidence does not establish
+current availability, exclusivity, territory, or availability window.
 
 | Cohort | Media objects |
 | ---: | ---: |
-| 2020 | 1 |
-| 2021 | 1 |
+| 2017 | 0 |
+| 2018 | 0 |
+| 2019 | 2 |
+| 2020 | 3 |
+| 2021 | 5 |
 | 2022 | 0 |
 | 2023 | 1 |
 | 2024 | 3 |
-| 2025 | 2 |
-| **Total** | **8** |
+| 2025 | 1 |
+| 2026 | 1 |
+| **Total** | **16** |
 
-## Weekly graph
+## Combined weekly graph
 
-Each line is one selected media object. Weekly unique downloader counts are
-shown on the 2025 ITU Internet-user scale: raw count multiplied by
-<code>ITU users in 2025 / ITU users in the sample-start year</code>.
+Each line is one selected annual media-object sample. Values are shown on the
+2025 ITU Internet-user scale; 2026 is provisional as noted above.
 
 {::nomarkdown}
-{% include mellon-5/runs/2020-2025-itu-2025/netflix-meta-downloads-by-week.svg %}
+{% include mellon-6/runs/2017-2026-itu-2025/netflix-downloads-by-week.svg %}
 {:/}
+
+## Cohort small multiples
+
+{% include mellon-6/runs/2017-2026-itu-2025/netflix-year-small-multiples.html %}
 
 ## Aggregate results
 
-{% include mellon-5/runs/2020-2025-itu-2025/netflix-meta-aggregate-table.html %}
+{% include mellon-6/runs/2017-2026-itu-2025/netflix-aggregate-table.html %}
 
-These values sum per-object cumulative measurements. They are not
+The aggregate values sum per-object cumulative measurements. They are not
 cross-object-deduplicated counts of people or IP addresses.
 
 ## Set definition
 
-<pre><code>production_tags contains "netflix animation studios"
-OR
-(
-  distribution_tags contains "netflix"
-  AND release.genres intersects {
-    "Adult animation", "Animated sitcom"
-  }
-)</code></pre>
+reviewed Animation universe AND exact Netflix distribution evidence.
 
-Array matching is exact. The inventory year is the cohort year; release year
-does not determine membership.
+All matching uses exact canonical values. The Animation-universe requirement
+is applied before every category predicate.
 
 ## Selected media objects
 
-{% include mellon-5/runs/2020-2025-itu-2025/netflix-meta-media-objects-table.html %}
+{% include mellon-6/runs/2017-2026-itu-2025/netflix-media-objects-table.html %}
 
 ## Data and method
 
-- [Cohorts JSON](../data/mellon-5/runs/2020-2025-itu-2025/netflix-meta-cohorts.json)
-- [Weekly CSV](../data/mellon-5/runs/2020-2025-itu-2025/netflix-meta-weekly.csv)
-- [Weekly JSON](../data/mellon-5/runs/2020-2025-itu-2025/netflix-meta-weekly.json)
-- [Aggregate CSV](../data/mellon-5/runs/2020-2025-itu-2025/netflix-meta-aggregate.csv)
-- [Itemized CSV](../data/mellon-5/runs/2020-2025-itu-2025/netflix-meta-itemized.csv)
-- [Selection manifest](../data/mellon-5/runs/2020-2025-itu-2025/selection-manifest.json)
+- [Cohorts JSON](../data/mellon-6/runs/2017-2026-itu-2025/netflix-cohorts.json)
+- [Weekly CSV](../data/mellon-6/runs/2017-2026-itu-2025/netflix-weekly.csv)
+- [Weekly JSON](../data/mellon-6/runs/2017-2026-itu-2025/netflix-weekly.json)
+- [Aggregate CSV](../data/mellon-6/runs/2017-2026-itu-2025/netflix-aggregate.csv)
+- [Aggregate JSON](../data/mellon-6/runs/2017-2026-itu-2025/netflix-aggregate.json)
+- [Itemized CSV](../data/mellon-6/runs/2017-2026-itu-2025/netflix-itemized.csv)
+- [Itemized JSON](../data/mellon-6/runs/2017-2026-itu-2025/netflix-itemized.json)
+- [Exclusions CSV](../data/mellon-6/runs/2017-2026-itu-2025/netflix-exclusions.csv)
+- [Exclusions JSON](../data/mellon-6/runs/2017-2026-itu-2025/netflix-exclusions.json)
+- [Selection manifest](../data/mellon-6/runs/2017-2026-itu-2025/selection-manifest.json)
+- [Build receipt](../data/mellon-6/runs/2017-2026-itu-2025/build-receipt.json)
+- [Independent validation](../data/mellon-6/runs/2017-2026-itu-2025/independent-validation-receipt.json)
 
-Method <code>mellon-5-meta-collection 1.1.0-rough</code>; run
-<code>2020-2025-itu-2025</code>; ITU reference year 2025.
+Method `mellon-6-animation 1.0.0-draft`; run `2017-2026-itu-2025`;
+canonical metadata `bf6a662f03337eef48ebb15a874263fa00cdc6e1`; ITU reference year 2025.
