@@ -145,5 +145,26 @@
     "unique_btiha": 214,
     "uploaders_per_unique_btiha": "7829.135514",
     "weekly_source": "data/json/invincible-301-week.json"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "invincible-401",
+    "collection_name": "Invincible",
+    "cumulative_source": "data/json/invincible-401-cumulative.json",
+    "cumulative_unique_downloaders": 21534524,
+    "cumulative_unique_uploaders": 1704456,
+    "downloaders_per_unique_btiha": "105046.458537",
+    "membership_evidence": "branch:amazon-prime-video-direct; distribution_tags intersects [\"amazon prime video\"]",
+    "sample_end_date": "2026-06-30",
+    "sample_start_date": "2026-03-18",
+    "sample_weeks": 15,
+    "sample_year_end": 2026,
+    "sample_year_start": 2026,
+    "set": "amazon-prime-video",
+    "source_repository": "alpha60-devops/alpha60-results-2026",
+    "source_revision": "4c46889187a46fcacd9a70ec6379ce66f3cdfa0e",
+    "unique_btiha": 205,
+    "uploaders_per_unique_btiha": "8314.419512",
+    "weekly_source": "data/json/invincible-401-week.json"
   }
 ]

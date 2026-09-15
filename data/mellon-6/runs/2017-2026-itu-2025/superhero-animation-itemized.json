@@ -250,5 +250,26 @@
     "unique_btiha": 526,
     "uploaders_per_unique_btiha": "2745.745247",
     "weekly_source": "data/json/your-friendly-neighborhood-spider-man-01-week.json"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "invincible-401",
+    "collection_name": "Invincible",
+    "cumulative_source": "data/json/invincible-401-cumulative.json",
+    "cumulative_unique_downloaders": 21534524,
+    "cumulative_unique_uploaders": 1704456,
+    "downloaders_per_unique_btiha": "105046.458537",
+    "membership_evidence": "branch:superhero-genre; release.genres contains \"Superhero\"",
+    "sample_end_date": "2026-06-30",
+    "sample_start_date": "2026-03-18",
+    "sample_weeks": 15,
+    "sample_year_end": 2026,
+    "sample_year_start": 2026,
+    "set": "superhero-animation",
+    "source_repository": "alpha60-devops/alpha60-results-2026",
+    "source_revision": "4c46889187a46fcacd9a70ec6379ce66f3cdfa0e",
+    "unique_btiha": 205,
+    "uploaders_per_unique_btiha": "8314.419512",
+    "weekly_source": "data/json/invincible-401-week.json"
   }
 ]

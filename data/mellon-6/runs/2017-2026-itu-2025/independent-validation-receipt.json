@@ -1,6 +1,7 @@
 {
   "annual_rows": 646,
   "distinct_collection_keys": 644,
+  "line_graph_renderer": "izzi",
   "publication_gates": {
     "h08_animation_dispositions_complete": false,
     "itu_2026_policy_approved": false,
@@ -12,7 +13,7 @@
   ],
   "run_id": "2017-2026-itu-2025",
   "schema_version": "1.0.0",
-  "selected_source_runs_checked": 65,
+  "selected_source_runs_checked": 66,
   "sets_checked": [
     "amazon-prime-video",
     "animated-features",

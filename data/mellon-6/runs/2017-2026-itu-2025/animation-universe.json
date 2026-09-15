@@ -24,6 +24,7 @@
     "invincible-101",
     "invincible-201",
     "invincible-301",
+    "invincible-401",
     "japan-sinks",
     "king-of-the-hill-14",
     "lazarus-101",
@@ -66,8 +67,15 @@
     "your-friendly-neighborhood-spider-man-01",
     "zootopia-2"
   ],
-  "count": 65,
-  "membership_sha256": "51ac9f400c3b4607cf8065dd5404370108e1ff0726c0aef9d8175fb796673bf9",
+  "count": 66,
+  "membership_sha256": "ae14ad1477a703977fcee0b608a7979d80007870e3e43e4dc5a2a79be7892e37",
+  "method_additions": [
+    {
+      "collection_key": "invincible-401",
+      "disposition": "owner-approved-2026-09-14",
+      "reason": "Animated fourth-season Invincible sample omitted from the published predecessor slice"
+    }
+  ],
   "review_status": "published-predecessor-65-members-pending-h08",
   "run_id": "2017-2026-itu-2025",
   "schema_version": "1.0.0",

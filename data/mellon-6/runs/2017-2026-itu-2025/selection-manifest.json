@@ -2787,6 +2787,15 @@
       "set": "amazon-prime-video"
     },
     {
+      "cohort_year": 2026,
+      "collection_key": "invincible-401",
+      "evidence": [
+        "branch:amazon-prime-video-direct",
+        "distribution_tags intersects [\"amazon prime video\"]"
+      ],
+      "set": "amazon-prime-video"
+    },
+    {
       "cohort_year": 2020,
       "collection_key": "altered-carbon-resleeved",
       "evidence": [
@@ -3409,6 +3418,14 @@
     },
     {
       "cohort_year": 2026,
+      "collection_key": "invincible-401",
+      "evidence": [
+        "owner-approved Animation addition 2026-09-14"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
       "collection_key": "maul-shadow-lord-101",
       "evidence": [
         "reviewed slice animation"
@@ -4016,6 +4033,15 @@
         "reviewed slice spider_man"
       ],
       "set": "superhero-animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "invincible-401",
+      "evidence": [
+        "branch:superhero-genre",
+        "release.genres contains \"Superhero\""
+      ],
+      "set": "superhero-animation"
     }
   ],
   "metadata_source": {
@@ -4032,7 +4058,7 @@
     "validation_report": "reports/validation/v2.json"
   },
   "method_id": "mellon-6-animation",
-  "method_sha256": "e09b4e7232175d2660d841342bcbdedc606994db09fae84ed8d9eb245be9c7f3",
+  "method_sha256": "bc77e0235f8d75bd2307d13568353027f250597654f277db0b0bce5c3e5b89c6",
   "method_version": "1.0.0-draft",
   "publication_gates": {
     "h08_animation_dispositions_complete": false,
@@ -4867,6 +4893,19 @@
     },
     {
       "cohort_year": 2026,
+      "collection_key": "invincible-401",
+      "cumulative_path": "data/json/invincible-401-cumulative.json",
+      "cumulative_sha256": "888bd08bd944494830e438bef2e65160964171ad6b0086cf16aa70e6cc5d25c8",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "4c46889187a46fcacd9a70ec6379ce66f3cdfa0e",
+      "sample_duration": "2026-03-18-to-2026-06-30",
+      "sample_year_end": 2026,
+      "sample_year_start": 2026,
+      "weekly_path": "data/json/invincible-401-week.json",
+      "weekly_sha256": "23af04ab600e4bc06254bb8c1992b62b352ea8b2a495aadca952c9b733e0824f"
+    },
+    {
+      "cohort_year": 2026,
       "collection_key": "maul-shadow-lord-101",
       "cumulative_path": "data/json/maul-shadow-lord-101-cumulative.json",
       "cumulative_sha256": "5cac980efbdfeabb1e767a1addf4e77da94598237e3d0cd1b61b6e0e6b78fc6e",
@@ -4905,12 +4944,12 @@
         "2023": 6,
         "2024": 8,
         "2025": 15,
-        "2026": 4
+        "2026": 5
       },
       "id": "animation",
-      "total_memberships": 65,
-      "unique_media_objects": 65,
-      "weekly_points": 1127
+      "total_memberships": 66,
+      "unique_media_objects": 66,
+      "weekly_points": 1142
     },
     {
       "branch_counts": {
@@ -4963,7 +5002,7 @@
     },
     {
       "branch_counts": {
-        "amazon-prime-video-direct": 7
+        "amazon-prime-video-direct": 8
       },
       "cohort_counts": {
         "2017": 0,
@@ -4975,12 +5014,12 @@
         "2023": 1,
         "2024": 0,
         "2025": 1,
-        "2026": 0
+        "2026": 1
       },
       "id": "amazon-prime-video",
-      "total_memberships": 7,
-      "unique_media_objects": 7,
-      "weekly_points": 80
+      "total_memberships": 8,
+      "unique_media_objects": 8,
+      "weekly_points": 95
     },
     {
       "branch_counts": {},
@@ -5025,7 +5064,7 @@
     {
       "branch_counts": {
         "spider-man-reviewed-slice": 2,
-        "superhero-genre": 11
+        "superhero-genre": 12
       },
       "cohort_counts": {
         "2017": 0,
@@ -5037,12 +5076,12 @@
         "2023": 2,
         "2024": 2,
         "2025": 3,
-        "2026": 0
+        "2026": 1
       },
       "id": "superhero-animation",
-      "total_memberships": 12,
-      "unique_media_objects": 12,
-      "weekly_points": 197
+      "total_memberships": 13,
+      "unique_media_objects": 13,
+      "weekly_points": 212
     },
     {
       "branch_counts": {

@@ -2,7 +2,7 @@
 layout: default
 title: "Netflix — Mellon 6"
 author: "Benjamin De Kosnik <bkoz@gnu.org>"
-description: "2017–2026 Netflix Animation peer-swarm analysis"
+description: "2017–2026 Netflix peer-swarm analysis"
 ---
 
 {::nomarkdown}
@@ -18,10 +18,10 @@ description: "2017–2026 Netflix Animation peer-swarm analysis"
 # Netflix
 
 > **Provisional publication.** This Mellon 6 result is the stable expanded
-> 2017–2026 analysis page. It uses the frozen 65-member
-> Animation predecessor slice while H-08 dispositions remain pending. The 2026
-> normalization uses a provisional 6.1-billion Internet-user value and must
-> not be read as final.
+> 2017–2026 analysis page. It uses the frozen 65-member Animation predecessor
+> slice plus the owner-approved `invincible-401` addition. The remaining H-08
+> dispositions are pending. The 2026 normalization uses the unapproved
+> provisional 6.1-billion Internet-user value and must not be read as final.
 
 The cohort year comes from each frozen annual inventory, not release year.
 Category memberships are non-exclusive. Platform evidence does not establish
@@ -41,25 +41,15 @@ current availability, exclusivity, territory, or availability window.
 | 2026 | 1 |
 | **Total** | **16** |
 
-## Combined weekly graph
+## Graphs
 
-Each line is one selected annual media-object sample. Values are shown on the
-2025 ITU Internet-user scale; 2026 is provisional as noted above.
+Each line is one selected media object. Weekly unique downloader counts are
+shown on the 2025 ITU Internet-user scale; 2026 is provisional as noted above.
 
 {::nomarkdown}
 {% include mellon-6/runs/2017-2026-itu-2025/netflix-downloads-by-week.svg %}
 {:/}
 
-## Cohort small multiples
-
-{% include mellon-6/runs/2017-2026-itu-2025/netflix-year-small-multiples.html %}
-
-## Aggregate results
-
-{% include mellon-6/runs/2017-2026-itu-2025/netflix-aggregate-table.html %}
-
-The aggregate values sum per-object cumulative measurements. They are not
-cross-object-deduplicated counts of people or IP addresses.
 
 ## Set definition
 
@@ -77,8 +67,6 @@ is applied before every category predicate.
 - [Cohorts JSON](../data/mellon-6/runs/2017-2026-itu-2025/netflix-cohorts.json)
 - [Weekly CSV](../data/mellon-6/runs/2017-2026-itu-2025/netflix-weekly.csv)
 - [Weekly JSON](../data/mellon-6/runs/2017-2026-itu-2025/netflix-weekly.json)
-- [Aggregate CSV](../data/mellon-6/runs/2017-2026-itu-2025/netflix-aggregate.csv)
-- [Aggregate JSON](../data/mellon-6/runs/2017-2026-itu-2025/netflix-aggregate.json)
 - [Itemized CSV](../data/mellon-6/runs/2017-2026-itu-2025/netflix-itemized.csv)
 - [Itemized JSON](../data/mellon-6/runs/2017-2026-itu-2025/netflix-itemized.json)
 - [Exclusions CSV](../data/mellon-6/runs/2017-2026-itu-2025/netflix-exclusions.csv)

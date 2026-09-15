@@ -2,7 +2,7 @@
 layout: default
 title: "Disney+ — Mellon 6 draft"
 author: "Benjamin De Kosnik <bkoz@gnu.org>"
-description: "Draft 2017–2026 Disney+ Animation analysis"
+description: "Draft 2017–2026 Disney+ peer-swarm analysis"
 ---
 
 {::nomarkdown}
@@ -18,10 +18,11 @@ description: "Draft 2017–2026 Disney+ Animation analysis"
 # Disney+
 
 > **Draft publication.** This Mellon 6 output is available for review but does
-> not replace the stable Mellon 5 pages. It uses the frozen 65-member Animation
-> predecessor slice while H-08 dispositions remain pending. The 2026
-> normalization uses the unapproved provisional 6.1-billion Internet-user
-> value and must not be read as final.
+> not replace the stable Mellon 6 pages. It uses the frozen 65-member Animation
+> predecessor slice plus the owner-approved `invincible-401` addition. The
+> remaining H-08 dispositions are pending. The 2026 normalization uses the
+> unapproved provisional 6.1-billion Internet-user value and must not be read
+> as final.
 
 The cohort year comes from each frozen annual inventory, not release year.
 Category memberships are non-exclusive. Platform evidence does not establish
@@ -41,25 +42,15 @@ current availability, exclusivity, territory, or availability window.
 | 2026 | 2 |
 | **Total** | **20** |
 
-## Combined weekly graph
+## Graphs
 
-Each line is one selected annual media-object sample. Values are shown on the
-2025 ITU Internet-user scale; 2026 is provisional as noted above.
+Each line is one selected media object. Weekly unique downloader counts are
+shown on the 2025 ITU Internet-user scale; 2026 is provisional as noted above.
 
 {::nomarkdown}
 {% include mellon-6/runs/2017-2026-itu-2025/disney-plus-downloads-by-week.svg %}
 {:/}
 
-## Cohort small multiples
-
-{% include mellon-6/runs/2017-2026-itu-2025/disney-plus-year-small-multiples.html %}
-
-## Aggregate results
-
-{% include mellon-6/runs/2017-2026-itu-2025/disney-plus-aggregate-table.html %}
-
-The aggregate values sum per-object cumulative measurements. They are not
-cross-object-deduplicated counts of people or IP addresses.
 
 ## Set definition
 
@@ -77,8 +68,6 @@ is applied before every category predicate.
 - [Cohorts JSON](../../data/mellon-6/runs/2017-2026-itu-2025/disney-plus-cohorts.json)
 - [Weekly CSV](../../data/mellon-6/runs/2017-2026-itu-2025/disney-plus-weekly.csv)
 - [Weekly JSON](../../data/mellon-6/runs/2017-2026-itu-2025/disney-plus-weekly.json)
-- [Aggregate CSV](../../data/mellon-6/runs/2017-2026-itu-2025/disney-plus-aggregate.csv)
-- [Aggregate JSON](../../data/mellon-6/runs/2017-2026-itu-2025/disney-plus-aggregate.json)
 - [Itemized CSV](../../data/mellon-6/runs/2017-2026-itu-2025/disney-plus-itemized.csv)
 - [Itemized JSON](../../data/mellon-6/runs/2017-2026-itu-2025/disney-plus-itemized.json)
 - [Exclusions CSV](../../data/mellon-6/runs/2017-2026-itu-2025/disney-plus-exclusions.csv)

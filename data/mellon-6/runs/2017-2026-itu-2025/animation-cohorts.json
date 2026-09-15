@@ -9,7 +9,7 @@
     "2023": 6,
     "2024": 8,
     "2025": 15,
-    "2026": 4
+    "2026": 5
   },
   "memberships": [
     {
@@ -518,6 +518,14 @@
     },
     {
       "cohort_year": 2026,
+      "collection_key": "invincible-401",
+      "evidence": [
+        "owner-approved Animation addition 2026-09-14"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
       "collection_key": "maul-shadow-lord-101",
       "evidence": [
         "reviewed slice animation"
@@ -543,5 +551,5 @@
     "predicate_summary": "reviewed configured Animation universe",
     "umbrella": true
   },
-  "total_memberships": 65
+  "total_memberships": 66
 }

@@ -18,10 +18,10 @@ description: "2017–2026 Animation peer-swarm analysis"
 # Animation
 
 > **Provisional publication.** This Mellon 6 result is the stable expanded
-> 2017–2026 analysis page. It uses the frozen 65-member
-> Animation predecessor slice while H-08 dispositions remain pending. The 2026
-> normalization uses a provisional 6.1-billion Internet-user value and must
-> not be read as final.
+> 2017–2026 analysis page. It uses the frozen 65-member Animation predecessor
+> slice plus the owner-approved `invincible-401` addition. The remaining H-08
+> dispositions are pending. The 2026 normalization uses the unapproved
+> provisional 6.1-billion Internet-user value and must not be read as final.
 
 The cohort year comes from each frozen annual inventory, not release year.
 Category memberships are non-exclusive. Platform evidence does not establish
@@ -38,28 +38,18 @@ current availability, exclusivity, territory, or availability window.
 | 2023 | 6 |
 | 2024 | 8 |
 | 2025 | 15 |
-| 2026 | 4 |
-| **Total** | **65** |
+| 2026 | 5 |
+| **Total** | **66** |
 
-## Combined weekly graph
+## Graphs
 
-Each line is one selected annual media-object sample. Values are shown on the
-2025 ITU Internet-user scale; 2026 is provisional as noted above.
+Each line is one selected media object. Weekly unique downloader counts are
+shown on the 2025 ITU Internet-user scale; 2026 is provisional as noted above.
 
 {::nomarkdown}
 {% include mellon-6/runs/2017-2026-itu-2025/animation-downloads-by-week.svg %}
 {:/}
 
-## Cohort small multiples
-
-{% include mellon-6/runs/2017-2026-itu-2025/animation-year-small-multiples.html %}
-
-## Aggregate results
-
-{% include mellon-6/runs/2017-2026-itu-2025/animation-aggregate-table.html %}
-
-The aggregate values sum per-object cumulative measurements. They are not
-cross-object-deduplicated counts of people or IP addresses.
 
 ## Set definition
 
@@ -77,8 +67,6 @@ is applied before every category predicate.
 - [Cohorts JSON](../data/mellon-6/runs/2017-2026-itu-2025/animation-cohorts.json)
 - [Weekly CSV](../data/mellon-6/runs/2017-2026-itu-2025/animation-weekly.csv)
 - [Weekly JSON](../data/mellon-6/runs/2017-2026-itu-2025/animation-weekly.json)
-- [Aggregate CSV](../data/mellon-6/runs/2017-2026-itu-2025/animation-aggregate.csv)
-- [Aggregate JSON](../data/mellon-6/runs/2017-2026-itu-2025/animation-aggregate.json)
 - [Itemized CSV](../data/mellon-6/runs/2017-2026-itu-2025/animation-itemized.csv)
 - [Itemized JSON](../data/mellon-6/runs/2017-2026-itu-2025/animation-itemized.json)
 - [Exclusions CSV](../data/mellon-6/runs/2017-2026-itu-2025/animation-exclusions.csv)

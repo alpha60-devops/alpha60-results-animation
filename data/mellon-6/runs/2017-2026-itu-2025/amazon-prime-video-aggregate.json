@@ -109,26 +109,26 @@
   },
   {
     "cohort_year": "2026",
-    "downloaders_per_unique_btiha": "0.000000",
-    "earliest_sample_date": "",
-    "latest_sample_date": "",
-    "selected_media_objects": 0,
+    "downloaders_per_unique_btiha": "105046.458537",
+    "earliest_sample_date": "2026-03-18",
+    "latest_sample_date": "2026-06-30",
+    "selected_media_objects": 1,
     "set": "amazon-prime-video",
-    "summed_cumulative_unique_downloaders": 0,
-    "summed_cumulative_unique_uploaders": 0,
-    "summed_unique_btiha": 0,
-    "uploaders_per_unique_btiha": "0.000000"
+    "summed_cumulative_unique_downloaders": 21534524,
+    "summed_cumulative_unique_uploaders": 1704456,
+    "summed_unique_btiha": 205,
+    "uploaders_per_unique_btiha": "8314.419512"
   },
   {
     "cohort_year": "all",
-    "downloaders_per_unique_btiha": "37920.112953",
+    "downloaders_per_unique_btiha": "49681.566667",
     "earliest_sample_date": "2019-09-13",
-    "latest_sample_date": "2025-05-21",
-    "selected_media_objects": 7,
+    "latest_sample_date": "2026-06-30",
+    "selected_media_objects": 8,
     "set": "amazon-prime-video",
-    "summed_cumulative_unique_downloaders": 36592909,
-    "summed_cumulative_unique_uploaders": 4751988,
-    "summed_unique_btiha": 965,
-    "uploaders_per_unique_btiha": "4924.339896"
+    "summed_cumulative_unique_downloaders": 58127433,
+    "summed_cumulative_unique_uploaders": 6456444,
+    "summed_unique_btiha": 1170,
+    "uploaders_per_unique_btiha": "5518.328205"
   }
 ]

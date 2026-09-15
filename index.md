@@ -26,7 +26,7 @@ project.
 Sample dates: 2017 to 2026
 
 > **Provisional publication.** Mellon 6 expands the stable analysis to ten
-> annual cohorts and seven overlapping categories. H-08 Animation candidate
+> annual cohorts and six non-empty overlapping category pages. H-08 Animation candidate
 > dispositions remain pending, and the 2026 normalization uses a provisional
 > 6.1-billion Internet-user value.
 
@@ -39,7 +39,6 @@ Sample dates: 2017 to 2026
 - [Disney+](/docs/disney_plus.md)
 - [Netflix](/docs/netflix.md)
 - [Amazon Prime Video](/docs/amazon_prime_video.md)
-- [HBO / Max / Discovery / Warner](/docs/hbo_max_discovery_warner.md)
 - [Animated Features](/docs/animated_features.md)
 - [Superhero Animation](/docs/superhero_animation.md)
 - [Japan-Origin Animation](/docs/japan_origin.md)
