@@ -69,5 +69,43 @@
         "all 15 memberships carry reviewed theatrical evidence"
       ]
     }
+  ],
+  "followup_deployments": [
+    {
+      "purpose": "Add a 50-pixel spacer immediately before the Animation Group Media Objects H2 on the landing page.",
+      "deployed_at": "2026-09-16T15:03:07-07:00",
+      "publication_commit": "c13c93d5b893fab54bae899dc0766c9a489ddc56",
+      "alpha60_reference_commit": "0a646c64171842206b84f5428d338b2e1207dfbd",
+      "workflow": {
+        "name": "Deploy Jekyll with GitHub Pages dependencies preinstalled",
+        "run_id": 35155422610,
+        "url": "https://github.com/alpha60-devops/alpha60-results-animation/actions/runs/35155422610",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-09-16T22:00:26Z",
+        "completed_at": "2026-09-16T22:02:29Z",
+        "jobs": [
+          {
+            "name": "build",
+            "job_id": 104993611954,
+            "conclusion": "success"
+          },
+          {
+            "name": "deploy",
+            "job_id": 104993955203,
+            "conclusion": "success"
+          }
+        ]
+      },
+      "live_check": {
+        "url": "https://alpha60-devops.github.io/alpha60-results-animation/",
+        "status": 200,
+        "assertions": [
+          "50px spacer is immediately before Animation Group Media Objects H2",
+          "H2 remains outside the itemized disclosure",
+          "86 canonical audit links remain present"
+        ]
+      }
+    }
   ]
 }
