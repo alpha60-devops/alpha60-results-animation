@@ -1,7 +1,7 @@
 {
   "method_config": "config/mellon-7/method-v1.json",
   "output_sha256": {
-    "_includes/animation-media-objects-list.html": "d61ee17076dd9f62b4c1dea548db00f878f355e7251e3a56bf2e81b222524155",
+    "_includes/animation-media-objects-list.html": "1814eeab21ea012e1b530596a1b17caef65e16a87d10eb50e6dbf67d37632ace",
     "_includes/mellon-7/runs/2017-2026-itu-2025/amazon-prime-video-aggregate-table.html": "d9679f1a4b3102bbf76d0f3dbc5e4602c942991ea68fff6302cf8c6a699b735b",
     "_includes/mellon-7/runs/2017-2026-itu-2025/amazon-prime-video-downloads-by-week.svg": "549cb0194957328f4616e1363ddddcce21a17ebfbf2a0b53450f4668072da2e4",
     "_includes/mellon-7/runs/2017-2026-itu-2025/amazon-prime-video-geo-slices-africa.html": "9ab664b5d66ff0a61bfdb4b6ffbec0b41ca2f7633534fcd0f9a45488a83d11bd",
