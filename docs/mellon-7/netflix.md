@@ -9,6 +9,8 @@ description: "Draft 2017–2026 Netflix peer-swarm analysis"
 <img src="../../resources/a60-logo-block-gray.simple.svg?sanitize=true" height="50" width="100" alt="Alpha60">
 {:/}
 
+<div style="height: 50px;"></div>
+
 <link rel="stylesheet" href="../../resources/izzi-table-wcag-22.css">
 <script defer type="text/javascript" crossorigin="anonymous" id="table-sort"
   src="../../resources/izzi-table-sort-wcag-22.js"></script>
@@ -38,6 +40,13 @@ description: "Draft 2017–2026 Netflix peer-swarm analysis"
     min-width: 4.5em;
     width: 4.5em !important;
   }
+  table.mellon-table[id$="-media-objects"] tbody th[scope="row"] {
+    font-size: 11px;
+  }
+  table.mellon-table[id$="-media-objects"] tbody td:nth-child(3) {
+    min-width: 14em;
+    white-space: nowrap;
+  }
 </style>
 <script type="text/javascript" crossorigin="anonymous" id="graph-hover"
   src="../../resources/izzi-graph-hover-txt-polyline-red.js"></script>
@@ -49,6 +58,8 @@ description: "Draft 2017–2026 Netflix peer-swarm analysis"
 > are complete. The 2026 normalization uses the
 > unapproved provisional 6.1-billion Internet-user value and must not be read
 > as final.
+
+<div style="height: 50px;"></div>
 
 ## Set definition
 

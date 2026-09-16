@@ -9,6 +9,8 @@ description: "2017–2026 Animation peer-swarm analysis"
 <img src="../resources/a60-logo-block-gray.simple.svg?sanitize=true" height="50" width="100" alt="Alpha60">
 {:/}
 
+<div style="height: 50px;"></div>
+
 <link rel="stylesheet" href="../resources/izzi-table-wcag-22.css">
 <script defer type="text/javascript" crossorigin="anonymous" id="table-sort"
   src="../resources/izzi-table-sort-wcag-22.js"></script>
@@ -38,6 +40,13 @@ description: "2017–2026 Animation peer-swarm analysis"
     min-width: 4.5em;
     width: 4.5em !important;
   }
+  table.mellon-table[id$="-media-objects"] tbody th[scope="row"] {
+    font-size: 11px;
+  }
+  table.mellon-table[id$="-media-objects"] tbody td:nth-child(3) {
+    min-width: 14em;
+    white-space: nowrap;
+  }
 </style>
 <script type="text/javascript" crossorigin="anonymous" id="graph-hover"
   src="../resources/izzi-graph-hover-txt-polyline-red.js"></script>
@@ -49,9 +58,9 @@ description: "2017–2026 Animation peer-swarm analysis"
 > The 2026 normalization uses the unapproved
 > provisional 6.1-billion Internet-user value and must not be read as final.
 
-## Set definition
+<div style="height: 50px;"></div>
 
-reviewed configured Animation universe.
+## Set definition
 
 This set uses the frozen 65-member Animation predecessor slice plus 21 owner-approved additions: `invincible-401`, `demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle`, `toy-story-5`, `all-you-need-is-kill`, `goat-2026`, `hoppers`, `super-mario-galaxy-movie`, `long-story-short-01`, `mating-season-01`, `stranger-things-tales-from-85-01`, `legend-of-galactic-heroes-die-neue-these`, `lego-star-wars-holiday-special-2020`, `archer-1408`, `dang-01`, `ghost-in-the-shell-2026-01`, `legend-of-aang-the-last-airbender`, `legend-of-vox-machina-410`, `president-curtis-01`, `rick-and-morty-901`, `star-wars-visions-the-ninth-jedi-01`, and `x-men-97-201`.
 
