@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
   "run_id": "2017-2026-itu-2025",
-  "deployed_at": "2026-09-16T14:08:18-07:00",
+  "deployed_at": "2026-09-16T14:32:56-07:00",
   "repository": "alpha60-devops/alpha60-results-animation",
-  "prior_stable_commit": "864c2853f0bb2082e8de729fb1a78c4af5795d99",
-  "publication_commit": "8eeaab68d5fb4f9d42b957f60de554c7564aef4e",
-  "alpha60_implementation_commit": "0ea7fd8dc8aad8aebcbcd9f2c4e9c41db28aa288",
+  "prior_stable_commit": "3f749f1ff186be3906d32b800a8c024edc8c33a1",
+  "publication_commit": "4b4a35edb846de64374b3a1cdf3456636ff80027",
+  "alpha60_implementation_commit": "af7b6fcd546fb8f9d4e52f7fa6994d6c1eaee5c1",
   "workflow": {
     "name": "Deploy Jekyll with GitHub Pages dependencies preinstalled",
-    "run_id": 35150480879,
-    "url": "https://github.com/alpha60-devops/alpha60-results-animation/actions/runs/35150480879",
+    "run_id": 35152844886,
+    "url": "https://github.com/alpha60-devops/alpha60-results-animation/actions/runs/35152844886",
     "status": "completed",
     "conclusion": "success",
-    "created_at": "2026-09-16T21:06:18Z",
-    "completed_at": "2026-09-16T21:08:19Z",
+    "created_at": "2026-09-16T21:31:20Z",
+    "completed_at": "2026-09-16T21:32:57Z",
     "jobs": [
       {
         "name": "build",
-        "job_id": 104977232295,
+        "job_id": 104985134174,
         "conclusion": "success"
       },
       {
         "name": "deploy",
-        "job_id": 104977580283,
+        "job_id": 104985529274,
         "conclusion": "success"
       }
     ]
@@ -33,7 +33,8 @@
       "status": 200,
       "assertions": [
         "86 canonical audit links",
-        "Animation Group Media Objects H2 summary",
+        "standalone Animation Group Media Objects H2",
+        "separate itemized disclosure with no nested H2",
         "all-you-need-is-kill canonical URL"
       ]
     },
