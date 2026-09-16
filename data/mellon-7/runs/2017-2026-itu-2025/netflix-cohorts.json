@@ -1,0 +1,220 @@
+{
+  "cohort_counts": {
+    "2017": 0,
+    "2018": 0,
+    "2019": 2,
+    "2020": 3,
+    "2021": 5,
+    "2022": 0,
+    "2023": 1,
+    "2024": 3,
+    "2025": 2,
+    "2026": 4
+  },
+  "memberships": [
+    {
+      "cohort_year": 2019,
+      "collection_key": "love-death-robots-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2019,
+      "collection_key": "she-ra-04",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "altered-carbon-resleeved",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "bojack-horseman-06",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "japan-sinks",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "love-death-robots-02",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "mitchells-vs-the-machines",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "q-force-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "trese-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "yasuke-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "blue-eye-samurai-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.1",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.2",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "arcane-02.3",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "long-story-short-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "love-death-robots-04",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "dang-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "dinosaurs-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "mating-season-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "stranger-things-tales-from-85-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    }
+  ],
+  "method_id": "mellon-7-animation",
+  "method_version": "1.0.0",
+  "run_id": "2017-2026-itu-2025",
+  "set": {
+    "branches": [
+      {
+        "id": "netflix-direct",
+        "predicate": {
+          "intersects": {
+            "field": "distribution_tags",
+            "values": [
+              "netflix",
+              "netflix international",
+              "netflix united states"
+            ]
+          }
+        }
+      }
+    ],
+    "id": "netflix",
+    "label": "Netflix",
+    "predicate_summary": "reviewed Animation universe AND exact Netflix distribution evidence"
+  },
+  "total_memberships": 20
+}

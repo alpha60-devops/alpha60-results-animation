@@ -1,0 +1,19 @@
+{
+  "aggregate": {
+    "cohort_year": "all",
+    "downloaders_per_unique_btiha": "0.000000",
+    "earliest_sample_date": "",
+    "latest_sample_date": "",
+    "selected_media_objects": 0,
+    "set": "hbo-max-discovery-warner",
+    "summed_cumulative_unique_downloaders": 0,
+    "summed_cumulative_unique_uploaders": 0,
+    "summed_unique_btiha": 0,
+    "uploaders_per_unique_btiha": "0.000000"
+  },
+  "geographic": [],
+  "itemized": [],
+  "label": "HBO / Max / Discovery / Warner",
+  "schema_version": "alpha60-meta-collection-tables/1",
+  "set_id": "hbo-max-discovery-warner"
+}

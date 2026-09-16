@@ -1,0 +1,60 @@
+{
+  "cohort_counts": {
+    "2017": 0,
+    "2018": 0,
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 0,
+    "2025": 0,
+    "2026": 0
+  },
+  "memberships": [],
+  "method_id": "mellon-7-animation",
+  "method_version": "1.0.0",
+  "run_id": "2017-2026-itu-2025",
+  "set": {
+    "branches": [
+      {
+        "id": "hbo-max-direct",
+        "predicate": {
+          "intersects": {
+            "field": "distribution_tags",
+            "values": [
+              "hbo max",
+              "max"
+            ]
+          }
+        }
+      },
+      {
+        "id": "hbo-network-origin",
+        "predicate": {
+          "contains": {
+            "field": "distribution_tags",
+            "value": "hbo"
+          }
+        }
+      },
+      {
+        "id": "discovery-plus-direct",
+        "predicate": {
+          "contains": {
+            "field": "distribution_tags",
+            "value": "discovery+"
+          }
+        }
+      }
+    ],
+    "excluded_aliases": [
+      "warner bros television distribution",
+      "warner bros pictures"
+    ],
+    "id": "hbo-max-discovery-warner",
+    "label": "HBO / Max / Discovery / Warner",
+    "predicate_summary": "reviewed Animation universe AND exact HBO Max/Max, approved HBO network-origin, or direct Discovery+ evidence; generic Warner tags excluded"
+  },
+  "total_memberships": 0
+}
