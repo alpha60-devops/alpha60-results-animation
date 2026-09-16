@@ -17,6 +17,28 @@ description: "Draft 2017–2026 Animated features peer-swarm analysis"
 <noscript>
   <link rel="stylesheet" href="../../resources/izzi-table-sort-wcag-22.css">
 </noscript>
+<style>
+  .table-container { overflow-x: auto; }
+  table.mellon-table thead th {
+    font-family: inherit;
+    font-size: 12px;
+    line-height: 1.25;
+  }
+  table.mellon-table thead th button {
+    color: inherit;
+    font: inherit;
+    font-weight: inherit;
+  }
+  table.mellon-table .column-primary,
+  table.mellon-table tbody th[scope="row"] {
+    min-width: 30em;
+    white-space: nowrap;
+  }
+  table.mellon-table .column-compact {
+    min-width: 4.5em;
+    width: 4.5em !important;
+  }
+</style>
 <script type="text/javascript" crossorigin="anonymous" id="graph-hover"
   src="../../resources/izzi-graph-hover-txt-polyline-red.js"></script>
 
