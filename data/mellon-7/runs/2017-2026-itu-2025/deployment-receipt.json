@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
   "run_id": "2017-2026-itu-2025",
-  "deployed_at": "2026-09-16T12:54:54-07:00",
+  "deployed_at": "2026-09-16T13:42:58-07:00",
   "repository": "alpha60-devops/alpha60-results-animation",
-  "prior_stable_commit": "61a4f91d9f107bef975dc7c46d2b56a80eb4dec1",
-  "publication_commit": "04f4327648cf2a58e7ac0d0772c796c4ea53e5a1",
-  "alpha60_implementation_commit": "e512ebf81e4735014ee0623b7ba5a032fa4ff4ba",
+  "prior_stable_commit": "a34f52e2ecac903d8a3b7c8e0eb35961bfcbf6ed",
+  "publication_commit": "236f1468cf170311b344a30a92551dcf4ca571d8",
+  "alpha60_implementation_commit": "83dd98616ec58d4802a5a8c8538caa36f6305691",
   "workflow": {
     "name": "Deploy Jekyll with GitHub Pages dependencies preinstalled",
-    "run_id": 35143165362,
-    "url": "https://github.com/alpha60-devops/alpha60-results-animation/actions/runs/35143165362",
+    "run_id": 35148058970,
+    "url": "https://github.com/alpha60-devops/alpha60-results-animation/actions/runs/35148058970",
     "status": "completed",
     "conclusion": "success",
-    "created_at": "2026-09-16T19:52:26Z",
-    "completed_at": "2026-09-16T19:53:59Z",
+    "created_at": "2026-09-16T20:41:28Z",
+    "completed_at": "2026-09-16T20:42:59Z",
     "jobs": [
       {
         "name": "build",
-        "job_id": 104952470415,
+        "job_id": 104969064597,
         "conclusion": "success"
       },
       {
         "name": "deploy",
-        "job_id": 104952875974,
+        "job_id": 104969464240,
         "conclusion": "success"
       }
     ]
@@ -47,7 +47,13 @@
         "USA weeks 1, 5, and 15 table",
         "Africa table",
         "Asia table",
-        "single sorter script"
+        "single sorter script",
+        "Set definition first with all 21 owner-approved additions",
+        "cohort count table before graphs, tables, and Data and method",
+        "50px section spacers",
+        "12px matching Noto Sans column titles across all tables",
+        "30em non-wrapping first column",
+        "4.5em weeks and btiha size columns"
       ]
     },
     {
