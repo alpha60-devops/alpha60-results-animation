@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
   "run_id": "2017-2026-itu-2025",
-  "deployed_at": "2026-09-16T13:42:58-07:00",
+  "deployed_at": "2026-09-16T14:08:18-07:00",
   "repository": "alpha60-devops/alpha60-results-animation",
-  "prior_stable_commit": "a34f52e2ecac903d8a3b7c8e0eb35961bfcbf6ed",
-  "publication_commit": "236f1468cf170311b344a30a92551dcf4ca571d8",
-  "alpha60_implementation_commit": "83dd98616ec58d4802a5a8c8538caa36f6305691",
+  "prior_stable_commit": "864c2853f0bb2082e8de729fb1a78c4af5795d99",
+  "publication_commit": "8eeaab68d5fb4f9d42b957f60de554c7564aef4e",
+  "alpha60_implementation_commit": "0ea7fd8dc8aad8aebcbcd9f2c4e9c41db28aa288",
   "workflow": {
     "name": "Deploy Jekyll with GitHub Pages dependencies preinstalled",
-    "run_id": 35148058970,
-    "url": "https://github.com/alpha60-devops/alpha60-results-animation/actions/runs/35148058970",
+    "run_id": 35150480879,
+    "url": "https://github.com/alpha60-devops/alpha60-results-animation/actions/runs/35150480879",
     "status": "completed",
     "conclusion": "success",
-    "created_at": "2026-09-16T20:41:28Z",
-    "completed_at": "2026-09-16T20:42:59Z",
+    "created_at": "2026-09-16T21:06:18Z",
+    "completed_at": "2026-09-16T21:08:19Z",
     "jobs": [
       {
         "name": "build",
-        "job_id": 104969064597,
+        "job_id": 104977232295,
         "conclusion": "success"
       },
       {
         "name": "deploy",
-        "job_id": 104969464240,
+        "job_id": 104977580283,
         "conclusion": "success"
       }
     ]
@@ -53,7 +53,13 @@
         "50px section spacers",
         "12px matching Noto Sans column titles across all tables",
         "30em non-wrapping first column",
-        "4.5em weeks and btiha size columns"
+        "4.5em weeks and btiha size columns",
+        "50px spacer after the Alpha60 logo",
+        "50px spacer before Set definition",
+        "Set definition begins with This set uses",
+        "removed reviewed configured Animation universe sentence",
+        "11px non-wrapping media-object values in the itemized table",
+        "14em non-wrapping duration values in the itemized table"
       ]
     },
     {
