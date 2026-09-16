@@ -23,9 +23,18 @@ description: "2017–2026 Amazon Prime Video peer-swarm analysis"
 # Amazon Prime Video
 
 > **Provisional publication.** This Mellon 7 result is the stable expanded
-> 2017–2026 analysis page. It uses the frozen 65-member Animation predecessor slice plus 21 owner-approved additions: `invincible-401`, `demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle`, `toy-story-5`, `all-you-need-is-kill`, `goat-2026`, `hoppers`, `super-mario-galaxy-movie`, `long-story-short-01`, `mating-season-01`, `stranger-things-tales-from-85-01`, `legend-of-galactic-heroes-die-neue-these`, `lego-star-wars-holiday-special-2020`, `archer-1408`, `dang-01`, `ghost-in-the-shell-2026-01`, `legend-of-aang-the-last-airbender`, `legend-of-vox-machina-410`, `president-curtis-01`, `rick-and-morty-901`, `star-wars-visions-the-ninth-jedi-01`, and `x-men-97-201`. All H-08 Animation
-> dispositions are complete. The 2026 normalization uses the unapproved
+> 2017–2026 analysis page. All H-08 Animation dispositions are complete.
+> The 2026 normalization uses the unapproved
 > provisional 6.1-billion Internet-user value and must not be read as final.
+
+## Set definition
+
+reviewed Animation universe AND exact Amazon Prime Video distribution evidence.
+
+This set uses the frozen 65-member Animation predecessor slice plus 21 owner-approved additions: `invincible-401`, `demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle`, `toy-story-5`, `all-you-need-is-kill`, `goat-2026`, `hoppers`, `super-mario-galaxy-movie`, `long-story-short-01`, `mating-season-01`, `stranger-things-tales-from-85-01`, `legend-of-galactic-heroes-die-neue-these`, `lego-star-wars-holiday-special-2020`, `archer-1408`, `dang-01`, `ghost-in-the-shell-2026-01`, `legend-of-aang-the-last-airbender`, `legend-of-vox-machina-410`, `president-curtis-01`, `rick-and-morty-901`, `star-wars-visions-the-ninth-jedi-01`, and `x-men-97-201`.
+
+All matching uses exact canonical values. The Animation-universe requirement
+is applied before every category predicate.
 
 The cohort year comes from each frozen annual inventory, not release year.
 Category memberships are non-exclusive. Platform evidence does not establish
@@ -45,6 +54,8 @@ current availability, exclusivity, territory, or availability window.
 | 2026 | 2 |
 | **Total** | **9** |
 
+<div style="height: 50px;"></div>
+
 ## Graphs
 
 Each line is one selected media object. Weekly unique downloader counts are
@@ -55,12 +66,7 @@ shown on the 2025 ITU Internet-user scale; 2026 is provisional as noted above.
 {:/}
 
 
-## Set definition
-
-reviewed Animation universe AND exact Amazon Prime Video distribution evidence.
-
-All matching uses exact canonical values. The Animation-universe requirement
-is applied before every category predicate.
+<div style="height: 50px;"></div>
 
 ## Tables
 
