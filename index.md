@@ -30,6 +30,7 @@ Sample dates: 2017 to 2026
 > dispositions remain pending, and the 2026 normalization uses a provisional
 > 6.1-billion Internet-user value.
 
+<div style="height: 50px;"></div>
 {% include animation-media-objects-list.html %}
 <div style="height: 50px;"></div>
 
