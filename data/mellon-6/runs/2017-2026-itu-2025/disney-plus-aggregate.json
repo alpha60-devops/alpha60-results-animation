@@ -37,15 +37,15 @@
   },
   {
     "cohort_year": "2020",
-    "downloaders_per_unique_btiha": "17070.032680",
+    "downloaders_per_unique_btiha": "22050.747368",
     "earliest_sample_date": "2020-05-08",
-    "latest_sample_date": "2020-07-16",
-    "selected_media_objects": 1,
+    "latest_sample_date": "2020-12-28",
+    "selected_media_objects": 2,
     "set": "disney-plus",
-    "summed_cumulative_unique_downloaders": 2611715,
-    "summed_cumulative_unique_uploaders": 792380,
-    "summed_unique_btiha": 153,
-    "uploaders_per_unique_btiha": "5178.954248"
+    "summed_cumulative_unique_downloaders": 4189642,
+    "summed_cumulative_unique_uploaders": 1012026,
+    "summed_unique_btiha": 190,
+    "uploaders_per_unique_btiha": "5326.452632"
   },
   {
     "cohort_year": "2021",
@@ -73,15 +73,15 @@
   },
   {
     "cohort_year": "2023",
-    "downloaders_per_unique_btiha": "97987.096197",
+    "downloaders_per_unique_btiha": "93193.327619",
     "earliest_sample_date": "2023-08-07",
-    "latest_sample_date": "2024-02-28",
-    "selected_media_objects": 2,
+    "latest_sample_date": "2024-03-06",
+    "selected_media_objects": 3,
     "set": "disney-plus",
-    "summed_cumulative_unique_downloaders": 43800232,
-    "summed_cumulative_unique_uploaders": 7558047,
-    "summed_unique_btiha": 447,
-    "uploaders_per_unique_btiha": "16908.382550"
+    "summed_cumulative_unique_downloaders": 48926497,
+    "summed_cumulative_unique_uploaders": 7862707,
+    "summed_unique_btiha": 525,
+    "uploaders_per_unique_btiha": "14976.584762"
   },
   {
     "cohort_year": "2024",
@@ -109,26 +109,26 @@
   },
   {
     "cohort_year": "2026",
-    "downloaders_per_unique_btiha": "163464.325073",
+    "downloaders_per_unique_btiha": "97484.856831",
     "earliest_sample_date": "2026-01-29",
-    "latest_sample_date": "2026-09-07",
-    "selected_media_objects": 2,
+    "latest_sample_date": "2026-09-10",
+    "selected_media_objects": 6,
     "set": "disney-plus",
-    "summed_cumulative_unique_downloaders": 112136527,
-    "summed_cumulative_unique_uploaders": 5667651,
-    "summed_unique_btiha": 686,
-    "uploaders_per_unique_btiha": "8261.881924"
+    "summed_cumulative_unique_downloaders": 178397288,
+    "summed_cumulative_unique_uploaders": 10784118,
+    "summed_unique_btiha": 1830,
+    "uploaders_per_unique_btiha": "5892.960656"
   },
   {
     "cohort_year": "all",
-    "downloaders_per_unique_btiha": "116447.278522",
+    "downloaders_per_unique_btiha": "104540.702829",
     "earliest_sample_date": "2020-05-08",
-    "latest_sample_date": "2026-09-07",
-    "selected_media_objects": 20,
+    "latest_sample_date": "2026-09-10",
+    "selected_media_objects": 26,
     "set": "disney-plus",
-    "summed_cumulative_unique_downloaders": 573619294,
-    "summed_cumulative_unique_uploaders": 50583612,
-    "summed_unique_btiha": 4926,
-    "uploaders_per_unique_btiha": "10268.699147"
+    "summed_cumulative_unique_downloaders": 646584247,
+    "summed_cumulative_unique_uploaders": 56224385,
+    "summed_unique_btiha": 6185,
+    "uploaders_per_unique_btiha": "9090.442199"
   }
 ]

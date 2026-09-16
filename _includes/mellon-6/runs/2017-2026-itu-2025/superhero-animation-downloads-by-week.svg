@@ -481,6 +481,16 @@ Line graph of media objects as peer swarms over time, from week 1 to week 26. Th
 <text x="382.400000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 4</text>
 <text x="443.200000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 5</text>
 <text x="504.000000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 6</text>
+<text x="564.800000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 7</text>
+<text x="625.600000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 8</text>
+<text x="686.400000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 9</text>
+<text x="747.200000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10</text>
+<text x="200.000000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1</text>
+<text x="260.800000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2</text>
+<text x="321.600000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 3</text>
+<text x="382.400000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 4</text>
+<text x="443.200000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 5</text>
+<text x="504.000000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 6</text>
  </g>
  <g id="tic-y-labels">
 <text x="164.000000" y="812.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 6M</text>
@@ -1804,6 +1814,84 @@ week: 11
 <text x="808.000000" y="848.275024" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> boys-presents-diabolical-01</text>
  </g>
 <g id="line-graph-10">
+ <g id="polyline-x-men-97-201">
+<polyline points="200,859.373 260.8,840.568 321.6,822.832 382.4,806.587 443.2,790.59 504,775.257 564.8,761.717 625.6,748.86 686.4,736.48 747.2,725.302 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
+ </g>
+ <g id="markers-x-men-97-201">
+ <circle cx="200.000000" cy="859.373284" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:2"  >
+<title>
+x-men-97-201
+week: 1
+1918918
+</title>
+ </circle>
+<circle cx="260.800000" cy="840.568289" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:2"  >
+<title>
+x-men-97-201
+week: 2
+3668361
+</title>
+ </circle>
+<circle cx="321.600000" cy="822.832210" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:2"  >
+<title>
+x-men-97-201
+week: 3
+5318361
+</title>
+ </circle>
+<circle cx="382.400000" cy="806.587295" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:2"  >
+<title>
+x-men-97-201
+week: 4
+6829637
+</title>
+ </circle>
+<circle cx="443.200000" cy="790.589620" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:2"  >
+<title>
+x-men-97-201
+week: 5
+8317911
+</title>
+ </circle>
+<circle cx="504.000000" cy="775.257371" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:2"  >
+<title>
+x-men-97-201
+week: 6
+9744281
+</title>
+ </circle>
+<circle cx="564.800000" cy="761.716778" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:2"  >
+<title>
+x-men-97-201
+week: 7
+11003972
+</title>
+ </circle>
+<circle cx="625.600000" cy="748.860389" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:2"  >
+<title>
+x-men-97-201
+week: 8
+12200011
+</title>
+ </circle>
+<circle cx="686.400000" cy="736.480434" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:2"  >
+<title>
+x-men-97-201
+week: 9
+13351727
+</title>
+ </circle>
+<circle cx="747.200000" cy="725.302350" r="6.000000" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:2"  >
+<title>
+x-men-97-201
+week: 10
+14391632
+</title>
+ </circle>
+ </g>
+<text x="747.200000" y="718.302350" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> x-men-97-201</text>
+ </g>
+<g id="line-graph-11">
  <g id="polyline-invincible-201">
 <polyline points="200,873.307 260.8,864.348 321.6,854.777 382.4,846.864 443.2,840.209 504,833.79 564.8,828.129 625.6,822.535 686.4,816.868 747.2,811.616 " stroke-dasharray="3 3" stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -1881,7 +1969,7 @@ week: 10
  </g>
 <text x="747.200000" y="804.615925" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> invincible-201</text>
  </g>
-<g id="line-graph-11">
+<g id="line-graph-12">
  <g id="polyline-invincible-101">
 <polyline points="200,875.397 260.8,872.268 321.6,869.76 382.4,867.57 443.2,862.963 504,852.733 564.8,845.819 625.6,839.884 686.4,835.554 747.2,832.264 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -1959,7 +2047,7 @@ week: 10
  </g>
 <text x="747.200000" y="825.264494" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> invincible-101</text>
  </g>
-<g id="line-graph-12">
+<g id="line-graph-13">
  <g id="polyline-harley-quinn-301">
 <polyline points="200,876.469 260.8,873.843 321.6,871.27 382.4,868.801 443.2,866.519 504,864.354 564.8,862.262 625.6,860.061 686.4,858.13 747.2,855.707 " stroke-dasharray="3 6" stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
  </g>
@@ -2037,7 +2125,7 @@ week: 10
  </g>
 <text x="747.200000" y="848.706817" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5"> harley-quinn-301</text>
  </g>
-<g id="line-graph-13">
+<g id="line-graph-14">
  <g id="polyline-she-ra-04">
 <polyline points="200,879.839 260.8,879.551 321.6,879.263 382.4,878.805 443.2,878.378 504,877.969 " stroke-linecap="round"  style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
  </g>

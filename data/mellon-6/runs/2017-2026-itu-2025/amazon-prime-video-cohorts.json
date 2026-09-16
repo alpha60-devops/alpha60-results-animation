@@ -9,7 +9,7 @@
     "2023": 1,
     "2024": 0,
     "2025": 1,
-    "2026": 1
+    "2026": 2
   },
   "memberships": [
     {
@@ -83,6 +83,15 @@
         "distribution_tags intersects [\"amazon prime video\"]"
       ],
       "set": "amazon-prime-video"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "legend-of-vox-machina-410",
+      "evidence": [
+        "branch:amazon-prime-video-direct",
+        "distribution_tags intersects [\"amazon prime video\"]"
+      ],
+      "set": "amazon-prime-video"
     }
   ],
   "method_id": "mellon-6-animation",
@@ -109,5 +118,5 @@
     "label": "Amazon Prime Video",
     "predicate_summary": "reviewed Animation universe AND exact Amazon Prime Video distribution evidence"
   },
-  "total_memberships": 8
+  "total_memberships": 9
 }

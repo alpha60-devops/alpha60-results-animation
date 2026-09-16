@@ -1,5 +1,6 @@
 {
   "collection_keys": [
+    "all-you-need-is-kill",
     "altered-carbon-resleeved",
     "arcane-02.1",
     "arcane-02.2",
@@ -7,6 +8,7 @@
     "archer-1201",
     "archer-1308",
     "archer-1401",
+    "archer-1408",
     "beastars-03.2",
     "blade-runner-black-lotus-101",
     "blue-eye-samurai-01",
@@ -15,11 +17,16 @@
     "boys-presents-diabolical-01",
     "common-side-effects-01",
     "dan-da-dan-210",
+    "dang-01",
+    "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
     "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
     "dinosaurs-01",
     "eyes-of-wakanda-01",
+    "ghost-in-the-shell-2026-01",
+    "goat-2026",
     "harley-quinn-301",
     "hit-monkey-02",
+    "hoppers",
     "inside-out-2",
     "invincible-101",
     "invincible-201",
@@ -30,9 +37,15 @@
     "lazarus-101",
     "lazarus-108",
     "lazarus-111",
+    "legend-of-aang-the-last-airbender",
+    "legend-of-galactic-heroes-die-neue-these",
+    "legend-of-vox-machina-410",
+    "lego-star-wars-holiday-special-2020",
+    "long-story-short-01",
     "love-death-robots-01",
     "love-death-robots-02",
     "love-death-robots-04",
+    "mating-season-01",
     "maul-shadow-lord-101",
     "mitchells-vs-the-machines",
     "moana-2",
@@ -44,8 +57,10 @@
     "prehistoric-planet-01",
     "prehistoric-planet-02",
     "prehistoric-planet-03",
+    "president-curtis-01",
     "q-force-01",
     "raya-and-the-last-dragon",
+    "rick-and-morty-901",
     "she-ra-04",
     "solar-opposites-01",
     "south-park-27",
@@ -53,8 +68,12 @@
     "star-trek-lower-decks-101",
     "star-wars-visions-01",
     "star-wars-visions-03",
+    "star-wars-visions-the-ninth-jedi-01",
+    "stranger-things-tales-from-85-01",
     "super-mario-brothers-movie",
+    "super-mario-galaxy-movie",
     "tales-of-the-jedi-01",
+    "toy-story-5",
     "trese-01",
     "turning-red",
     "ultra-city-smiths-106",
@@ -63,24 +82,203 @@
     "what-if-2021-03",
     "what-if-2021-101",
     "wild-robot",
+    "x-men-97-201",
     "yasuke-01",
     "your-friendly-neighborhood-spider-man-01",
+    "yuri-on-ice",
     "zootopia-2"
   ],
-  "count": 66,
-  "membership_sha256": "ae14ad1477a703977fcee0b608a7979d80007870e3e43e4dc5a2a79be7892e37",
+  "count": 87,
+  "membership_sha256": "450a899e50a7dfb578861103e9dc2ccadf0fcba800719457a080851b2bc2ab0a",
   "method_additions": [
     {
       "collection_key": "invincible-401",
       "disposition": "owner-approved-2026-09-14",
       "reason": "Animated fourth-season Invincible sample omitted from the published predecessor slice"
+    },
+    {
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
+      "disposition": "owner-approved-2026-09-15",
+      "evidence_sources": [
+        "https://www.aniplex.co.jp/lineup/kimetsu_mugenjyohen_movie/"
+      ],
+      "reason": "Animated theatrical feature explicitly approved for the Mellon 6 Animation universe",
+      "theatrical_release_date": "2025-07-18",
+      "theatrical_release_territory": "Japan"
+    },
+    {
+      "collection_key": "toy-story-5",
+      "disposition": "owner-approved-2026-09-15",
+      "evidence_sources": [
+        "https://thewaltdisneycompany.com/news/disney-movies-theaters-summer-2026/"
+      ],
+      "reason": "Animated theatrical feature explicitly approved for the Mellon 6 Animation universe",
+      "theatrical_release_date": "2026-06-19",
+      "theatrical_release_territory": "United States"
+    },
+    {
+      "collection_key": "all-you-need-is-kill",
+      "disposition": "owner-approved-2026-09-15",
+      "evidence_sources": [
+        "https://www.warnerbros.co.jp/news/n15ei_rky/"
+      ],
+      "reason": "Animated theatrical feature explicitly approved for the Mellon 6 Animation universe",
+      "theatrical_release_date": "2026-01-09",
+      "theatrical_release_territory": "Japan"
+    },
+    {
+      "collection_key": "goat-2026",
+      "disposition": "owner-approved-2026-09-15",
+      "evidence_sources": [
+        "https://goat.movie/synopsis/"
+      ],
+      "reason": "Animated theatrical feature explicitly approved for the Mellon 6 Animation universe",
+      "theatrical_release_date": "2026-02-13",
+      "theatrical_release_territory": "United States"
+    },
+    {
+      "collection_key": "hoppers",
+      "disposition": "owner-approved-2026-09-15",
+      "evidence_sources": [
+        "https://thewaltdisneycompany.com/news/pixar-hoppers/"
+      ],
+      "reason": "Animated theatrical feature explicitly approved for the Mellon 6 Animation universe",
+      "theatrical_release_date": "2026-03-06",
+      "theatrical_release_territory": "United States"
+    },
+    {
+      "collection_key": "super-mario-galaxy-movie",
+      "disposition": "owner-approved-2026-09-15",
+      "evidence_sources": [
+        "https://www.nintendo.com/us/whatsnew/nintendo-kicks-off-mar10-day-with-a-new-look-at-the-super-mario-galaxy-movie/"
+      ],
+      "reason": "Animated theatrical feature explicitly approved for the Mellon 6 Animation universe",
+      "theatrical_release_date": "2026-04-01",
+      "theatrical_release_territory": "United States"
+    },
+    {
+      "collection_key": "long-story-short-01",
+      "disposition": "owner-approved-2026-09-15",
+      "evidence_sources": [
+        "https://www.netflix.com/tudum/articles/long-story-short-raphael-bob-waksberg"
+      ],
+      "netflix_distribution_evidence": "netflix",
+      "reason": "Animated Netflix series identified by the owner-requested Netflix slice re-evaluation"
+    },
+    {
+      "collection_key": "mating-season-01",
+      "disposition": "owner-approved-2026-09-15",
+      "evidence_sources": [
+        "https://www.netflix.com/tudum/articles/mating-season-release-date-cast-news"
+      ],
+      "netflix_distribution_evidence": "netflix",
+      "reason": "Animated Netflix series identified by the owner-requested Netflix slice re-evaluation"
+    },
+    {
+      "collection_key": "stranger-things-tales-from-85-01",
+      "disposition": "owner-approved-2026-09-15",
+      "evidence_sources": [
+        "https://www.netflix.com/tudum/articles/stranger-things-animated-series-news"
+      ],
+      "netflix_distribution_evidence": "netflix",
+      "reason": "Animated Netflix series explicitly identified by the owner as omitted from the Netflix slice"
+    },
+    {
+      "collection_key": "legend-of-galactic-heroes-die-neue-these",
+      "disposition": "owner-approved-2026-09-15",
+      "evidence_sources": [
+        "https://en.wikipedia.org/wiki/Legend_of_the_Galactic_Heroes#Die_Neue_These"
+      ],
+      "japan_origin_evidence": "Japan and Japanese-language Production I.G anime television series",
+      "reason": "Japanese animated television series omitted from the predecessor Animation slice"
+    },
+    {
+      "collection_key": "lego-star-wars-holiday-special-2020",
+      "disposition": "owner-approved-2026-09-15",
+      "evidence_sources": [
+        "https://www.disneyplus.com/browse/entity-06af8239-c98c-49ab-bfe0-bd955b928fec"
+      ],
+      "reason": "Animated Disney+ film omitted from the predecessor Animation slice"
+    },
+    {
+      "collection_key": "archer-1408",
+      "disposition": "owner-approved-2026-09-15",
+      "evidence_sources": [
+        "https://www.fxnetworks.com/shows/archer"
+      ],
+      "reason": "Animated Archer episode omitted while adjacent Archer media objects are included"
+    },
+    {
+      "collection_key": "dang-01",
+      "disposition": "owner-approved-2026-09-15",
+      "evidence_sources": [
+        "https://www.netflix.com/title/81666277"
+      ],
+      "netflix_distribution_evidence": "netflix",
+      "reason": "Animated Netflix series omitted from the predecessor Animation slice"
+    },
+    {
+      "collection_key": "ghost-in-the-shell-2026-01",
+      "disposition": "owner-approved-h08-2026-09-15",
+      "evidence_sources": [
+        "https://en.wikipedia.org/wiki/The_Ghost_in_the_Shell_(2026_TV_series)"
+      ],
+      "reason": "Owner-approved H-08 animated Japanese television series"
+    },
+    {
+      "collection_key": "legend-of-aang-the-last-airbender",
+      "disposition": "owner-approved-h08-2026-09-15",
+      "evidence_sources": [
+        "https://en.wikipedia.org/wiki/Avatar_Aang:_The_Last_Airbender"
+      ],
+      "reason": "Owner-approved H-08 animated feature"
+    },
+    {
+      "collection_key": "legend-of-vox-machina-410",
+      "disposition": "owner-approved-h08-2026-09-15",
+      "evidence_sources": [
+        "https://en.wikipedia.org/wiki/The_Legend_of_Vox_Machina"
+      ],
+      "reason": "Owner-approved H-08 animated Amazon Prime Video episode"
+    },
+    {
+      "collection_key": "president-curtis-01",
+      "disposition": "owner-approved-h08-2026-09-15",
+      "evidence_sources": [
+        "https://en.wikipedia.org/wiki/President_Curtis_(TV_series)"
+      ],
+      "reason": "Owner-approved H-08 adult animated television episode"
+    },
+    {
+      "collection_key": "rick-and-morty-901",
+      "disposition": "owner-approved-h08-2026-09-15",
+      "evidence_sources": [
+        "https://en.wikipedia.org/wiki/Rick_and_Morty"
+      ],
+      "reason": "Owner-approved H-08 adult animated television episode"
+    },
+    {
+      "collection_key": "star-wars-visions-the-ninth-jedi-01",
+      "disposition": "owner-approved-h08-2026-09-15",
+      "evidence_sources": [
+        "https://en.wikipedia.org/wiki/Star_Wars:_Visions_Presents#The_Ninth_Jedi_(2026)"
+      ],
+      "reason": "Owner-approved H-08 animated Star Wars television episode"
+    },
+    {
+      "collection_key": "x-men-97-201",
+      "disposition": "owner-approved-h08-2026-09-15",
+      "evidence_sources": [
+        "https://en.wikipedia.org/wiki/X-Men_%2797"
+      ],
+      "reason": "Owner-approved H-08 animated superhero television episode"
     }
   ],
-  "review_status": "published-predecessor-65-members-pending-h08",
+  "review_status": "owner-reviewed-87-members-h08-complete",
   "run_id": "2017-2026-itu-2025",
   "schema_version": "1.0.0",
-  "slice_config_sha256": "0fc4ffbe5238b59e30422dedc60ed650c30732aaf5680f9eeb2a1d616a225231",
+  "slice_config_sha256": "8f1cc15d7c7b131afe1475d4e969d5937ce5fd8acba01db54b8a09376fef8c50",
   "slice_key": "animation",
   "source_repository": "alpha60-devops/alpha60-swarm-metadata",
-  "source_revision": "bf6a662f03337eef48ebb15a874263fa00cdc6e1"
+  "source_revision": "09eab5dec98a230791a44333017907f0e0348ac9"
 }

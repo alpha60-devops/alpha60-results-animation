@@ -3,13 +3,13 @@
     "2017": 0,
     "2018": 0,
     "2019": 0,
-    "2020": 2,
+    "2020": 3,
     "2021": 2,
     "2022": 1,
     "2023": 2,
     "2024": 3,
-    "2025": 2,
-    "2026": 1
+    "2025": 3,
+    "2026": 7
   },
   "memberships": [
     {
@@ -24,6 +24,15 @@
     {
       "cohort_year": 2020,
       "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "lego-star-wars-holiday-special-2020",
       "evidence": [
         "branch:film",
         "media_object.type equals \"film\""
@@ -104,6 +113,15 @@
     },
     {
       "cohort_year": 2025,
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2025,
       "collection_key": "moana-2",
       "evidence": [
         "branch:film",
@@ -114,6 +132,60 @@
     {
       "cohort_year": 2025,
       "collection_key": "predator-killer-of-killers",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "all-you-need-is-kill",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "goat-2026",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "hoppers",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "legend-of-aang-the-last-airbender",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "super-mario-galaxy-movie",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "toy-story-5",
       "evidence": [
         "branch:film",
         "media_object.type equals \"film\""
@@ -149,5 +221,5 @@
     "label": "Animated features",
     "predicate_summary": "reviewed Animation universe AND media_object.type equals film"
   },
-  "total_memberships": 13
+  "total_memberships": 21
 }

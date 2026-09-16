@@ -9,7 +9,7 @@
     "2023": 2,
     "2024": 2,
     "2025": 3,
-    "2026": 1
+    "2026": 2
   },
   "memberships": [
     {
@@ -130,6 +130,15 @@
         "release.genres contains \"Superhero\""
       ],
       "set": "superhero-animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "x-men-97-201",
+      "evidence": [
+        "branch:superhero-genre",
+        "release.genres contains \"Superhero\""
+      ],
+      "set": "superhero-animation"
     }
   ],
   "method_id": "mellon-6-animation",
@@ -157,5 +166,5 @@
     "label": "Superhero animation",
     "predicate_summary": "reviewed Animation universe AND Superhero genre or reviewed Spider-Man slice"
   },
-  "total_memberships": 13
+  "total_memberships": 14
 }

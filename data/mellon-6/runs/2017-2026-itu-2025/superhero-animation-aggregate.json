@@ -109,26 +109,26 @@
   },
   {
     "cohort_year": "2026",
-    "downloaders_per_unique_btiha": "105046.458537",
+    "downloaders_per_unique_btiha": "79137.892779",
     "earliest_sample_date": "2026-03-18",
-    "latest_sample_date": "2026-06-30",
-    "selected_media_objects": 1,
+    "latest_sample_date": "2026-09-09",
+    "selected_media_objects": 2,
     "set": "superhero-animation",
-    "summed_cumulative_unique_downloaders": 21534524,
-    "summed_cumulative_unique_uploaders": 1704456,
-    "summed_unique_btiha": 205,
-    "uploaders_per_unique_btiha": "8314.419512"
+    "summed_cumulative_unique_downloaders": 36166017,
+    "summed_cumulative_unique_uploaders": 2761557,
+    "summed_unique_btiha": 457,
+    "uploaders_per_unique_btiha": "6042.794311"
   },
   {
     "cohort_year": "all",
-    "downloaders_per_unique_btiha": "91280.014787",
+    "downloaders_per_unique_btiha": "88449.081163",
     "earliest_sample_date": "2019-11-05",
-    "latest_sample_date": "2026-06-30",
-    "selected_media_objects": 13,
+    "latest_sample_date": "2026-09-09",
+    "selected_media_objects": 14,
     "set": "superhero-animation",
-    "summed_cumulative_unique_downloaders": 246912440,
-    "summed_cumulative_unique_uploaders": 19318253,
-    "summed_unique_btiha": 2705,
-    "uploaders_per_unique_btiha": "7141.683179"
+    "summed_cumulative_unique_downloaders": 261543933,
+    "summed_cumulative_unique_uploaders": 20375354,
+    "summed_unique_btiha": 2957,
+    "uploaders_per_unique_btiha": "6890.549205"
   }
 ]

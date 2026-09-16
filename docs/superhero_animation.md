@@ -18,9 +18,8 @@ description: "2017–2026 Superhero animation peer-swarm analysis"
 # Superhero animation
 
 > **Provisional publication.** This Mellon 6 result is the stable expanded
-> 2017–2026 analysis page. It uses the frozen 65-member Animation predecessor
-> slice plus the owner-approved `invincible-401` addition. The remaining H-08
-> dispositions are pending. The 2026 normalization uses the unapproved
+> 2017–2026 analysis page. It uses the frozen 65-member Animation predecessor slice plus 21 owner-approved additions: `invincible-401`, `demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle`, `toy-story-5`, `all-you-need-is-kill`, `goat-2026`, `hoppers`, `super-mario-galaxy-movie`, `long-story-short-01`, `mating-season-01`, `stranger-things-tales-from-85-01`, `legend-of-galactic-heroes-die-neue-these`, `lego-star-wars-holiday-special-2020`, `archer-1408`, `dang-01`, `ghost-in-the-shell-2026-01`, `legend-of-aang-the-last-airbender`, `legend-of-vox-machina-410`, `president-curtis-01`, `rick-and-morty-901`, `star-wars-visions-the-ninth-jedi-01`, and `x-men-97-201`. All H-08 Animation
+> dispositions are complete. The 2026 normalization uses the unapproved
 > provisional 6.1-billion Internet-user value and must not be read as final.
 
 The cohort year comes from each frozen annual inventory, not release year.
@@ -38,8 +37,8 @@ current availability, exclusivity, territory, or availability window.
 | 2023 | 2 |
 | 2024 | 2 |
 | 2025 | 3 |
-| 2026 | 1 |
-| **Total** | **13** |
+| 2026 | 2 |
+| **Total** | **14** |
 
 ## Graphs
 
@@ -76,4 +75,4 @@ is applied before every category predicate.
 - [Independent validation](../data/mellon-6/runs/2017-2026-itu-2025/independent-validation-receipt.json)
 
 Method `mellon-6-animation 1.0.0-draft`; run `2017-2026-itu-2025`;
-canonical metadata `bf6a662f03337eef48ebb15a874263fa00cdc6e1`; ITU reference year 2025.
+canonical metadata `09eab5dec98a230791a44333017907f0e0348ac9`; ITU reference year 2025.

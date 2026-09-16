@@ -267,9 +267,30 @@
     "sample_year_start": 2026,
     "set": "superhero-animation",
     "source_repository": "alpha60-devops/alpha60-results-2026",
-    "source_revision": "4c46889187a46fcacd9a70ec6379ce66f3cdfa0e",
+    "source_revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
     "unique_btiha": 205,
     "uploaders_per_unique_btiha": "8314.419512",
     "weekly_source": "data/json/invincible-401-week.json"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "x-men-97-201",
+    "collection_name": "X-Men '97",
+    "cumulative_source": "data/json/x-men-97-201-cumulative.json",
+    "cumulative_unique_downloaders": 14631493,
+    "cumulative_unique_uploaders": 1057101,
+    "downloaders_per_unique_btiha": "58061.480159",
+    "membership_evidence": "branch:superhero-genre; release.genres contains \"Superhero\"",
+    "sample_end_date": "2026-09-09",
+    "sample_start_date": "2026-07-02",
+    "sample_weeks": 10,
+    "sample_year_end": 2026,
+    "sample_year_start": 2026,
+    "set": "superhero-animation",
+    "source_repository": "alpha60-devops/alpha60-results-2026",
+    "source_revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
+    "unique_btiha": 252,
+    "uploaders_per_unique_btiha": "4194.845238",
+    "weekly_source": "data/json/x-men-97-201-week.json"
   }
 ]

@@ -1,17 +1,32 @@
 {
   "cohort_counts": {
     "2017": 0,
-    "2018": 0,
+    "2018": 1,
     "2019": 0,
     "2020": 3,
     "2021": 6,
     "2022": 0,
     "2023": 0,
     "2024": 1,
-    "2025": 4,
-    "2026": 0
+    "2025": 5,
+    "2026": 2
   },
   "memberships": [
+    {
+      "cohort_year": 2018,
+      "collection_key": "legend-of-galactic-heroes-die-neue-these",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\"",
+        "branch:japan-origin-reviewed",
+        "collection_tags contains \"japan_origin\"",
+        "branch:owner-approved-legend-of-galactic-heroes",
+        "collection_key equals \"legend-of-galactic-heroes-die-neue-these\""
+      ],
+      "set": "japan-origin"
+    },
     {
       "cohort_year": 2020,
       "collection_key": "altered-carbon-resleeved",
@@ -125,6 +140,17 @@
     },
     {
       "cohort_year": 2025,
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2025,
       "collection_key": "lazarus-101",
       "evidence": [
         "branch:japanese-language",
@@ -147,6 +173,30 @@
       "evidence": [
         "branch:japanese-language",
         "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "all-you-need-is-kill",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "ghost-in-the-shell-2026-01",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\"",
+        "branch:japan-origin-reviewed",
+        "collection_tags contains \"japan_origin\""
       ],
       "set": "japan-origin"
     }
@@ -182,11 +232,20 @@
             "value": "japan_origin"
           }
         }
+      },
+      {
+        "id": "owner-approved-legend-of-galactic-heroes",
+        "predicate": {
+          "equals": {
+            "field": "collection_key",
+            "value": "legend-of-galactic-heroes-die-neue-these"
+          }
+        }
       }
     ],
     "id": "japan-origin",
     "label": "Japan-origin animation",
-    "predicate_summary": "reviewed Animation universe AND Japan country, Japanese language, or reviewed japan_origin qualification"
+    "predicate_summary": "reviewed Animation universe AND Japan country, Japanese language, reviewed japan_origin qualification, or owner-approved Japan-origin disposition"
   },
-  "total_memberships": 14
+  "total_memberships": 18
 }

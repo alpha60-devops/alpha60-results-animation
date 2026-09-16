@@ -332,7 +332,7 @@
   {
     "cohort_year": 2018,
     "collection_key": "legend-of-galactic-heroes-die-neue-these",
-    "reason": "outside-animation-universe"
+    "reason": "category-predicate-not-matched"
   },
   {
     "cohort_year": 2018,
@@ -858,11 +858,6 @@
     "cohort_year": 2020,
     "collection_key": "japan-sinks",
     "reason": "category-predicate-not-matched"
-  },
-  {
-    "cohort_year": 2020,
-    "collection_key": "lego-star-wars-holiday-special-2020",
-    "reason": "outside-animation-universe"
   },
   {
     "cohort_year": 2020,
@@ -1736,11 +1731,6 @@
   },
   {
     "cohort_year": 2023,
-    "collection_key": "archer-1408",
-    "reason": "outside-animation-universe"
-  },
-  {
-    "cohort_year": 2023,
     "collection_key": "avatar-the-way-of-water",
     "reason": "outside-animation-universe"
   },
@@ -2482,7 +2472,7 @@
   {
     "cohort_year": 2025,
     "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
-    "reason": "outside-animation-universe"
+    "reason": "category-predicate-not-matched"
   },
   {
     "cohort_year": 2025,
@@ -2587,7 +2577,7 @@
   {
     "cohort_year": 2025,
     "collection_key": "long-story-short-01",
-    "reason": "outside-animation-universe"
+    "reason": "category-predicate-not-matched"
   },
   {
     "cohort_year": 2025,
@@ -2792,7 +2782,7 @@
   {
     "cohort_year": 2026,
     "collection_key": "all-you-need-is-kill",
-    "reason": "outside-animation-universe"
+    "reason": "category-predicate-not-matched"
   },
   {
     "cohort_year": 2026,
@@ -2852,7 +2842,7 @@
   {
     "cohort_year": 2026,
     "collection_key": "dang-01",
-    "reason": "outside-animation-universe"
+    "reason": "category-predicate-not-matched"
   },
   {
     "cohort_year": 2026,
@@ -2897,12 +2887,12 @@
   {
     "cohort_year": 2026,
     "collection_key": "ghost-in-the-shell-2026-01",
-    "reason": "outside-animation-universe"
+    "reason": "category-predicate-not-matched"
   },
   {
     "cohort_year": 2026,
     "collection_key": "goat-2026",
-    "reason": "outside-animation-universe"
+    "reason": "category-predicate-not-matched"
   },
   {
     "cohort_year": 2026,
@@ -2912,11 +2902,6 @@
   {
     "cohort_year": 2026,
     "collection_key": "his-and-hers-2026-01",
-    "reason": "outside-animation-universe"
-  },
-  {
-    "cohort_year": 2026,
-    "collection_key": "hoppers",
     "reason": "outside-animation-universe"
   },
   {
@@ -2957,12 +2942,12 @@
   {
     "cohort_year": 2026,
     "collection_key": "legend-of-aang-the-last-airbender",
-    "reason": "outside-animation-universe"
+    "reason": "category-predicate-not-matched"
   },
   {
     "cohort_year": 2026,
     "collection_key": "legend-of-vox-machina-410",
-    "reason": "outside-animation-universe"
+    "reason": "category-predicate-not-matched"
   },
   {
     "cohort_year": 2026,
@@ -2982,7 +2967,7 @@
   {
     "cohort_year": 2026,
     "collection_key": "mating-season-01",
-    "reason": "outside-animation-universe"
+    "reason": "category-predicate-not-matched"
   },
   {
     "cohort_year": 2026,
@@ -3032,7 +3017,7 @@
   {
     "cohort_year": 2026,
     "collection_key": "president-curtis-01",
-    "reason": "outside-animation-universe"
+    "reason": "category-predicate-not-matched"
   },
   {
     "cohort_year": 2026,
@@ -3047,7 +3032,7 @@
   {
     "cohort_year": 2026,
     "collection_key": "rick-and-morty-901",
-    "reason": "outside-animation-universe"
+    "reason": "category-predicate-not-matched"
   },
   {
     "cohort_year": 2026,
@@ -3081,18 +3066,13 @@
   },
   {
     "cohort_year": 2026,
-    "collection_key": "star-wars-visions-the-ninth-jedi-01",
-    "reason": "outside-animation-universe"
-  },
-  {
-    "cohort_year": 2026,
     "collection_key": "stranger-things-05.3",
     "reason": "outside-animation-universe"
   },
   {
     "cohort_year": 2026,
     "collection_key": "stranger-things-tales-from-85-01",
-    "reason": "outside-animation-universe"
+    "reason": "category-predicate-not-matched"
   },
   {
     "cohort_year": 2026,
@@ -3102,16 +3082,11 @@
   {
     "cohort_year": 2026,
     "collection_key": "super-mario-galaxy-movie",
-    "reason": "outside-animation-universe"
+    "reason": "category-predicate-not-matched"
   },
   {
     "cohort_year": 2026,
     "collection_key": "testaments-101",
-    "reason": "outside-animation-universe"
-  },
-  {
-    "cohort_year": 2026,
-    "collection_key": "toy-story-5",
     "reason": "outside-animation-universe"
   },
   {
@@ -3122,11 +3097,6 @@
   {
     "cohort_year": 2026,
     "collection_key": "world-cup-2026",
-    "reason": "outside-animation-universe"
-  },
-  {
-    "cohort_year": 2026,
-    "collection_key": "x-men-97-201",
     "reason": "outside-animation-universe"
   }
 ]

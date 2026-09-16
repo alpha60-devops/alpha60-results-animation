@@ -8,8 +8,8 @@
     "2022": 0,
     "2023": 1,
     "2024": 3,
-    "2025": 1,
-    "2026": 1
+    "2025": 2,
+    "2026": 4
   },
   "memberships": [
     {
@@ -140,6 +140,15 @@
     },
     {
       "cohort_year": 2025,
+      "collection_key": "long-story-short-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2025,
       "collection_key": "love-death-robots-04",
       "evidence": [
         "branch:netflix-direct",
@@ -149,7 +158,34 @@
     },
     {
       "cohort_year": 2026,
+      "collection_key": "dang-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2026,
       "collection_key": "dinosaurs-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "mating-season-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "stranger-things-tales-from-85-01",
       "evidence": [
         "branch:netflix-direct",
         "distribution_tags intersects [\"netflix\"]"
@@ -180,5 +216,5 @@
     "label": "Netflix",
     "predicate_summary": "reviewed Animation universe AND exact Netflix distribution evidence"
   },
-  "total_memberships": 16
+  "total_memberships": 20
 }

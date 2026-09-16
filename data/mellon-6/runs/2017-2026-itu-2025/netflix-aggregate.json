@@ -97,38 +97,38 @@
   },
   {
     "cohort_year": "2025",
-    "downloaders_per_unique_btiha": "86838.110672",
+    "downloaders_per_unique_btiha": "93251.791667",
     "earliest_sample_date": "2025-05-15",
-    "latest_sample_date": "2025-08-27",
-    "selected_media_objects": 1,
+    "latest_sample_date": "2026-02-19",
+    "selected_media_objects": 2,
     "set": "netflix",
-    "summed_cumulative_unique_downloaders": 21970042,
-    "summed_cumulative_unique_uploaders": 2120191,
-    "summed_unique_btiha": 253,
-    "uploaders_per_unique_btiha": "8380.201581"
+    "summed_cumulative_unique_downloaders": 38046731,
+    "summed_cumulative_unique_uploaders": 2381011,
+    "summed_unique_btiha": 408,
+    "uploaders_per_unique_btiha": "5835.811275"
   },
   {
     "cohort_year": "2026",
-    "downloaders_per_unique_btiha": "108133.292683",
+    "downloaders_per_unique_btiha": "78690.018730",
     "earliest_sample_date": "2026-03-06",
-    "latest_sample_date": "2026-06-25",
-    "selected_media_objects": 1,
+    "latest_sample_date": "2026-09-11",
+    "selected_media_objects": 4,
     "set": "netflix",
-    "summed_cumulative_unique_downloaders": 17733860,
-    "summed_cumulative_unique_uploaders": 574687,
-    "summed_unique_btiha": 164,
-    "uploaders_per_unique_btiha": "3504.189024"
+    "summed_cumulative_unique_downloaders": 75621108,
+    "summed_cumulative_unique_uploaders": 1422983,
+    "summed_unique_btiha": 961,
+    "uploaders_per_unique_btiha": "1480.731530"
   },
   {
     "cohort_year": "all",
-    "downloaders_per_unique_btiha": "90949.472544",
+    "downloaders_per_unique_btiha": "87382.496608",
     "earliest_sample_date": "2019-03-15",
-    "latest_sample_date": "2026-06-25",
-    "selected_media_objects": 16,
+    "latest_sample_date": "2026-09-11",
+    "selected_media_objects": 20,
     "set": "netflix",
-    "summed_cumulative_unique_downloaders": 235195336,
-    "summed_cumulative_unique_uploaders": 20517958,
-    "summed_unique_btiha": 2586,
-    "uploaders_per_unique_btiha": "7934.245166"
+    "summed_cumulative_unique_downloaders": 309159273,
+    "summed_cumulative_unique_uploaders": 21627074,
+    "summed_unique_btiha": 3538,
+    "uploaders_per_unique_btiha": "6112.796495"
   }
 ]

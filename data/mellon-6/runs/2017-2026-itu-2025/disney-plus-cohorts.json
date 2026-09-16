@@ -3,15 +3,24 @@
     "2017": 0,
     "2018": 0,
     "2019": 0,
-    "2020": 1,
+    "2020": 2,
     "2021": 4,
     "2022": 3,
-    "2023": 2,
+    "2023": 3,
     "2024": 3,
     "2025": 5,
-    "2026": 2
+    "2026": 6
   },
   "memberships": [
+    {
+      "cohort_year": 2020,
+      "collection_key": "lego-star-wars-holiday-special-2020",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\""
+      ],
+      "set": "disney-plus"
+    },
     {
       "cohort_year": 2020,
       "collection_key": "solar-opposites-01",
@@ -96,6 +105,17 @@
     {
       "cohort_year": 2023,
       "collection_key": "archer-1401",
+      "evidence": [
+        "branch:fx-distribution",
+        "distribution_tags intersects [\"fx\"]",
+        "branch:fx-production",
+        "production_tags intersects [\"fxp\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "archer-1408",
       "evidence": [
         "branch:fx-distribution",
         "distribution_tags intersects [\"fx\"]",
@@ -198,10 +218,53 @@
     },
     {
       "cohort_year": 2026,
+      "collection_key": "hoppers",
+      "evidence": [
+        "branch:pixar-production",
+        "production_tags contains \"pixar animation studios\""
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2026,
       "collection_key": "maul-shadow-lord-101",
       "evidence": [
         "branch:disney-distribution",
         "distribution_tags contains \"disney\""
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "star-wars-visions-the-ninth-jedi-01",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\"",
+        "branch:star-wars-lucasfilm-production",
+        "production_tags intersects [\"lucasfilm\"]",
+        "collection_key starts with \"star-wars-\"",
+        "branch:hulu-hub",
+        "distribution_tags intersects [\"hulu\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "toy-story-5",
+      "evidence": [
+        "branch:pixar-production",
+        "production_tags contains \"pixar animation studios\""
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "x-men-97-201",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\"",
+        "branch:marvel-production",
+        "production_tags intersects [\"marvel studios animation\"]"
       ],
       "set": "disney-plus"
     },
@@ -398,5 +461,5 @@
     "label": "Disney+",
     "predicate_summary": "reviewed Animation universe AND exact Disney+ direct or approved Disney/Pixar/Marvel/Star Wars/National Geographic/ESPN/Hulu/FX hub evidence"
   },
-  "total_memberships": 20
+  "total_memberships": 26
 }

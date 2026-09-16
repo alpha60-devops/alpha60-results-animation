@@ -13,15 +13,15 @@
   },
   {
     "cohort_year": "2018",
-    "downloaders_per_unique_btiha": "0.000000",
-    "earliest_sample_date": "",
-    "latest_sample_date": "",
-    "selected_media_objects": 0,
+    "downloaders_per_unique_btiha": "3717.266667",
+    "earliest_sample_date": "2018-04-03",
+    "latest_sample_date": "2018-04-12",
+    "selected_media_objects": 1,
     "set": "animation",
-    "summed_cumulative_unique_downloaders": 0,
-    "summed_cumulative_unique_uploaders": 0,
-    "summed_unique_btiha": 0,
-    "uploaders_per_unique_btiha": "0.000000"
+    "summed_cumulative_unique_downloaders": 111518,
+    "summed_cumulative_unique_uploaders": 60876,
+    "summed_unique_btiha": 30,
+    "uploaders_per_unique_btiha": "2029.200000"
   },
   {
     "cohort_year": "2019",
@@ -37,15 +37,15 @@
   },
   {
     "cohort_year": "2020",
-    "downloaders_per_unique_btiha": "44639.723135",
+    "downloaders_per_unique_btiha": "44550.661836",
     "earliest_sample_date": "2020-01-31",
     "latest_sample_date": "2021-10-19",
-    "selected_media_objects": 6,
+    "selected_media_objects": 7,
     "set": "animation",
-    "summed_cumulative_unique_downloaders": 35310021,
-    "summed_cumulative_unique_uploaders": 7128135,
-    "summed_unique_btiha": 791,
-    "uploaders_per_unique_btiha": "9011.548673"
+    "summed_cumulative_unique_downloaders": 36887948,
+    "summed_cumulative_unique_uploaders": 7347781,
+    "summed_unique_btiha": 828,
+    "uploaders_per_unique_btiha": "8874.131643"
   },
   {
     "cohort_year": "2021",
@@ -73,15 +73,15 @@
   },
   {
     "cohort_year": "2023",
-    "downloaders_per_unique_btiha": "57153.901527",
+    "downloaders_per_unique_btiha": "57635.357349",
     "earliest_sample_date": "2023-05-16",
-    "latest_sample_date": "2024-02-28",
-    "selected_media_objects": 6,
+    "latest_sample_date": "2024-03-06",
+    "selected_media_objects": 7,
     "set": "animation",
-    "summed_cumulative_unique_downloaders": 74871611,
-    "summed_cumulative_unique_uploaders": 15265046,
-    "summed_unique_btiha": 1310,
-    "uploaders_per_unique_btiha": "11652.706870"
+    "summed_cumulative_unique_downloaders": 79997876,
+    "summed_cumulative_unique_uploaders": 15569706,
+    "summed_unique_btiha": 1388,
+    "uploaders_per_unique_btiha": "11217.367435"
   },
   {
     "cohort_year": "2024",
@@ -97,38 +97,38 @@
   },
   {
     "cohort_year": "2025",
-    "downloaders_per_unique_btiha": "112094.239278",
+    "downloaders_per_unique_btiha": "112825.817489",
     "earliest_sample_date": "2025-01-28",
-    "latest_sample_date": "2026-05-27",
-    "selected_media_objects": 15,
+    "latest_sample_date": "2026-06-29",
+    "selected_media_objects": 17,
     "set": "animation",
-    "summed_cumulative_unique_downloaders": 478306119,
-    "summed_cumulative_unique_uploaders": 23301240,
-    "summed_unique_btiha": 4267,
-    "uploaders_per_unique_btiha": "5460.801500"
+    "summed_cumulative_unique_downloaders": 503203146,
+    "summed_cumulative_unique_uploaders": 25050392,
+    "summed_unique_btiha": 4460,
+    "uploaders_per_unique_btiha": "5616.679821"
   },
   {
     "cohort_year": "2026",
-    "downloaders_per_unique_btiha": "134907.978387",
+    "downloaders_per_unique_btiha": "84486.844025",
     "earliest_sample_date": "2026-01-29",
-    "latest_sample_date": "2026-09-07",
-    "selected_media_objects": 5,
+    "latest_sample_date": "2026-09-11",
+    "selected_media_objects": 20,
     "set": "animation",
-    "summed_cumulative_unique_downloaders": 162294298,
-    "summed_cumulative_unique_uploaders": 8169086,
-    "summed_unique_btiha": 1203,
-    "uploaders_per_unique_btiha": "6790.595179"
+    "summed_cumulative_unique_downloaders": 403002246,
+    "summed_cumulative_unique_uploaders": 23697618,
+    "summed_unique_btiha": 4770,
+    "uploaders_per_unique_btiha": "4968.054088"
   },
   {
     "cohort_year": "all",
-    "downloaders_per_unique_btiha": "90228.620351",
-    "earliest_sample_date": "2019-03-15",
-    "latest_sample_date": "2026-09-07",
-    "selected_media_objects": 66,
+    "downloaders_per_unique_btiha": "85753.700000",
+    "earliest_sample_date": "2018-04-03",
+    "latest_sample_date": "2026-09-11",
+    "selected_media_objects": 86,
     "set": "animation",
-    "summed_cumulative_unique_downloaders": 1259140397,
-    "summed_cumulative_unique_uploaders": 112028209,
-    "summed_unique_btiha": 13955,
-    "uploaders_per_unique_btiha": "8027.818631"
+    "summed_cumulative_unique_downloaders": 1531561082,
+    "summed_cumulative_unique_uploaders": 129891075,
+    "summed_unique_btiha": 17860,
+    "uploaders_per_unique_btiha": "7272.736562"
   }
 ]

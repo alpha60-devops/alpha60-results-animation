@@ -162,9 +162,30 @@
     "sample_year_start": 2026,
     "set": "amazon-prime-video",
     "source_repository": "alpha60-devops/alpha60-results-2026",
-    "source_revision": "4c46889187a46fcacd9a70ec6379ce66f3cdfa0e",
+    "source_revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
     "unique_btiha": 205,
     "uploaders_per_unique_btiha": "8314.419512",
     "weekly_source": "data/json/invincible-401-week.json"
+  },
+  {
+    "cohort_year": 2026,
+    "collection_key": "legend-of-vox-machina-410",
+    "collection_name": "The Legend of Vox Machina",
+    "cumulative_source": "data/json/legend-of-vox-machina-410-cumulative.json",
+    "cumulative_unique_downloaders": 11693927,
+    "cumulative_unique_uploaders": 264848,
+    "downloaders_per_unique_btiha": "47343.834008",
+    "membership_evidence": "branch:amazon-prime-video-direct; distribution_tags intersects [\"amazon prime video\"]",
+    "sample_end_date": "2026-09-09",
+    "sample_start_date": "2026-06-25",
+    "sample_weeks": 11,
+    "sample_year_end": 2026,
+    "sample_year_start": 2026,
+    "set": "amazon-prime-video",
+    "source_repository": "alpha60-devops/alpha60-results-2026",
+    "source_revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
+    "unique_btiha": 247,
+    "uploaders_per_unique_btiha": "1072.259109",
+    "weekly_source": "data/json/legend-of-vox-machina-410-week.json"
   }
 ]

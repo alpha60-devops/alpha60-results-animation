@@ -2708,7 +2708,7 @@
       "inventory_count": 71,
       "inventory_sha256": "c43ed8309af2cca46e57f4b873377efb087b3f6b62701bd220483b81f26e9ea9",
       "repository": "alpha60-devops/alpha60-results-2026",
-      "revision": "4c46889187a46fcacd9a70ec6379ce66f3cdfa0e"
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d"
     }
   ],
   "itu_source": {
@@ -2796,6 +2796,15 @@
       "set": "amazon-prime-video"
     },
     {
+      "cohort_year": 2026,
+      "collection_key": "legend-of-vox-machina-410",
+      "evidence": [
+        "branch:amazon-prime-video-direct",
+        "distribution_tags intersects [\"amazon prime video\"]"
+      ],
+      "set": "amazon-prime-video"
+    },
+    {
       "cohort_year": 2020,
       "collection_key": "altered-carbon-resleeved",
       "evidence": [
@@ -2807,6 +2816,15 @@
     {
       "cohort_year": 2020,
       "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "lego-star-wars-holiday-special-2020",
       "evidence": [
         "branch:film",
         "media_object.type equals \"film\""
@@ -2887,6 +2905,15 @@
     },
     {
       "cohort_year": 2025,
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2025,
       "collection_key": "moana-2",
       "evidence": [
         "branch:film",
@@ -2905,12 +2932,74 @@
     },
     {
       "cohort_year": 2026,
+      "collection_key": "all-you-need-is-kill",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "goat-2026",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "hoppers",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "legend-of-aang-the-last-airbender",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "super-mario-galaxy-movie",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "toy-story-5",
+      "evidence": [
+        "branch:film",
+        "media_object.type equals \"film\""
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2026,
       "collection_key": "zootopia-2",
       "evidence": [
         "branch:film",
         "media_object.type equals \"film\""
       ],
       "set": "animated-features"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "legend-of-galactic-heroes-die-neue-these",
+      "evidence": [
+        "owner-approved Animation addition: owner-approved-2026-09-15"
+      ],
+      "set": "animation"
     },
     {
       "cohort_year": 2019,
@@ -2965,6 +3054,14 @@
       "collection_key": "japan-sinks",
       "evidence": [
         "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "lego-star-wars-holiday-special-2020",
+      "evidence": [
+        "owner-approved Animation addition: owner-approved-2026-09-15"
       ],
       "set": "animation"
     },
@@ -3178,6 +3275,14 @@
     },
     {
       "cohort_year": 2023,
+      "collection_key": "archer-1408",
+      "evidence": [
+        "owner-approved Animation addition: owner-approved-2026-09-15"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2023,
       "collection_key": "blue-eye-samurai-01",
       "evidence": [
         "reviewed slice animation"
@@ -3298,6 +3403,14 @@
     },
     {
       "cohort_year": 2025,
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
+      "evidence": [
+        "owner-approved Animation addition: owner-approved-2026-09-15"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
       "collection_key": "eyes-of-wakanda-01",
       "evidence": [
         "reviewed slice animation"
@@ -3341,6 +3454,14 @@
       "collection_key": "lazarus-111",
       "evidence": [
         "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "long-story-short-01",
+      "evidence": [
+        "owner-approved Animation addition: owner-approved-2026-09-15"
       ],
       "set": "animation"
     },
@@ -3402,9 +3523,25 @@
     },
     {
       "cohort_year": 2026,
+      "collection_key": "all-you-need-is-kill",
+      "evidence": [
+        "owner-approved Animation addition: owner-approved-2026-09-15"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
       "collection_key": "beastars-03.2",
       "evidence": [
         "reviewed slice animation"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "dang-01",
+      "evidence": [
+        "owner-approved Animation addition: owner-approved-2026-09-15"
       ],
       "set": "animation"
     },
@@ -3418,9 +3555,57 @@
     },
     {
       "cohort_year": 2026,
+      "collection_key": "ghost-in-the-shell-2026-01",
+      "evidence": [
+        "owner-approved Animation addition: owner-approved-h08-2026-09-15"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "goat-2026",
+      "evidence": [
+        "owner-approved Animation addition: owner-approved-2026-09-15"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "hoppers",
+      "evidence": [
+        "owner-approved Animation addition: owner-approved-2026-09-15"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
       "collection_key": "invincible-401",
       "evidence": [
-        "owner-approved Animation addition 2026-09-14"
+        "owner-approved Animation addition: owner-approved-2026-09-14"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "legend-of-aang-the-last-airbender",
+      "evidence": [
+        "owner-approved Animation addition: owner-approved-h08-2026-09-15"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "legend-of-vox-machina-410",
+      "evidence": [
+        "owner-approved Animation addition: owner-approved-h08-2026-09-15"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "mating-season-01",
+      "evidence": [
+        "owner-approved Animation addition: owner-approved-2026-09-15"
       ],
       "set": "animation"
     },
@@ -3434,11 +3619,76 @@
     },
     {
       "cohort_year": 2026,
+      "collection_key": "president-curtis-01",
+      "evidence": [
+        "owner-approved Animation addition: owner-approved-h08-2026-09-15"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "rick-and-morty-901",
+      "evidence": [
+        "owner-approved Animation addition: owner-approved-h08-2026-09-15"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "star-wars-visions-the-ninth-jedi-01",
+      "evidence": [
+        "owner-approved Animation addition: owner-approved-h08-2026-09-15"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "stranger-things-tales-from-85-01",
+      "evidence": [
+        "owner-approved Animation addition: owner-approved-2026-09-15"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "super-mario-galaxy-movie",
+      "evidence": [
+        "owner-approved Animation addition: owner-approved-2026-09-15"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "toy-story-5",
+      "evidence": [
+        "owner-approved Animation addition: owner-approved-2026-09-15"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "x-men-97-201",
+      "evidence": [
+        "owner-approved Animation addition: owner-approved-h08-2026-09-15"
+      ],
+      "set": "animation"
+    },
+    {
+      "cohort_year": 2026,
       "collection_key": "zootopia-2",
       "evidence": [
         "reviewed slice animation"
       ],
       "set": "animation"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "lego-star-wars-holiday-special-2020",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\""
+      ],
+      "set": "disney-plus"
     },
     {
       "cohort_year": 2020,
@@ -3524,6 +3774,17 @@
     {
       "cohort_year": 2023,
       "collection_key": "archer-1401",
+      "evidence": [
+        "branch:fx-distribution",
+        "distribution_tags intersects [\"fx\"]",
+        "branch:fx-production",
+        "production_tags intersects [\"fxp\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "archer-1408",
       "evidence": [
         "branch:fx-distribution",
         "distribution_tags intersects [\"fx\"]",
@@ -3626,10 +3887,53 @@
     },
     {
       "cohort_year": 2026,
+      "collection_key": "hoppers",
+      "evidence": [
+        "branch:pixar-production",
+        "production_tags contains \"pixar animation studios\""
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2026,
       "collection_key": "maul-shadow-lord-101",
       "evidence": [
         "branch:disney-distribution",
         "distribution_tags contains \"disney\""
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "star-wars-visions-the-ninth-jedi-01",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\"",
+        "branch:star-wars-lucasfilm-production",
+        "production_tags intersects [\"lucasfilm\"]",
+        "collection_key starts with \"star-wars-\"",
+        "branch:hulu-hub",
+        "distribution_tags intersects [\"hulu\"]"
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "toy-story-5",
+      "evidence": [
+        "branch:pixar-production",
+        "production_tags contains \"pixar animation studios\""
+      ],
+      "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "x-men-97-201",
+      "evidence": [
+        "branch:disney-distribution",
+        "distribution_tags contains \"disney\"",
+        "branch:marvel-production",
+        "production_tags intersects [\"marvel studios animation\"]"
       ],
       "set": "disney-plus"
     },
@@ -3641,6 +3945,21 @@
         "production_tags intersects [\"walt disney animation studios\"]"
       ],
       "set": "disney-plus"
+    },
+    {
+      "cohort_year": 2018,
+      "collection_key": "legend-of-galactic-heroes-die-neue-these",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\"",
+        "branch:japan-origin-reviewed",
+        "collection_tags contains \"japan_origin\"",
+        "branch:owner-approved-legend-of-galactic-heroes",
+        "collection_key equals \"legend-of-galactic-heroes-die-neue-these\""
+      ],
+      "set": "japan-origin"
     },
     {
       "cohort_year": 2020,
@@ -3755,6 +4074,17 @@
     },
     {
       "cohort_year": 2025,
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2025,
       "collection_key": "lazarus-101",
       "evidence": [
         "branch:japanese-language",
@@ -3777,6 +4107,30 @@
       "evidence": [
         "branch:japanese-language",
         "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "all-you-need-is-kill",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "ghost-in-the-shell-2026-01",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\"",
+        "branch:japan-origin-reviewed",
+        "collection_tags contains \"japan_origin\""
       ],
       "set": "japan-origin"
     },
@@ -3908,6 +4262,15 @@
     },
     {
       "cohort_year": 2025,
+      "collection_key": "long-story-short-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2025,
       "collection_key": "love-death-robots-04",
       "evidence": [
         "branch:netflix-direct",
@@ -3917,7 +4280,34 @@
     },
     {
       "cohort_year": 2026,
+      "collection_key": "dang-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2026,
       "collection_key": "dinosaurs-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "mating-season-01",
+      "evidence": [
+        "branch:netflix-direct",
+        "distribution_tags intersects [\"netflix\"]"
+      ],
+      "set": "netflix"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "stranger-things-tales-from-85-01",
       "evidence": [
         "branch:netflix-direct",
         "distribution_tags intersects [\"netflix\"]"
@@ -4042,26 +4432,35 @@
         "release.genres contains \"Superhero\""
       ],
       "set": "superhero-animation"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "x-men-97-201",
+      "evidence": [
+        "branch:superhero-genre",
+        "release.genres contains \"Superhero\""
+      ],
+      "set": "superhero-animation"
     }
   ],
   "metadata_source": {
-    "animation_review_status": "published-predecessor-65-members-pending-h08",
+    "animation_review_status": "owner-reviewed-87-members-h08-complete",
     "animation_slice": "animation",
     "directory": "metadata",
-    "record_count": 680,
-    "record_digest": "479a9ceda90cef1afeef6bc69fde21f62a0da9bed8122217b24936b95ac5b461",
+    "record_count": 678,
+    "record_digest": "d161184fef2ff012757215b28fdf8f222299bd597fd231a54a41593416f8972d",
     "repository": "alpha60-devops/alpha60-swarm-metadata",
-    "revision": "bf6a662f03337eef48ebb15a874263fa00cdc6e1",
+    "revision": "09eab5dec98a230791a44333017907f0e0348ac9",
     "root": "../alpha60-swarm-metadata",
     "slice_config": "config/slices.json",
-    "slice_config_sha256": "0fc4ffbe5238b59e30422dedc60ed650c30732aaf5680f9eeb2a1d616a225231",
+    "slice_config_sha256": "8f1cc15d7c7b131afe1475d4e969d5937ce5fd8acba01db54b8a09376fef8c50",
     "validation_report": "reports/validation/v2.json"
   },
   "method_id": "mellon-6-animation",
-  "method_sha256": "bc77e0235f8d75bd2307d13568353027f250597654f277db0b0bce5c3e5b89c6",
+  "method_sha256": "59da1a18a1e0b27e75dc7f5e1ac5b5109f8d7784c2e7bd76dcd934db4fef52b4",
   "method_version": "1.0.0-draft",
   "publication_gates": {
-    "h08_animation_dispositions_complete": false,
+    "h08_animation_dispositions_complete": true,
     "itu_2026_policy_approved": false,
     "stable_pages_may_switch": false
   },
@@ -4072,6 +4471,19 @@
   "run_id": "2017-2026-itu-2025",
   "schema_version": "1.0.0",
   "selected_source_runs": [
+    {
+      "cohort_year": 2018,
+      "collection_key": "legend-of-galactic-heroes-die-neue-these",
+      "cumulative_path": "data/json/legend-of-galactic-heroes-die-neue-these-cumulative.json",
+      "cumulative_sha256": "73e8e593fb11c513cde4b7716e920a4c2349344d4b23be5f5d6e628a449babba",
+      "repository": "alpha60-devops/alpha60-results-2018",
+      "revision": "34ae9837133c26cccc702a20eaf4af1b5444221e",
+      "sample_duration": "2018-04-03-to-2018-04-12",
+      "sample_year_end": 2018,
+      "sample_year_start": 2018,
+      "weekly_path": "data/json/legend-of-galactic-heroes-die-neue-these-week.json",
+      "weekly_sha256": "739e2a6b8bd37545fbbf910aeb45a0e3d2aeb707b86f6561ecdcf502908ff650"
+    },
     {
       "cohort_year": 2019,
       "collection_key": "love-death-robots-01",
@@ -4162,6 +4574,19 @@
       "sample_year_start": 2020,
       "weekly_path": "data/json/japan-sinks-week.json",
       "weekly_sha256": "634d93ed3826bf7772779bf214537c424596f406d584b2dcd7541c39857eec83"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "lego-star-wars-holiday-special-2020",
+      "cumulative_path": "data/json/lego-star-wars-holiday-special-2020-cumulative.json",
+      "cumulative_sha256": "adc5592d24e264020ef9fa923cae7310aeca9d3daa66f98c8ab464d5b36f7857",
+      "repository": "alpha60-devops/alpha60-results-2020",
+      "revision": "cd7859dc590e6eda6c174a5fe2359ddf63b28cc6",
+      "sample_duration": "2020-11-17-to-2020-12-28",
+      "sample_year_end": 2020,
+      "sample_year_start": 2020,
+      "weekly_path": "data/json/lego-star-wars-holiday-special-2020-week.json",
+      "weekly_sha256": "883495dae577bc991430c8c1f8e8f1296b6bb2ccd3c023e36d02adb1774a2ffd"
     },
     {
       "cohort_year": 2020,
@@ -4503,6 +4928,19 @@
     },
     {
       "cohort_year": 2023,
+      "collection_key": "archer-1408",
+      "cumulative_path": "data/json/archer-1408-cumulative.json",
+      "cumulative_sha256": "9546e00a7f126821286551590aa72b50c489840d9a6fddbf6341d115edfe7b0f",
+      "repository": "alpha60-devops/alpha60-results-2023",
+      "revision": "14ef04ef54c4fbcf1b479a949c432c0d42fdf43a",
+      "sample_duration": "2023-10-13-to-2024-03-06",
+      "sample_year_end": 2024,
+      "sample_year_start": 2023,
+      "weekly_path": "data/json/archer-1408-week.json",
+      "weekly_sha256": "73e6f720521931c8e1baf7eec88304b90bf5e539f56f3446313c86536ce36256"
+    },
+    {
+      "cohort_year": 2023,
       "collection_key": "blue-eye-samurai-01",
       "cumulative_path": "data/json/blue-eye-samurai-01-cumulative.json",
       "cumulative_sha256": "ea4ce7516c320e94e3a486d19dd016948cb800d2922c98a7a8b570426e0cd6e2",
@@ -4698,6 +5136,19 @@
     },
     {
       "cohort_year": 2025,
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
+      "cumulative_path": "data/json/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-cumulative.json",
+      "cumulative_sha256": "304397f831b89d70f28fbd15c63fd7c68903ae0d30f6675b62940b2916e75f29",
+      "repository": "alpha60-devops/alpha60-results-2025",
+      "revision": "8931c562df38b3d177a085e033b529ecd9176683",
+      "sample_duration": "2025-12-30-to-2026-06-29",
+      "sample_year_end": 2026,
+      "sample_year_start": 2025,
+      "weekly_path": "data/json/demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-week.json",
+      "weekly_sha256": "528403c573a834e469edeefa5738b01031b0f4af0aabdb07491e9540c6f740ca"
+    },
+    {
+      "cohort_year": 2025,
       "collection_key": "eyes-of-wakanda-01",
       "cumulative_path": "data/json/eyes-of-wakanda-01-cumulative.json",
       "cumulative_sha256": "bf686b2e8bc617128592db7b7a2d7b3ce8f07a47abdc49f796080d838b18495e",
@@ -4773,6 +5224,19 @@
       "sample_year_start": 2025,
       "weekly_path": "data/json/lazarus-111-week.json",
       "weekly_sha256": "b57ad886f1b8802edeb84a175bcb3ef6ff09afb5c32342889962c73bef6d3973"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "long-story-short-01",
+      "cumulative_path": "data/json/long-story-short-01-cumulative.json",
+      "cumulative_sha256": "fae42553803cd50abb76b9497bf5af88e77f20ce105cb5e232a7f9768dfbe112",
+      "repository": "alpha60-devops/alpha60-results-2025",
+      "revision": "8931c562df38b3d177a085e033b529ecd9176683",
+      "sample_duration": "2025-08-22-to-2026-02-19",
+      "sample_year_end": 2026,
+      "sample_year_start": 2025,
+      "weekly_path": "data/json/long-story-short-01-week.json",
+      "weekly_sha256": "019d2eb3f3a121c543382093620174ed86c752eef1182efbbe52222fa4a8873b"
     },
     {
       "cohort_year": 2025,
@@ -4867,11 +5331,24 @@
     },
     {
       "cohort_year": 2026,
+      "collection_key": "all-you-need-is-kill",
+      "cumulative_path": "data/json/all-you-need-is-kill-cumulative.json",
+      "cumulative_sha256": "d79b7c4c5c81c59dae1fb0eaef45d232c0c0600cac0e2e05360b9f859c555984",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
+      "sample_duration": "2026-04-16-to-2026-08-31",
+      "sample_year_end": 2026,
+      "sample_year_start": 2026,
+      "weekly_path": "data/json/all-you-need-is-kill-week.json",
+      "weekly_sha256": "0fc565c06bba4abdddc931a70d3bfc612f22497092346d5ea5130b466800db03"
+    },
+    {
+      "cohort_year": 2026,
       "collection_key": "beastars-03.2",
       "cumulative_path": "data/json/beastars-03.2-cumulative.json",
       "cumulative_sha256": "7f014f8b7b45a8c91567f3d7beef547944841d05690ab571b9ea7a5f90298330",
       "repository": "alpha60-devops/alpha60-results-2026",
-      "revision": "4c46889187a46fcacd9a70ec6379ce66f3cdfa0e",
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
       "sample_duration": "2026-03-07-to-2026-06-19",
       "sample_year_end": 2026,
       "sample_year_start": 2026,
@@ -4880,11 +5357,24 @@
     },
     {
       "cohort_year": 2026,
+      "collection_key": "dang-01",
+      "cumulative_path": "data/json/dang-01-cumulative.json",
+      "cumulative_sha256": "1bd4e4a4ca5fa8c9d8f76bd0aa1b749903d099fd0959437220796c644cddfea5",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
+      "sample_duration": "2026-09-09-to-2026-09-11",
+      "sample_year_end": 2026,
+      "sample_year_start": 2026,
+      "weekly_path": "data/json/dang-01-week.json",
+      "weekly_sha256": "2302a4b32da2711b7d35a445fbde63cc5aadd82e45ae85e20c4cf9484760eeed"
+    },
+    {
+      "cohort_year": 2026,
       "collection_key": "dinosaurs-01",
       "cumulative_path": "data/json/dinosaurs-01-cumulative.json",
       "cumulative_sha256": "f5fa9d4ce376acd17023cd885b6e333fcf0c82919ca6f22735fe487a90024d97",
       "repository": "alpha60-devops/alpha60-results-2026",
-      "revision": "4c46889187a46fcacd9a70ec6379ce66f3cdfa0e",
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
       "sample_duration": "2026-03-06-to-2026-06-25",
       "sample_year_end": 2026,
       "sample_year_start": 2026,
@@ -4893,11 +5383,50 @@
     },
     {
       "cohort_year": 2026,
+      "collection_key": "ghost-in-the-shell-2026-01",
+      "cumulative_path": "data/json/ghost-in-the-shell-2026-01-cumulative.json",
+      "cumulative_sha256": "30f9cca9f0e30d01291aa22082304cf71dec1dd837c9cb00ef933970b8dcf981",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
+      "sample_duration": "2026-07-15-to-2026-09-08",
+      "sample_year_end": 2026,
+      "sample_year_start": 2026,
+      "weekly_path": "data/json/ghost-in-the-shell-2026-01-week.json",
+      "weekly_sha256": "10c87fa1edb74ba006aa86f59503d83665c7a3380ad49742ed7d1224a189d78d"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "goat-2026",
+      "cumulative_path": "data/json/goat-2026-cumulative.json",
+      "cumulative_sha256": "6a22a7c44a7aac0cd7808dabd76b3e3a285bc080aa05160cb34d930bbec7f3dc",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
+      "sample_duration": "2026-03-26-to-2026-07-08",
+      "sample_year_end": 2026,
+      "sample_year_start": 2026,
+      "weekly_path": "data/json/goat-2026-week.json",
+      "weekly_sha256": "c4a5c2c5da78cdb7ca2519796d8ca5e7b39fefc5df6e16ede11d928106aa482f"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "hoppers",
+      "cumulative_path": "data/json/hoppers-cumulative.json",
+      "cumulative_sha256": "9ca9687f78df966df11b4ae610e17ba68e8f693b70145ade2a255134393797b4",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
+      "sample_duration": "2026-03-26-to-2026-09-10",
+      "sample_year_end": 2026,
+      "sample_year_start": 2026,
+      "weekly_path": "data/json/hoppers-week.json",
+      "weekly_sha256": "b082bb2457f34e91d86b57b1f0a9556ae7affadcb740aa26e3038ede220e9edd"
+    },
+    {
+      "cohort_year": 2026,
       "collection_key": "invincible-401",
       "cumulative_path": "data/json/invincible-401-cumulative.json",
       "cumulative_sha256": "888bd08bd944494830e438bef2e65160964171ad6b0086cf16aa70e6cc5d25c8",
       "repository": "alpha60-devops/alpha60-results-2026",
-      "revision": "4c46889187a46fcacd9a70ec6379ce66f3cdfa0e",
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
       "sample_duration": "2026-03-18-to-2026-06-30",
       "sample_year_end": 2026,
       "sample_year_start": 2026,
@@ -4906,11 +5435,50 @@
     },
     {
       "cohort_year": 2026,
+      "collection_key": "legend-of-aang-the-last-airbender",
+      "cumulative_path": "data/json/legend-of-aang-the-last-airbender-cumulative.json",
+      "cumulative_sha256": "8efe74ecf9e3888d55c4593f0a214e340a37a3c6b1ca61c35b288931d348848a",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
+      "sample_duration": "2026-04-16-to-2026-04-18",
+      "sample_year_end": 2026,
+      "sample_year_start": 2026,
+      "weekly_path": "data/json/legend-of-aang-the-last-airbender-week.json",
+      "weekly_sha256": "a7013cdd25bc67018ecef37a1dc0557e87d2245214cdfe4b35112f286f723e9e"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "legend-of-vox-machina-410",
+      "cumulative_path": "data/json/legend-of-vox-machina-410-cumulative.json",
+      "cumulative_sha256": "0f7eb83b881d329b4cc08cbaf23297b0d202771dfef67d75c9b23707c76b8c99",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
+      "sample_duration": "2026-06-25-to-2026-09-09",
+      "sample_year_end": 2026,
+      "sample_year_start": 2026,
+      "weekly_path": "data/json/legend-of-vox-machina-410-week.json",
+      "weekly_sha256": "9b30f01f8593d74e6c07195a484007e25a7fa031791d8cf8a2d6f19e0b05e78c"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "mating-season-01",
+      "cumulative_path": "data/json/mating-season-01-cumulative.json",
+      "cumulative_sha256": "d78c823bb3918e519bbbb7f19de3f828002e15f10b1c456174bb0a1346d584b7",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
+      "sample_duration": "2026-05-23-to-2026-09-11",
+      "sample_year_end": 2026,
+      "sample_year_start": 2026,
+      "weekly_path": "data/json/mating-season-01-week.json",
+      "weekly_sha256": "2673852c99ec412b7b087e3e6f51714010e067f0d16262a3f3c70c154acf5ce8"
+    },
+    {
+      "cohort_year": 2026,
       "collection_key": "maul-shadow-lord-101",
       "cumulative_path": "data/json/maul-shadow-lord-101-cumulative.json",
       "cumulative_sha256": "5cac980efbdfeabb1e767a1addf4e77da94598237e3d0cd1b61b6e0e6b78fc6e",
       "repository": "alpha60-devops/alpha60-results-2026",
-      "revision": "4c46889187a46fcacd9a70ec6379ce66f3cdfa0e",
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
       "sample_duration": "2026-04-06-to-2026-09-07",
       "sample_year_end": 2026,
       "sample_year_start": 2026,
@@ -4919,11 +5487,102 @@
     },
     {
       "cohort_year": 2026,
+      "collection_key": "president-curtis-01",
+      "cumulative_path": "data/json/president-curtis-01-cumulative.json",
+      "cumulative_sha256": "ef32b6a98d3035d0e3e916f1268d67df9d98958308780bf00e0f951494b2193d",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
+      "sample_duration": "2026-07-28-to-2026-08-20",
+      "sample_year_end": 2026,
+      "sample_year_start": 2026,
+      "weekly_path": "data/json/president-curtis-01-week.json",
+      "weekly_sha256": "387d7eab2a5fdcff76636be1cf3fd8dfe9dc62fc8cd3829f2bc9c807a6543360"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "rick-and-morty-901",
+      "cumulative_path": "data/json/rick-and-morty-901-cumulative.json",
+      "cumulative_sha256": "6b3abedbf0964af197a2103b77446257ebb3ae44590aaf5281af0af25cbea30a",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
+      "sample_duration": "2026-05-25-to-2026-09-06",
+      "sample_year_end": 2026,
+      "sample_year_start": 2026,
+      "weekly_path": "data/json/rick-and-morty-901-week.json",
+      "weekly_sha256": "6e51eb886cd66209ed11dc10baee609c69cef4fbf94b374548247560886f5f21"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "star-wars-visions-the-ninth-jedi-01",
+      "cumulative_path": "data/json/star-wars-visions-the-ninth-jedi-01-cumulative.json",
+      "cumulative_sha256": "286c03bf31334f2e2c85cb063c24c70dff654a21b3c8d2781913b84ded16e707",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
+      "sample_duration": "2026-08-14-to-2026-08-30",
+      "sample_year_end": 2026,
+      "sample_year_start": 2026,
+      "weekly_path": "data/json/star-wars-visions-the-ninth-jedi-01-week.json",
+      "weekly_sha256": "50a81d1dd0fd86115698ee94b2e71a8f89704c775adb94d3adbeb52b15b4bd73"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "stranger-things-tales-from-85-01",
+      "cumulative_path": "data/json/stranger-things-tales-from-85-01-cumulative.json",
+      "cumulative_sha256": "493e89b8f06a35ae8b50be9ddc43e15a2a752b7a6453db9ca623918fed4f4fb8",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
+      "sample_duration": "2026-04-23-to-2026-08-26",
+      "sample_year_end": 2026,
+      "sample_year_start": 2026,
+      "weekly_path": "data/json/stranger-things-tales-from-85-01-week.json",
+      "weekly_sha256": "ce7afb9d1ba799eea88258a6e7d2f9e6bf142325ea7456067335fc955cfc2624"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "super-mario-galaxy-movie",
+      "cumulative_path": "data/json/super-mario-galaxy-movie-cumulative.json",
+      "cumulative_sha256": "c13ad96a704a024c888cd6f16ba9933d9ffc844a5d7e218269aaf9103ad39221",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
+      "sample_duration": "2026-05-06-to-2026-09-08",
+      "sample_year_end": 2026,
+      "sample_year_start": 2026,
+      "weekly_path": "data/json/super-mario-galaxy-movie-week.json",
+      "weekly_sha256": "191ecba287c02446a7c8361847dd31f3880d0f36e919a030d62c6b886f3d929e"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "toy-story-5",
+      "cumulative_path": "data/json/toy-story-5-cumulative.json",
+      "cumulative_sha256": "4d4b9a97637cd236946fbf14a423e4c789dff18756e07573b004de91313a88e3",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
+      "sample_duration": "2026-08-19-to-2026-09-08",
+      "sample_year_end": 2026,
+      "sample_year_start": 2026,
+      "weekly_path": "data/json/toy-story-5-week.json",
+      "weekly_sha256": "45e8507588cb6e3a9064d42331142ba9f1747d51c2b390a8a52144d1a619b986"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "x-men-97-201",
+      "cumulative_path": "data/json/x-men-97-201-cumulative.json",
+      "cumulative_sha256": "9d194a476ca2a43cd1f4ad1cf884c00f01557142fba1f047ac02e23221e00391",
+      "repository": "alpha60-devops/alpha60-results-2026",
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
+      "sample_duration": "2026-07-02-to-2026-09-09",
+      "sample_year_end": 2026,
+      "sample_year_start": 2026,
+      "weekly_path": "data/json/x-men-97-201-week.json",
+      "weekly_sha256": "5f278111eec7f033d42d07d8886778e1eff1a8a25ee6384949c907f2dda882aa"
+    },
+    {
+      "cohort_year": 2026,
       "collection_key": "zootopia-2",
       "cumulative_path": "data/json/zootopia-2-cumulative.json",
       "cumulative_sha256": "f36b88fc4f36c4fd6479a2b4343ac7df59ddf08026df5e3eb03328d462067228",
       "repository": "alpha60-devops/alpha60-results-2026",
-      "revision": "4c46889187a46fcacd9a70ec6379ce66f3cdfa0e",
+      "revision": "5fcf46d0d700896f995942f8df6ec0838b2ca51d",
       "sample_duration": "2026-01-29-to-2026-07-29",
       "sample_year_end": 2026,
       "sample_year_start": 2026,
@@ -4936,52 +5595,52 @@
       "branch_counts": {},
       "cohort_counts": {
         "2017": 0,
-        "2018": 0,
+        "2018": 1,
         "2019": 3,
-        "2020": 6,
+        "2020": 7,
         "2021": 15,
         "2022": 8,
-        "2023": 6,
+        "2023": 7,
         "2024": 8,
-        "2025": 15,
-        "2026": 5
+        "2025": 17,
+        "2026": 20
       },
       "id": "animation",
-      "total_memberships": 66,
-      "unique_media_objects": 66,
-      "weekly_points": 1142
+      "total_memberships": 86,
+      "unique_media_objects": 86,
+      "weekly_points": 1391
     },
     {
       "branch_counts": {
-        "disney-distribution": 8,
+        "disney-distribution": 11,
         "disney-production": 3,
-        "fx-distribution": 3,
-        "fx-production": 3,
-        "hulu-hub": 3,
-        "marvel-production": 6,
-        "pixar-production": 2,
-        "star-wars-lucasfilm-production": 2
+        "fx-distribution": 4,
+        "fx-production": 4,
+        "hulu-hub": 4,
+        "marvel-production": 7,
+        "pixar-production": 4,
+        "star-wars-lucasfilm-production": 3
       },
       "cohort_counts": {
         "2017": 0,
         "2018": 0,
         "2019": 0,
-        "2020": 1,
+        "2020": 2,
         "2021": 4,
         "2022": 3,
-        "2023": 2,
+        "2023": 3,
         "2024": 3,
         "2025": 5,
-        "2026": 2
+        "2026": 6
       },
       "id": "disney-plus",
-      "total_memberships": 20,
-      "unique_media_objects": 20,
-      "weekly_points": 409
+      "total_memberships": 26,
+      "unique_media_objects": 26,
+      "weekly_points": 477
     },
     {
       "branch_counts": {
-        "netflix-direct": 16
+        "netflix-direct": 20
       },
       "cohort_counts": {
         "2017": 0,
@@ -4992,17 +5651,17 @@
         "2022": 0,
         "2023": 1,
         "2024": 3,
-        "2025": 1,
-        "2026": 1
+        "2025": 2,
+        "2026": 4
       },
       "id": "netflix",
-      "total_memberships": 16,
-      "unique_media_objects": 16,
-      "weekly_points": 215
+      "total_memberships": 20,
+      "unique_media_objects": 20,
+      "weekly_points": 276
     },
     {
       "branch_counts": {
-        "amazon-prime-video-direct": 8
+        "amazon-prime-video-direct": 9
       },
       "cohort_counts": {
         "2017": 0,
@@ -5014,12 +5673,12 @@
         "2023": 1,
         "2024": 0,
         "2025": 1,
-        "2026": 1
+        "2026": 2
       },
       "id": "amazon-prime-video",
-      "total_memberships": 8,
-      "unique_media_objects": 8,
-      "weekly_points": 95
+      "total_memberships": 9,
+      "unique_media_objects": 9,
+      "weekly_points": 106
     },
     {
       "branch_counts": {},
@@ -5042,29 +5701,29 @@
     },
     {
       "branch_counts": {
-        "film": 13
+        "film": 21
       },
       "cohort_counts": {
         "2017": 0,
         "2018": 0,
         "2019": 0,
-        "2020": 2,
+        "2020": 3,
         "2021": 2,
         "2022": 1,
         "2023": 2,
         "2024": 3,
-        "2025": 2,
-        "2026": 1
+        "2025": 3,
+        "2026": 7
       },
       "id": "animated-features",
-      "total_memberships": 13,
-      "unique_media_objects": 13,
-      "weekly_points": 301
+      "total_memberships": 21,
+      "unique_media_objects": 21,
+      "weekly_points": 415
     },
     {
       "branch_counts": {
         "spider-man-reviewed-slice": 2,
-        "superhero-genre": 12
+        "superhero-genre": 13
       },
       "cohort_counts": {
         "2017": 0,
@@ -5076,36 +5735,37 @@
         "2023": 2,
         "2024": 2,
         "2025": 3,
-        "2026": 1
+        "2026": 2
       },
       "id": "superhero-animation",
-      "total_memberships": 13,
-      "unique_media_objects": 13,
-      "weekly_points": 212
+      "total_memberships": 14,
+      "unique_media_objects": 14,
+      "weekly_points": 222
     },
     {
       "branch_counts": {
-        "japan-country": 6,
-        "japan-origin-reviewed": 5,
-        "japanese-language": 9
+        "japan-country": 10,
+        "japan-origin-reviewed": 7,
+        "japanese-language": 13,
+        "owner-approved-legend-of-galactic-heroes": 1
       },
       "cohort_counts": {
         "2017": 0,
-        "2018": 0,
+        "2018": 1,
         "2019": 0,
         "2020": 3,
         "2021": 6,
         "2022": 0,
         "2023": 0,
         "2024": 1,
-        "2025": 4,
-        "2026": 0
+        "2025": 5,
+        "2026": 2
       },
       "id": "japan-origin",
-      "total_memberships": 14,
-      "unique_media_objects": 14,
-      "weekly_points": 267
+      "total_memberships": 18,
+      "unique_media_objects": 18,
+      "weekly_points": 323
     }
   ],
-  "status": "draft-pending-h08-and-2026-itu-review"
+  "status": "draft-pending-2026-itu-review"
 }
