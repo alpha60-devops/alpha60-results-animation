@@ -62,7 +62,7 @@ description: "2017–2026 Animated features peer-swarm analysis"
 
 ## Set definition
 
-reviewed Animation universe AND media_object.type equals film.
+reviewed Animation universe AND media_object.type equals film AND documented theatrical release in any territory by 2026-09-15 (including limited and later theatrical releases).
 
 This set uses the frozen 65-member Animation predecessor slice plus 21 owner-approved additions: `invincible-401`, `demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle`, `toy-story-5`, `all-you-need-is-kill`, `goat-2026`, `hoppers`, `super-mario-galaxy-movie`, `long-story-short-01`, `mating-season-01`, `stranger-things-tales-from-85-01`, `legend-of-galactic-heroes-die-neue-these`, `lego-star-wars-holiday-special-2020`, `archer-1408`, `dang-01`, `ghost-in-the-shell-2026-01`, `legend-of-aang-the-last-airbender`, `legend-of-vox-machina-410`, `president-curtis-01`, `rick-and-morty-901`, `star-wars-visions-the-ninth-jedi-01`, and `x-men-97-201`.
 
@@ -78,14 +78,14 @@ current availability, exclusivity, territory, or availability window.
 | 2017 | 0 |
 | 2018 | 0 |
 | 2019 | 0 |
-| 2020 | 3 |
+| 2020 | 1 |
 | 2021 | 2 |
 | 2022 | 1 |
 | 2023 | 2 |
 | 2024 | 3 |
-| 2025 | 3 |
-| 2026 | 7 |
-| **Total** | **21** |
+| 2025 | 2 |
+| 2026 | 4 |
+| **Total** | **15** |
 
 <div style="height: 50px;"></div>
 
@@ -95,7 +95,7 @@ Each line is one selected media object. Weekly unique downloader counts are
 shown on the 2025 ITU Internet-user scale; 2026 is provisional as noted above.
 
 {::nomarkdown}
-{% include mellon-7/runs/2017-2026-itu-2025/animated-features-downloads-by-week.svg %}
+{% include mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/animated-features-downloads-by-week.svg %}
 {:/}
 
 
@@ -103,38 +103,38 @@ shown on the 2025 ITU Internet-user scale; 2026 is provisional as noted above.
 
 ## Tables
 
-{% include mellon-7/runs/2017-2026-itu-2025/animated-features-aggregate-table.html %}
+{% include mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/animated-features-aggregate-table.html %}
 <div style="height: 50px;"></div>
 
-{% include mellon-7/runs/2017-2026-itu-2025/animated-features-media-objects-table.html %}
+{% include mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/animated-features-media-objects-table.html %}
 <div style="height: 50px;"></div>
 
-{% include mellon-7/runs/2017-2026-itu-2025/animated-features-geo-slices-usa-weeks-1-5-15.html %}
+{% include mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/animated-features-geo-slices-usa-weeks-1-5-15.html %}
 <div style="height: 50px;"></div>
 
-{% include mellon-7/runs/2017-2026-itu-2025/animated-features-geo-slices-africa.html %}
+{% include mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/animated-features-geo-slices-africa.html %}
 <div style="height: 50px;"></div>
 
-{% include mellon-7/runs/2017-2026-itu-2025/animated-features-geo-slices-asia.html %}
+{% include mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/animated-features-geo-slices-asia.html %}
 
 <div style="height: 50px;"></div>
 
 
 ## Data and method
 
-- [Cohorts JSON](../data/mellon-7/runs/2017-2026-itu-2025/animated-features-cohorts.json)
-- [Weekly CSV](../data/mellon-7/runs/2017-2026-itu-2025/animated-features-weekly.csv)
-- [Weekly JSON](../data/mellon-7/runs/2017-2026-itu-2025/animated-features-weekly.json)
-- [Itemized CSV](../data/mellon-7/runs/2017-2026-itu-2025/animated-features-itemized.csv)
-- [Itemized JSON](../data/mellon-7/runs/2017-2026-itu-2025/animated-features-itemized.json)
-- [Exclusions CSV](../data/mellon-7/runs/2017-2026-itu-2025/animated-features-exclusions.csv)
-- [Exclusions JSON](../data/mellon-7/runs/2017-2026-itu-2025/animated-features-exclusions.json)
-- [Geographic slices CSV](../data/mellon-7/runs/2017-2026-itu-2025/animated-features-geo-slices.csv)
-- [Geographic slices JSON](../data/mellon-7/runs/2017-2026-itu-2025/animated-features-geo-slices.json)
-- [Table manifest](../data/mellon-7/runs/2017-2026-itu-2025/animated-features-table-manifest.json)
-- [Selection manifest](../data/mellon-7/runs/2017-2026-itu-2025/selection-manifest.json)
-- [Build receipt](../data/mellon-7/runs/2017-2026-itu-2025/build-receipt.json)
-- [Independent validation](../data/mellon-7/runs/2017-2026-itu-2025/independent-validation-receipt.json)
+- [Cohorts JSON](../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/animated-features-cohorts.json)
+- [Weekly CSV](../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/animated-features-weekly.csv)
+- [Weekly JSON](../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/animated-features-weekly.json)
+- [Itemized CSV](../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/animated-features-itemized.csv)
+- [Itemized JSON](../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/animated-features-itemized.json)
+- [Exclusions CSV](../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/animated-features-exclusions.csv)
+- [Exclusions JSON](../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/animated-features-exclusions.json)
+- [Geographic slices CSV](../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/animated-features-geo-slices.csv)
+- [Geographic slices JSON](../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/animated-features-geo-slices.json)
+- [Table manifest](../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/animated-features-table-manifest.json)
+- [Selection manifest](../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/selection-manifest.json)
+- [Build receipt](../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/build-receipt.json)
+- [Independent validation](../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/independent-validation-receipt.json)
 
-Method `mellon-7-animation 1.0.0`; run `2017-2026-itu-2025`;
+Method `mellon-7-animation 1.1.0`; run `2017-2026-itu-2025-theatrical-20260915`;
 canonical metadata `09eab5dec98a230791a44333017907f0e0348ac9`; ITU reference year 2025.

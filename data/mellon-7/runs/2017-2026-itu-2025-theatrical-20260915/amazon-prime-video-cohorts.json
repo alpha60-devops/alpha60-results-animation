@@ -1,0 +1,122 @@
+{
+  "cohort_counts": {
+    "2017": 0,
+    "2018": 0,
+    "2019": 1,
+    "2020": 1,
+    "2021": 1,
+    "2022": 2,
+    "2023": 1,
+    "2024": 0,
+    "2025": 1,
+    "2026": 2
+  },
+  "memberships": [
+    {
+      "cohort_year": 2019,
+      "collection_key": "undone-01",
+      "evidence": [
+        "branch:amazon-prime-video-direct",
+        "distribution_tags intersects [\"amazon prime video\"]"
+      ],
+      "set": "amazon-prime-video"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "star-trek-lower-decks-101",
+      "evidence": [
+        "branch:amazon-prime-video-direct",
+        "distribution_tags intersects [\"amazon prime video\"]"
+      ],
+      "set": "amazon-prime-video"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "invincible-101",
+      "evidence": [
+        "branch:amazon-prime-video-direct",
+        "distribution_tags intersects [\"amazon prime\", \"amazon prime video\"]"
+      ],
+      "set": "amazon-prime-video"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "boys-presents-diabolical-01",
+      "evidence": [
+        "branch:amazon-prime-video-direct",
+        "distribution_tags intersects [\"amazon prime video\"]"
+      ],
+      "set": "amazon-prime-video"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "undone-02",
+      "evidence": [
+        "branch:amazon-prime-video-direct",
+        "distribution_tags intersects [\"amazon prime video\"]"
+      ],
+      "set": "amazon-prime-video"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "invincible-201",
+      "evidence": [
+        "branch:amazon-prime-video-direct",
+        "distribution_tags intersects [\"amazon prime video\"]"
+      ],
+      "set": "amazon-prime-video"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "invincible-301",
+      "evidence": [
+        "branch:amazon-prime-video-direct",
+        "distribution_tags intersects [\"amazon prime video\"]"
+      ],
+      "set": "amazon-prime-video"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "invincible-401",
+      "evidence": [
+        "branch:amazon-prime-video-direct",
+        "distribution_tags intersects [\"amazon prime video\"]"
+      ],
+      "set": "amazon-prime-video"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "legend-of-vox-machina-410",
+      "evidence": [
+        "branch:amazon-prime-video-direct",
+        "distribution_tags intersects [\"amazon prime video\"]"
+      ],
+      "set": "amazon-prime-video"
+    }
+  ],
+  "method_id": "mellon-7-animation",
+  "method_version": "1.1.0",
+  "run_id": "2017-2026-itu-2025-theatrical-20260915",
+  "set": {
+    "branches": [
+      {
+        "id": "amazon-prime-video-direct",
+        "predicate": {
+          "intersects": {
+            "field": "distribution_tags",
+            "values": [
+              "amazon mgm studios via prime video worldwide",
+              "amazon prime",
+              "amazon prime video",
+              "prime video"
+            ]
+          }
+        }
+      }
+    ],
+    "id": "amazon-prime-video",
+    "label": "Amazon Prime Video",
+    "predicate_summary": "reviewed Animation universe AND exact Amazon Prime Video distribution evidence"
+  },
+  "total_memberships": 9
+}

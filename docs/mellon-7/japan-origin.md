@@ -96,7 +96,7 @@ Each line is one selected media object. Weekly unique downloader counts are
 shown on the 2025 ITU Internet-user scale; 2026 is provisional as noted above.
 
 {::nomarkdown}
-{% include mellon-7/runs/2017-2026-itu-2025/japan-origin-downloads-by-week.svg %}
+{% include mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/japan-origin-downloads-by-week.svg %}
 {:/}
 
 
@@ -104,38 +104,38 @@ shown on the 2025 ITU Internet-user scale; 2026 is provisional as noted above.
 
 ## Tables
 
-{% include mellon-7/runs/2017-2026-itu-2025/japan-origin-aggregate-table.html %}
+{% include mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/japan-origin-aggregate-table.html %}
 <div style="height: 50px;"></div>
 
-{% include mellon-7/runs/2017-2026-itu-2025/japan-origin-media-objects-table.html %}
+{% include mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/japan-origin-media-objects-table.html %}
 <div style="height: 50px;"></div>
 
-{% include mellon-7/runs/2017-2026-itu-2025/japan-origin-geo-slices-usa-weeks-1-5-15.html %}
+{% include mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/japan-origin-geo-slices-usa-weeks-1-5-15.html %}
 <div style="height: 50px;"></div>
 
-{% include mellon-7/runs/2017-2026-itu-2025/japan-origin-geo-slices-africa.html %}
+{% include mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/japan-origin-geo-slices-africa.html %}
 <div style="height: 50px;"></div>
 
-{% include mellon-7/runs/2017-2026-itu-2025/japan-origin-geo-slices-asia.html %}
+{% include mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/japan-origin-geo-slices-asia.html %}
 
 <div style="height: 50px;"></div>
 
 
 ## Data and method
 
-- [Cohorts JSON](../../data/mellon-7/runs/2017-2026-itu-2025/japan-origin-cohorts.json)
-- [Weekly CSV](../../data/mellon-7/runs/2017-2026-itu-2025/japan-origin-weekly.csv)
-- [Weekly JSON](../../data/mellon-7/runs/2017-2026-itu-2025/japan-origin-weekly.json)
-- [Itemized CSV](../../data/mellon-7/runs/2017-2026-itu-2025/japan-origin-itemized.csv)
-- [Itemized JSON](../../data/mellon-7/runs/2017-2026-itu-2025/japan-origin-itemized.json)
-- [Exclusions CSV](../../data/mellon-7/runs/2017-2026-itu-2025/japan-origin-exclusions.csv)
-- [Exclusions JSON](../../data/mellon-7/runs/2017-2026-itu-2025/japan-origin-exclusions.json)
-- [Geographic slices CSV](../../data/mellon-7/runs/2017-2026-itu-2025/japan-origin-geo-slices.csv)
-- [Geographic slices JSON](../../data/mellon-7/runs/2017-2026-itu-2025/japan-origin-geo-slices.json)
-- [Table manifest](../../data/mellon-7/runs/2017-2026-itu-2025/japan-origin-table-manifest.json)
-- [Selection manifest](../../data/mellon-7/runs/2017-2026-itu-2025/selection-manifest.json)
-- [Build receipt](../../data/mellon-7/runs/2017-2026-itu-2025/build-receipt.json)
-- [Independent validation](../../data/mellon-7/runs/2017-2026-itu-2025/independent-validation-receipt.json)
+- [Cohorts JSON](../../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/japan-origin-cohorts.json)
+- [Weekly CSV](../../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/japan-origin-weekly.csv)
+- [Weekly JSON](../../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/japan-origin-weekly.json)
+- [Itemized CSV](../../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/japan-origin-itemized.csv)
+- [Itemized JSON](../../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/japan-origin-itemized.json)
+- [Exclusions CSV](../../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/japan-origin-exclusions.csv)
+- [Exclusions JSON](../../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/japan-origin-exclusions.json)
+- [Geographic slices CSV](../../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/japan-origin-geo-slices.csv)
+- [Geographic slices JSON](../../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/japan-origin-geo-slices.json)
+- [Table manifest](../../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/japan-origin-table-manifest.json)
+- [Selection manifest](../../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/selection-manifest.json)
+- [Build receipt](../../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/build-receipt.json)
+- [Independent validation](../../data/mellon-7/runs/2017-2026-itu-2025-theatrical-20260915/independent-validation-receipt.json)
 
-Method `mellon-7-animation 1.0.0`; run `2017-2026-itu-2025`;
+Method `mellon-7-animation 1.1.0`; run `2017-2026-itu-2025-theatrical-20260915`;
 canonical metadata `09eab5dec98a230791a44333017907f0e0348ac9`; ITU reference year 2025.

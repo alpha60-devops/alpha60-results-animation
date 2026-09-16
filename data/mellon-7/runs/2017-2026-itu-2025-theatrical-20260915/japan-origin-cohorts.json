@@ -1,0 +1,251 @@
+{
+  "cohort_counts": {
+    "2017": 0,
+    "2018": 1,
+    "2019": 0,
+    "2020": 3,
+    "2021": 6,
+    "2022": 0,
+    "2023": 0,
+    "2024": 1,
+    "2025": 5,
+    "2026": 2
+  },
+  "memberships": [
+    {
+      "cohort_year": 2018,
+      "collection_key": "legend-of-galactic-heroes-die-neue-these",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\"",
+        "branch:japan-origin-reviewed",
+        "collection_tags contains \"japan_origin\"",
+        "branch:owner-approved-legend-of-galactic-heroes",
+        "collection_key equals \"legend-of-galactic-heroes-die-neue-these\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "altered-carbon-resleeved",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2020,
+      "collection_key": "japan-sinks",
+      "evidence": [
+        "branch:japan-origin-reviewed",
+        "collection_tags contains \"japan_origin\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "blade-runner-black-lotus-101",
+      "evidence": [
+        "branch:japan-origin-reviewed",
+        "collection_tags contains \"japan_origin\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "one-piece-95x",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "one-piece-98x",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "pacific-rim-the-black",
+      "evidence": [
+        "branch:japan-origin-reviewed",
+        "collection_tags contains \"japan_origin\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "star-wars-visions-01",
+      "evidence": [
+        "branch:japan-origin-reviewed",
+        "collection_tags contains \"japan_origin\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "yasuke-01",
+      "evidence": [
+        "branch:japan-origin-reviewed",
+        "collection_tags contains \"japan_origin\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "boy-and-the-heron",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "dan-da-dan-210",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-101",
+      "evidence": [
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-108",
+      "evidence": [
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "lazarus-111",
+      "evidence": [
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "all-you-need-is-kill",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\""
+      ],
+      "set": "japan-origin"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "ghost-in-the-shell-2026-01",
+      "evidence": [
+        "branch:japan-country",
+        "release.countries_of_origin contains \"Japan\"",
+        "branch:japanese-language",
+        "release.original_languages contains \"Japanese\"",
+        "branch:japan-origin-reviewed",
+        "collection_tags contains \"japan_origin\""
+      ],
+      "set": "japan-origin"
+    }
+  ],
+  "method_id": "mellon-7-animation",
+  "method_version": "1.1.0",
+  "run_id": "2017-2026-itu-2025-theatrical-20260915",
+  "set": {
+    "branches": [
+      {
+        "id": "japan-country",
+        "predicate": {
+          "contains": {
+            "field": "release.countries_of_origin",
+            "value": "Japan"
+          }
+        }
+      },
+      {
+        "id": "japanese-language",
+        "predicate": {
+          "contains": {
+            "field": "release.original_languages",
+            "value": "Japanese"
+          }
+        }
+      },
+      {
+        "id": "japan-origin-reviewed",
+        "predicate": {
+          "contains": {
+            "field": "collection_tags",
+            "value": "japan_origin"
+          }
+        }
+      },
+      {
+        "id": "owner-approved-legend-of-galactic-heroes",
+        "predicate": {
+          "equals": {
+            "field": "collection_key",
+            "value": "legend-of-galactic-heroes-die-neue-these"
+          }
+        }
+      }
+    ],
+    "id": "japan-origin",
+    "label": "Japan-origin animation",
+    "predicate_summary": "reviewed Animation universe AND Japan country, Japanese language, reviewed japan_origin qualification, or owner-approved Japan-origin disposition"
+  },
+  "total_memberships": 18
+}

@@ -1,0 +1,285 @@
+{
+  "cohort_counts": {
+    "2017": 0,
+    "2018": 0,
+    "2019": 0,
+    "2020": 1,
+    "2021": 2,
+    "2022": 1,
+    "2023": 2,
+    "2024": 3,
+    "2025": 2,
+    "2026": 4
+  },
+  "memberships": [
+    {
+      "cohort_year": 2020,
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+      "evidence": [
+        "branch:theatrical-film",
+        "media_object.type equals \"film\"",
+        "reviewed theatrical release 2021-04-23 (United States); source: https://demonslayer-anime.com/mugentrain/news/?id=56829; as of 2026-09-15"
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "mitchells-vs-the-machines",
+      "evidence": [
+        "branch:theatrical-film",
+        "media_object.type equals \"film\"",
+        "reviewed theatrical release 2021-04-23 (United States); source: https://www.moviejawn.com/home/2021/4/23/the-mitchells-vs-the-machines; as of 2026-09-15"
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2021,
+      "collection_key": "raya-and-the-last-dragon",
+      "evidence": [
+        "branch:theatrical-film",
+        "media_object.type equals \"film\"",
+        "reviewed theatrical release 2021-03-05 (United States); source: https://news.disney.com/raya-and-the-last-dragon-from-home; as of 2026-09-15"
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2022,
+      "collection_key": "turning-red",
+      "evidence": [
+        "branch:theatrical-film",
+        "media_object.type equals \"film\"",
+        "reviewed theatrical release 2024-02-09 (United States); source: https://lumiere-a.akamaihd.net/v1/documents/turning_red_project_profile_12_f9628279.pdf; as of 2026-09-15"
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "spider-man-across-the-spider-verse",
+      "evidence": [
+        "branch:theatrical-film",
+        "media_object.type equals \"film\"",
+        "reviewed theatrical release 2023-06-02 (United States); source: https://www.amctheatres.com/amc-scene/spider-verse-brings-the-feels; as of 2026-09-15"
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2023,
+      "collection_key": "super-mario-brothers-movie",
+      "evidence": [
+        "branch:theatrical-film",
+        "media_object.type equals \"film\"",
+        "reviewed theatrical release 2023-04-05 (United States); source: https://www.universalstudios.com/videos/TnGl01FkMMo; as of 2026-09-15"
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "boy-and-the-heron",
+      "evidence": [
+        "branch:theatrical-film",
+        "media_object.type equals \"film\"",
+        "reviewed theatrical release 2023-12-08 (United States); source: https://gkids.com/2023/11/13/tickets-on-sale-now-for-hayao-miyazakis-the-boy-and-the-heron/; as of 2026-09-15"
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "inside-out-2",
+      "evidence": [
+        "branch:theatrical-film",
+        "media_object.type equals \"film\"",
+        "reviewed theatrical release 2024-06-14 (United Kingdom); source: https://press.disney.co.uk/press-kit/inside-out-2; as of 2026-09-15"
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2024,
+      "collection_key": "wild-robot",
+      "evidence": [
+        "branch:theatrical-film",
+        "media_object.type equals \"film\"",
+        "reviewed theatrical release 2024-09-27 (United States); source: https://www.fandango.com/movie-news/the-wild-robot-opens-september-27-get-tickets-and-see-our-exclusive-poster-755180; as of 2026-09-15"
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
+      "evidence": [
+        "branch:theatrical-film",
+        "media_object.type equals \"film\"",
+        "reviewed theatrical release 2025-09-12 (United States); source: https://demonslayer-anime.com/news/?id=67298; as of 2026-09-15"
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2025,
+      "collection_key": "moana-2",
+      "evidence": [
+        "branch:theatrical-film",
+        "media_object.type equals \"film\"",
+        "reviewed theatrical release 2024-11-27 (United States); source: https://video.disney.com/watch/moana-2-first-look-announcement-610d300951055ebd6b4f2a72; as of 2026-09-15"
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "goat-2026",
+      "evidence": [
+        "branch:theatrical-film",
+        "media_object.type equals \"film\"",
+        "reviewed theatrical release 2026-02-13 (United States); source: https://stg.sonypicturesanimation.com/projects/films/goat; as of 2026-09-15"
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "hoppers",
+      "evidence": [
+        "branch:theatrical-film",
+        "media_object.type equals \"film\"",
+        "reviewed theatrical release 2026-03-06 (United States); source: https://movies.disney.com/hoppers; as of 2026-09-15"
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "toy-story-5",
+      "evidence": [
+        "branch:theatrical-film",
+        "media_object.type equals \"film\"",
+        "reviewed theatrical release 2026-06-19 (United States); source: https://movies.disney.com/toy-story-5; as of 2026-09-15"
+      ],
+      "set": "animated-features"
+    },
+    {
+      "cohort_year": 2026,
+      "collection_key": "zootopia-2",
+      "evidence": [
+        "branch:theatrical-film",
+        "media_object.type equals \"film\"",
+        "reviewed theatrical release 2025-11-26 (United States); source: https://movies.disney.com/zootopia-2; as of 2026-09-15"
+      ],
+      "set": "animated-features"
+    }
+  ],
+  "method_id": "mellon-7-animation",
+  "method_version": "1.1.0",
+  "run_id": "2017-2026-itu-2025-theatrical-20260915",
+  "set": {
+    "branches": [
+      {
+        "id": "theatrical-film",
+        "predicate": {
+          "all": [
+            {
+              "equals": {
+                "field": "media_object.type",
+                "value": "film"
+              }
+            },
+            {
+              "reviewed_theatrical_release": {
+                "as_of": "2026-09-15",
+                "releases": {
+                  "boy-and-the-heron": {
+                    "date": "2023-12-08",
+                    "source_url": "https://gkids.com/2023/11/13/tickets-on-sale-now-for-hayao-miyazakis-the-boy-and-the-heron/",
+                    "territory": "United States"
+                  },
+                  "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle": {
+                    "date": "2025-09-12",
+                    "source_url": "https://demonslayer-anime.com/news/?id=67298",
+                    "territory": "United States"
+                  },
+                  "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train": {
+                    "date": "2021-04-23",
+                    "source_url": "https://demonslayer-anime.com/mugentrain/news/?id=56829",
+                    "territory": "United States"
+                  },
+                  "goat-2026": {
+                    "date": "2026-02-13",
+                    "source_url": "https://stg.sonypicturesanimation.com/projects/films/goat",
+                    "territory": "United States"
+                  },
+                  "hoppers": {
+                    "date": "2026-03-06",
+                    "source_url": "https://movies.disney.com/hoppers",
+                    "territory": "United States"
+                  },
+                  "inside-out-2": {
+                    "date": "2024-06-14",
+                    "source_url": "https://press.disney.co.uk/press-kit/inside-out-2",
+                    "territory": "United Kingdom"
+                  },
+                  "mitchells-vs-the-machines": {
+                    "date": "2021-04-23",
+                    "source_url": "https://www.moviejawn.com/home/2021/4/23/the-mitchells-vs-the-machines",
+                    "territory": "United States"
+                  },
+                  "moana-2": {
+                    "date": "2024-11-27",
+                    "source_url": "https://video.disney.com/watch/moana-2-first-look-announcement-610d300951055ebd6b4f2a72",
+                    "territory": "United States"
+                  },
+                  "raya-and-the-last-dragon": {
+                    "date": "2021-03-05",
+                    "source_url": "https://news.disney.com/raya-and-the-last-dragon-from-home",
+                    "territory": "United States"
+                  },
+                  "spider-man-across-the-spider-verse": {
+                    "date": "2023-06-02",
+                    "source_url": "https://www.amctheatres.com/amc-scene/spider-verse-brings-the-feels",
+                    "territory": "United States"
+                  },
+                  "super-mario-brothers-movie": {
+                    "date": "2023-04-05",
+                    "source_url": "https://www.universalstudios.com/videos/TnGl01FkMMo",
+                    "territory": "United States"
+                  },
+                  "toy-story-5": {
+                    "date": "2026-06-19",
+                    "source_url": "https://movies.disney.com/toy-story-5",
+                    "territory": "United States"
+                  },
+                  "turning-red": {
+                    "date": "2024-02-09",
+                    "source_url": "https://lumiere-a.akamaihd.net/v1/documents/turning_red_project_profile_12_f9628279.pdf",
+                    "territory": "United States"
+                  },
+                  "wild-robot": {
+                    "date": "2024-09-27",
+                    "source_url": "https://www.fandango.com/movie-news/the-wild-robot-opens-september-27-get-tickets-and-see-our-exclusive-poster-755180",
+                    "territory": "United States"
+                  },
+                  "zootopia-2": {
+                    "date": "2025-11-26",
+                    "source_url": "https://movies.disney.com/zootopia-2",
+                    "territory": "United States"
+                  }
+                },
+                "scope": "Any territory; wide, limited, simultaneous streaming/theatrical, and later theatrical releases qualify. Dates document a qualifying release, not necessarily the first release. Cohort year remains the annual inventory year."
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "id": "animated-features",
+    "label": "Animated features",
+    "predicate_summary": "reviewed Animation universe AND media_object.type equals film AND documented theatrical release in any territory by 2026-09-15 (including limited and later theatrical releases)",
+    "reviewed_exclusions": [
+      {
+        "collection_key": "altered-carbon-resleeved",
+        "reason": "Netflix film; no documented theatrical release. Explicit owner exclusion from animated features.",
+        "source_url": "https://media.netflix.com/en/only-on-netflix/81001991"
+      },
+      {
+        "collection_key": "predator-killer-of-killers",
+        "reason": "Hulu release; no documented theatrical release.",
+        "source_url": "https://www.20thcenturystudios.com/movies/predator-killer-of-killers"
+      }
+    ]
+  },
+  "total_memberships": 15
+}
